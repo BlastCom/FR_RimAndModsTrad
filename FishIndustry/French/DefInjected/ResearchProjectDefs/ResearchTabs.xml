@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
+<LanguageData>
 
-	<ResearchTabDef>
-		<defName>FishIndustry</defName>
-		<label>Fish industry</label>
-	</ResearchTabDef>
+	<FishIndustry.label>Industrie poissonnière</FishIndustry.label>
 
-</Defs>
+</LanguageData>

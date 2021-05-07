@@ -1,140 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
+<LanguageData>
 
-  <BodyPartDef>
-    <defName>FishMouth</defName>
-    <label>mouth</label>
-    <hitPoints>20</hitPoints>
-    <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
-    <skinCovered>true</skinCovered>
-    <tags>
-      <li>EatingSource</li>
-      <li>TalkingSource</li>
-    </tags>
-  </BodyPartDef>
+    <FishMouth.label>bouche</FishMouth.label>
+    <LeftGill.label>branchie gauche</LeftGill.label>
+    <RightGill.label>branchie droite</RightGill.label>
+    <LeftFin.label>nageoire gauche</LeftFin.label>
+    <RightFin.label>nageoire droite</RightFin.label>
+    <DorsalFin.label>nageoire droite</DorsalFin.label>
+    <VentralFin.label>nageoire gauche</VentralFin.label>
+    <CaudalFin.label>nageoire droite</CaudalFin.label>
+    <SquidBody.label>corps</SquidBody.label>
+    <SquidHead.label>tête</SquidHead.label>
+    <SquidMouth.label>bouche</SquidMouth.label>
+    <Tentacle.label>nageoire droite</Tentacle.label>
 
-  <BodyPartDef>
-    <defName>LeftGill</defName>
-    <label>left gill</label>
-    <hitPoints>20</hitPoints>
-    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
-    <skinCovered>false</skinCovered>
-    <tags>
-      <li>BreathingSource</li>
-    </tags>
-    <spawnThingOnRemoved>Lung</spawnThingOnRemoved>
-  </BodyPartDef>
-
-  <BodyPartDef>
-    <defName>RightGill</defName>
-    <label>right gill</label>
-    <hitPoints>20</hitPoints>
-    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
-    <skinCovered>false</skinCovered>
-    <tags>
-      <li>BreathingSource</li>
-    </tags>
-    <spawnThingOnRemoved>Lung</spawnThingOnRemoved>
-  </BodyPartDef>
-
-  <BodyPartDef>
-    <defName>LeftFin</defName>
-    <label>left fin</label>
-    <hitPoints>20</hitPoints>
-    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
-    <skinCovered>true</skinCovered>
-    <tags>
-      <li>MovingLimbCore</li>
-    </tags>
-  </BodyPartDef>
-
-  <BodyPartDef>
-    <defName>RightFin</defName>
-    <label>right fin</label>
-    <hitPoints>20</hitPoints>
-    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
-    <skinCovered>true</skinCovered>
-    <tags>
-      <li>MovingLimbCore</li>
-    </tags>
-  </BodyPartDef>
-
-  <BodyPartDef>
-    <defName>DorsalFin</defName>
-    <label>right fin</label>
-    <hitPoints>20</hitPoints>
-    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
-    <skinCovered>true</skinCovered>
-    <tags>
-      <li>MovingLimbCore</li>
-    </tags>
-  </BodyPartDef>
-
-  <BodyPartDef>
-    <defName>VentralFin</defName>
-    <label>left fin</label>
-    <hitPoints>20</hitPoints>
-    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
-    <skinCovered>true</skinCovered>
-    <tags>
-      <li>MovingLimbCore</li>
-    </tags>
-  </BodyPartDef>
-
-  <BodyPartDef>
-    <defName>CaudalFin</defName>
-    <label>right fin</label>
-    <hitPoints>30</hitPoints>
-    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
-    <skinCovered>true</skinCovered>
-    <tags>
-      <li>MovingLimbCore</li>
-    </tags>
-  </BodyPartDef>
-
-  <BodyPartDef>
-    <defName>SquidBody</defName>
-    <label>body</label>
-    <hitPoints>40</hitPoints>
-    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
-    <skinCovered>true</skinCovered>
-    <tags>
-      <li>MovingLimbCore</li>
-    </tags>
-  </BodyPartDef>
-
-  <BodyPartDef>
-    <defName>SquidHead</defName>
-    <label>head</label>
-    <hitPoints>30</hitPoints>
-    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
-    <skinCovered>true</skinCovered>
-    <tags>
-      <li>HearingSource</li>
-    </tags>
-  </BodyPartDef>
-
-  <BodyPartDef>
-    <defName>SquidMouth</defName>
-    <label>mouth</label>
-    <hitPoints>20</hitPoints>
-    <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
-    <skinCovered>true</skinCovered>
-    <tags>
-      <li>EatingSource</li>
-      <li>TalkingSource</li>
-    </tags>
-  </BodyPartDef>
-
-  <BodyPartDef>
-    <defName>Tentacle</defName>
-    <label>right fin</label>
-    <hitPoints>20</hitPoints>
-    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
-    <skinCovered>true</skinCovered>
-    <tags>
-      <li>MovingLimbCore</li>
-    </tags>
-  </BodyPartDef>
-
-</Defs>
+<LanguageData>
