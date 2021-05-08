@@ -3,6 +3,6 @@
 
     <GrillFishCampfire.label>poisson grillé</GrillFishCampfire.label>
     <GrillFishCampfire.description>Grille un poisson pour qu'il puisse être mangé. Savoureux et croquant!</description>
-    <GrillFishCampfire.jobString>Fait grillé un poisson.</jobString>
+    <GrillFishCampfire.jobString>Fait griller un poisson.</jobString>
 
 </LanguageData>
