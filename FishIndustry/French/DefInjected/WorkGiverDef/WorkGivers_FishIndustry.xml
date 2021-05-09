@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <HunterHunt.label>chasse</HunterHunt.label>
+
+    <WorkGiver_UseAquacultureBasin.gerund>utilier</WorkGiver_UseAquacultureBasin.gerund>
+    <WorkGiver_UseAquacultureBasin.verb>utilise</WorkGiver_UseAquacultureBasin.verb>
+    <WorkGiver_FishAtFishingPier.gerund>pêcher</WorkGiver_FishAtFishingPier.gerund>
+    <WorkGiver_FishAtFishingPier.verb>pêche</WorkGiver_FishAtFishingPier.verb>
+    <WorkGiver_FishAtFishingZone.gerund>pêcher</WorkGiver_FishAtFishingZone.gerund>
+    <WorkGiver_FishAtFishingZone.verb>pêche</WorkGiver_FishAtFishingZone.verb>
+
+</LanguageData>

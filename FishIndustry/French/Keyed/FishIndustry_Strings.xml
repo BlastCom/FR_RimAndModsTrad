@@ -2,98 +2,98 @@
 <LanguageData>
 
   <!-- PlaceWorker -->
-  <FishIndustry.FishingPier_InvalidBiome>No fish lives in this biome.</FishIndustry.FishingPier_InvalidBiome>
-  <FishIndustry.TooCloseFishingPier>Too close from another fishing pier.</FishIndustry.TooCloseFishingPier>
-  <FishIndustry.TooCloseFishingZone>Too close from a fishing zone.</FishIndustry.TooCloseFishingZone>
-  <FishIndustry.FishingPier_PierMustBeOnWater>Fishing pier must be placed on water.</FishIndustry.FishingPier_PierMustBeOnWater>
-  <FishIndustry.FishingPier_TooFewWater>Too few water</FishIndustry.FishingPier_TooFewWater>
-  <FishIndustry.FishingPier_ZoneMustBeOnWater>Fishing zone must be placed on water.</FishIndustry.FishingPier_ZoneMustBeOnWater>
+  <FishIndustry.FishingPier_InvalidBiome>Aucun poisson ne vit dans ce biome.</FishIndustry.FishingPier_InvalidBiome>
+  <FishIndustry.TooCloseFishingPier>Trop près d'un autre quai de pêche.</FishIndustry.TooCloseFishingPier>
+  <FishIndustry.TooCloseFishingZone>Trop près d'une zone de pêche.</FishIndustry.TooCloseFishingZone>
+  <FishIndustry.FishingPier_PierMustBeOnWater>Le quai de pêche doit être placé sur l'eau.</FishIndustry.FishingPier_PierMustBeOnWater>
+  <FishIndustry.FishingPier_TooFewWater>Trop peu d'eau.</FishIndustry.FishingPier_TooFewWater>
+  <FishIndustry.FishingPier_ZoneMustBeOnWater>La zone de pêche doit couvrir une aire d'eau.</FishIndustry.FishingPier_ZoneMustBeOnWater>
 
   <!-- Alerts -->
-  <FishIndustry.NeedHopperLabel>Need food hopper</FishIndustry.NeedHopperLabel>
-  <FishIndustry.NeedHopperExplanation>You have an aquaculture basin with no hopper next to it.\n\nTo breed, aquaculture basins must draw from an adjacent hopper filled with raw vegetable food or animal products.\n\nBuild a hopper adjacent to the aquaculture basin.</FishIndustry.NeedHopperExplanation>
+  <FishIndustry.NeedHopperLabel>Besoin d'une distributrice à nourriture.</FishIndustry.NeedHopperLabel>
+  <FishIndustry.NeedHopperExplanation>Vous avez un bassin d'aquaculture sans distributrice.\n\nPour la reproduction, les bassins doivent être fournis en nourriture végétale ou de produits annimales via une distributrice.\n\nVeillez en construire une adjacent au bassin.</FishIndustry.NeedHopperExplanation>
 
-  <FishIndustry.IdleAquacultureBasinLabel>Idle aquaculture basin</FishIndustry.IdleAquacultureBasinLabel>
-  <FishIndustry.IdleAquacultureBasinExplanation>You have an idle aquaculture basin.\n\nEnsure a hunter can access it to start the breeding process. Select the basin if you want to modify the bred species.</FishIndustry.IdleAquacultureBasinExplanation>
+  <FishIndustry.IdleAquacultureBasinLabel>Bassin d'aquaculture au repos.</FishIndustry.IdleAquacultureBasinLabel>
+  <FishIndustry.IdleAquacultureBasinExplanation>Vous avez un bassin d'aquaculture au repos.\n\nVeillez à vous assurer qu'un chasseur a été assigner pour démarrer la reproduction. Sélectionnez le bassin pour déterminer l'espèce à reproduire.</FishIndustry.IdleAquacultureBasinExplanation>
 
-  <FishIndustry.CriticalIssueLabel>Aquaculture basin critical issue</FishIndustry.CriticalIssueLabel>
-  <FishIndustry.CriticalIssueExplanation>There is a critical issue with one of your basin.\n\nBred fishes will die if it lasts for too long! You should check the following requirements are met:\n- power supply,\n- food availability,\- correct maintenance.</FishIndustry.CriticalIssueExplanation>
+  <FishIndustry.CriticalIssueLabel>Un bassin d'aquaculture éprouve un problème critique.</FishIndustry.CriticalIssueLabel>
+  <FishIndustry.CriticalIssueExplanation>Vous éprouver un problème critique avec l'un de vos bassins.\n\nL'espèce en production ne vivra pas pour longtemps! Assurez-vous que les conditions suivantes sont remplies:\n- alimentation en électricité,\n- disponibilité de la nourriture,\- entretien adéquat.</FishIndustry.CriticalIssueExplanation>
 
   <!-- Message -->
-  <FishIndustry.FishesDied>Bred fishes have died in an aquaculture basin. You should check its conditions.</FishIndustry.FishesDied>
-  <FishIndustry.FisherBitten> was bitten by a tailtheeth while fishing.</FishIndustry.FisherBitten>
+  <FishIndustry.FishesDied>Les poissons en captivités sont décédés. Vous devriez vérifier la santé du bassin et d'assurer sont bon fonctionnement.</FishIndustry.FishesDied>
+  <FishIndustry.FisherBitten> a été mordu par un poisson en pêchant.</FishIndustry.FisherBitten>
 
   <!-- Gizmo -->
-  <FishIndustry.ChangeSpecies>Change species</FishIndustry.ChangeSpecies>
-  <FishIndustry.ChangeSpeciesDescription1>The aquaculture basin will start breeding </FishIndustry.ChangeSpeciesDescription1>
-  <FishIndustry.ChangeSpeciesDescription2>once a colonist has come to change the parameters. Click to select another species.</FishIndustry.ChangeSpeciesDescription2>
-  <FishIndustry.FishLabelPluralMashgon>mashgons</FishIndustry.FishLabelPluralMashgon>
-  <FishIndustry.FishLabelPluralBlueblade>blueblades</FishIndustry.FishLabelPluralBlueblade>
-  <FishIndustry.FishLabelPluralTailteeth>tailteeths</FishIndustry.FishLabelPluralTailteeth>
-  <FishIndustry.FishDescriptionMashgon>short breeding time but low meat yield</FishIndustry.FishDescriptionMashgon>
-  <FishIndustry.FishDescriptionBlueblade>medium breeding time and medium meat yield</FishIndustry.FishDescriptionBlueblade>
-  <FishIndustry.FishDescriptionTailteeth>high breeding time but large meat yield</FishIndustry.FishDescriptionTailteeth>
-  <FishIndustry.Breeding>Breeding </FishIndustry.Breeding>
-  <FishIndustry.BasinIsBreeding>This aquaculture basin is breeding </FishIndustry.BasinIsBreeding>
-  <FishIndustry.WaitingForEggs>Waiting for eggs</FishIndustry.WaitingForEggs>
-  <FishIndustry.ClickToCancel>Click to cancel breeding </FishIndustry.ClickToCancel>
-  <FishIndustry.EnsureHaveHunterAndEggs>Ensure you have an available hunter and some eggs (a piece of meat) to start breeding.</FishIndustry.EnsureHaveHunterAndEggs>
-  <FishIndustry.Breed>Breed </FishIndustry.Breed>
-  <FishIndustry.ClickToStart>Click to start breeding </FishIndustry.ClickToStart>
-  <FishIndustry.BreedingRequestedMashgon>Mashgons breeding requested.</FishIndustry.BreedingRequestedMashgon>
-  <FishIndustry.BreedingRequestedBlueblade>Blueblades breeding requested.</FishIndustry.BreedingRequestedBlueblade>
-  <FishIndustry.BreedingRequestedTailteeth>Tailteeths breeding requested.</FishIndustry.BreedingRequestedTailteeth>
-  <FishIndustry.BreedingRequestedButNoEggsMashgon>Mashgons breeding requested however you have no mashgon egg in storage to start breeding.</FishIndustry.BreedingRequestedButNoEggsMashgon>
-  <FishIndustry.BreedingRequestedButNoEggsBlueblade>Blueblades breeding requested however you have no blueblade egg in storage to start breeding.</FishIndustry.BreedingRequestedButNoEggsBlueblade>
-  <FishIndustry.BreedingRequestedButNoEggsTailteeth>Tailteeths breeding requested however you have no tailteeth egg in storage to start breeding.</FishIndustry.BreedingRequestedButNoEggsTailteeth>
+  <FishIndustry.ChangeSpecies>Changer l'espèce</FishIndustry.ChangeSpecies>
+  <FishIndustry.ChangeSpeciesDescription1>Le bassin d'aquaculture va démarrer sa production </FishIndustry.ChangeSpeciesDescription1>
+  <FishIndustry.ChangeSpeciesDescription2>une fois qu'un colon aurra changer les paramètres. Cliquez pour sélectionner une autre espèce.</FishIndustry.ChangeSpeciesDescription2>
+  <FishIndustry.FishLabelPluralMashgon>Mashgons</FishIndustry.FishLabelPluralMashgon>
+  <FishIndustry.FishLabelPluralBlueblade>BlueBlades</FishIndustry.FishLabelPluralBlueblade>
+  <FishIndustry.FishLabelPluralTailteeth>TailTeeths</FishIndustry.FishLabelPluralTailteeth>
+  <FishIndustry.FishDescriptionMashgon>temps de reproduction faible avec un rendement en nourriture faible.</FishIndustry.FishDescriptionMashgon>
+  <FishIndustry.FishDescriptionBlueblade>temps de reproduction modéré avec un rendement en nourriture modéré.</FishIndustry.FishDescriptionBlueblade>
+  <FishIndustry.FishDescriptionTailteeth>temps de reproduction élevé avec un rendement en nourriture considérable.</FishIndustry.FishDescriptionTailteeth>
+  <FishIndustry.Breeding>En reproduction </FishIndustry.Breeding>
+  <FishIndustry.BasinIsBreeding>Ce bassin d'aquaculture est en production </FishIndustry.BasinIsBreeding>
+  <FishIndustry.WaitingForEggs>En attente d'oeufs</FishIndustry.WaitingForEggs>
+  <FishIndustry.ClickToCancel>Cliquez pour annuler la reproduction </FishIndustry.ClickToCancel>
+  <FishIndustry.EnsureHaveHunterAndEggs>Assurez-vous d'avoir un chasseur disponible et des œufs (un morceau de viande) pour commencer la reproduction.</FishIndustry.EnsureHaveHunterAndEggs>
+  <FishIndustry.Breed>Espèce </FishIndustry.Breed>
+  <FishIndustry.ClickToStart>Cliquez pour démarrer la reproduction </FishIndustry.ClickToStart>
+  <FishIndustry.BreedingRequestedMashgon>La reproduction de Mashgons a été demandé.</FishIndustry.BreedingRequestedMashgon>
+  <FishIndustry.BreedingRequestedBlueblade>La reproduction de BlueBlades a été demandé.</FishIndustry.BreedingRequestedBlueblade>
+  <FishIndustry.BreedingRequestedTailteeth>La reproduction de TailTeeths a été demandé.</FishIndustry.BreedingRequestedTailteeth>
+  <FishIndustry.BreedingRequestedButNoEggsMashgon>La reproduction de Mashgons a été demandé, par contre vous avez aucun oeuf de Mashgon dans votre inventaire.</FishIndustry.BreedingRequestedButNoEggsMashgon>
+  <FishIndustry.BreedingRequestedButNoEggsBlueblade>La reproduction de BlueBlades a été demandé, par contre vous avez aucun oeuf de BlueBlade dans votre inventaire.</FishIndustry.BreedingRequestedButNoEggsBlueblade>
+  <FishIndustry.BreedingRequestedButNoEggsTailteeth>La reproduction de TailTeeths a été demandé, par contre vous avez aucun oeuf de TailTeeth dans votre inventaire.</FishIndustry.BreedingRequestedButNoEggsTailteeth>
 
-  <FishIndustry.AllowFishingLabel>Allow fishing</FishIndustry.AllowFishingLabel>
-  <FishIndustry.AllowFishingDesc>Allow your hunters to fish in this area.</FishIndustry.AllowFishingDesc>
-  <FishIndustry.AllowUsingGrainLabel>Allow using grain</FishIndustry.AllowUsingGrainLabel>
-  <FishIndustry.AllowUsingGrainDesc>Allow your hunters to use grain (corn or rice) to catch fishes much faster.</FishIndustry.AllowUsingGrainDesc>
+  <FishIndustry.AllowFishingLabel>Autoriser la pêche</FishIndustry.AllowFishingLabel>
+  <FishIndustry.AllowFishingDesc>Autoriser vos chasseurs de pêcher dans cette zone.</FishIndustry.AllowFishingDesc>
+  <FishIndustry.AllowUsingGrainLabel>Autoriser l'utilisation de grains</FishIndustry.AllowUsingGrainLabel>
+  <FishIndustry.AllowUsingGrainDesc>Autoriser vos chasseurs d'utiliser du grain (maïs ou riz) pour capturer des poissons plus rapidement.</FishIndustry.AllowUsingGrainDesc>
     
   <!-- Inspect String -->
-  <FishIndustry.ProgressLabel>Progress: </FishIndustry.ProgressLabel>
-  <FishIndustry.ProgressLabelNotBreeding>Progress: not breeding</FishIndustry.ProgressLabelNotBreeding>
-  <FishIndustry.WaterQuality>Water quality: {0}%</FishIndustry.WaterQuality>
-  <FishIndustry.WaterQualityFishesHealth>Water quality/fishes health: {0}%/{1}%</FishIndustry.WaterQualityFishesHealth>
-  <FishIndustry.NeedsMaintenanceNow>Needs maintenance now </FishIndustry.NeedsMaintenanceNow>
-  <FishIndustry.Issue>Issue</FishIndustry.Issue>
-  <FishIndustry.Issues>Issues</FishIndustry.Issues>
-  <FishIndustry.Issue_MicroFungus>micro fungus</FishIndustry.Issue_MicroFungus>
-  <FishIndustry.Issue_NoFood>no food</FishIndustry.Issue_NoFood>
-  <FishIndustry.Issue_CriticalWaterQuality>critical water quality</FishIndustry.Issue_CriticalWaterQuality>
-  <FishIndustry.Issue_BadlyMaintained>badly maintained</FishIndustry.Issue_BadlyMaintained>
+  <FishIndustry.ProgressLabel>Progression: </FishIndustry.ProgressLabel>
+  <FishIndustry.ProgressLabelNotBreeding>Progression: pas en reproduction</FishIndustry.ProgressLabelNotBreeding>
+  <FishIndustry.WaterQuality>Qualité de l'eau: {0}%</FishIndustry.WaterQuality>
+  <FishIndustry.WaterQualityFishesHealth>Qualité de l'eau/Santé des poissons: {0}%/{1}%</FishIndustry.WaterQualityFishesHealth>
+  <FishIndustry.NeedsMaintenanceNow>Besoin de maintenance maintenant </FishIndustry.NeedsMaintenanceNow>
+  <FishIndustry.Issue>Problème</FishIndustry.Issue>
+  <FishIndustry.Issues>Problèmes</FishIndustry.Issues>
+  <FishIndustry.Issue_MicroFungus>micro champignons</FishIndustry.Issue_MicroFungus>
+  <FishIndustry.Issue_NoFood>pas de nourriture</FishIndustry.Issue_NoFood>
+  <FishIndustry.Issue_CriticalWaterQuality>Qualité de l'eau critique</FishIndustry.Issue_CriticalWaterQuality>
+  <FishIndustry.Issue_BadlyMaintained>mal entretenu</FishIndustry.Issue_BadlyMaintained>
   
-  <FishIndustry.FishStock>Fish stock: {0}</FishIndustry.FishStock>
-  <FishIndustry.TooSmallZone>Too small zone</FishIndustry.TooSmallZone>
-  <FishIndustry.NotEnoughViableSpace>Not enough viable space</FishIndustry.NotEnoughViableSpace>
-  <FishIndustry.SpeciesInZone>Species in zone: </FishIndustry.SpeciesInZone>
-  <FishIndustry.AffectedBy>Affected by: </FishIndustry.AffectedBy>
+  <FishIndustry.FishStock>Inventaire des poissons: {0}</FishIndustry.FishStock>
+  <FishIndustry.TooSmallZone>Zone trop petite</FishIndustry.TooSmallZone>
+  <FishIndustry.NotEnoughViableSpace>Pas assez d'espace viable</FishIndustry.NotEnoughViableSpace>
+  <FishIndustry.SpeciesInZone>Espèces dans cette zone: </FishIndustry.SpeciesInZone>
+  <FishIndustry.AffectedBy>Affecté par: </FishIndustry.AffectedBy>
   <FishIndustry.AffectedByBiome>biome</FishIndustry.AffectedByBiome>
-  <FishIndustry.AffectedByToxicFallout>toxic fallout</FishIndustry.AffectedByToxicFallout>
-  <FishIndustry.AffectedByBadTemperature>non-ideal temperature</FishIndustry.AffectedByBadTemperature>
+  <FishIndustry.AffectedByToxicFallout>retombées toxiques</FishIndustry.AffectedByToxicFallout>
+  <FishIndustry.AffectedByBadTemperature>température non idéale</FishIndustry.AffectedByBadTemperature>
 
   <!-- Letters -->
-  <FishIndustry.LetterLabelMicroFungus>Micro fungus</FishIndustry.LetterLabelMicroFungus>
-  <FishIndustry.MicroFungus>Some of your aquaculture basins have been infected by a strange aquatic fungus.\nIt seems to consume all the water's oxygen.\nLet's hope the fishes will survive this deprivation.</FishIndustry.MicroFungus>
+  <FishIndustry.LetterLabelMicroFungus>Micro champignons</FishIndustry.LetterLabelMicroFungus>
+  <FishIndustry.MicroFungus>Quelques uns de vos bassins d'aquaculture a été affectés par un étrange micro champignon aquatique.\nIl semble consommer toute l'oxygène contenu dans l'eau.\nEspèrons que vos poissons survivront à ce manque.</FishIndustry.MicroFungus>
 
-  <FishIndustry.LetterLabelSunkenTreasure>Sunken treasure!</FishIndustry.LetterLabelSunkenTreasure>
-  <FishIndustry.SunkenTreasure>{0} has found a sunken treasure while fishing! What a good catch!\n</FishIndustry.SunkenTreasure>
+  <FishIndustry.LetterLabelSunkenTreasure>Trésor englouti!</FishIndustry.LetterLabelSunkenTreasure>
+  <FishIndustry.SunkenTreasure>{0} a trouvé(e) un trésor englouti en pêchant! Quelle prise!\n</FishIndustry.SunkenTreasure>
 
-  <FishIndustry.LetterLabelDeadMarine>Dead marine</FishIndustry.LetterLabelDeadMarine>
-  <FishIndustry.LetterDescDeadMarine>{0} has cought a dead body while fishing!\n\n'This is really disgusting but look at his gear! This guy was probably a MiningCo. security member. I wonder what happend to him...'</FishIndustry.LetterDescDeadMarine>
-
-  <!-- Zone -->
-  <FishIndustry.FishingZone>Fishing zone</FishIndustry.FishingZone>
-  <FishIndustry.DesignatorFishingZoneDesc>Create a zone where your colonists will try to fish.\n\nFish resplenishment rate is affected by several factors like temperature, biome and other environmental factors.</FishIndustry.DesignatorFishingZoneDesc>
+  <FishIndustry.LetterLabelDeadMarine>Corps d'un marin</FishIndustry.LetterLabelDeadMarine>
+  <FishIndustry.LetterDescDeadMarine>{0} a trouvé(e) un corps mort d'un marin en pêchant!\n\n'C'est vraiment dégoûtant, mais regarder sont équipement! Cette homme a probablment été un agent de sécurité pour la compagnie MiningCo. Mais qu'est-ce qui a bien pu lui arriver...</FishIndustry.LetterDescDeadMarine>
 
   <!-- Zone -->
-  <FishIndustry.Settings_FishRespawnRateFactorLabel>Fish respawn rate factor in fishing zone (default is 1.0): {0}</FishIndustry.Settings_FishRespawnRateFactorLabel>
-  <FishIndustry.Settings_FishRespawnRateFactorDesc>Adjust the frequency at which fishes appear in fishing zones. Low value means less fishes, high value means more fishes. Note: there will still be no fish during a toxic fallout!</FishIndustry.Settings_FishRespawnRateFactorDesc>
-  <FishIndustry.Settings_FishBreedQuantityFactorLabel>Fish breed quantity factor (default is 1.0): {0}</FishIndustry.Settings_FishBreedQuantityFactorLabel>
-  <FishIndustry.Settings_FishBreedQuantityFactorDesc>Adjust the amount of meat you get from aquaculture basins when harvesting fishes. Low value means less meat, high value means more meat.</FishIndustry.Settings_FishBreedQuantityFactorDesc>
-  <FishIndustry.Settings_BiomeRestrictionLabel>Enable biome restrictions</FishIndustry.Settings_BiomeRestrictionLabel>
-  <FishIndustry.Settings_BiomeRestrictionDesc>When enabled, fishes can only be caught in their native biomes. Disable it to allow fishing in all biomes (especially useful for modded biomes). May need to restart the game to take effect.</FishIndustry.Settings_BiomeRestrictionDesc>
+  <FishIndustry.FishingZone>Zone de pêche</FishIndustry.FishingZone>
+  <FishIndustry.DesignatorFishingZoneDesc>Créez un aire de pêche où vos chasseurs pourront essayer de pêcher.\n\nLe taux de reproduction des poissons est affecté par la température, le biome et bien d'autres facteurs environnementaux.</FishIndustry.DesignatorFishingZoneDesc>
+
+  <!-- Zone -->
+  <FishIndustry.Settings_FishRespawnRateFactorLabel>Facteur du taux de réapparition des poissons dans la zone de pêche (par défaut ; 1.0): {0}</FishIndustry.Settings_FishRespawnRateFactorLabel>
+  <FishIndustry.Settings_FishRespawnRateFactorDesc>Ajustez la fréquence d'apparition des poissons dans les zones de pêche. Une valeur faible signifie moins de poissons, une valeur élevée signifie plus de poissons. Note: il y aura toujours pas de poisson pendant une retombée toxiques!</FishIndustry.Settings_FishRespawnRateFactorDesc>
+  <FishIndustry.Settings_FishBreedQuantityFactorLabel>Facteur de la quantité d'espèce (par défaut ; 1.0): {0}</FishIndustry.Settings_FishBreedQuantityFactorLabel>
+  <FishIndustry.Settings_FishBreedQuantityFactorDesc>Ajustez la quantité de viande que vous obtenez des bassins d'aquaculture lors de la récolte des poissons. Une valeur faible signifie moins de nourriture, une valeur élevée signifie plus de nourriture.</FishIndustry.Settings_FishBreedQuantityFactorDesc>
+  <FishIndustry.Settings_BiomeRestrictionLabel>Activer les restrictions de biome</FishIndustry.Settings_BiomeRestrictionLabel>
+  <FishIndustry.Settings_BiomeRestrictionDesc>Lorsqu'elle est activée, les poissons ne peuvent être capturés que dans leurs biomes naturels. Désactivez-le pour autoriser la pêche dans tous les biomes (particulièrement utile pour les biomes modifiés). Il peut être nécessaire de redémarrer le jeu pour prendre effet.</FishIndustry.Settings_BiomeRestrictionDesc>
 
 </LanguageData>
