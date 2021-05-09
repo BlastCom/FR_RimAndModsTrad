@@ -1,10 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+  <Sduiggles.label>sduiggles</Sduiggles.label>
   <Sduiggles.description>Il peut être découvert dans les étangs et eaux peu profondes. Au-delà de son apparence, cette race de calamar est très affectueuse et intelligente. Qui pourrait bien le pêcher? Vous êtes un monstre!</Sduiggles.description>
+  <Sduiggles.race.meatLabel>tentacule de sduiggles</Sduiggles.race.meatLabel>
+  <Sduiggles.verbs.Verb_MeleeAttack.label>sduiggles</Sduiggles.verbs.Verb_MeleeAttack.label>
+  
+  <Seasnake.label>seasnake</Seasnake.label>
+  <Seasnake.race.meatLabel>filet de seasnake</Seasnake.race.meatLabel>
+  <Seasnake.verbs.Verb_MeleeAttack.label>seasnake</Seasnake.verbs.Verb_MeleeAttack.label>
   <Seasnake.description>Souvent confondu par son petit cousin le Tailteeth, ce poisson de nature calme est souvent pêché les nuits sans lune.</Seasnake.description>
+  
+  <Mashgon.label>mashgon</Mashgon.label>
+  <Mashgon.race.meatLabel>mashgon décortiqué</Mashgon.race.meatLabel>
+  <Mashgon.verbs.Verb_MeleeAttack.label>mashgon</Mashgon.verbs.Verb_MeleeAttack.label>
   <Mashgon.description>Ce crustacé de taille moyenne peut être trouvé dans les marécages et marais. Son nom provient d'une tribu locale l'appelant "Dragon des marais" ou "Marsh dragon" en anglais. Facile à capturer avec un taux de reproduction élevé, sa chair est une bonne source de protéine. Pas très nourrissant, mais délicieux. Il peut être grillé pour une meilleure saveur.</Mashgon.description>
+  
+  <Blueblade.label>blueblade</Blueblade.label>
+  <Blueblade.race.meatLabel>filet de blueblade</Blueblade.race.meatLabel>
+  <Blueblade.verbs.Verb_MeleeAttack.label>blueblade</Blueblade.verbs.Verb_MeleeAttack.label>
   <Blueblade.description>Un poisson peu rare qui peut être retrouvé dans les eaux peu profondes. Son nom provient de sa résilience: il a l'habileté de vivre dans les eaux bleues chaudes ou glacées.</Blueblade.description>
+  
+  <Tailteeth.label>tailteeth</Tailteeth.label>
+  <Tailteeth.race.meatLabel>steak de tailteeth</Tailteeth.race.meatLabel>
+  <Tailteeth.verbs.Verb_MeleeAttack.label>tailteeth</Tailteeth.verbs.Verb_MeleeAttack.label>
   <Tailteeth.description>Ce prédateur féroce doit son nom à ses tactiques vicieuses. En approchant discrètement ses proies près des rives, il utilise sa queue pour les attirer dans les eaux profondes. Après sa rencontre, vous n'oublierez pas les dents de ce monstre marin.</Tailteeth.description>
 
 </LanguageData>

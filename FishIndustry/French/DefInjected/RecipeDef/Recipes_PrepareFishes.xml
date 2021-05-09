@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <GrillFishCampfire.label>poisson grillé</GrillFishCampfire.label>
+    <GrillFishCampfire.description>Grille un poisson pour qu'il puisse être mangé. Savoureux et croquant!</GrillFishCampfire.description>
+    <GrillFishCampfire.jobString>Fait griller un poisson.</GrillFishCampfire.jobString>
+
+</LanguageData>

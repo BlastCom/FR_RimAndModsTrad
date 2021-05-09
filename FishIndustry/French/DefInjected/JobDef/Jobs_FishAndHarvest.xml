@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-		<JobDef_FishAtFishingPier.reportString>Pêche sur le quai.</JobDef_FishAtFishingPier.reportString>
+    <JobDef_FishAtFishingPier.reportString>Pêche sur le quai.</JobDef_FishAtFishingPier.reportString>
     <JobDef_FishAtFishingZone.reportString>En train de pêcher.</JobDef_FishAtFishingZone.reportString>
     <JobDef_AquacultureBasinHarvest.reportString>Récolte TargetA.</JobDef_AquacultureBasinHarvest.reportString>
     <JobDef_AquacultureBasinChangeSpecies.reportString>Changement d'espèce du TargetA.</JobDef_AquacultureBasinChangeSpecies.reportString>
