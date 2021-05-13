@@ -21,12 +21,11 @@
   <TextMote_CharmFail>Offensé(e)</TextMote_CharmFail>
   <TextMote_CharmSuccess>Charmé(e)</TextMote_CharmSuccess>
   
+  <!-- Diplomacy --> 
 <!-- Def not found
+    <ImproveFactionPlease>{0} a amélioré la relation entre {4} et {1} de {2} ({3} chance).</ImproveFactionPlease>
+ 	  <ImproveFactionAnger>{0} a empiré la relation avec {1} de {2} ({3} chance).</ImproveFactionAnger> -->
 
-	<!-- Diplomacy --> 
-  	<ImproveFactionPlease>{0} a amélioré la relation entre {4} et {1} de {2} ({3} chance).</ImproveFactionPlease>
- 	<ImproveFactionAnger>{0} a empiré la relation avec {1} de {2} ({3} chance).</ImproveFactionAnger>
--->
 
   <!-- Incident Results -->
   <VisitorsLeavingGreat>Ils sont absolument stupéfaits par votre hospitalité! (Score: {1})</VisitorsLeavingGreat>
@@ -46,71 +45,84 @@
 
   <VisitorsArrivedTitle>Les invités sont arrivés à {0} (en provenance de {1})</VisitorsArrivedTitle>
   <VisitorsArrivedDesc>Ils ont peur d’entrer dans votre territoire pour les raisons suivantes:\n{1}\n\nSi vous les renvoyez, ils resteront dans la région et reviendront plus tard.</VisitorsArrivedDesc>
-
   <VisitorsArrivedAccept>Garantir la sécurité</VisitorsArrivedAccept>
   <VisitorsArrivedRefuse>Renvoyer</VisitorsArrivedRefuse>
-
   <VisitorsArrivedRefuseUntilBeds>Refuser les invités jusqu’à ce que j’ai des lits pour eux.</VisitorsArrivedRefuseUntilBeds>
-  <VisitorsArrivedReasonNoBeds>Pas de lits pour invités</VisitorsArrivedReasonNoBeds>
+  <VisitorsArrivedReasonNoBeds>Pas de lits pour les invités</VisitorsArrivedReasonNoBeds>
 
-  <LetterLabelDownedPawnBecameGuest>{PAWN_labelShort} est devenu un invité.</LetterLabelDownedPawnBecameGuest>
+  <LetterLabelDownedPawnBecameGuest>{PAWN_labelShort} est devenu un(e) invité(e).</LetterLabelDownedPawnBecameGuest>
   <LetterLabelDownedPawnJoinedGroup>{PAWN_labelShort} a rejoint le groupe des invités</LetterLabelDownedPawnJoinedGroup>
-  <DownedPawnBecameGuest>{PAWN_nameDef}, que vous avez sauvé, est maintenant un invite restera encore quelques heures. Vous pouvez le laisser libre, le renvoyer chez lui ou le recruter.\n\nQuand {PAWN_labelShort} aura quitté votre territoire sain et sauf, sa faction vous sera reconnaissante.</DownedPawnBecameGuest>
+  <DownedPawnBecameGuest>{PAWN_nameDef}, que vous avez sauvé, est maintenant un(e) invité(e) restera encore quelques heures. Vous pouvez le laisser libre, le renvoyer chez lui ou le recruter.\n\nQuand {PAWN_labelShort} aura quitté votre territoire sain et sauf, sa faction vous sera reconnaissante.</DownedPawnBecameGuest>
   <DownedPawnJoinedGroup>{PAWN_nameDef}, que vous avez sauvé, a rejoint le groupe d'invités de sa faction. Si {PAWN_pronoun} quitte votre territoire avec son groupe sain et sauf, leur faction vous en sera reconnaissante.</DownedPawnJoinedGroup>
   
   <LetterLabelHappyGuestJoins>{PAWN_labelShort} veut rester.</LetterLabelHappyGuestJoins>
-  <HappyGuestJoins>{PAWN_labelShort} de {0} s'est entendu(e) avec {PAWN_possessive} faction qui le laisse vous rejoindre en tant qu'ambassadeur. Cela ne détériorera pas votre relation avec sa faction.\n\nVous avez le temps de considérer son recrutement (ou non) jusque'`a ce qu'il parte.</HappyGuestJoins>
+  <HappyGuestJoins>{PAWN_labelShort} de {0} s'est entendu(e) avec {PAWN_possessive} faction qui le laisse vous rejoindre en tant qu'ambassadeur. Cela ne détériorera pas votre relation avec sa faction.\n\nVous avez le temps de considérer son recrutement (ou non) jusqu'à ce qu'ils partent.</HappyGuestJoins>
   
   <GuestBoughtItem>Un membre de {0} a acheté {ITEM_label} pour {1} argent.</GuestBoughtItem>
 
 
   <!-- Communication -->
-  <InviteGuests>Les inviter dans votre colonie ?</InviteGuests>
-  <GuestsCantBeHostile>Ne peuvent être hostiles</GuestsCantBeHostile>
-  <GuestsDontWantToCome>Ne sont pas intéressés de vous rendre visite</GuestsDontWantToCome>
-  <GuestsAlreadyComing>Sont déjà en route et arriveront dans {0}</GuestsAlreadyComing>
+  <InviteGuests>Les inviter dans votre colonie?</InviteGuests>
+  <GuestsCantBeHostile>ne peuvent être hostiles</GuestsCantBeHostile>
+  <GuestsDontWantToCome>ne sont présentement pas intéressés à vous rendre visite</GuestsDontWantToCome>
+  <GuestsAlreadyComing>sont déjà en route et arriveront dans {0}</GuestsAlreadyComing>
   <GuestsOnTheirWay>Ils envoient une délégation. Ils devraient arriver dans {0}.</GuestsOnTheirWay>
 
-  <!-- Tab -->
+  <!-- Pawn Tab -->
   <AreaToStay>Zone autorisée</AreaToStay>
   <AreaToBuy>Zone commerçante</AreaToBuy>
-  <AreaNoShopping>Pas de shopping</AreaNoShopping>
+  <AreaNoShopping>Commerce interdit</AreaNoShopping>
   <AreaToStayTooltip>Quartier ou zone dans laquelle les invités sont autorisés à travailler, dormir, se reposer, errer... Vous pouvez configurer une zone dans laquelle ils seront confinés si vous subissez une attaque. Toutefois, cela ne les empêchera pas de partir s'ils le désirent…</AreaToStayTooltip>
   <AreaToBuyTooltip>Les invités peuvent acheter des articles dans cette zone. Vous pouvez vendre des objets si vous les incluez dans la zone commerçante qui doit obligatoirement se situer dans la zone autorisée.</AreaToBuyTooltip>
-  <ConvincingLeft>Assurance requise</ConvincingLeft>
+  
+<!-- Not found in 1.2 
+	<ConvincingLeft>Assurance requise</ConvincingLeft> -->
 
   <FriendsRequirement>Nombre d'ami(s) pour être recruté(ée) : {0}/{1}</FriendsRequirement>
-  <RecruitmentPenalty>Coût du recrutement : {0} ({1} si forcé)</RecruitmentPenalty>
-  <ImproveRelationship>Essayer de recevoir</ImproveRelationship>
-  <ImproveTooltip>Vos colons diplomates vont tenter d'accroître l'humeur de vos invités. Les colons ayant un indice élevé dans "Sociabilité" auront plus de succès. Ceux avec un indice bas peuvent agacer et énerver l'invité.</ImproveTooltip>
-  <TryRecruitTooltip>Vos colons diplomates vont tenter de se lier d'amitié avec les invités. Les colons ayant un indice élevé dans "Sociabilité" auront plus de succès. Ceux avec un indice bas peuvent agacer et énerver l'invité. Quand l'invité aura assez d'amis, il pourra être recruté et rejoindre votre colonie.</TryRecruitTooltip>
 
+<!-- Added from 1.2 update -->
+	<SeniorityRequirement>Nombre d'ami(s) royal(-aux) de ce titre pour être recruté(ée): {0}/{1}</SeniorityRequirement>
+
+  <RecruitmentPenalty>Coût du recrutement : {0} ({1} si forcé)</RecruitmentPenalty>
+  <ImproveRelationship>Essayer de divertir</ImproveRelationship>
   <MakeFriends>Essayer de se lier d'amitié</MakeFriends>
-  <LeaveAlone>Laisse tranquille</LeaveAlone>
+  <LeaveAlone>Laisser tranquille</LeaveAlone>
   <FactionGoodwill>Bonne volonté entre les factions</FactionGoodwill>
-  <FactionGoodwillTooltip>Points d'entente entre votre faction et celle de l'invité. Vous pouvez vérifier les points d'entente entre votre faction et celles du jeu dans l'onglet "Factions" de la barre des tâches principale.</FactionGoodwillTooltip>
   <Hospitality>Hospitalité</Hospitality>
   <MakeDefault>Définir par défaut</MakeDefault>
-
   <SendAway>Renvoyer...</SendAway>
-  <SendAwayQuestion>Êtes-vous sûr de vouloir renvoyer les invités de {0} ?\nSi vous les renvoyez, cela n’aura aucun effet sur les relations.</SendAwayQuestion>
-  <SendAwayTooltip>Renvoyer le groupe de cet invité.</SendAwayTooltip>
+  <SendAwayQuestion>Êtes-vous sûr de vouloir renvoyer les invités de {FACTION_name}?\nSi vous les renvoyez dès que possible, cela n’aura aucun effet sur les relations.</SendAwayQuestion>
+  <Recruit>Recruter...</Recruit>
 
-<Recruit>Recruter...</Recruit>
-  <RecruitQuestion>Vous pouvez désormais recruter {PAWN_nameDef}.\n\nParce qu'{PAWN_pronoun} a assez d'amis, il vous en coûtera seulement {0} points de relation de faction.{1}\n\n\nÊtes-vous sûr de vouloir recruter ce invité ?</RecruitQuestion>
+<!-- Added from 1.2 update -->
+  <CantRecruit>Cet invité ne peut pas être recruté (pour l'instant).</CantRecruit>
+  <CantForceRecruit>Cet invité ne peut pas être recruté de force.</CantForceRecruit>
 
-<ForceRecruit>Recrut. forcé...</ForceRecruit>
-  <ForceRecruitQuestion>Vous pouvez immédiatement recruter {PAWN_nameDef}.\n\nParce qu'{PAWN_pronoun} n'a pas encore assez d'amis pour vous rejoindre, ils vous en coûtera {0} points de relation de faction. Ce coût pourrait être réduit si {PAWN_pronoun} avait plus d'amis. {1}\n\n\nÊtes-vous sûr de ne pas vouloir patienter?</ForceRecruitQuestion>
+  <RecruitQuestion>Vous pouvez désormais recruter {PAWN_nameDef}.\n\nParce qu'{PAWN_pronoun} a assez d'amis, il vous en coûtera seulement {0} points de relation avec sa faction.{1}\n\n\nÊtes-vous sûr de vouloir recruter cet invité?</RecruitQuestion>
+  <ForceRecruit>Recrut. forcé...</ForceRecruit>
+  <ForceRecruitQuestion>Vous pouvez immédiatement recruter {PAWN_nameDef}.\n\nParce qu'{PAWN_pronoun} n'a pas encore assez d'amis pour vous rejoindre, ils vous en coûtera {0} points de relation avec sa faction. Ce coût pourrait être réduit si {PAWN_pronoun} avait plus d'amis. {1}\n\n\nÊtes-vous sûr de ne pas vouloir le recruter?</ForceRecruitQuestion>
   <ForceRecruitWarning>\n\nCela les rendra immédiatement hostiles.</ForceRecruitWarning>
-
-  <RecruitTooltip>Votre invité a assez d'amis dans votre colonie pour être enrôlé. Il vous en coûtera des points de "Bonne volonté" entre votre faction et la sienne.</RecruitTooltip>
-  <MakeDefaultTooltip>Applique les règles présentes à l'ensemble des invités actuels et futurs.</MakeDefaultTooltip>
-<ForceRecruitTooltip>Au lieu d'attendre que vos diplomates séduisent ces invités, vous pouvez les forcer de rester ici, mais cela dégradera grandement la relation entre sa faction et la vôtre.</ForceRecruitTooltip>
-
-
+  
+<!-- Added from 1.2 update -->
+  <ForceAcidifierWarning>\n\nCela va activer son "Acidificateur".</ForceAcidifierWarning>
+  
   <NotEnoughFriends>[PAWN_nameDef] n'aime pas assez vos colons (opinion > {0}).</NotEnoughFriends>
   <CanNowBeRecruited>[PAWN_nameDef] peut-être recruté(ée) maintenant.</CanNowBeRecruited>
+  
+  <!-- Added from 1.2 update -->
+    <OnlyJoinsByForce>[PAWN_nameDef] va seulment rejoindre votre colonie s'il est forcé(e).</OnlyJoinsByForce>
+    <CanNeverRecruit>[PAWN_nameDef] ne pourra jamais être recruté(e).</CanNeverRecruit>
+
   <IsATrader>[PAWN_nameDef] est membre d'une caravane et n'est pas un invité.</IsATrader>
+  <ImproveTooltip>Vos colons diplomates vont tenter d'accroître l'humeur de vos invités. Les colons ayant un indice élevé dans "Sociabilité" auront plus de succès. Ceux avec un indice bas peuvent agacer et énerver l'invité.</ImproveTooltip>
+  <TryRecruitTooltip>Vos colons diplomates vont tenter de se lier d'amitié avec les invités. Les colons ayant un indice élevé dans "Sociabilité" auront plus de succès. Ceux avec un indice bas peuvent agacer et énerver l'invité. Quand l'invité aura assez d'amis, il pourra être recruté et rejoindre votre colonie.</TryRecruitTooltip>
+  <RecruitTooltip>Votre invité a assez d'amis dans votre colonie pour être enrôlé. Il vous en coûtera des points de "Bonne volonté" entre votre faction et la sienne.</RecruitTooltip>
+  <MakeDefaultTooltip>Applique les règles présentes à l'ensemble des invités actuels et futurs.</MakeDefaultTooltip>
+  <ForceRecruitTooltip>Au lieu d'attendre que vos diplomates séduisent ces invités, vous pouvez les forcer de rester ici, mais cela dégradera grandement la relation entre sa faction et la vôtre.</ForceRecruitTooltip>
+  <SendAwayTooltip>Renvoyer le groupe de cet invité.</SendAwayTooltip>
+
+<!-- Not found in 1.2  
+  	<FactionGoodwillTooltip>Points d'entente entre votre faction et celle de l'invité. Vous pouvez vérifier les points d'entente entre votre faction et celles du jeu dans l'onglet "Factions" de la barre des tâches principale.</FactionGoodwillTooltip> -->
 
   <!-- Main Tab -->
   <BedsFilled>Lits utilisés : {0}/{1}</BedsFilled>
