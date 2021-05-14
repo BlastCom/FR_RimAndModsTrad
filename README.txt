@@ -8,7 +8,7 @@ A : The main community traduction of Rimworld is mainly lead by French from Fran
 Q : Can i suggest some translations?
 A : Yes, but i have a power of veto on all translations because i made this only on my purpose.
 
-... to be continued 
+... to be continued! 
 
 ======================================================================================================
 
@@ -24,4 +24,4 @@ R : Oui, mais je me donne un droit de Veto puisque tout ce projet est principale
     à mes besoins.
 	
 	
-... à suivre
+... à suivre!
