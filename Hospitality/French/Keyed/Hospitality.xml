@@ -16,7 +16,7 @@
   <LetterLabelRecruitFactionChiefPlease>Chef content</LetterLabelRecruitFactionChiefPlease>
   <LetterLabelRecruitFactionPlease>Faction contente</LetterLabelRecruitFactionPlease>
 
-  <GuestCanBeRecruitedNow>{PAWN_labelShort} a désormait assez d'amis pour être recruté(e).</GuestCanBeRecruitedNow>
+  <GuestCanBeRecruitedNow>{PAWN_labelShort} a désormais assez d'amis pour être recruté(e).</GuestCanBeRecruitedNow>
   
   <TextMote_CharmFail>Offensé(e)</TextMote_CharmFail>
   <TextMote_CharmSuccess>Charmé(e)</TextMote_CharmSuccess>
@@ -35,7 +35,7 @@
   <VisitorsLeavingAwful>Ils ont été terriblement déçus de leur séjour. (Score: {1})</VisitorsLeavingAwful>
   <VisitorSatisfied>{0} a apprécié la venue de {1}. {2} vous quitte {3}.</VisitorSatisfied>
   <VisitorVerySatisfied>{0} a adoré le séjour de {1}. {2} vous quitte {3}.</VisitorVerySatisfied>
-  <MessageVisitorsLeavingCold>Les invités de {0} s'en vont une nouvelle fois car il fait trop froid.</MessageVisitorsLeavingCold>
+  <MessageVisitorsLeavingCold>Les invités de {0} s'en vont une nouvelle fois, car il fait trop froid.</MessageVisitorsLeavingCold>
   <VisitorsSentAway>Vous les avez renvoyés.</VisitorsSentAway>
   
   <VisitorsReturnSoon>Ils reviendront sous peu.</VisitorsReturnSoon>
@@ -76,12 +76,12 @@
   <AreaToBuyTooltip>Les invités peuvent acheter des articles dans cette zone. Vous pouvez vendre des objets si vous les incluez dans la zone commerçante qui doit obligatoirement se situer dans la zone autorisée.</AreaToBuyTooltip>
   
 <!-- Not found in 1.2 
-	<ConvincingLeft>Assurance requise</ConvincingLeft> -->
+	  <ConvincingLeft>Assurance requise</ConvincingLeft> -->
 
   <FriendsRequirement>Nombre d'ami(s) pour être recruté(ée) : {0}/{1}</FriendsRequirement>
 
 <!-- Added from 1.2 update -->
-	<SeniorityRequirement>Nombre d'ami(s) royal(-aux) de ce titre pour être recruté(ée): {0}/{1}</SeniorityRequirement>
+	  <SeniorityRequirement>Nombre d'ami(s) royal(-aux) de ce titre pour être recruté(ée): {0}/{1}</SeniorityRequirement>
 
   <RecruitmentPenalty>Coût du recrutement : {0} ({1} si forcé)</RecruitmentPenalty>
   <ImproveRelationship>Essayer de divertir</ImproveRelationship>
@@ -95,22 +95,22 @@
   <Recruit>Recruter...</Recruit>
 
 <!-- Added from 1.2 update -->
-  <CantRecruit>Cet invité ne peut pas être recruté (pour l'instant).</CantRecruit>
-  <CantForceRecruit>Cet invité ne peut pas être recruté de force.</CantForceRecruit>
+    <CantRecruit>Cet invité ne peut pas être recruté (pour l'instant).</CantRecruit>
+    <CantForceRecruit>Cet invité ne peut pas être recruté de force.</CantForceRecruit>
 
   <RecruitQuestion>Vous pouvez désormais recruter {PAWN_nameDef}.\n\nParce qu'{PAWN_pronoun} a assez d'amis, il vous en coûtera seulement {0} points de relation avec sa faction.{1}\n\n\nÊtes-vous sûr de vouloir recruter cet invité?</RecruitQuestion>
   <ForceRecruit>Recrut. forcé...</ForceRecruit>
-  <ForceRecruitQuestion>Vous pouvez immédiatement recruter {PAWN_nameDef}.\n\nParce qu'{PAWN_pronoun} n'a pas encore assez d'amis pour vous rejoindre, ils vous en coûtera {0} points de relation avec sa faction. Ce coût pourrait être réduit si {PAWN_pronoun} avait plus d'amis. {1}\n\n\nÊtes-vous sûr de ne pas vouloir le recruter?</ForceRecruitQuestion>
+  <ForceRecruitQuestion>Vous pouvez immédiatement recruter {PAWN_nameDef}.\n\nParce qu'{PAWN_pronoun} n'a pas encore assez d'amis pour vous rejoindre, il vous en coûtera {0} points de relation avec sa faction. Ce coût pourrait être réduit si {PAWN_pronoun} avait plus d'amis. {1}\n\n\nÊtes-vous sûr de ne pas vouloir le recruter?</ForceRecruitQuestion>
   <ForceRecruitWarning>\n\nCela les rendra immédiatement hostiles.</ForceRecruitWarning>
   
 <!-- Added from 1.2 update -->
-  <ForceAcidifierWarning>\n\nCela va activer son "Acidificateur".</ForceAcidifierWarning>
+    <ForceAcidifierWarning>\n\nCela va activer son "Acidificateur".</ForceAcidifierWarning>
   
   <NotEnoughFriends>[PAWN_nameDef] n'aime pas assez vos colons (opinion > {0}).</NotEnoughFriends>
   <CanNowBeRecruited>[PAWN_nameDef] peut-être recruté(ée) maintenant.</CanNowBeRecruited>
   
-  <!-- Added from 1.2 update -->
-    <OnlyJoinsByForce>[PAWN_nameDef] va seulment rejoindre votre colonie s'il est forcé(e).</OnlyJoinsByForce>
+<!-- Added from 1.2 update -->
+    <OnlyJoinsByForce>[PAWN_nameDef] va seulement rejoindre votre colonie s'il est forcé(e).</OnlyJoinsByForce>
     <CanNeverRecruit>[PAWN_nameDef] ne pourra jamais être recruté(e).</CanNeverRecruit>
 
   <IsATrader>[PAWN_nameDef] est membre d'une caravane et n'est pas un invité.</IsATrader>
@@ -122,30 +122,51 @@
   <SendAwayTooltip>Renvoyer le groupe de cet invité.</SendAwayTooltip>
 
 <!-- Not found in 1.2  
-  	<FactionGoodwillTooltip>Points d'entente entre votre faction et celle de l'invité. Vous pouvez vérifier les points d'entente entre votre faction et celles du jeu dans l'onglet "Factions" de la barre des tâches principale.</FactionGoodwillTooltip> -->
+  	<FactionGoodwillTooltip>Points d'entente entre votre faction et celle de l'invité. Vous pouvez vérifier les points d'entente entre votre faction et celles du jeu dans l'onglet "Factions" de la barre des tâches principales.</FactionGoodwillTooltip> -->
 
   <!-- Main Tab -->
   <BedsFilled>Lits utilisés : {0}/{1}</BedsFilled>
-
+  <MapSettings>Paramètres de la carte du monde...</MapSettings>
+  <GuestsWelcome>Autoriser de nouveaux invités</GuestsWelcome>
+  <GuestsWelcomeTooltip>Si vous désactivé cette option, aucun nouveau groupe d'invité ne visitera votre colonie.</GuestsWelcomeTooltip>
+  
   <!-- Infos -->
   <StatsReport_MissingFriends>Amis manquants</StatsReport_MissingFriends>
-  <StatsReport_FinalAdjustment>Ajustement</StatsReport_FinalAdjustment>
+
+<!-- Not found in 1.2 
+    <StatsReport_FinalAdjustment>Ajustement</StatsReport_FinalAdjustment> -->
   
   <!-- Bed -->
-  <ForGuestUse>Pour invités seulement</ForGuestUse>
+Fac
+<!-- Not found in 1.2 
+    <ForGuestUse>Pour invités seulement</ForGuestUse> -->
+
   <GuestBedFormat>invité {0}</GuestBedFormat>
-  <CommandBedSetAsGuestLabel>Pour invités</CommandBedSetAsGuestLabel>
+  <CommandBedSetAsGuestLabel>Pour les invités</CommandBedSetAsGuestLabel>
   <CommandBedSetAsGuestDesc>Lit réservé aux invités.</CommandBedSetAsGuestDesc>
-  <FeeNone>Gratuit</FeeNone>
-  <FeeAmount>{0} argent par nuit</FeeAmount>
+  <FeeNone>Prix : Gratuit</FeeNone>
+  <FeeAmount>Prix : {0} argent par nuit</FeeAmount>
   <CommandBedIncreaseFeeLabel>+{0}</CommandBedIncreaseFeeLabel>
-
-  <CommandBedIncreaseFeeDesc>Hausser le prix de {0}. Les invités louant ce lit recevront une pénalité de 1 à leur humeur.</CommandBedIncreaseFeeDesc>
+  <CommandBedIncreaseFeeDesc>Hausser le prix de {0}. Les invités louant ce lit recevront une pénalité de {1} à leur humeur.</CommandBedIncreaseFeeDesc>
   <CommandBedDecreaseFeeLabel>-{0}</CommandBedDecreaseFeeLabel>
-  <CommandBedDecreaseFeeDesc>Réduire le prix de {0}. Les invités louant ce lit recevront un bonus de 1 à leur humeur.</CommandBedDecreaseFeeDesc>
+  <CommandBedDecreaseFeeDesc>Réduire le prix de {0}. Les invités louant ce lit recevront un bonus de {1} à leur humeur.</CommandBedDecreaseFeeDesc>
 
+<!-- Added from 1.2 update -->
+    <BedAttractiveness>Attractivité: {0}</BedAttractiveness>
+    <BedSatisfiedTitles>Les invités avec l'un des titres royaux suivant vont accepter ce lit:</BedSatisfiedTitles>
+    <BedroomMustBeSingle>Seulement un lit</BedroomMustBeSingle>
+    <NextTitleRequirements>Conditions pour obtenir un titre plus élevé:\n- {0}</NextTitleRequirements>
   
-  <!-- Options -->
+      <!-- Alerts -->
+    <AlertCantClaimBed>Cet invité ne peut pas réclamer ce lit</AlertCantClaimBed>
+    <AlertCantClaimBedDesc>Ces invités ne peuvent pas se permettre de payer pour réclamer l'un des lits disponibles:\n\n{0}\nVeuillez mettre à leur disponibilité des lits moins coûteux, gratuits ou leur faire don d'argent.\nLes factions avec lesquelles vous vous entendiez bien, amèneront davantage d'argent.</AlertCantClaimBedDesc>
+    <AlertNotEnoughBeds>Pas assez de lits pour les invités</AlertNotEnoughBeds>
+    <AlertNotEnoughBedsDesc>Il n'y a pas assez de lits pour les invités suivants:\n\n{0}\nVeuillez mettre à leur disposition davantage de lits.</AlertNotEnoughBedsDesc>
+
+
+  <!-- Settings -->
+  <DisableLimits>Désactiver les limites des options</DisableLimits>
+  <DisableLimitsDesc>Activée, vous pouvez modifier et augmenter les paramètres recommandés pour un jeu équitable.</DisableLimitsDesc>
   <DisableVisitors>Désactiver les visiteurs</DisableVisitors>
   <DisableVisitorsDesc>Vous détestez les visiteurs et vous vous demandez pourquoi vous avez ce mod...</DisableVisitorsDesc>
   <DisableGuestsHelping>Désactiver l’aide des invités</DisableGuestsHelping>
@@ -153,24 +174,38 @@
   <DisableArtAndCraft>Désactiver l'aide artistique et artisanale</DisableArtAndCraft>
   <DisableArtAndCraftDesc>Les invités n'effectueront pas de tâches artistiques ni artisanales.</DisableArtAndCraftDesc>
   <DisableOperations>Désactiver l'aide opératoire médicale</DisableOperations>
-  <DisableOperationsDesc>Activée, les invités n'effectueront n'opéreront pas les patients.</DisableOperationsDesc>
+  <DisableOperationsDesc>Activée, les invités n'effectueront pas d'opération chez les patients.</DisableOperationsDesc>
   <DisableMedical>Désactiver l'aide médicale</DisableMedical>
-  <DisableMedicalDesc>Activée, les invités ne promulgueront pas de soin.</DisableMedicalDesc>
-  <DisableLimits>Désactiver les limites des options</DisableLimits>
-  <DisableLimitsDesc>Activée, vous pouvez modifier et augmenter les paramètres recommandés pour un jeu équitable.</DisableLimitsDesc>
+  <DisableMedicalDesc>Activée, les invités ne donnerons pas de soin.</DisableMedicalDesc>
+
+<!-- Added from 1.2 update -->
+    <DisableWarden>Désactiver l'aide des invités pour la protection de la colonie.</DisableWarden>
+    <DisableWardenDesc>Une fois coché, les invités ne feront aucune tâche reliée à la protection de votre colonie.</DisableWardenDesc>
+
   <DisableGifts>Désactiver les cadeaux des invités.</DisableGifts>
   <DisableGiftsDesc>Une fois activée, les invités ne laisseront jamais de cadeaux quand ils seront contents.</DisableGiftsDesc>
   <MinGuestWorkSkill>Niveau minimal pour travailler</MinGuestWorkSkill>
-  <MinGuestWorkSkillDesc>Niveau de compétence minimal dont un invité a besoin pour accomplir une tâche lorsqu’il aide. (recommandée: 7)</MinGuestWorkSkillDesc>
+  <MinGuestWorkSkillDesc>Niveau de compétence minimale dont un invité a besoin pour accomplir une tâche lorsqu’il aide. (recommandée: 7)</MinGuestWorkSkillDesc>
   <MaxGuestGroupSize>Taille maximale du groupe d’invités</MaxGuestGroupSize>
   <MaxGuestGroupSizeDesc>Taille maximale d’un groupe d’invités (recommandée: 16)</MaxGuestGroupSizeDesc>
   <MinGuestGroupSize>Taille minimale du groupe d’invités</MinGuestGroupSize>
   <MinGuestGroupSizeDesc>Taille minimale d’un groupe d’invités. (recommandée: 1)</MinGuestGroupSizeDesc>
+  
+<!-- Added from 1.2 update -->
+    <MaxIncidentsPer3Days>Maximum de visite en 3 jours</MaxIncidentsPer3Days>
+    <MaxIncidentsPer3DaysDesc>Maximum de visite par des groupes dans un interval de 3 jours. (recommandé: 5)</MaxIncidentsPer3DaysDesc>
+
   <DisableGuestsTab>Cacher l'onglet "Guests"</DisableGuestsTab>
   <DisableGuestsTabDesc>Cache l'onglet "Guests" de la barre principale du jeu.</DisableGuestsTabDesc>
   <EnableBuyNotification>Autoriser les notifications d'achats</EnableBuyNotification>
-  <EnableBuyNotificationDesc>Affiche un message quad un invité réalise un achat. Peut-être revu dans l'onglet "Historique" -> Messages (montrer messages).</EnableBuyNotificationDesc>
+  <EnableBuyNotificationDesc>Affiche un message quand un invité réalise un achat. Peut-être revu dans l'onglet "Historique" -> Messages (montrer messages).</EnableBuyNotificationDesc>
   <EnableRecruitNotification>Autoriser les notifications "Assez d'amis"</EnableRecruitNotification>
   <EnableRecruitNotificationDesc>Affiche un message lorsqu'un invité a suffisamment d'amis pour le recruter.</EnableRecruitNotificationDesc>
-  
+
+<!-- Added from 1.2 update -->  
+    <DisableFriendlyGearDrops>Pas de rejet d'inventaire</DisableFriendlyGearDrops>
+    <DisableFriendlyGearDropsDesc>Lorsqu'un colon amical est abattu, il ne laissera plus tomber leur inventaire.</DisableFriendlyGearDropsDesc>
+    <UseIcon>Afficher l'icône de l'onglet des invités</UseIcon>
+    <UseIconDesc>Affiche une icône au lieu du texte, c'est plus compact.</UseIconDesc>
+
 </LanguageData>
