@@ -3,7 +3,7 @@
 
 	<rep>
 		<path>GuestBeds.label</path>
-		<trans>Lits de visiteurs</trans>
+		<trans>Lits pour les visiteurs</trans>
 	</rep>
 	<rep>
 		<path>GuestBeds.helpText</path>
