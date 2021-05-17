@@ -2,10 +2,10 @@
 <!--suppress ALL -->
 <LanguageData>
 	
-	<Diplomat.labelShort>Hospitalité</Diplomat.labelShort>
-	<Diplomat.pawnLabel>Diplomat</Diplomat.pawnLabel>
-	<Diplomat.gerundLabel>Accueil des visiteurs</Diplomat.gerundLabel>
+	<Diplomat.labelShort>Diverti</Diplomat.labelShort>
+	<Diplomat.pawnLabel>Diplomate</Diplomat.pawnLabel>
+	<Diplomat.gerundLabel>Diverti les visiteurs</Diplomat.gerundLabel>
 	<Diplomat.description>Les colons diplomates accueillent les visiteurs et sympathisent avec eux.</Diplomat.description>
-	<Diplomat.verb>Hospitalité</Diplomat.verb>
+	<Diplomat.verb>Diverti</Diplomat.verb>
 
 </LanguageData>
