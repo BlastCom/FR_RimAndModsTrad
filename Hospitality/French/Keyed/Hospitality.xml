@@ -192,8 +192,8 @@ Fac
   <MinGuestGroupSizeDesc>Taille minimale d’un groupe d’invités. (recommandée: 1)</MinGuestGroupSizeDesc>
   
 <!-- Added from 1.2 update -->
-    <MaxIncidentsPer3Days>Maximum de visite en 3 jours</MaxIncidentsPer3Days>
-    <MaxIncidentsPer3DaysDesc>Maximum de visite par des groupes dans un interval de 3 jours. (recommandé: 5)</MaxIncidentsPer3DaysDesc>
+  <MaxIncidentsPer3Days>Maximum de visite en 3 jours</MaxIncidentsPer3Days>
+  <MaxIncidentsPer3DaysDesc>Maximum de visite par des groupes dans un interval de 3 jours. (recommandé: 5)</MaxIncidentsPer3DaysDesc>
 
   <DisableGuestsTab>Cacher l'onglet "Guests"</DisableGuestsTab>
   <DisableGuestsTabDesc>Cache l'onglet "Guests" de la barre principale du jeu.</DisableGuestsTabDesc>
