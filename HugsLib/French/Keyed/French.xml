@@ -9,11 +9,10 @@
 	<HugsLib_settings_noSettings>Aucun mods avec options modifiables.</HugsLib_settings_noSettings>
 	<HugsLib_settings_resetMod>Réinitialiser les réglages par défault de {0}</HugsLib_settings_resetMod>
     <HugsLib_settings_resetMod_prompt>Réinitialiser tous les réglages de {0} à leur état d'origine?</HugsLib_settings_resetMod_prompt>
-	<HugsLib_settings_resetIncludeHidden>Inclure les paramètres cachés ({0})<HugsLib_settings_resetIncludeHidden>
+	<HugsLib_settings_resetIncludeHidden>Inclure les paramètres cachés ({0})</HugsLib_settings_resetIncludeHidden>
 	<HugsLib_settings_hiddenSettingsHeader>Paramètres cachés du mod :</HugsLib_settings_hiddenSettingsHeader>
-	<HugsLib_settings_resetSuccessMessage>Les paramètres de {0} ont été réinitialisés.<HugsLib_settings_resetSuccessMessage>
+	<HugsLib_settings_resetSuccessMessage>Les paramètres de {0} ont été réinitialisés.</HugsLib_settings_resetSuccessMessage>
 
-	<HugsLib_ownSettingsName>Autre</HugsLib_ownSettingsName>
 	<HugsLib_setting_showNews_label>Afficher les infos de mise jour des mods</HugsLib_setting_showNews_label>
 	<HugsLib_setting_showNews_desc>Permet aux mods nouvellement installés de présenter leurs fonctionnalités dans une bulle d'aide en jeux.</HugsLib_setting_showNews_desc>
 	<HugsLib_setting_allNews_label>Toutes les infos de mise à jours</HugsLib_setting_allNews_label>
@@ -34,14 +33,14 @@
 	<HugsLib_features_update>{0} v{1}</HugsLib_features_update>
 	<HugsLib_features_link>Lien</HugsLib_features_link>
 	<HugsLib_features_linkDesc>Ouvrir votre navigateur sur une page où vous pourrez en apprendre plus à propos de cette mise à jour.\nAddress: {0}</HugsLib_features_linkDesc>
-	HugsLib_features_ignoreTooltip 'Notify about future updates from this mod' (English file: English.xml:36)
-	HugsLib_features_confirmIgnoreTitle 'Confirm' (English file: English.xml:37)
-	HugsLib_features_confirmIgnore 'Ignore future update news from {0}?\n\nCan be re-enabled in Mod Options > All mod update news' (English file: English.xml:38)
-	HugsLib_features_filterBtn 'Filter by mod' (English file: English.xml:39)
-	HugsLib_features_filterStatus 'Current filter: {0}' (English file: English.xml:40)
-	HugsLib_features_filterAllMods 'All mods' (English file: English.xml:41)
-	HugsLib_features_filterDropdownEntry '{0} ({1} news{2})' (English file: English.xml:42)
-	HugsLib_features_filterIgnoredModSuffix ', ignored' (English file: English.xml:43)
+	<HugsLib_features_ignoreTooltip>M'informer lorsque qu'il y a de nouvelles mises à jour pour ce mod</HugsLib_features_ignoreTooltip>
+	<HugsLib_features_confirmIgnoreTitle>Je confirme</HugsLib_features_confirmIgnoreTitle>
+	<HugsLib_features_confirmIgnore>Ignorer les futures mises à jour de {0}?\n\nPeut être réactivé dans Options des mods > Toutes l'actualités des mises à jour du mod</HugsLib_features_confirmIgnore>
+	<HugsLib_features_filterBtn>Filtrer par mod</HugsLib_features_filterBtn>
+	<HugsLib_features_filterStatus>Filtre actif: {0}</HugsLib_features_filterStatus>
+	<HugsLib_features_filterAllMods>Tous les mods</HugsLib_features_filterAllMods> 
+	<HugsLib_features_filterDropdownEntry>{0} ({1} nouvelles{2})</HugsLib_features_filterDropdownEntry>
+	<HugsLib_features_filterIgnoredModSuffix>, ignoré(s)</HugsLib_features_filterIgnoredModSuffix>
 
 
 	<HugsLib_copiedToClipboard>Copié dans le presse-papier.</HugsLib_copiedToClipboard>
@@ -63,15 +62,15 @@
 	<HugsLib_logs_openLogFile>Ouvrir le fichier log</HugsLib_logs_openLogFile>
 	<HugsLib_logs_openSaveDir>Ouvrir le dossier des sauvegardes</HugsLib_logs_openSaveDir>
 	<HugsLib_logs_openModsDir>Ouvrir le dossier Mods</HugsLib_logs_openModsDir>
-HugsLib_logs_useRecommendedSettings 'Use recommended settings' (English file: English.xml:59)
-HugsLib_logs_shortUrls 'Use URL shortener' (English file: English.xml:60)
-HugsLib_logs_shortUrls_tip 'Produces a shorter link when uploading. Not recommended on Steam- short links are automatically removed.' (English file: English.xml:61)
-HugsLib_logs_platformInfo 'Include platform information' (English file: English.xml:62)
-HugsLib_logs_platformInfo_tip 'Includes information about your CPU, memory and video card in the log.' (English file: English.xml:63)
-HugsLib_logs_unlimitedLogSize 'Allow unlimited log size' (English file: English.xml:64)
-HugsLib_logs_unlimitedLogSize_tip 'When disabled, log size is limited to 10K lines to prevent very long logs from causing issues.' (English file: English.xml:65)
-HugsLib_logs_toClipboardBtn 'To clipboard' (English file: English.xml:66)
-HugsLib_logs_uploadBtn 'Upload' (English file: English.xml:67)
+	<HugsLib_logs_useRecommendedSettings>Utiliser les réglages recommendés</HugsLib_logs_useRecommendedSettings>
+	<HugsLib_logs_shortUrls>Utiliser le réducteur d'URL</HugsLib_logs_shortUrls> 
+	<HugsLib_logs_shortUrls_tip>Produit un lien plus court lors du téléversement. Pas recommendé sur Steam- Les liens réduits sont automatiquement retirés.</HugsLib_logs_shortUrls_tip>
+	<HugsLib_logs_platformInfo>Inclure l'information sur la plateforme</HugsLib_logs_platformInfo>
+	<HugsLib_logs_platformInfo_tip>Inclure les informations de votre CPU, mémoire et carte graphique dans le journal.</HugsLib_logs_platformInfo_tip>
+	<HugsLib_logs_unlimitedLogSize>Autoriser une taille du journal illimitée</HugsLib_logs_unlimitedLogSize>
+	<HugsLib_logs_unlimitedLogSize_tip>Lorsque désactiver, la taille du journal est limitée 10 milles lignes pour éviter de causer des probèmes.</HugsLib_logs_unlimitedLogSize_tip>
+	<HugsLib_logs_toClipboardBtn>vers le presse-papier</HugsLib_logs_toClipboardBtn>
+	<HugsLib_logs_uploadBtn>Téléversement...</HugsLib_logs_uploadBtn>
 
 	<HugsLib_restart_language_text>La langue à été changé. Le jeu va maintenant redémarrer automatiquement.</HugsLib_restart_language_text>
 	
@@ -82,8 +81,8 @@ HugsLib_logs_uploadBtn 'Upload' (English file: English.xml:67)
 	<test_enumSetting_ValueOne>Valeur Un</test_enumSetting_ValueOne>
 	<test_enumSetting_ValueTwo>Valeur Deux</test_enumSetting_ValueTwo>
 	
-	HugsLib_updateRequired_title 'Library update required' (English file: English.xml:79)
-HugsLib_updateRequired_text '<b>{0}</b> requires version <b>{1}</b> of the <b>HugsLib library</b> to work properly.\n\nWould you like to update it now?' (English file: English.xml:80)
-HugsLib_updateRequired_updateBtn 'Update now' (English file: English.xml:81)
+	<HugsLib_updateRequired_title>Une mise à jour de la librairie est requis</HugsLib_updateRequired_title>
+	<HugsLib_updateRequired_text><b>{0}</b> requiert la version <b>{1}</b> de la <b>Librairie HugsLib</b> pour fonctionner correctement.\n\nVoulez-vous la mettre à jour maintenant?</HugsLib_updateRequired_text>
+	<HugsLib_updateRequired_updateBtn>Mettre à jour</HugsLib_updateRequired_updateBtn>
 
 </LanguageData>
