@@ -43,7 +43,7 @@
   <VisitorsReturnNotSoon>Ils ne reviendront pas de sitôt.</VisitorsReturnNotSoon>
   <VisitorsReturnNot>Ils en ont eu assez de votre colonie et ne reviendront pas.</VisitorsReturnNot>
 
-  <VisitorsArrivedTitle>Les invités sont arrivés à {0} (en provenance de {1})</VisitorsArrivedTitle>
+  <VisitorsArrivedTitle>Les invités sont arrivés à {WORLDOBJECT_label} (en provenance de {1})</VisitorsArrivedTitle>
   <VisitorsArrivedDesc>Ils ont peur d’entrer dans votre territoire pour les raisons suivantes:\n{1}\n\nSi vous les renvoyez, ils resteront dans la région et reviendront plus tard.</VisitorsArrivedDesc>
   <VisitorsArrivedAccept>Garantir la sécurité</VisitorsArrivedAccept>
   <VisitorsArrivedRefuse>Renvoyer</VisitorsArrivedRefuse>
@@ -58,7 +58,7 @@
   <LetterLabelHappyGuestJoins>{PAWN_labelShort} veut rester.</LetterLabelHappyGuestJoins>
   <HappyGuestJoins>{PAWN_labelShort} de {0} s'est entendu(e) avec {PAWN_possessive} faction qui le laisse vous rejoindre en tant qu'ambassadeur. Cela ne détériorera pas votre relation avec sa faction.\n\nVous avez le temps de considérer son recrutement (ou non) jusqu'à ce qu'ils partent.</HappyGuestJoins>
   
-  <GuestBoughtItem>Un membre de {0} a acheté {ITEM_label} pour {1} argent.</GuestBoughtItem>
+  <GuestBoughtItem>Un membre de {FACTION_name} a acheté {ITEM_label} pour {1} argent.</GuestBoughtItem>
 
 
   <!-- Communication -->
