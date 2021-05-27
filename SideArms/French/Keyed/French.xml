@@ -3,23 +3,27 @@
 
 <ActiveTab_desc></ActiveTab_desc>
 <ActiveTab_title>Onglets de configuration</ActiveTab_title>
-<OptimalMelee_desc>Les pawns doivent-ils automatiquement s'équiper d'une arme de mélée avec un meilleur DPS ? (en prenant en compte l'armure de la cible)</OptimalMelee_desc>
+<ToolAutoSwitch_desc>Les colons doivent-ils automatiquement s'équiper du meilleur outil ou arme selon le travail effectué?</ToolAutoSwitch_desc>
+<ToolAutoSwitch_title>Changement automatique des outils</ToolAutoSwitch_title>
+<OptimalMelee_desc>Les colons doivent-ils automatiquement s'équiper d'une arme de mélée avec un meilleur DPS? (en prenant en compte l'armure de la cible)</OptimalMelee_desc>
 <OptimalMelee_title>Meilleure arme de mélée</OptimalMelee_title>
-<CQCAutoSwitch_desc>Les pawns doivent-ils sortir leur arme de mélée lorsqu'ils sont attaqués à la mélée ?</CQCAutoSwitch_desc>
-<CQCAutoSwitch_title>Changement auto combat de mélée</CQCAutoSwitch_title>
-<CQCFistSwitch_desc>Les pawns doivent-ils changer d'arme même lorsqu'ils ne sont pas entrain d'en utiliser ?</CQCFistSwitch_desc>
-<CQCFistSwitch_title>Changement auto à main nue</CQCFistSwitch_title>
-<CQCTargetOnly_desc>Les pawns doivent-ils ne réagir uniquement qu'aux attaques de leur cible actuelle ?</CQCTargetOnly_desc>
-<CQCTargetOnly_title>Ne changer que lors des attaques d'une cible</CQCTargetOnly_title>
+<CQCAutoSwitch_desc>Les colons doivent-ils sortir leur arme de mélée secondaire lorsqu'ils sont attaqués à la mélée?</CQCAutoSwitch_desc>
+<CQCAutoSwitch_title>Changement automatique pour l'arme de mélée</CQCAutoSwitch_title>
+<CQCFistSwitch_desc>Les colons doivent-ils changer d'arme même lorsqu'ils ne sont pas en combat?</CQCFistSwitch_desc>
+<CQCFistSwitch_title>Changement automatique à main nue</CQCFistSwitch_title>
+<CQCTargetOnly_desc>Les colons doivent-ils réagir uniquement qu'aux attaques de leur cible actuelle?</CQCTargetOnly_desc>
+<CQCTargetOnly_title>Attaquer seulement les cibles assignées</CQCTargetOnly_title>
 
-<DropMode_desc>Dans quelles situations les pawns sont-ils forcés de jeter leur arme plutôt que de la ranger dans leur inventaire ?</DropMode_desc>
-<DropMode_title>Critère de jet d'arme</DropMode_title>
+<DropMode_desc>Dans quelles situations les colons sont-ils forcés de jeter leur arme plutôt que de la ranger dans leur inventaire?</DropMode_desc>
+<DropMode_title>Critère jeter l'arme au sol</DropMode_title>
+<ReEquipBest_desc>Après avoir jeter son arme, rééquipe automatiquement la meilleure arme disponible (au lieu de l'arme la plus près)</ReEquipBest_desc>
+<ReEquipBest_title>Rééquiper selon disponibilité</ReEquipBest_title>
 
 <LimitCarryInfo_desc></LimitCarryInfo_desc>
-<LimitCarryInfo_title>*Toujours limité par la capacité de charge du pawn</LimitCarryInfo_title>
+<LimitCarryInfo_title>*Toujours limité par la capacité de charge du colon</LimitCarryInfo_title>
 
 <CEOverrideInfo_desc></CEOverrideInfo_desc>
-<CEOverrideInfo_title>Désactivé en faveur du système de CE.</CEOverrideInfo_title>
+<CEOverrideInfo_title>Désactivé en faveur du système CE.</CEOverrideInfo_title>
 
 <LimitModeAmountMelee_desc>Quelles restrictions sont en place sur le nombre d'armes secondaire de mélée.</LimitModeAmountMelee_desc>
 <LimitModeAmountMelee_title>Mode limite du total d'arme secondaire de mélée</LimitModeAmountMelee_title>
@@ -37,39 +41,50 @@
 <LimitModeAmountTotal_title>Total</LimitModeAmountTotal_title>
 <LimitModeAmountTotal_desc>Quelles restrictions sont en place sur l'ensemble des armes secondaires.</LimitModeAmountTotal_desc>
 
-<MaximumMassAmountAbsolute_desc>La masse totale maximum des armes secondaires qu'un pawn peut porter.</MaximumMassAmountAbsolute_desc>
+<MaximumMassAmountAbsolute_desc>La masse totale maximum des armes secondaires qu'un colon peut porter.</MaximumMassAmountAbsolute_desc>
 <MaximumMassAmountAbsolute_title>Masse max. des armes secondaires</MaximumMassAmountAbsolute_title>
-<MaximumMassAmountRelative_desc>Le pourcentage maximum du total de la masse des armes secondaires qu'un pawn peut porter par rapport à sa capacité de charge.</MaximumMassAmountRelative_desc>
+<MaximumMassAmountRelative_desc>Le pourcentage maximum du total de la masse des armes secondaires qu'un colon peut porter par rapport à sa capacité de charge.</MaximumMassAmountRelative_desc>
 <MaximumMassAmountRelative_title>Pourcentage max. de la masse des armes secondaires</MaximumMassAmountRelative_title>
-<MaximumMassSingleAbsolute_desc>Masse maximale d'une seule arme secondaire qu'un pawn peut porter.</MaximumMassSingleAbsolute_desc>
+<MaximumMassSingleAbsolute_desc>Masse maximale d'une seule arme secondaire qu'un colon peut porter.</MaximumMassSingleAbsolute_desc>
 <MaximumMassSingleAbsolute_title>Masse max. par arme secondaire</MaximumMassSingleAbsolute_title>
-<MaximumMassSingleRelative_desc>Le pourcentage maximum de la masse d'une seule arme secondaire qu'un pawn peut porter par rapport à sa capacité de charge.</MaximumMassSingleRelative_desc>
+<MaximumMassSingleRelative_desc>Le pourcentage maximum de la masse d'une seule arme secondaire qu'un colon peut porter par rapport à sa capacité de charge.</MaximumMassSingleRelative_desc>
 <MaximumMassSingleRelative_title>Pourcentage de masse max. par arme secondaire</MaximumMassSingleRelative_title>
-<MaximumSlots_desc>Combien d'armes secondaire un pawn peut porter.</MaximumSlots_desc>
+<MaximumSlots_desc>Combien d'armes secondaire un colon peut porter.</MaximumSlots_desc>
 <MaximumSlots_title>Emplacements</MaximumSlots_title>
-<RangedCombatAutoSwitchMaxWarmup_desc>Quel est le seuil après lequel un pawn refusera d'interrompre son attaque pour passer à une arme secondaire ?</RangedCombatAutoSwitchMaxWarmup_desc>
+<RangedCombatAutoSwitchMaxWarmup_desc>Quel est le seuil après lequel un colon refusera d'interrompre son attaque pour passer à une arme secondaire?</RangedCombatAutoSwitchMaxWarmup_desc>
 <RangedCombatAutoSwitchMaxWarmup_title>Pourcentage maximal du délai d'échauffement</RangedCombatAutoSwitchMaxWarmup_title>
-<RangedCombatAutoSwitch_desc>Les pawns doivent-ils changer d'arme secondaire en fonction de la distance lorsqu'ils attaquent à distance ?</RangedCombatAutoSwitch_desc>
+<RangedCombatAutoSwitch_desc>Les colons doivent-ils changer d'arme secondaire en fonction de la distance lorsqu'ils attaquent à distance?</RangedCombatAutoSwitch_desc>
 <RangedCombatAutoSwitch_title>Changement auto à distance</RangedCombatAutoSwitch_title>
 <SeparateModes_desc>Les armes de mélée et à distance doivent-elles avoir des restrictions partagées ou séparées?</SeparateModes_desc>
 <SeparateModes_title>Séparer mélée/distance</SeparateModes_title>
 <SidearmSelection_desc></SidearmSelection_desc>
 <SidearmSelection_title>Sélection d'arme secondaire</SidearmSelection_title>
-<SidearmSpawnChance_desc>Les chances pour chaque pawn qui spawn avec une arme d'également posséder une arme secondaire.</SidearmSpawnChance_desc>
-<SidearmSpawnChance_title>Chance de spawn arme secondaire</SidearmSpawnChance_title>
-<SingleshotAutoSwitch_desc>Les pawns doivent-ils automatiquement passer à leur arme secondaire après avoir utilisé une arme à utilisation unique?</SingleshotAutoSwitch_desc>
+<SingleshotAutoSwitch_desc>Les colons doivent-ils automatiquement passer à leur arme secondaire après avoir utilisé une arme à utilisation unique?</SingleshotAutoSwitch_desc>
 <SingleshotAutoSwitch_title>Changement auto arme unique</SingleshotAutoSwitch_title>
-<SpeedSelectionBiasMelee_desc>Biais des pawns envers les armes avec des vitesses d'attaque plus rapides.</SpeedSelectionBiasMelee_desc>
+<SpeedSelectionBiasMelee_desc>Biais des colons envers les armes avec des vitesses d'attaque plus rapides.</SpeedSelectionBiasMelee_desc>
 <SpeedSelectionBiasMelee_title>Biais envers la vitesse (mélée)</SpeedSelectionBiasMelee_title>
-<SpeedSelectionBiasRanged_desc>Biais des pawns envers les armes avec des vitesses d'échauffement plus rapides.</SpeedSelectionBiasRanged_desc>
+<SpeedSelectionBiasRanged_desc>Biais des colons envers les armes avec des vitesses d'échauffement plus rapides.</SpeedSelectionBiasRanged_desc>
 <SpeedSelectionBiasRanged_title>Biais envers la vitesse (ranged)</SpeedSelectionBiasRanged_title>
 <WeaponMatch_desc>Voici les armes qui correspondent au critère.</WeaponMatch_desc>
 <WeaponMatch_title></WeaponMatch_title>
 
-<SidearmsEnableNeolithicExtension_desc>Autorisé plus d'armes à être utilisées comme armes secondaires par les tribals.</SidearmsEnableNeolithicExtension_desc>
-<SidearmsEnableNeolithicExtension_title>Étendre armes secondaires néolithiques</SidearmsEnableNeolithicExtension_title>
-<SidearmsNeolithicExtension_desc></SidearmsNeolithicExtension_desc>
-<SidearmsNeolithicExtension_title>Armes secondaires considérées néolithiques</SidearmsNeolithicExtension_title>
+<SidearmSpawnChance_desc>Les chances pour chaque colon qui apparaît avec une arme d'également posséder une arme de poing.</SidearmSpawnChance_desc>
+<SidearmSpawnChance_title>Chance d'apparaître avec arme de poing</SidearmSpawnChance_title>
+<SidearmSpawnChanceDropoff_desc>La quantité par laquelle la chance de générer une arme de poing est réduite par arme de poing supplémentaire.</SidearmSpawnChanceDropoff_desc>
+<SidearmSpawnChanceDropoff_title>Réduction supplémentaire des chances de génération</SidearmSpawnChanceDropoff_title>
+<SidearmBudgetMultiplier_desc>La valeur en argent qu'une arme de poing peut valoir, est basé par défaut selon l'arme primaire.</SidearmBudgetMultiplier_desc>
+<SidearmBudgetMultiplier_title>Multiplicateur du budjet d'une arme de poing</SidearmBudgetMultiplier_title>
+<SidearmBudgetDropoff_desc>Le montant de la réduction du budget par arme de poing supplémentaire.</SidearmBudgetDropoff_desc>
+<SidearmBudgetDropoff_title>Réduction supplémentaire du budget des armes de poing</SidearmBudgetDropoff_title>
+<ColonistDefaultWeaponMode_desc>L'arme par défaut lorsque le colon est contrôlé par le joueur.</ColonistDefaultWeaponMode_desc>
+<ColonistDefaultWeaponMode_title>Mode arme par défaut</ColonistDefaultWeaponMode_title>
+<NPCDefaultWeaponMode_desc>Le mode de préférence d'arme par défaut pour les PNJ.</NPCDefaultWeaponMode_desc>
+<NPCDefaultWeaponMode_title>Mode arme par défaut pour PNJ</NPCDefaultWeaponMode_title>
+
+<PrimaryWeaponMode_option_Ranged>À distance</PrimaryWeaponMode_option_Ranged>
+<PrimaryWeaponMode_option_Melee>Mêlée</PrimaryWeaponMode_option_Melee>
+<PrimaryWeaponMode_option_BySkill>Selon compétences</PrimaryWeaponMode_option_BySkill>
+<PrimaryWeaponMode_option_ByGenerated>Selon primaire</PrimaryWeaponMode_option_ByGenerated>
 	
 <LimitModeSingle_option_None>Pas de limite</LimitModeSingle_option_None>
 <LimitModeSingle_option_RelativeWeight>Fraction de masse</LimitModeSingle_option_RelativeWeight>
@@ -85,15 +100,14 @@
 <ActiveTab_option_Presets>Préréglages</ActiveTab_option_Presets>
 <ActiveTab_option_Automation>Déclencheurs</ActiveTab_option_Automation>
 <ActiveTab_option_Allowances>Limites</ActiveTab_option_Allowances>
-<ActiveTab_option_Spawning>Spawning</ActiveTab_option_Spawning>
+<ActiveTab_option_Spawning>Génération</ActiveTab_option_Spawning>
 <ActiveTab_option_Misc>Divers</ActiveTab_option_Misc>
 
 <DropMode_option_Never>Jamais</DropMode_option_Never>
-<DropMode_option_Panic>Corps à corps</DropMode_option_Panic>
-<DropMode_option_PanicOrRange>Combat</DropMode_option_PanicOrRange>
-<DropMode_option_Always>Toujours</DropMode_option_Always>
 <DropMode_option_InDistress>En détresse</DropMode_option_InDistress>
 <DropMode_option_InCombat>En combat</DropMode_option_InCombat>
+<DropMode_option_Always>Toujours</DropMode_option_Always>
+
 
 <PresetExport_title></PresetExport_title>
 <PresetExport_desc></PresetExport_desc>
@@ -113,13 +127,13 @@
 <Preset1_desc>Autorise le port d'armes secondaires, mais rien d'autre. Essentiellement une extension d'inventaire pratique.</Preset1_desc>
 <Preset1_label></Preset1_label>
 <Preset2_title>Basique</Preset2_title>
-<Preset2_desc>Une configuration simple. Les pawns peuvent utiliseer quelques armes légères et essaieront de les utiliser dans les situations appropriées.</Preset2_desc>
+<Preset2_desc>Une configuration simple. Les colons peuvent utiliseer quelques armes légères et essaieront de les utiliser dans les situations appropriées.</Preset2_desc>
 <Preset2_label></Preset2_label>
 <Preset3_title>Avancé</Preset3_title>
-<Preset3_desc>Les pawns deviennent plus créatifs avec leur sélection d'armes, mais reste dans ce qu'on pourrait attendre de gens normaux qui essaient de survivre à un rimworld dangereux. </Preset3_desc>
+<Preset3_desc>Les colons deviennent plus créatifs avec leur sélection d'armes, mais reste dans ce qu'on pourrait attendre de gens normaux qui essaient de survivre à un rimworld dangereux. </Preset3_desc>
 <Preset3_label></Preset3_label>
 <Preset4_title>Excessif</Preset4_title>
-<Preset4_desc>Ramène donc tout ! Minigun ? Prends-en deux ! Des lances ? J'en ai une collection entière dans mon sac à dos!</Preset4_desc>
+<Preset4_desc>Ramène donc tout! Minigun? Prends-en deux! Des lances? J'en ai une collection entière dans mon sac à dos!</Preset4_desc>
 <Preset4_label></Preset4_label>
 <Preset5_title>Mode Combattant</Preset5_title>
 <Preset5_desc>Arme secondaire de mélée pour tout le monde.</Preset5_desc>
@@ -142,7 +156,7 @@
 <SidearmPickupFail_RangedSlotsFull>Emplacements à distance pleins</SidearmPickupFail_RangedSlotsFull>
 <SidearmPickupPass>Pas de problème</SidearmPickupPass>
 <SidearmPickupFail_NotAToolForPacifist>Pas un outil. {0} est incapable de violence.</SidearmPickupFail_NotAToolForPacifist>
-<SidearmPickupFail_NotYetBladelinkBonded>Pas encore lié</SidearmPickupFail_NotYetBladelinkBonded>
+
 <AsTool> en outil</AsTool>
 <AsSidearm> en arme secondaire</AsSidearm>
 
@@ -157,8 +171,8 @@
 <Preset_option_Brawler>Combattant</Preset_option_Brawler>
 
 <WeaponListKind_option_Both>Les deux</WeaponListKind_option_Both>
-<WeaponListKind_option_Melee>Mélée</WeaponListKind_option_Melee>
-<WeaponListKind_option_Ranged>A distance</WeaponListKind_option_Ranged>
+<WeaponListKind_option_Melee>Mêlée</WeaponListKind_option_Melee>
+<WeaponListKind_option_Ranged>À distance</WeaponListKind_option_Ranged>
 
 <TribalWeapons>Tribal</TribalWeapons>
 <NonTribalWeapons>Pas tribal</NonTribalWeapons>
@@ -170,13 +184,12 @@
 <UnlockedWeaponSwitch>Peut changer automatiquement (à distance)</UnlockedWeaponSwitch>
 
 <WeaponSwitchAutolockOn>Verrouiller le changement automatique au dégainage </WeaponSwitchAutolockOn>
-<WeaponSwitchAutolockOff>Off</WeaponSwitchAutolockOff>
+<WeaponSwitchAutolockOff>Éteint</WeaponSwitchAutolockOff>
 
 <DrawSidearm_gizmoTitle>Armes Secondaires</DrawSidearm_gizmoTitle>
-<DrawSidearm_gizmoTooltip>Click gauche pour dégainer {0}.\nClick droit pour jeter {0}.</DrawSidearm_gizmoTooltip>
-<DrawSidearm_gizmoTooltipMemory>Click droit pour oublier {0}.</DrawSidearm_gizmoTooltipMemory>
-<DrawSidearm_gizmoTooltipUnarmed>Click gauche pour passer au combat à main nue.</DrawSidearm_gizmoTooltipUnarmed>
-
+<SidearmPreference_Ranged>Utiliser les armes à distances.</SidearmPreference_Ranged>
+<SidearmPreference_Skill>Utiliser les armes selon les compétences et les passions.</SidearmPreference_Skill>
+<SidearmPreference_Melee>Utiliser les armes de corps à corps (mêlées).</SidearmPreference_Melee>
 <DrawSidearm_gizmoTooltipRanged>Clique gauche pour assigner {0} comme arme à distance par défaut.\nClique droit pour faire tomber {0}.</DrawSidearm_gizmoTooltipRanged>
 <DrawSidearm_gizmoTooltipMelee>Clique gauche pour assigner {0} comme arme de mêlée préférée.\nClique droit pour faire tomber {0}.</DrawSidearm_gizmoTooltipMelee>
 <DrawSidearm_gizmoTooltipRangedDefault>Clique gauche pour forcer l'utilisation de {0}.\nClique droit pour annuler l'assignation de {0} comme arme à distance par défaut.</DrawSidearm_gizmoTooltipRangedDefault>
@@ -184,12 +197,13 @@
 <DrawSidearm_gizmoTooltipForced>Clique droit pour arrêter d'utiliser de force le/la {0}.</DrawSidearm_gizmoTooltipForced>
 <DrawSidearm_gizmoTooltipWhileDrafted>Clique gauche pour forcer l'utilisation de {0} jusqu'à la fin du combat.</DrawSidearm_gizmoTooltipWhileDrafted>
 <DrawSidearm_gizmoTooltipForcedWhileDrafted>Clique droit pour arrêter d'utiliser de force le/la {0}.</DrawSidearm_gizmoTooltipForcedWhileDrafted>
+<DrawSidearm_gizmoTooltipMemory>Click droit pour oublier {0}.</DrawSidearm_gizmoTooltipMemory>
 <DrawSidearm_gizmoTooltipMemoryWhileDrafted>Aucune interaction tant qu'il/elle est enrôlé(e).</DrawSidearm_gizmoTooltipMemoryWhileDrafted>
+<DrawSidearm_gizmoTooltipUnarmed>Click gauche pour passer au combat à main nue.</DrawSidearm_gizmoTooltipUnarmed>
 <DrawSidearm_gizmoTooltipUnarmedPreferred>Clique gauche pour forcer le combat sans arme. \nRClique droit pour retirer la préférence de combat sans arme.</DrawSidearm_gizmoTooltipUnarmedPreferred>
 <DrawSidearm_gizmoTooltipUnarmedForced>Clique droit pour arrêter le combat forcé sans arme.</DrawSidearm_gizmoTooltipUnarmedForced>
 <DrawSidearm_gizmoTooltipUnarmedWhileDrafted>Clique gauche pour forcer le combat sans arme jusqu'à la fin du combat.</DrawSidearm_gizmoTooltipUnarmedWhileDrafted>
 <DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>Clique droit pour arrêter le combat forcé sans arme.</DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>
-
 
 <Alert_MissingSidearm_label>Coloniste sans arme secondaire</Alert_MissingSidearm_label>
 <Alert_MissingPrimary_label>Colonist sans arme principale</Alert_MissingPrimary_label>
@@ -197,33 +211,14 @@
 <Alert_MissingSidearm_desc>Une ou plus des armes secondaires de ces colonistes sont manquantes:\n\n{0}</Alert_MissingSidearm_desc>
 <Alert_MissingPrimary_desc>L'arme principale de ces colons est manquante:\n\n{0}</Alert_MissingPrimary_desc>
 
-<ToolAutoSwitch_desc>Est-ce que vos colons devraient changer d'outil/arme en lien avec leur travail pour améliorer leur rendement?</ToolAutoSwitch_desc>
-<ToolAutoSwitch_title>Utiliser le changement automatique des outils</ToolAutoSwitch_title>
 
-<ReEquipBest_desc>Après avoir fait tomber son arme, rééquipe automatiquement la meilleure arme qui peut trouver (au lieu de l'arme la plus près)</ReEquipBest_desc>
-<ReEquipBest_title>Rééquiper pour le meilleur</ReEquipBest_title>
+<!-- Legacy -->
+<DropMode_option_Panic>En détresse</DropMode_option_Panic>
+<DropMode_option_PanicOrRange>En combat</DropMode_option_PanicOrRange>
 
-<SidearmSpawnChanceDropoff_desc>La quantité par laquelle la chance de générer une arme de poing est réduite par arme de poing supplémentaire.</SidearmSpawnChanceDropoff_desc>
-<SidearmSpawnChanceDropoff_title>Réduction supplémentaire des chances de génération</SidearmSpawnChanceDropoff_title>
-
-<SidearmBudgetMultiplier_desc>La valeur en argent qu'une arme de poing peut valoir, est basé par défaut selon l'arme primaire.</SidearmBudgetMultiplier_desc>
-<SidearmBudgetMultiplier_title>Multiplicateur du budjet d'une arme de poing</SidearmBudgetMultiplier_title>
-<SidearmBudgetDropoff_desc>Le montant de la réduction du budget par arme de poing supplémentaire.</SidearmBudgetDropoff_desc>
-<SidearmBudgetDropoff_title>Réduction supplémentaire du budget des armes de poing</SidearmBudgetDropoff_title>
-
-<ColonistDefaultWeaponMode_desc>L'arme par défaut lorsque le colon est contrôlé par le joueur.</ColonistDefaultWeaponMode_desc>
-<ColonistDefaultWeaponMode_title>Mode arme par défaut</ColonistDefaultWeaponMode_title>
-
-<NPCDefaultWeaponMode_desc>Le mode de préférence d'arme par défaut pour les PNJ.</NPCDefaultWeaponMode_desc>
-<NPCDefaultWeaponMode_title>Mode arme par défaut PNJ</NPCDefaultWeaponMode_title>
-
-<PrimaryWeaponMode_option_Ranged>À distance</PrimaryWeaponMode_option_Ranged>
-<PrimaryWeaponMode_option_Melee>Mêlée</PrimaryWeaponMode_option_Melee>
-<PrimaryWeaponMode_option_BySkill>Selon compétences</PrimaryWeaponMode_option_BySkill>
-<PrimaryWeaponMode_option_ByGenerated>Selon primaire</PrimaryWeaponMode_option_ByGenerated>
-
-<SidearmPreference_Ranged>Utiliser les armes à distances.</SidearmPreference_Ranged>
-<SidearmPreference_Skill>Utiliser les armes selon les compétences et les passions.</SidearmPreference_Skill>
-<SidearmPreference_Melee>Utiliser les armes de corps à corps (mêlées).</SidearmPreference_Melee>
+<SidearmsEnableNeolithicExtension_desc>Autorisé plus d'armes à être utilisées comme armes secondaires par les tribals.</SidearmsEnableNeolithicExtension_desc>
+<SidearmsEnableNeolithicExtension_title>Étendre armes secondaires néolithiques</SidearmsEnableNeolithicExtension_title>
+<SidearmsNeolithicExtension_desc></SidearmsNeolithicExtension_desc>
+<SidearmsNeolithicExtension_title>Armes secondaires considérées néolithiques</SidearmsNeolithicExtension_title>
 
 </LanguageData>
