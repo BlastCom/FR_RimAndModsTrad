@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<PublishLogs.label>Publier le fichier .log (Maintenir Ctrl)</PublishLogs.label>
+	<OpenLogFile.label>Ouvrir le fichier .log</OpenLogFile.label>
+	<RestartRimworld.label>Redémarrer RimWorld</RestartRimworld.label>
+	<HLOpenModSettings.label>Ouvrir la fenêtre de paramètrage des mods</HLOpenModSettings.label>
+	<HLOpenUpdateNews.label>Ouvrir la fenêtre des nouvelles mises à jour des mods</HLOpenUpdateNews.label>
+
+</LanguageData>

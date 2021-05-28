@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<HugsLib_settings_btn>Réglages des mods</HugsLib_settings_btn>
+	<HugsLib_settings_windowTitle>Réglages des mods</HugsLib_settings_windowTitle>
+	<HugsLib_settings_resetValue>Réinitialiser les réglages par défaut</HugsLib_settings_resetValue>
+	<HugsLib_settings_resetAll>Tout réinitialiser</HugsLib_settings_resetAll>
+	<HugsLib_settings_resetAll_prompt>Voulez-vous réinitialiser les réglages par défaut?</HugsLib_settings_resetAll_prompt>
+	<HugsLib_settings_noSettings>Aucun mods avec options modifiables.</HugsLib_settings_noSettings>
+	<HugsLib_settings_resetMod>Réinitialiser les réglages par défaut de {0}</HugsLib_settings_resetMod>
+    <HugsLib_settings_resetMod_prompt>Réinitialiser tous les réglages de {0} à leur état d'origine?</HugsLib_settings_resetMod_prompt>
+	<HugsLib_settings_resetIncludeHidden>Inclure les paramètres cachés ({0})</HugsLib_settings_resetIncludeHidden>
+	<HugsLib_settings_hiddenSettingsHeader>Paramètres cachés du mod :</HugsLib_settings_hiddenSettingsHeader>
+	<HugsLib_settings_resetSuccessMessage>Les paramètres de {0} ont été réinitialisés.</HugsLib_settings_resetSuccessMessage>
+
+	<HugsLib_setting_showNews_label>Afficher les infos de mise à jour des mods</HugsLib_setting_showNews_label>
+	<HugsLib_setting_showNews_desc>Permets aux mods nouvellement installés de présenter leurs fonctionnalités dans une bulle d'aide en jeux.</HugsLib_setting_showNews_desc>
+	<HugsLib_setting_allNews_label>Toutes les infos de mise à jour</HugsLib_setting_allNews_label>
+	<HugsLib_setting_allNews_desc>Afficher toutes les infos de mise à jour des mods, y compris les infos déjà présentées.</HugsLib_setting_allNews_desc>
+	<HugsLib_setting_allNews_button>Afficher maintenant</HugsLib_setting_allNews_button>
+	<HugsLib_setting_allNews_fail>Aucun des mods actifs n'a d'informations de mise à jour.</HugsLib_setting_allNews_fail>
+	<HugsLib_setting_unnamed_mod>(mod sans nom)</HugsLib_setting_unnamed_mod>
+	<HugsLib_setting_show_settings>Afficher les réglages</HugsLib_setting_show_settings>
+	<HugsLib_setting_mod_name_title>Réglages pour {0}</HugsLib_setting_mod_name_title>
+	<HugsLib_setting_expand_mod>Ouvrir</HugsLib_setting_expand_mod>
+    <HugsLib_setting_collapse_mod>Fermer</HugsLib_setting_collapse_mod>
+    <HugsLib_setting_quickstartSettings_label>Configuration rapide</HugsLib_setting_quickstartSettings_label>
+    <HugsLib_setting_logPublisherSettings_label>Préférences du journal</HugsLib_setting_logPublisherSettings_label>
+	<HugsLib_setting_ignoredUpdateNews_label>Ignorer l'informateur de mise à jour</HugsLib_setting_ignoredUpdateNews_label>
+
+	<HugsLib_features_title>Nouvelles fonctions</HugsLib_features_title>
+	<HugsLib_features_description>Les mises à jour suivantes ont été installées, et voici les nouvelles fonctions et améliorations.\nVous pouvez désactiver ce dialogue dans Options &gt; Réglages des mods</HugsLib_features_description>
+	<HugsLib_features_update>{0} v{1}</HugsLib_features_update>
+	<HugsLib_features_link>Lien</HugsLib_features_link>
+	<HugsLib_features_linkDesc>Ouvrir votre navigateur sur une page où vous pourrez en apprendre plus à propos de cette mise à jour.\nAdresse: {0}</HugsLib_features_linkDesc>
+	<HugsLib_features_ignoreTooltip>M'informer lorsqu'il y a de nouvelles mises à jour pour ce mod</HugsLib_features_ignoreTooltip>
+	<HugsLib_features_confirmIgnoreTitle>Je confirme</HugsLib_features_confirmIgnoreTitle>
+	<HugsLib_features_confirmIgnore>Ignorer les futures mises à jour de {0}?\n\nPeut être réactivé dans Options des mods > Toutes l'actualités des mises à jour du mod</HugsLib_features_confirmIgnore>
+	<HugsLib_features_filterBtn>Filtrer par mod</HugsLib_features_filterBtn>
+	<HugsLib_features_filterStatus>Filtre actif: {0}</HugsLib_features_filterStatus>
+	<HugsLib_features_filterAllMods>Tous les mods</HugsLib_features_filterAllMods> 
+	<HugsLib_features_filterDropdownEntry>{0} ({1} nouvelles {2})</HugsLib_features_filterDropdownEntry>
+	<HugsLib_features_filterIgnoredModSuffix>, ignoré(s)</HugsLib_features_filterIgnoredModSuffix>
+
+
+	<HugsLib_copiedToClipboard>Copié dans le presse-papier.</HugsLib_copiedToClipboard>
+	
+	<HugsLib_logs_copy>Copier</HugsLib_logs_copy>
+	<HugsLib_logs_shareBtn>Partage les logs</HugsLib_logs_shareBtn>
+	<HugsLib_logs_shareConfirmTitle>Confirmer</HugsLib_logs_shareConfirmTitle>
+	<HugsLib_logs_shareConfirmMessage>Publier les logs?\n\nCeci chargera votre fichier log sur un serveur public et vous fournira un lien pour le partager sur internet. Cela peut être utile pour demander de l'aide ou pour signaler de manière précise un bug à l'auteur d'un mod.\n\nAucune information privée ne sera publiée.</HugsLib_logs_shareConfirmMessage>
+	<HugsLib_logs_publisherTitle>Poster le log</HugsLib_logs_publisherTitle>
+	<HugsLib_logs_uploading>Chargement{0}</HugsLib_logs_uploading>
+	<HugsLib_logs_shortening>Récupération de l'URL{0}</HugsLib_logs_shortening>
+	<HugsLib_logs_uploaded>Chargement terminé!</HugsLib_logs_uploaded>
+	<HugsLib_logs_uploadError>Erreur de chargement: {0}</HugsLib_logs_uploadError>
+	<HugsLib_logs_abortBtn>Annuler</HugsLib_logs_abortBtn>
+	<HugsLib_logs_retryBtn>Réessayer</HugsLib_logs_retryBtn>
+	<HugsLib_logs_browseBtn>Ouvrir dans le navigateur</HugsLib_logs_browseBtn>
+	
+	<HugsLib_logs_filesBtn>Fichiers</HugsLib_logs_filesBtn>
+	<HugsLib_logs_openLogFile>Ouvrir le fichier log</HugsLib_logs_openLogFile>
+	<HugsLib_logs_openSaveDir>Ouvrir le dossier des sauvegardes</HugsLib_logs_openSaveDir>
+	<HugsLib_logs_openModsDir>Ouvrir le dossier Mods</HugsLib_logs_openModsDir>
+	<HugsLib_logs_useRecommendedSettings>Utiliser les réglages recommandés</HugsLib_logs_useRecommendedSettings>
+	<HugsLib_logs_shortUrls>Utiliser le réducteur d'URL</HugsLib_logs_shortUrls> 
+	<HugsLib_logs_shortUrls_tip>Produis un lien plus court lors du téléversement. Pas recommandé sur Steam- Les liens réduits sont automatiquement retirés.</HugsLib_logs_shortUrls_tip>
+	<HugsLib_logs_platformInfo>Inclure l'information sur la plateforme</HugsLib_logs_platformInfo>
+	<HugsLib_logs_platformInfo_tip>Inclure les informations de votre CPU, mémoire et carte graphique dans le journal.</HugsLib_logs_platformInfo_tip>
+	<HugsLib_logs_unlimitedLogSize>Autoriser une taille du journal illimitée</HugsLib_logs_unlimitedLogSize>
+	<HugsLib_logs_unlimitedLogSize_tip>Lorsque désactiver, la taille du journal est limitée 10 milles lignes pour éviter de causer des problèmes.</HugsLib_logs_unlimitedLogSize_tip>
+	<HugsLib_logs_toClipboardBtn>vers le presse-papier</HugsLib_logs_toClipboardBtn>
+	<HugsLib_logs_uploadBtn>Téléversement...</HugsLib_logs_uploadBtn>
+
+	<HugsLib_restart_language_text>La langue a été changée. Le jeu va maintenant redémarrer automatiquement.</HugsLib_restart_language_text>
+	
+	<HugsLib_loadOrderWarning_title>Erreur dans l'ordre de chargement des mods</HugsLib_loadOrderWarning_title>
+	<HugsLib_loadOrderWarning_text>&lt;b&gt;Le mod HugsLib&lt;/b&gt; doit toujours être chargé après &lt;b&gt;Core&lt;/b&gt; pour éviter les erreurs.\nSVP ajustez l'ordre de votre liste de mod dans la fenêtre Mods et relancez le jeu.</HugsLib_loadOrderWarning_text>
+		
+	<test_enumSetting_DefaultValue>Valeur par défaut</test_enumSetting_DefaultValue>
+	<test_enumSetting_ValueOne>Valeur Un</test_enumSetting_ValueOne>
+	<test_enumSetting_ValueTwo>Valeur Deux</test_enumSetting_ValueTwo>
+	
+	<HugsLib_updateRequired_title>Une mise à jour de la librairie est requise</HugsLib_updateRequired_title>
+	<HugsLib_updateRequired_text><b>{0}</b> requiert la version <b>{1}</b> de la <b>Librairie HugsLib</b> pour fonctionner correctement.\n\nVoulez-vous la mettre à jour maintenant?</HugsLib_updateRequired_text>
+	<HugsLib_updateRequired_updateBtn>Mettre à jour</HugsLib_updateRequired_updateBtn>
+
+</LanguageData>
