@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <FishMouth.label>bouche</FishMouth.label>
+    <LeftGill.label>branchie gauche</LeftGill.label>
+    <RightGill.label>branchie droite</RightGill.label>
+    <LeftFin.label>nageoire gauche</LeftFin.label>
+    <RightFin.label>nageoire droite</RightFin.label>
+    <DorsalFin.label>nageoire droite</DorsalFin.label>
+    <VentralFin.label>nageoire gauche</VentralFin.label>
+    <CaudalFin.label>nageoire droite</CaudalFin.label>
+    <SquidBody.label>corps</SquidBody.label>
+    <SquidHead.label>tête</SquidHead.label>
+    <SquidMouth.label>bouche</SquidMouth.label>
+    <Tentacle.label>nageoire droite</Tentacle.label>
+
+</LanguageData>

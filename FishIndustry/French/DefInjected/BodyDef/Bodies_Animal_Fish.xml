@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <Fish.label>poisson</Fish.label>
+    <Fish.corePart.parts.left_kidney.customLabel>rein gauche</Fish.corePart.parts.left_kidney.customLabel>
+    <Fish.corePart.parts.right_kidney.customLabel>rein droite</Fish.corePart.parts.right_kidney.customLabel>
+    <Fish.corePart.parts.Head.parts.left_eye.customLabel>oeil gauche</Fish.corePart.parts.Head.parts.left_eye.customLabel>
+    <Fish.corePart.parts.Head.parts.right_eye.customLabel>oeil droite</Fish.corePart.parts.Head.parts.right_eye.customLabel>
+
+    <Squid.label>calmar</Squid.label>
+    <Squid.corePart.parts.right_kidney.customLabel>rein droite</Squid.corePart.parts.right_kidney.customLabel>
+    <Squid.corePart.parts.Head.parts.left_eye.customLabel>oeil gauche</Squid.corePart.parts.Head.parts.left_eye.customLabel>
+    <Squid.corePart.parts.Head.parts.right_eye.customLabel>oeil droite</Squid.corePart.parts.Head.parts.right_eye.customLabel>
+
+</LanguageData>
