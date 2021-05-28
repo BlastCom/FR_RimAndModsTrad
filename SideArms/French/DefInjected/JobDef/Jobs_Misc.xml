@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<EquipSecondary.reportString>Équipement de TargetA comme arme de poing</EquipSecondary.reportString>
+	<EquipSecondary.reportString>Équipement de TargetA comme arme secondaire</EquipSecondary.reportString>
 
-	<ReequipSecondary.reportString>Rééquipement de TargetA comme arme de poing.</ReequipSecondary.reportString>
-	<ReequipSecondaryCombat.reportString>Rééquipement de TargetA comme arme de poing.</ReequipSecondaryCombat.reportString>
+	<ReequipSecondary.reportString>Rééquipement de TargetA comme arme secondaire.</ReequipSecondary.reportString>
+	<ReequipSecondaryCombat.reportString>Rééquipement de TargetA comme arme secondaire.</ReequipSecondaryCombat.reportString>
 	
 </LanguageData>

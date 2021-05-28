@@ -8,11 +8,11 @@
 	<ResearchPal.AllowsSowingXinY>Autoriser la plantation de {0} dans {1}</ResearchPal.AllowsSowingXinY>
 	<ResearchPal.AllowsPlantingX>Autoriser la croissance de {0}</ResearchPal.AllowsPlantingX>
 
-	<ResearchPal.LClickReplaceQueue>Clique-Gauche pour remplacer dans la file d'attente</ResearchPal.LClickReplaceQueue>
-	<ResearchPal.LClickRemoveFromQueue>Clique-Gauche pour retirer de la file d'attente</ResearchPal.LClickRemoveFromQueue>
-	<ResearchPal.SLClickAddToQueue>Maj-Clique-Gauche pour ajouter à la file d'attente</ResearchPal.SLClickAddToQueue>
-	<ResearchPal.CLClickDebugInstant>(DEBUG) Ctrl-Clique-Gauche pour compléter instantanément</ResearchPal.CLClickDebugInstant>
-	<ResearchPal.RClickForDetails>Clique-Droit pour plus de détails</ResearchPal.RClickForDetails>
+	<ResearchPal.LClickReplaceQueue>Clique gauche pour remplacer dans la file d'attente</ResearchPal.LClickReplaceQueue>
+	<ResearchPal.LClickRemoveFromQueue>Clique gauche pour retirer de la file d'attente</ResearchPal.LClickRemoveFromQueue>
+	<ResearchPal.SLClickAddToQueue>Maj-Clique gauche pour ajouter à la file d'attente</ResearchPal.SLClickAddToQueue>
+	<ResearchPal.CLClickDebugInstant>(DEBUG) Ctrl-Clique gauche pour compléter instantanément</ResearchPal.CLClickDebugInstant>
+	<ResearchPal.RClickForDetails>Clique droit pour plus de détails</ResearchPal.RClickForDetails>
 
 	<ResearchPal.Requires>Nécessite</ResearchPal.Requires>
 	<ResearchPal.LeadsTo>Mène à</ResearchPal.LeadsTo>
@@ -20,27 +20,27 @@
 
 	<ResearchPal.QueuedNode>Noeud déjà dans la file d'attente</ResearchPal.QueuedNode>
 	<ResearchPal.MissingFacilities>Manque {0}</ResearchPal.MissingFacilities>
-	<ResearchPal.MissingTechprints>Plans techniques insufficants {0}/{1}</ResearchPal.MissingTechprints>
+	<ResearchPal.MissingTechprints>Plans techniques insuffisants {0}/{1}</ResearchPal.MissingTechprints>
 
 	<ResearchPal.NoResearchFound>aucune étude de recherche trouvée</ResearchPal.NoResearchFound>
 	<ResearchPal.NothingQueued>aucune étude de recherche dans la file d'attente</ResearchPal.NothingQueued>
 	<ResearchPal.NextInQueue>Suivant dans la file d'attente: {0}</ResearchPal.NextInQueue>
 
-	<ResearchPal.BuildingResearchTree>Arboresence de recherche en cours</ResearchPal.BuildingResearchTree>
+	<ResearchPal.BuildingResearchTree>Arborescence de recherche en cours</ResearchPal.BuildingResearchTree>
 	<ResearchPal.PreparingTree.Setup>Préparation du noeud de recherche</ResearchPal.PreparingTree.Setup>
 	<ResearchPal.PreparingTree.CrossingReduction>Réduction du croisement</ResearchPal.PreparingTree.CrossingReduction>
 	<ResearchPal.PreparingTree.Layout>Finalisation de l'aménagement de l'interface graphique</ResearchPal.PreparingTree.Layout>
-	<ResearchPal.PreparingTree.RestoreQueue>Restoration de la file d'attente</ResearchPal.PreparingTree.RestoreQueue>
+	<ResearchPal.PreparingTree.RestoreQueue>Restauration de la file d'attente</ResearchPal.PreparingTree.RestoreQueue>
 
 	<ResearchPal.ShowNotificationPopup>Afficher la fenêtre contextuelle de notification</ResearchPal.ShowNotificationPopup>
 	<ResearchPal.ShowNotificationPopupTip>Chaque fois que vous aurez terminé une étude de recherche, mettez en pause et affichez la notification par défaut.</ResearchPal.ShowNotificationPopupTip>
 	<ResearchPal.ShouldSeparateByTechLevels>Recherches de groupe par niveau technologique</ResearchPal.ShouldSeparateByTechLevels>
-	<ResearchPal.ShouldSeparateByTechLevelsTip>Sélectionnez pour une mise en page graphique plus dense (REQUIERT UN REDÉMARRAGE)</ResearchPal.ShouldSeparateByTechLevelsTip>
+	<ResearchPal.ShouldSeparateByTechLevelsTip>Sélectionnez pour une mise en page graphique plus dense (REQUIERS UN REDÉMARRAGE)</ResearchPal.ShouldSeparateByTechLevelsTip>
 	<ResearchPal.ShouldPauseOnOpen>Pause Écran</ResearchPal.ShouldPauseOnOpen>
 	<ResearchPal.ShouldPauseOnOpenTip>Quand l'onglet de recherche est affiché, le jeu devrait se mettre en pause</ResearchPal.ShouldPauseOnOpenTip>
 	<ResearchPal.ShouldResetOnOpen>Réinitialiser à l'écran</ResearchPal.ShouldResetOnOpen>
 	<ResearchPal.ShouldResetOnOpenTip>Quand l'onglet de recherche est affiché, réinitialise les filtres et la position du défilement.</ResearchPal.ShouldResetOnOpenTip>
     
-	<ResearchPal.NeedsRestart>Les paramètres de recherche ont été changés, redémarrer le jeu pour que les changements prennent effets.</ResearchPal.NeedsRestart>
+	<ResearchPal.NeedsRestart>Les paramètres de recherche ont été changés, redémarrer le jeu pour que les changements prennent effet.</ResearchPal.NeedsRestart>
 	<ResearchPal.ResearchFinished>Étude de recherche terminée: {0}</ResearchPal.ResearchFinished>
 </LanguageData>

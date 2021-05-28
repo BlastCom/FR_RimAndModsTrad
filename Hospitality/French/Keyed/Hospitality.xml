@@ -2,12 +2,12 @@
 <LanguageData>
 
   <!-- Recruiting -->
-  <RecruitAngerMultiple>C'est la {2}x d'affilée que {0} a énervé {1}.</RecruitAngerMultiple>
+  <RecruitAngerMultiple>C'est la {2}x d'affilée que {0} a énervé(e) {1}.</RecruitAngerMultiple>
   <RecruitFactionAnger>{0} ({1}) est fâché pour avoir recruté {2} ({3}).</RecruitFactionAnger>
   <RecruitFactionAngerLeaderless>Les membres de {0} n’ont plus jamais entendu parler de leur délégation ({2}).</RecruitFactionAngerLeaderless>
   <LostGroupFactionAnger>{0} de {1} ne se rappelle pas d'avoir entendu parler de cette délégation ({2}).</LostGroupFactionAnger>
   <LostGroupFactionAngerLeaderless>Les membres de {0} sont fâchés pour avoir recruté ({1}).</LostGroupFactionAngerLeaderless>
-  <RecruitFactionPlease>{0} de {1} se réjouit de voir que vous lui avez débarrassé de {2} ({3})!.</RecruitFactionPlease>
+  <RecruitFactionPlease>{0} de {1} se réjouit de voir que vous lui avez débarrassé de {2} ({3})!</RecruitFactionPlease>
   <RecruitFactionPleaseLeaderless>Les membres de {0} se réjouissent de voir {1} quitter leur faction ({2}).</RecruitFactionPleaseLeaderless>
   <MessageGuestRecruitSuccess>{0} a joyeusement décidé de se joindre à votre colonie!</MessageGuestRecruitSuccess>
   <MessageGuestForcedRecruit>{0} a été forcé de rejoindre votre colonie!</MessageGuestForcedRecruit>
@@ -25,7 +25,6 @@
 <!-- Def not found
     <ImproveFactionPlease>{0} a amélioré la relation entre {4} et {1} de {2} ({3} chance).</ImproveFactionPlease>
  	  <ImproveFactionAnger>{0} a empiré la relation avec {1} de {2} ({3} chance).</ImproveFactionAnger> -->
-
 
   <!-- Incident Results -->
   <VisitorsLeavingGreat>Ils sont absolument stupéfaits par votre hospitalité! (Score: {1})</VisitorsLeavingGreat>
@@ -52,8 +51,8 @@
 
   <LetterLabelDownedPawnBecameGuest>{PAWN_labelShort} est devenu un(e) invité(e).</LetterLabelDownedPawnBecameGuest>
   <LetterLabelDownedPawnJoinedGroup>{PAWN_labelShort} a rejoint le groupe des invités</LetterLabelDownedPawnJoinedGroup>
-  <DownedPawnBecameGuest>{PAWN_nameDef}, que vous avez sauvé, est maintenant un(e) invité(e) restera encore quelques heures. Vous pouvez le laisser libre, le renvoyer chez lui ou le recruter.\n\nQuand {PAWN_labelShort} aura quitté votre territoire sain et sauf, sa faction vous sera reconnaissante.</DownedPawnBecameGuest>
-  <DownedPawnJoinedGroup>{PAWN_nameDef}, que vous avez sauvé, a rejoint le groupe d'invités de sa faction. Si {PAWN_pronoun} quitte votre territoire avec son groupe sain et sauf, leur faction vous en sera reconnaissante.</DownedPawnJoinedGroup>
+  <DownedPawnBecameGuest>{PAWN_nameDef}, que vous avez sauvé(e), est maintenant un(e) invité(e) restera encore quelques heures. Vous pouvez le laisser libre, le renvoyer chez lui ou le recruter.\n\nQuand {PAWN_labelShort} aura quitté votre territoire sain et sauf, sa faction vous sera reconnaissante.</DownedPawnBecameGuest>
+  <DownedPawnJoinedGroup>{PAWN_nameDef}, que vous avez sauvé(e), a rejoint le groupe d'invités de sa faction. Si {PAWN_pronoun} quitte votre territoire avec son groupe sain et sauf, leur faction vous en sera reconnaissante.</DownedPawnJoinedGroup>
   
   <LetterLabelHappyGuestJoins>{PAWN_labelShort} veut rester.</LetterLabelHappyGuestJoins>
   <HappyGuestJoins>{PAWN_labelShort} de {0} s'est entendu(e) avec {PAWN_possessive} faction qui le laisse vous rejoindre en tant qu'ambassadeur. Cela ne détériorera pas votre relation avec sa faction.\n\nVous avez le temps de considérer son recrutement (ou non) jusqu'à ce qu'ils partent.</HappyGuestJoins>
@@ -72,7 +71,7 @@
   <AreaToStay>Zone autorisée</AreaToStay>
   <AreaToBuy>Zone commerçante</AreaToBuy>
   <AreaNoShopping>Commerce interdit</AreaNoShopping>
-  <AreaToStayTooltip>Quartier ou zone dans laquelle les invités sont autorisés à travailler, dormir, se reposer, errer... Vous pouvez configurer une zone dans laquelle ils seront confinés si vous subissez une attaque. Toutefois, cela ne les empêchera pas de partir s'ils le désirent…</AreaToStayTooltip>
+  <AreaToStayTooltip>Quartier ou zone dans lesquels les invités sont autorisés à travailler, dormir, se reposer, errer... Vous pouvez configurer une zone dans laquelle ils seront confinés si vous subissez une attaque. Toutefois, cela ne les empêchera pas de partir s'ils le désirent…</AreaToStayTooltip>
   <AreaToBuyTooltip>Les invités peuvent acheter des articles dans cette zone. Vous pouvez vendre des objets si vous les incluez dans la zone commerçante qui doit obligatoirement se situer dans la zone autorisée.</AreaToBuyTooltip>
   
 <!-- Not found in 1.2 
@@ -128,7 +127,7 @@
   <BedsFilled>Lits utilisés : {0}/{1}</BedsFilled>
   <MapSettings>Paramètres de la carte du monde...</MapSettings>
   <GuestsWelcome>Autoriser de nouveaux invités</GuestsWelcome>
-  <GuestsWelcomeTooltip>Si vous désactivé cette option, aucun nouveau groupe d'invité ne visitera votre colonie.</GuestsWelcomeTooltip>
+  <GuestsWelcomeTooltip>Si vous désactivez cette option, aucun nouveau groupe d'invité ne visitera votre colonie.</GuestsWelcomeTooltip>
   
   <!-- Infos -->
   <StatsReport_MissingFriends>Amis manquants</StatsReport_MissingFriends>
@@ -153,13 +152,13 @@ Fac
 
 <!-- Added from 1.2 update -->
     <BedAttractiveness>Attractivité: {0}</BedAttractiveness>
-    <BedSatisfiedTitles>Les invités avec l'un des titres royaux suivant vont accepter ce lit:</BedSatisfiedTitles>
+    <BedSatisfiedTitles>Les invités avec l'un des titres royaux suivants vont accepter ce lit:</BedSatisfiedTitles>
     <BedroomMustBeSingle>Seulement un lit</BedroomMustBeSingle>
     <NextTitleRequirements>Conditions pour obtenir un titre plus élevé:\n- {0}</NextTitleRequirements>
   
       <!-- Alerts -->
     <AlertCantClaimBed>Cet invité ne peut pas réclamer ce lit</AlertCantClaimBed>
-    <AlertCantClaimBedDesc>Ces invités ne peuvent pas se permettre de payer pour réclamer l'un des lits disponibles:\n\n{0}\nVeuillez mettre à leur disponibilité des lits moins coûteux, gratuits ou leur faire don d'argent.\nLes factions avec lesquelles vous vous entendiez bien, amèneront davantage d'argent.</AlertCantClaimBedDesc>
+    <AlertCantClaimBedDesc>Ces invités ne peuvent pas se permettre de payer pour réclamer l'un des lits disponibles:\n\n{0}\nVeuillez mettre à leur disponibilité des lits moins coûteux, gratuits ou leur faire don d'argent.\nLes factions avec lesquelles vous vous entendiez bien amèneront davantage d'argent.</AlertCantClaimBedDesc>
     <AlertNotEnoughBeds>Pas assez de lits pour les invités</AlertNotEnoughBeds>
     <AlertNotEnoughBedsDesc>Il n'y a pas assez de lits pour les invités suivants:\n\n{0}\nVeuillez mettre à leur disposition davantage de lits.</AlertNotEnoughBedsDesc>
 
@@ -176,7 +175,7 @@ Fac
   <DisableOperations>Désactiver l'aide opératoire médicale</DisableOperations>
   <DisableOperationsDesc>Activée, les invités n'effectueront pas d'opération chez les patients.</DisableOperationsDesc>
   <DisableMedical>Désactiver l'aide médicale</DisableMedical>
-  <DisableMedicalDesc>Activée, les invités ne donnerons pas de soin.</DisableMedicalDesc>
+  <DisableMedicalDesc>Activée, les invités ne donneront pas de soin.</DisableMedicalDesc>
 
 <!-- Added from 1.2 update -->
     <DisableWarden>Désactiver l'aide des invités pour la protection de la colonie.</DisableWarden>
@@ -193,7 +192,7 @@ Fac
   
 <!-- Added from 1.2 update -->
   <MaxIncidentsPer3Days>Maximum de visite en 3 jours</MaxIncidentsPer3Days>
-  <MaxIncidentsPer3DaysDesc>Maximum de visite par des groupes dans un interval de 3 jours. (recommandé: 5)</MaxIncidentsPer3DaysDesc>
+  <MaxIncidentsPer3DaysDesc>Maximum de visite par des groupes dans un intervalle de 3 jours. (recommandé: 5)</MaxIncidentsPer3DaysDesc>
 
   <DisableGuestsTab>Cacher l'onglet "Guests"</DisableGuestsTab>
   <DisableGuestsTabDesc>Cache l'onglet "Guests" de la barre principale du jeu.</DisableGuestsTabDesc>

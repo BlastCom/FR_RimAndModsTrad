@@ -5,10 +5,10 @@
 <ActiveTab_title>Onglets de configuration</ActiveTab_title>
 <ToolAutoSwitch_desc>Les colons doivent-ils automatiquement s'équiper du meilleur outil ou arme selon le travail effectué?</ToolAutoSwitch_desc>
 <ToolAutoSwitch_title>Changement automatique des outils</ToolAutoSwitch_title>
-<OptimalMelee_desc>Les colons doivent-ils automatiquement s'équiper d'une arme de mélée avec un meilleur DPS? (en prenant en compte l'armure de la cible)</OptimalMelee_desc>
-<OptimalMelee_title>Meilleure arme de mélée</OptimalMelee_title>
-<CQCAutoSwitch_desc>Les colons doivent-ils sortir leur arme de mélée secondaire lorsqu'ils sont attaqués à la mélée?</CQCAutoSwitch_desc>
-<CQCAutoSwitch_title>Changement automatique pour l'arme de mélée</CQCAutoSwitch_title>
+<OptimalMelee_desc>Les colons doivent-ils automatiquement s'équiper d'une arme de mêlée avec un meilleur DPS? (en prenant en compte l'armure de la cible)</OptimalMelee_desc>
+<OptimalMelee_title>Meilleure arme de mêlée</OptimalMelee_title>
+<CQCAutoSwitch_desc>Les colons doivent-ils sortir leur arme de mêlée secondaire lorsqu'ils sont attaqués à la mêlée?</CQCAutoSwitch_desc>
+<CQCAutoSwitch_title>Changement automatique pour l'arme de mêlée</CQCAutoSwitch_title>
 <CQCFistSwitch_desc>Les colons doivent-ils changer d'arme même lorsqu'ils ne sont pas en combat?</CQCFistSwitch_desc>
 <CQCFistSwitch_title>Changement automatique à main nue</CQCFistSwitch_title>
 <CQCTargetOnly_desc>Les colons doivent-ils réagir uniquement qu'aux attaques de leur cible actuelle?</CQCTargetOnly_desc>
@@ -25,14 +25,14 @@
 <CEOverrideInfo_desc></CEOverrideInfo_desc>
 <CEOverrideInfo_title>Désactivé en faveur du système CE.</CEOverrideInfo_title>
 
-<LimitModeAmountMelee_desc>Quelles restrictions sont en place sur le nombre d'armes secondaire de mélée.</LimitModeAmountMelee_desc>
-<LimitModeAmountMelee_title>Mode limite du total d'arme secondaire de mélée</LimitModeAmountMelee_title>
+<LimitModeAmountMelee_desc>Quelles restrictions sont en place sur le nombre d'armes secondaire de mêlée.</LimitModeAmountMelee_desc>
+<LimitModeAmountMelee_title>Mode limite du total d'arme secondaire de mêlée</LimitModeAmountMelee_title>
 <LimitModeAmountRanged_desc>Quelles restrictions sont en place sur le nombre d'armes secondaires à distance.</LimitModeAmountRanged_desc>
 <LimitModeAmountRanged_title>Mode limite du total d'arme secondaire à distance</LimitModeAmountRanged_title>
 <LimitModeAmount_desc>Quelles restrictions sont en place sur le nombre total d'armes secondaires.</LimitModeAmount_desc>
 <LimitModeAmount_title>Mode limite du nombre total d'armes secondaires</LimitModeAmount_title>
-<LimitModeSingleMelee_desc>Quelles restrictions sont en place sur les armes secondaire de mélée individuelles.</LimitModeSingleMelee_desc>
-<LimitModeSingleMelee_title>Mode limite une seule arme secondaire de mélée</LimitModeSingleMelee_title>
+<LimitModeSingleMelee_desc>Quelles restrictions sont en place sur les armes secondaire de mêlée individuelles.</LimitModeSingleMelee_desc>
+<LimitModeSingleMelee_title>Mode limite une seule arme secondaire de mêlée</LimitModeSingleMelee_title>
 <LimitModeSingleRanged_desc>Quelles restrictions sont en place sur les armes secondaire à distance individuelles.</LimitModeSingleRanged_desc>
 <LimitModeSingleRanged_title>Mode limite une seule arme secondaire à distance</LimitModeSingleRanged_title>
 <LimitModeSingle_desc>Quelles restrictions sont en place sur les armes secondaires individuelle.</LimitModeSingle_desc>
@@ -55,14 +55,14 @@
 <RangedCombatAutoSwitchMaxWarmup_title>Pourcentage maximal du délai d'échauffement</RangedCombatAutoSwitchMaxWarmup_title>
 <RangedCombatAutoSwitch_desc>Les colons doivent-ils changer d'arme secondaire en fonction de la distance lorsqu'ils attaquent à distance?</RangedCombatAutoSwitch_desc>
 <RangedCombatAutoSwitch_title>Changement auto à distance</RangedCombatAutoSwitch_title>
-<SeparateModes_desc>Les armes de mélée et à distance doivent-elles avoir des restrictions partagées ou séparées?</SeparateModes_desc>
-<SeparateModes_title>Séparer mélée/distance</SeparateModes_title>
+<SeparateModes_desc>Les armes de mêlée et à distance doivent-elles avoir des restrictions partagées ou séparées?</SeparateModes_desc>
+<SeparateModes_title>Séparer mêlée/distance</SeparateModes_title>
 <SidearmSelection_desc></SidearmSelection_desc>
 <SidearmSelection_title>Sélection d'arme secondaire</SidearmSelection_title>
 <SingleshotAutoSwitch_desc>Les colons doivent-ils automatiquement passer à leur arme secondaire après avoir utilisé une arme à utilisation unique?</SingleshotAutoSwitch_desc>
 <SingleshotAutoSwitch_title>Changement auto arme unique</SingleshotAutoSwitch_title>
 <SpeedSelectionBiasMelee_desc>Biais des colons envers les armes avec des vitesses d'attaque plus rapides.</SpeedSelectionBiasMelee_desc>
-<SpeedSelectionBiasMelee_title>Biais envers la vitesse (mélée)</SpeedSelectionBiasMelee_title>
+<SpeedSelectionBiasMelee_title>Biais envers la vitesse (mêlée)</SpeedSelectionBiasMelee_title>
 <SpeedSelectionBiasRanged_desc>Biais des colons envers les armes avec des vitesses d'échauffement plus rapides.</SpeedSelectionBiasRanged_desc>
 <SpeedSelectionBiasRanged_title>Biais envers la vitesse (ranged)</SpeedSelectionBiasRanged_title>
 <WeaponMatch_desc>Voici les armes qui correspondent au critère.</WeaponMatch_desc>
@@ -115,44 +115,44 @@
 
 
 <PresetCustom_title>Personnalisé</PresetCustom_title>
-<PresetCustom_desc>Paramètres personnalisés. Séléctionnés automatiquement après changement.</PresetCustom_desc>
+<PresetCustom_desc>Paramètres personnalisés. Sélectionnés automatiquement après changement.</PresetCustom_desc>
 <PresetCustom_label></PresetCustom_label>
 <Preset0_title>Désactivé</Preset0_title>
 <Preset0_desc>Toutes les options sont désactivées. Une bonne base pour les configurations qui n'utilisent qu'une petite portion des fonctionnalités du mod.</Preset0_desc>
 <Preset0_label></Preset0_label>
 <Preset1half_title>Lite</Preset1half_title>
-<Preset1half_desc>N'autorise qu'une seule arme de mélée comme arme secondaire.</Preset1half_desc>
+<Preset1half_desc>N'autorise qu'une seule arme de mêlée comme arme secondaire.</Preset1half_desc>
 <Preset1half_label></Preset1half_label>
 <Preset1_title>Équipement seulement</Preset1_title>
 <Preset1_desc>Autorise le port d'armes secondaires, mais rien d'autre. Essentiellement une extension d'inventaire pratique.</Preset1_desc>
 <Preset1_label></Preset1_label>
 <Preset2_title>Basique</Preset2_title>
-<Preset2_desc>Une configuration simple. Les colons peuvent utiliseer quelques armes légères et essaieront de les utiliser dans les situations appropriées.</Preset2_desc>
+<Preset2_desc>Une configuration simple. Les colons peuvent utiliser quelques armes légères et essaieront de les utiliser dans les situations appropriées.</Preset2_desc>
 <Preset2_label></Preset2_label>
 <Preset3_title>Avancé</Preset3_title>
-<Preset3_desc>Les colons deviennent plus créatifs avec leur sélection d'armes, mais reste dans ce qu'on pourrait attendre de gens normaux qui essaient de survivre à un rimworld dangereux. </Preset3_desc>
+<Preset3_desc>Les colons deviennent plus créatifs avec leur sélection d'armes, mais reste dans ce qu'on pourrait attendre de gens normaux qui essaient de survivre à un RimWorld dangereux. </Preset3_desc>
 <Preset3_label></Preset3_label>
 <Preset4_title>Excessif</Preset4_title>
 <Preset4_desc>Ramène donc tout! Minigun? Prends-en deux! Des lances? J'en ai une collection entière dans mon sac à dos!</Preset4_desc>
 <Preset4_label></Preset4_label>
-<Preset5_title>Mode Combattant</Preset5_title>
-<Preset5_desc>Arme secondaire de mélée pour tout le monde.</Preset5_desc>
+<Preset5_title>Mode combattant</Preset5_title>
+<Preset5_desc>Arme secondaire de mêlée pour tout le monde.</Preset5_desc>
 <Preset5_label></Preset5_label>
 
 
 <SidearmPickupFail_NoFreeSpace>Pas de place disponible</SidearmPickupFail_NoFreeSpace>
 <SidearmPickupFail_TooHeavyForSidearm>Équipement trop lourd</SidearmPickupFail_TooHeavyForSidearm>
-<SidearmPickupFail_TooHeavyForSidearmMelee>Équipement de mélée trop lourd</SidearmPickupFail_TooHeavyForSidearmMelee>
+<SidearmPickupFail_TooHeavyForSidearmMelee>Équipement de mêlée trop lourd</SidearmPickupFail_TooHeavyForSidearmMelee>
 <SidearmPickupFail_TooHeavyForSidearmRanged>Équipement à distance trop lourd</SidearmPickupFail_TooHeavyForSidearmRanged>
 <SidearmPickupFail_SidearmsTooHeavy>Trop lourd pour une arme secondaire</SidearmPickupFail_SidearmsTooHeavy>
-<SidearmPickupFail_SidearmsTooHeavyMelee>Trop lourd pour une arme secondaire de mélée</SidearmPickupFail_SidearmsTooHeavyMelee>
+<SidearmPickupFail_SidearmsTooHeavyMelee>Trop lourd pour une arme secondaire de mêlée</SidearmPickupFail_SidearmsTooHeavyMelee>
 <SidearmPickupFail_SidearmsTooHeavyRanged>Trop lourd pour une arme secondaire à distance</SidearmPickupFail_SidearmsTooHeavyRanged>
 <SidearmPickupFail_SidearmsTooHeavyInTotal>Trop lourd pour une arme secondaire</SidearmPickupFail_SidearmsTooHeavyInTotal>
 <SidearmPickupFail_NotASidearm>Pas une arme secondaire</SidearmPickupFail_NotASidearm>
 <SidearmPickupFail_NotASidearmMelee>Pas une arme secondaire</SidearmPickupFail_NotASidearmMelee>
 <SidearmPickupFail_NotASidearmRanged>Pas une arme secondaire</SidearmPickupFail_NotASidearmRanged>
 <SidearmPickupFail_AllSlotsFull>Emplacements pleins</SidearmPickupFail_AllSlotsFull>
-<SidearmPickupFail_MeleeSlotsFull>Emplacements de mélée pleins</SidearmPickupFail_MeleeSlotsFull>
+<SidearmPickupFail_MeleeSlotsFull>Emplacements de mêlée pleins</SidearmPickupFail_MeleeSlotsFull>
 <SidearmPickupFail_RangedSlotsFull>Emplacements à distance pleins</SidearmPickupFail_RangedSlotsFull>
 <SidearmPickupPass>Pas de problème</SidearmPickupPass>
 <SidearmPickupFail_NotAToolForPacifist>Pas un outil. {0} est incapable de violence.</SidearmPickupFail_NotAToolForPacifist>
@@ -197,18 +197,18 @@
 <DrawSidearm_gizmoTooltipForced>Clique droit pour arrêter d'utiliser de force le/la {0}.</DrawSidearm_gizmoTooltipForced>
 <DrawSidearm_gizmoTooltipWhileDrafted>Clique gauche pour forcer l'utilisation de {0} jusqu'à la fin du combat.</DrawSidearm_gizmoTooltipWhileDrafted>
 <DrawSidearm_gizmoTooltipForcedWhileDrafted>Clique droit pour arrêter d'utiliser de force le/la {0}.</DrawSidearm_gizmoTooltipForcedWhileDrafted>
-<DrawSidearm_gizmoTooltipMemory>Click droit pour oublier {0}.</DrawSidearm_gizmoTooltipMemory>
+<DrawSidearm_gizmoTooltipMemory>Clique droit pour oublier {0}.</DrawSidearm_gizmoTooltipMemory>
 <DrawSidearm_gizmoTooltipMemoryWhileDrafted>Aucune interaction tant qu'il/elle est enrôlé(e).</DrawSidearm_gizmoTooltipMemoryWhileDrafted>
-<DrawSidearm_gizmoTooltipUnarmed>Click gauche pour passer au combat à main nue.</DrawSidearm_gizmoTooltipUnarmed>
-<DrawSidearm_gizmoTooltipUnarmedPreferred>Clique gauche pour forcer le combat sans arme. \nRClique droit pour retirer la préférence de combat sans arme.</DrawSidearm_gizmoTooltipUnarmedPreferred>
+<DrawSidearm_gizmoTooltipUnarmed>Clique gauche pour passer au combat à main nue.</DrawSidearm_gizmoTooltipUnarmed>
+<DrawSidearm_gizmoTooltipUnarmedPreferred>Clique gauche pour forcer le combat sans arme. \nClique droit pour retirer la préférence de combat sans arme.</DrawSidearm_gizmoTooltipUnarmedPreferred>
 <DrawSidearm_gizmoTooltipUnarmedForced>Clique droit pour arrêter le combat forcé sans arme.</DrawSidearm_gizmoTooltipUnarmedForced>
 <DrawSidearm_gizmoTooltipUnarmedWhileDrafted>Clique gauche pour forcer le combat sans arme jusqu'à la fin du combat.</DrawSidearm_gizmoTooltipUnarmedWhileDrafted>
 <DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>Clique droit pour arrêter le combat forcé sans arme.</DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>
 
-<Alert_MissingSidearm_label>Coloniste sans arme secondaire</Alert_MissingSidearm_label>
-<Alert_MissingPrimary_label>Colonist sans arme principale</Alert_MissingPrimary_label>
+<Alert_MissingSidearm_label>Colon sans arme secondaire</Alert_MissingSidearm_label>
+<Alert_MissingPrimary_label>Colon sans arme principale</Alert_MissingPrimary_label>
 
-<Alert_MissingSidearm_desc>Une ou plus des armes secondaires de ces colonistes sont manquantes:\n\n{0}</Alert_MissingSidearm_desc>
+<Alert_MissingSidearm_desc>Une ou plusieurs armes secondaires de ces colons sont manquantes:\n\n{0}</Alert_MissingSidearm_desc>
 <Alert_MissingPrimary_desc>L'arme principale de ces colons est manquante:\n\n{0}</Alert_MissingPrimary_desc>
 
 
@@ -216,7 +216,7 @@
 <DropMode_option_Panic>En détresse</DropMode_option_Panic>
 <DropMode_option_PanicOrRange>En combat</DropMode_option_PanicOrRange>
 
-<SidearmsEnableNeolithicExtension_desc>Autorisé plus d'armes à être utilisées comme armes secondaires par les tribals.</SidearmsEnableNeolithicExtension_desc>
+<SidearmsEnableNeolithicExtension_desc>Autoriser plus d'armes à être utilisées comme armes secondaires par les tribals.</SidearmsEnableNeolithicExtension_desc>
 <SidearmsEnableNeolithicExtension_title>Étendre armes secondaires néolithiques</SidearmsEnableNeolithicExtension_title>
 <SidearmsNeolithicExtension_desc></SidearmsNeolithicExtension_desc>
 <SidearmsNeolithicExtension_title>Armes secondaires considérées néolithiques</SidearmsNeolithicExtension_title>
