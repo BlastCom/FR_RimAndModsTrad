@@ -77,12 +77,12 @@
   <EdB.PC.Dialog.Preset.ConfirmDelete>Êtes-vous certain de vouloir supprimer ce préréglage?</EdB.PC.Dialog.Preset.ConfirmDelete>
   <EdB.PC.Dialog.Preset.DeleteTooltip>Supprimer ce préréglage</EdB.PC.Dialog.Preset.DeleteTooltip>
   <EdB.PC.Dialog.Preset.Error.EquipmentFailed>Le chargement du préréglage a échoué.</EdB.PC.Dialog.Preset.Error.EquipmentFailed>
-  <EdB.PC.Dialog.Preset.Error.Failed>Le chargement du colon selon le préréglage a échoué.  Veillez à vous assurez que tous les mods nécessaires sont installés.</EdB.PC.Dialog.Preset.Error.Failed>
+  <EdB.PC.Dialog.Preset.Error.Failed>Le chargement du colon selon le préréglage a échoué.  Veillez à vous assurer que tous les mods nécessaires sont installés.</EdB.PC.Dialog.Preset.Error.Failed>
   <EdB.PC.Dialog.Preset.Error.PartialSaveFailure>Des problèmes sont survenus lors de la sauvegarde du préréglage. Certaines options n'ont pas été incluses.</EdB.PC.Dialog.Preset.Error.PartialSaveFailure>
-  <EdB.PC.Dialog.Preset.Error.PreAlpha13NotSupported>Les préréglages sauvegardés sous la version pre-alpha 13 ou précédente ne sont pas supportés.</EdB.PC.Dialog.Preset.Error.PreAlpha13NotSupported>
+  <EdB.PC.Dialog.Preset.Error.PreAlpha13NotSupported>Les préréglages sauvegardés sous la version préalpha 13 ou précédente ne sont pas supportés.</EdB.PC.Dialog.Preset.Error.PreAlpha13NotSupported>
   <EdB.PC.Dialog.Preset.Error.RelationshipFailed>Le chargement d'une relation personnalisée a échoué.</EdB.PC.Dialog.Preset.Error.RelationshipFailed>
   <EdB.PC.Dialog.Preset.Error.SaveFailed>Il y a eu un problème lors de la sauvegarde.  Vous ne pourrez probablement pas être capable de charger le préréglage.</EdB.PC.Dialog.Preset.Error.SaveFailed>
-  <EdB.PC.Dialog.Preset.Error.ThingDefFailed>Le préréglage n'a pas été chargé.  Veillez à vous assurez que tous les mods nécessaires sont installés.</EdB.PC.Dialog.Preset.Error.ThingDefFailed>
+  <EdB.PC.Dialog.Preset.Error.ThingDefFailed>Le préréglage n'a pas été chargé.  Veillez à vous assurer que tous les mods nécessaires sont installés.</EdB.PC.Dialog.Preset.Error.ThingDefFailed>
   <EdB.PC.Dialog.Preset.Error.NoCharacter>Le chargement du personnage a échoué sauvegardé.  Veillez à vous assure que tous les mods nécessaires sont installés.</EdB.PC.Dialog.Preset.Error.NoCharacter>
   <EdB.PC.Dialog.Preset.Loaded>Le préréglage {0} a été chargé avec succès</EdB.PC.Dialog.Preset.Loaded>
 
@@ -185,7 +185,7 @@
   <EdB.PC.Panel.Health.HediffTypeImplant>Gérer les implants et membres bioniques</EdB.PC.Panel.Health.HediffTypeImplant>
   <EdB.PC.Panel.Health.InjuryLabel.Stage>{0}, {1}</EdB.PC.Panel.Health.InjuryLabel.Stage>
   <EdB.PC.Panel.Health.InjuryLabel.Severity>{0}</EdB.PC.Panel.Health.InjuryLabel.Severity>
-  <EdB.PC.Panel.Health.None>Aucune blessures, problèmes de santé ou implants</EdB.PC.Panel.Health.None>
+  <EdB.PC.Panel.Health.None>Aucune blessure, problème de santé ou implant</EdB.PC.Panel.Health.None>
   <EdB.PC.Panel.Health.SelectBodyPart>Choisir une partie du corps</EdB.PC.Panel.Health.SelectBodyPart>
   <EdB.PC.Panel.Health.SelectSeverity>Choisir le niveau de gravité</EdB.PC.Panel.Health.SelectSeverity>
 
@@ -211,8 +211,8 @@
   <EdB.PC.Panel.Skills.ResetTip>Réinitialisez toutes les compétences et passions à leur valeur d'origine</EdB.PC.Panel.Skills.ResetTip>
   <EdB.PC.Panel.Skills.ClearTip>Réinitialisez toutes les compétences et passions en les réglant à leur niveau le plus bas</EdB.PC.Panel.Skills.ClearTip>
   
-  <EdB.PC.Panel.Traits.None>Aucun traits</EdB.PC.Panel.Traits.None>
-  <EdB.PC.Panel.Traits.Warning.TooManyTraits>Normalement, trois traits de personnalité est le maximum autorisé par personnage.  Vous pouvez en ajouter d'autres ici, mais ces traits ne pourront pas s'afficher correctement sur l'écran d'informations des personnages du jeu.</EdB.PC.Panel.Traits.Warning.TooManyTraits>
+  <EdB.PC.Panel.Traits.None>Aucun trait</EdB.PC.Panel.Traits.None>
+  <EdB.PC.Panel.Traits.Warning.TooManyTraits>Normalement, un maximum de trois traits de personnalité est autorisé par personnage.  Vous pouvez en ajouter d'autres ici, mais ces traits ne pourront pas s'afficher correctement sur l'écran d'informations des personnages du jeu.</EdB.PC.Panel.Traits.Warning.TooManyTraits>
   <EdB.PC.Panel.Traits.Tip.Conflict>{0}\n\nEn conflit avec:\n{1}</EdB.PC.Panel.Traits.Tip.Conflict>
   <EdB.PC.Panel.Traits.Tip.Conflict.List.1> - {0}</EdB.PC.Panel.Traits.Tip.Conflict.List.1>
   <EdB.PC.Panel.Traits.Tip.Conflict.List.2> - {0}\n - {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.2>

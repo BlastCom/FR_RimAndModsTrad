@@ -25,7 +25,7 @@
 
 		</GuestDiplomacy.logRulesInitiator.rulesStrings>
 
-	<CharmGuestAttempt.label>charm attempt</CharmGuestAttempt.label>
+	<CharmGuestAttempt.label>tentative de charme</CharmGuestAttempt.label>
  	<CharmGuestAttempt.logRulesInitiator.rulesStrings>
 
         <li>r_logentry->[INITIATOR_nameDef] [saidwords] [RECIPIENT_nameDef].</li>
