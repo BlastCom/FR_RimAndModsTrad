@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<GuestBeds.label>Lits pour les visiteurs</GuestBeds.label>
+	<GuestBeds.helpText>Les visiteurs préfèrent dormir dans des lits.\n\nVous pouvez convertir des lits en utilisant le bouton "Pour visiteurs".</GuestBeds.helpText>
+	
+	<RecruitGuest.label>En train de recruter des visiteurs</RecruitGuest.label>
+	<RecruitGuest.helpText>Vous pouvez recruter des visiteurs\n\nRecruter coûte un certain nombre de points de "Bonne Volonté" que vous entretenez avec la faction du visiteur. Assurez-vous que la compétence "Sociabilité" du colon recruteur soit acceptable. Ensuite, en sélectionnant le job "Négocier" dans l'onglet "Travail" ils pourront créer des liens d'amitié avec les visiteurs.</RecruitGuest.helpText>
+
+	<GuestWork.label>Aide des visiteurs</GuestWork.label>
+	<GuestWork.helpText>Les visiteurs heureux peuvent aider la colonie en fonction de leur qualification et de leur zone allouée. Vous pouvez désactiver, réduire ou augmenter le niveau requis de la compétence dans les options du mod.</GuestWork.helpText>
+
+	<Hospitality.label>Hospitalité</Hospitality.label>
+	<Hospitality.helpText>Quand des visiteurs arrivent, ils utiliseront vos loisirs, dormiront dans les lits réservés aux visiteurs et achèteront des objets dans la zone commerciale. \n\nLeur appréciation du séjour déterminera votre relation avec leur faction et augmentera ou baissera les points de "Bonne volonté" que vous entretenez avec la faction des visiteurs.</Hospitality.helpText>
+
+</LanguageData>

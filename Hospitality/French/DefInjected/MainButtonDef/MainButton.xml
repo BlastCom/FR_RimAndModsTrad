@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<Guests.label>Invités</Guests.label>
+	<Guests.description>Contiens la liste des invités dans la région et permets de gérer les préférences de l'hospitalité avec les invités.</Guests.description>
+
+</LanguageData>

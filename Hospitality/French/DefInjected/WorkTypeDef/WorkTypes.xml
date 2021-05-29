@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<Diplomat.labelShort>Diverti</Diplomat.labelShort>
+	<Diplomat.pawnLabel>Diplomate</Diplomat.pawnLabel>
+	<Diplomat.gerundLabel>Diverti les visiteurs</Diplomat.gerundLabel>
+	<Diplomat.description>Les colons diplomates accueillent les visiteurs et sympathisent avec eux.</Diplomat.description>
+	<Diplomat.verb>Diverti</Diplomat.verb>
+
+</LanguageData>

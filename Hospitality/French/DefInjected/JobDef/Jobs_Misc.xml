@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<CharmGuest.reportString>Essaie de créer des liens d'amitié entre TargetA et votre colon.</CharmGuest.reportString>
+	<GuestImproveRelationship.reportString>Essaye d'améliorer la relation avec la faction de TargetA.</GuestImproveRelationship.reportString>
+	<BuyItem.reportString>Règle la note de TargetA.</BuyItem.reportString>
+	<BrowseItems.reportString>Consulte les marchandises à vendre.</BrowseItems.reportString>
+	<ClaimGuestBed.reportString>Choisis un lit.</ClaimGuestBed.reportString>
+
+</LanguageData>

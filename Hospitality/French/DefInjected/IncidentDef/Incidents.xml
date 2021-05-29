@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<VisitorGroupSpacerCruise.label>Groupe de visiteurs d'une croisière spatiale</VisitorGroupSpacerCruise.label>
+	<VisitorGroupSpacerLuxury.label>Luxueux groupe de visiteurs de l'espace</VisitorGroupSpacerLuxury.label>
+	<VisitorGroupMax.label>groupe de visiteurs max</VisitorGroupMax.label>
+	<VisitorGroupSelectFaction.label>Groupe de visiteurs (choisir une faction)</VisitorGroupSelectFaction.label>
+
+	<HappyGuestJoins.label>Un invité heureux a rejoint votre colonie!</HappyGuestJoins.label>
+
+</LanguageData>

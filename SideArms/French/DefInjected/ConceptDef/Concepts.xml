@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Concept_SimpleSidearmsBasic.label>SS: Armes secondaires</Concept_SimpleSidearmsBasic.label>
+    <Concept_SimpleSidearmsBasic.helpText>Armes secondaires\n\nPour pouvoir équiper une arme en tant qu'arme de poing,faites un clic droit dessus puis sélectionnez l'option "Équipper comme arme secondaire".\n\nPar défaut, les colons vont automatiquement choisir l'arme la plus adaptée pour eux selon leurs compétences. Les utilisateurs d'armes à distance passeront aux armes de mêlée lorsqu’engagés au corps à corps. Ce comportement peut être altéré dans les options du mod.</Concept_SimpleSidearmsBasic.helpText>
+ 
+ 
+    <Concept_SidearmsDropping.label>SS: Jeter les armes secondaires</Concept_SidearmsDropping.label>
+    <Concept_SidearmsDropping.helpText>Les armes secondaires avec un arrière plan gris dans l'inventaire du colon. Clique droit pour jeter l'arme au sol.</Concept_SidearmsDropping.helpText>
+
+    <Concept_SidearmsMissing.label>SS: Armes secondaires manquantes</Concept_SidearmsMissing.label>
+    <Concept_SidearmsMissing.helpText>Les armes secondaires avec un fond violet foncé sont actuellement manquantes à l'équipement d'un colon. Ils essaieront de la récupérer le plus tôt possible, en assumant qu'elle (ou similaire) puisse être trouvée. Clic droit pour oublier l'arme secondaire.</Concept_SidearmsMissing.helpText>
+ 
+    <Concept_SimpleSidearmsPreference.label>SS: Préférence d'arme</Concept_SimpleSidearmsPreference.label>
+    <Concept_SimpleSidearmsPreference.helpText>Les armes secondaires des colons peuvent être configurées de manière individuelle. Les options sont: \nUtiliser les armes à distance;\nUtiliser les armes selon les compétences; \nUtiliser les armes de mêlée.</Concept_SimpleSidearmsPreference.helpText>
+
+    <Concept_SimpleSidearmsAdvancedRanged.label>SS: Contrôles avancés (Longue distance)</Concept_SimpleSidearmsAdvancedRanged.label>
+    <Concept_SimpleSidearmsAdvancedRanged.helpText>Clique gauche sur une arme à distance qu'un colon transporte pour l'assigner comme arme à distance par défaut. Si la préférence d'arme du colon est assignée pour les armes à distance (ou assignée par compétence qui excelle en armes à distance), cette arme sera ce que le colon équipe lorsqu'il n'est pas en combat. Elle sera également utilisée lors de la chasse. \n\nCliquez sur l'arme à distance par défaut encore une fois pour forcer son utilisation, quelle que soit la portée/DPS. \n\nClique droit pour retirer l'utilisation forcée/le statut d'arme par défaut.</Concept_SimpleSidearmsAdvancedRanged.helpText>
+    <Concept_SimpleSidearmsAdvancedMelee.label>SS: Contrôles avancés (Mêlée)</Concept_SimpleSidearmsAdvancedMelee.label>
+    <Concept_SimpleSidearmsAdvancedMelee.helpText>Clique gauche sur une arme de mêlée qu'un colon transporte pour l'assigner comme arme de mêlée par défaut. Si la préférence d'arme du colon est assignée pour les armes de mêlées (ou assignée par compétence qui excelle en armes de mêlées) cette arme sera ce que le colon équipe lors de combats rapprochés. \n\nCliquez sur une arme de mêlée pour forcer son utilisation. \n\nClique droit pour retirer l'utilisation forcée/le statut d'arme par défaut.</Concept_SimpleSidearmsAdvancedMelee.helpText>
+    <Concept_SimpleSidearmsAdvancedDrafted.label>SS: Contrôles avancés (Garde-à-vous)</Concept_SimpleSidearmsAdvancedDrafted.label>
+    <Concept_SimpleSidearmsAdvancedDrafted.helpText>Clique gauche sur une arme qu'un colon transporte lorsqu'il est au garde-à-vous pour être forcé de l'utilisée jusqu'à la fin du combat. \n\nPrenez note que les changements d'arme de poing doivent être modifiés lorsque le colon n'est pas au garde-à-vous.</Concept_SimpleSidearmsAdvancedDrafted.helpText>
+
+    <Concept_SimpleSidearmsLosingWeapons.label>SS: Abandon des armes</Concept_SimpleSidearmsLosingWeapons.label>
+    <Concept_SimpleSidearmsLosingWeapons.helpText>Dépendant de la configuration, Simple Sidearms peut pousser les colons à jeter leur arme dans une variété de situations (par défaut lors des attaques à la mêlée). Pas de soucis - vos colons récupèreront leurs armes après le combat. \n\nCeci est une fonctionnalité personnalisable - jetez un oeil aux options du mod pour en savoir plus.</Concept_SimpleSidearmsLosingWeapons.helpText>
+
+    <Concept_CEOverride.label>SS: Patch CE</Concept_CEOverride.label>
+    <Concept_CEOverride.helpText>Combat Extended est chargé. La fonctionnalité de gestion d'inventaire de Simple Sidearms est désactivée.</Concept_CEOverride.helpText>
+
+</LanguageData>
