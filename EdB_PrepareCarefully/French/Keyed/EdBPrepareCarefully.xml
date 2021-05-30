@@ -146,7 +146,7 @@
 
   <EdB.PC.Page.Button.LoadPreset>Charger un préréglage</EdB.PC.Page.Button.LoadPreset>
   <EdB.PC.Page.Button.PrepareCarefully>Prepare Carefully</EdB.PC.Page.Button.PrepareCarefully>
-  <EdB.PC.Page.Button.SavePreset>Sauvegarder les paramètres</EdB.PC.Page.Button.SavePreset>
+  <EdB.PC.Page.Button.SavePreset>Enregis. Paramètres</EdB.PC.Page.Button.SavePreset>
   <EdB.PC.Page.ConfirmExit>Êtes-vous certain de vouloir quitter Prepare Carefully?  Tous changements que vous avez faits seront perdus.</EdB.PC.Page.ConfirmExit>
   <EdB.PC.Page.ConfirmStart>Êtes-vous certain que vous avez terminé avec les personnalisations?  Confirmer que vous êtes satisfait!</EdB.PC.Page.ConfirmStart>
   <EdB.PC.Page.Points.CostSummary.Total>Total dépensé: {0}</EdB.PC.Page.Points.CostSummary.Total>

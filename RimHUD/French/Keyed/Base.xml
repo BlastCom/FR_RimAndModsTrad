@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Uncomment and modify the line below if you would like your name to be credited in the config window -->
+  <RimHUD.Language.TranslatedBy>Traduit par FlammyHazard</RimHUD.Language.TranslatedBy>
+  <RimHUD.Language.AdjectiveNounOrder>{0} {1}</RimHUD.Language.AdjectiveNounOrder>
+
+  <RimHUD.ToggleHud>Afficher HUD</RimHUD.ToggleHud>
+
+  <RimHUD.Button.OK>OK</RimHUD.Button.OK>
+  <RimHUD.Button.Yes>Oui</RimHUD.Button.Yes>
+  <RimHUD.Button.No>Non</RimHUD.Button.No>
+  <RimHUD.Button.Cancel>Annuler</RimHUD.Button.Cancel>
+  <RimHUD.Button.Close>Fermer</RimHUD.Button.Close>
+  <RimHUD.Button.Save>Sauver</RimHUD.Button.Save>
+
+  <RimHUD.Dialog_Config.Title>RimHUD</RimHUD.Dialog_Config.Title>
+  <RimHUD.Dialog_Config.SetToDefault>Utiliser valeurs par défauts</RimHUD.Dialog_Config.SetToDefault>
+  <RimHUD.Dialog_Config.OpenFolder>Fichier de config.</RimHUD.Dialog_Config.OpenFolder>
+
+  <RimHUD.Dialog_Config.Tab.Design>Désign</RimHUD.Dialog_Config.Tab.Design>
+
+  <RimHUD.Dialog_Config.Tab.Colors>Couleurs</RimHUD.Dialog_Config.Tab.Colors>
+  <RimHUD.Dialog_Config.Tab.Colors.Editor>Modifier la couleur de {0}</RimHUD.Dialog_Config.Tab.Colors.Editor>
+  <RimHUD.Dialog_Config.Tab.Colors.Hue>Teinte</RimHUD.Dialog_Config.Tab.Colors.Hue>
+  <RimHUD.Dialog_Config.Tab.Colors.Saturation>Saturation</RimHUD.Dialog_Config.Tab.Colors.Saturation>
+  <RimHUD.Dialog_Config.Tab.Colors.Lightness>Clarté</RimHUD.Dialog_Config.Tab.Colors.Lightness>
+  <RimHUD.Dialog_Config.Tab.Colors.Alpha>Alpha</RimHUD.Dialog_Config.Tab.Colors.Alpha>
+  <RimHUD.Dialog_Config.Tab.Colors.Hex>Hex</RimHUD.Dialog_Config.Tab.Colors.Hex>
+
+  <RimHUD.Dialog_Config.Tab.Content>Contenu</RimHUD.Dialog_Config.Tab.Content>
+  <RimHUD.Dialog_Config.Tab.Content.Preset>Choisir préréglage</RimHUD.Dialog_Config.Tab.Content.Preset>
+  <RimHUD.Dialog_Config.Tab.Content.Preset.Default>Défaut</RimHUD.Dialog_Config.Tab.Content.Preset.Default>
+  <RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>Réinitialiser l'affichage par défaut</RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>
+  <RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>L'affichage pour le mod '{0}' a été chargé.</RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>
+  <RimHUD.Dialog_Config.Tab.Content.Mode>{0} mode</RimHUD.Dialog_Config.Tab.Content.Mode>
+  <RimHUD.Dialog_Config.Tab.Content.Mode.Docked>Ancré</RimHUD.Dialog_Config.Tab.Content.Mode.Docked>
+  <RimHUD.Dialog_Config.Tab.Content.Mode.Floating>Flotant</RimHUD.Dialog_Config.Tab.Content.Mode.Floating>
+  <RimHUD.Dialog_Config.Tab.Content.Editor>Éditeur du HUD ({0})</RimHUD.Dialog_Config.Tab.Content.Editor>
+  <RimHUD.Dialog_Config.Tab.Content.Layout>Mise en page</RimHUD.Dialog_Config.Tab.Content.Layout>
+  <RimHUD.Dialog_Config.Tab.Content.Layout.SavePreset>Sauver comme préréglage</RimHUD.Dialog_Config.Tab.Content.Layout.SavePreset>
+  <RimHUD.Dialog_Config.Tab.Content.Layout.ManagePresets>Gérer les préréglages</RimHUD.Dialog_Config.Tab.Content.Layout.ManagePresets>
+  <RimHUD.Dialog_Config.Tab.Content.Component>Composant</RimHUD.Dialog_Config.Tab.Content.Component>
+  <RimHUD.Dialog_Config.Tab.Content.Component.MoveUp>Déplacer vers le haut</RimHUD.Dialog_Config.Tab.Content.Component.MoveUp>
+  <RimHUD.Dialog_Config.Tab.Content.Component.MoveDown>Déplacer vers le bas</RimHUD.Dialog_Config.Tab.Content.Component.MoveDown>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Remove>Retirer</RimHUD.Dialog_Config.Tab.Content.Component.Remove>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Stack>Ajouter une pile</RimHUD.Dialog_Config.Tab.Content.Component.Stack>
+  <RimHUD.Dialog_Config.Tab.Content.Component.StackDesc>Une pile peut contenir d'autres piles ou panneaux. Le contenu de la pile sera uniformément réparti horizontalement ou verticalement selon le type de pile choisi.</RimHUD.Dialog_Config.Tab.Content.Component.StackDesc>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Panel>Ajouter un panneau</RimHUD.Dialog_Config.Tab.Content.Component.Panel>
+  <RimHUD.Dialog_Config.Tab.Content.Component.PanelDesc>Un panneau affiche uniformément des rangées d'éléments verticalement.</RimHUD.Dialog_Config.Tab.Content.Component.PanelDesc>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Row>Ajouter une rangée</RimHUD.Dialog_Config.Tab.Content.Component.Row>
+  <RimHUD.Dialog_Config.Tab.Content.Component.RowDesc>Une ligne contient des éléments et si elle en contient plusieurs, ils seront affichés uniformément horizontalement.</RimHUD.Dialog_Config.Tab.Content.Component.RowDesc>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Element>Ajouter un élément</RimHUD.Dialog_Config.Tab.Content.Component.Element>
+  <RimHUD.Dialog_Config.Tab.Content.Component.ElementDesc>Un élément affiche des données sur le HUD.</RimHUD.Dialog_Config.Tab.Content.Component.ElementDesc>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Stat>Ajouter une statistique</RimHUD.Dialog_Config.Tab.Content.Component.Stat>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Record>Ajouter un onglet</RimHUD.Dialog_Config.Tab.Content.Component.Record>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Need>Ajouter une barre de besoins</RimHUD.Dialog_Config.Tab.Content.Component.Need>
+  <RimHUD.Dialog_Config.Tab.Content.Component.SkillOrTraining>Ajouter une compétence/formation</RimHUD.Dialog_Config.Tab.Content.Component.SkillOrTraining>
+  <RimHUD.Dialog_Config.Tab.Content.Selected>Sélectionné: </RimHUD.Dialog_Config.Tab.Content.Selected>
+  <RimHUD.Dialog_Config.Tab.Content.Selected.Filled>Hauteur de remplissage</RimHUD.Dialog_Config.Tab.Content.Selected.Filled>
+  <RimHUD.Dialog_Config.Tab.Content.Selected.FilledDesc>Si coché, le panneau ou la pile s’étirera pour remplir l’espace vertical restant.\n\nSi elle n'est pas cochée, elle redimensionnera la hauteur à son contenu</RimHUD.Dialog_Config.Tab.Content.Selected.FilledDesc>
+
+  <RimHUD.Dialog_Presets.Title>Préréglages de l'utilisateur</RimHUD.Dialog_Presets.Title>
+  <RimHUD.Dialog_Presets.Delete>Supprimer l'élément sélectionné</RimHUD.Dialog_Presets.Delete>
+
+  <RimHUD.Dialog_SavePreset.Title>Sauver le préréglage</RimHUD.Dialog_SavePreset.Title>
+  <RimHUD.Dialog_SavePreset.Name>Nom</RimHUD.Dialog_SavePreset.Name>
+  <RimHUD.Dialog_SavePreset.IncludeDocked>Inclure les éléments ancrés</RimHUD.Dialog_SavePreset.IncludeDocked>
+  <RimHUD.Dialog_SavePreset.IncludeFloating>Inclure les éléments flotants</RimHUD.Dialog_SavePreset.IncludeFloating>
+  <RimHUD.Dialog_SavePreset.IncludeHeight>Inclure la hauteur</RimHUD.Dialog_SavePreset.IncludeHeight>
+  <RimHUD.Dialog_SavePreset.IncludeWidth>Inclure la largeur</RimHUD.Dialog_SavePreset.IncludeWidth>
+  <RimHUD.Dialog_SavePreset.IncludeTabs>Inclure les onglets</RimHUD.Dialog_SavePreset.IncludeTabs>
+
+  <RimHUD.Layout.UserPreset>[Préréglage de l'utilisateur]</RimHUD.Layout.UserPreset>
+  <RimHUD.Layout.BuiltIn>[Intégré]</RimHUD.Layout.BuiltIn>
+
+  <RimHUD.Alert.ConfigReset>RimHUD a été mis à jour vers la version {0} et exige que sa configuration soit réinitialisée par défaut.</RimHUD.Alert.ConfigReset>
+  <RimHUD.Alert.SetToDefault>Voulez-vous vraiment rétablir tous les paramètres par défaut?</RimHUD.Alert.SetToDefault>
+  <RimHUD.Alert.InvalidLayout>Cette mise en page pour RimHUD contenait des éléments non valides ou des éléments d'autres mods qui ne sont plus actifs.\n\nLa disposition du HUD a été réinitialisée par défaut.</RimHUD.Alert.InvalidLayout>
+  <RimHUD.Alert.Saved>Préréglage '{0}' sauvegardé.</RimHUD.Alert.Saved>
+  <RimHUD.Alert.ConfirmDelete>Êtes-vous certain de vouloir supprimer le préréglage '{0}' sauvegardé.</RimHUD.Alert.ConfirmDelete>
+  <RimHUD.Alert.NotImplemented>Cette fonctionnalité n'est pas encore implémentée</RimHUD.Alert.NotImplemented>
+  <RimHUD.Alert.MoreComingSoon>Plus de fonctionnalités à venir</RimHUD.Alert.MoreComingSoon>
+
+  <RimHUD.InspectPane.MedicalCare>Changer le niveau de soins médicaux donnés à {0}.\n\nNiveau actuel: {1}</RimHUD.InspectPane.MedicalCare>
+</LanguageData>
