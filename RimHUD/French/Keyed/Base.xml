@@ -52,7 +52,7 @@
   <RimHUD.Dialog_Config.Tab.Content.Component.Element>Ajouter un élément</RimHUD.Dialog_Config.Tab.Content.Component.Element>
   <RimHUD.Dialog_Config.Tab.Content.Component.ElementDesc>Un élément affiche des données sur le HUD.</RimHUD.Dialog_Config.Tab.Content.Component.ElementDesc>
   <RimHUD.Dialog_Config.Tab.Content.Component.Stat>Ajouter une statistique</RimHUD.Dialog_Config.Tab.Content.Component.Stat>
-  <RimHUD.Dialog_Config.Tab.Content.Component.Record>Ajouter un onglet</RimHUD.Dialog_Config.Tab.Content.Component.Record>
+  <RimHUD.Dialog_Config.Tab.Content.Component.Record>Ajouter un registre</RimHUD.Dialog_Config.Tab.Content.Component.Record>
   <RimHUD.Dialog_Config.Tab.Content.Component.Need>Ajouter une barre de besoins</RimHUD.Dialog_Config.Tab.Content.Component.Need>
   <RimHUD.Dialog_Config.Tab.Content.Component.SkillOrTraining>Ajouter une compétence/formation</RimHUD.Dialog_Config.Tab.Content.Component.SkillOrTraining>
   <RimHUD.Dialog_Config.Tab.Content.Selected>Sélectionné: </RimHUD.Dialog_Config.Tab.Content.Selected>

@@ -93,48 +93,48 @@
   <RimHUD.Model.Component.HealthCondition>État de santé</RimHUD.Model.Component.HealthCondition>
   <RimHUD.Model.Component.MindCondition>État de santé mentale</RimHUD.Model.Component.MindCondition>
 
-  <RimHUD.Model.Component.Stat>{0} Statistique</RimHUD.Model.Component.Stat>
-  <RimHUD.Model.Component.Record>{0} record</RimHUD.Model.Component.Record>
+  <RimHUD.Model.Component.Stat>{0} statistique</RimHUD.Model.Component.Stat>
+  <RimHUD.Model.Component.Record>{0} registre</RimHUD.Model.Component.Record>
 
-  <RimHUD.Model.Component.NeedMood>Mood bar</RimHUD.Model.Component.NeedMood>
-  <RimHUD.Model.Component.NeedFood>Food bar</RimHUD.Model.Component.NeedFood>
-  <RimHUD.Model.Component.NeedRest>Rest bar</RimHUD.Model.Component.NeedRest>
-  <RimHUD.Model.Component.NeedRecreation>Recreation bar</RimHUD.Model.Component.NeedRecreation>
-  <RimHUD.Model.Component.Need>{0} bar</RimHUD.Model.Component.Need>
+  <RimHUD.Model.Component.NeedMood>Barre d'humeur</RimHUD.Model.Component.NeedMood>
+  <RimHUD.Model.Component.NeedFood>Barre de nourriture</RimHUD.Model.Component.NeedFood>
+  <RimHUD.Model.Component.NeedRest>Barre de repos</RimHUD.Model.Component.NeedRest>
+  <RimHUD.Model.Component.NeedRecreation>Barre de récréation</RimHUD.Model.Component.NeedRecreation>
+  <RimHUD.Model.Component.Need>{0} Barre</RimHUD.Model.Component.Need>
 
-  <RimHUD.Model.Component.SkillShooting>Shooting skill</RimHUD.Model.Component.SkillShooting>
-  <RimHUD.Model.Component.SkillMelee>Melee skill</RimHUD.Model.Component.SkillMelee>
-  <RimHUD.Model.Component.SkillConstruction>Construction skill</RimHUD.Model.Component.SkillConstruction>
-  <RimHUD.Model.Component.SkillMining>Mining skill</RimHUD.Model.Component.SkillMining>
-  <RimHUD.Model.Component.SkillCooking>Cooking skill</RimHUD.Model.Component.SkillCooking>
-  <RimHUD.Model.Component.SkillPlants>Plants skill</RimHUD.Model.Component.SkillPlants>
-  <RimHUD.Model.Component.SkillAnimals>Animals skill</RimHUD.Model.Component.SkillAnimals>
-  <RimHUD.Model.Component.SkillCrafting>Crafting skill</RimHUD.Model.Component.SkillCrafting>
-  <RimHUD.Model.Component.SkillArtistic>Artistic skill</RimHUD.Model.Component.SkillArtistic>
-  <RimHUD.Model.Component.SkillMedicine>Medicine skill</RimHUD.Model.Component.SkillMedicine>
-  <RimHUD.Model.Component.SkillSocial>Social skill</RimHUD.Model.Component.SkillSocial>
-  <RimHUD.Model.Component.SkillIntellectual>Intellectual skill</RimHUD.Model.Component.SkillIntellectual>
-  <RimHUD.Model.Component.Skill>{0} skill</RimHUD.Model.Component.Skill>
+  <RimHUD.Model.Component.SkillShooting>Habileté en tir</RimHUD.Model.Component.SkillShooting>
+  <RimHUD.Model.Component.SkillMelee>Habileté en mêlée</RimHUD.Model.Component.SkillMelee>
+  <RimHUD.Model.Component.SkillConstruction>Habileté construction</RimHUD.Model.Component.SkillConstruction>
+  <RimHUD.Model.Component.SkillMining>Habileté minage</RimHUD.Model.Component.SkillMining>
+  <RimHUD.Model.Component.SkillCooking>Habileté cuisine</RimHUD.Model.Component.SkillCooking>
+  <RimHUD.Model.Component.SkillPlants>Habileté agriculture</RimHUD.Model.Component.SkillPlants>
+  <RimHUD.Model.Component.SkillAnimals>Habileté dressage</RimHUD.Model.Component.SkillAnimals>
+  <RimHUD.Model.Component.SkillCrafting>Habileté fabrication</RimHUD.Model.Component.SkillCrafting>
+  <RimHUD.Model.Component.SkillArtistic>Habileté artistique</RimHUD.Model.Component.SkillArtistic>
+  <RimHUD.Model.Component.SkillMedicine>Habileté médicale</RimHUD.Model.Component.SkillMedicine>
+  <RimHUD.Model.Component.SkillSocial>Habileté sociale</RimHUD.Model.Component.SkillSocial>
+  <RimHUD.Model.Component.SkillIntellectual>Habileté intellectuelle</RimHUD.Model.Component.SkillIntellectual>
+  <RimHUD.Model.Component.Skill>{0} habileté</RimHUD.Model.Component.Skill>
   <RimHUD.Model.Component.Skill.PassionIndicator>★</RimHUD.Model.Component.Skill.PassionIndicator>
 
-  <RimHUD.Model.Component.TrainingTameness>Tameness training</RimHUD.Model.Component.TrainingTameness>
-  <RimHUD.Model.Component.TrainingObedience>Obedience training</RimHUD.Model.Component.TrainingObedience>
-  <RimHUD.Model.Component.TrainingRelease>Release training</RimHUD.Model.Component.TrainingRelease>
-  <RimHUD.Model.Component.TrainingRescue>Rescue training</RimHUD.Model.Component.TrainingRescue>
-  <RimHUD.Model.Component.TrainingHaul>Haul training</RimHUD.Model.Component.TrainingHaul>
-  <RimHUD.Model.Component.Training>{0} training</RimHUD.Model.Component.Training>
+  <RimHUD.Model.Component.TrainingTameness>Entraînement dicipline</RimHUD.Model.Component.TrainingTameness>
+  <RimHUD.Model.Component.TrainingObedience>Entraînement obéissance</RimHUD.Model.Component.TrainingObedience>
+  <RimHUD.Model.Component.TrainingRelease>Entraînement libération</RimHUD.Model.Component.TrainingRelease>
+  <RimHUD.Model.Component.TrainingRescue>Entraînement sauvetage</RimHUD.Model.Component.TrainingRescue>
+  <RimHUD.Model.Component.TrainingHaul>Entraînement transportage</RimHUD.Model.Component.TrainingHaul>
+  <RimHUD.Model.Component.Training>{0} entraînement</RimHUD.Model.Component.Training>
 
-  <RimHUD.Model.Component.Master>Master</RimHUD.Model.Component.Master>
-  <RimHUD.Model.Component.Activity>Activity</RimHUD.Model.Component.Activity>
-  <RimHUD.Model.Component.Queued>Queued</RimHUD.Model.Component.Queued>
-  <RimHUD.Model.Component.Equipped>Equipped</RimHUD.Model.Component.Equipped>
-  <RimHUD.Model.Component.Carrying>Carrying</RimHUD.Model.Component.Carrying>
-  <RimHUD.Model.Component.CompInfo>Extra information</RimHUD.Model.Component.CompInfo>
+  <RimHUD.Model.Component.Master>Maître</RimHUD.Model.Component.Master>
+  <RimHUD.Model.Component.Activity>Activité</RimHUD.Model.Component.Activity>
+  <RimHUD.Model.Component.Queued>En attente</RimHUD.Model.Component.Queued>
+  <RimHUD.Model.Component.Equipped>Équipé</RimHUD.Model.Component.Equipped>
+  <RimHUD.Model.Component.Carrying>Transporte</RimHUD.Model.Component.Carrying>
+  <RimHUD.Model.Component.CompInfo>Information supplémentaire</RimHUD.Model.Component.CompInfo>
 
-  <RimHUD.Model.Component.Container.Filled>Filled</RimHUD.Model.Component.Container.Filled>
+  <RimHUD.Model.Component.Container.Filled>rempli</RimHUD.Model.Component.Container.Filled>
 
-  <RimHUD.Model.Target.PlayerHumanlike>Player Humanlike</RimHUD.Model.Target.PlayerHumanlike>
-  <RimHUD.Model.Target.OtherHumanlike>Other Humanlike</RimHUD.Model.Target.OtherHumanlike>
-  <RimHUD.Model.Target.PlayerCreature>Player Creature</RimHUD.Model.Target.PlayerCreature>
-  <RimHUD.Model.Target.OtherCreature>Other Creature</RimHUD.Model.Target.OtherCreature>
+  <RimHUD.Model.Target.PlayerHumanlike>Joueur anthropomorphe</RimHUD.Model.Target.PlayerHumanlike>
+  <RimHUD.Model.Target.OtherHumanlike>Autre anthropomorphe</RimHUD.Model.Target.OtherHumanlike>
+  <RimHUD.Model.Target.PlayerCreature>Joueur créature</RimHUD.Model.Target.PlayerCreature>
+  <RimHUD.Model.Target.OtherCreature>Autre créature</RimHUD.Model.Target.OtherCreature>
 </LanguageData>

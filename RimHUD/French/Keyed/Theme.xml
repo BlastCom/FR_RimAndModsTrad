@@ -1,76 +1,76 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RimHUD.Theme.HudPosition>HUD Position</RimHUD.Theme.HudPosition>
-  <RimHUD.Theme.HudDocked>Dock to Inspect Pane</RimHUD.Theme.HudDocked>
-  <RimHUD.Theme.HudDockedDesc>Requires Inspect Pane to be modified, see below.</RimHUD.Theme.HudDockedDesc>
-  <RimHUD.Theme.HudAnchor>Anchor</RimHUD.Theme.HudAnchor>
-  <RimHUD.Theme.HudAnchors>Top Left|Top Center|Top Right|Center Left|Center|Center Right|Bottom Left|Bottom Center|Bottom Right</RimHUD.Theme.HudAnchors>
+  <RimHUD.Theme.HudPosition>Position du HUD</RimHUD.Theme.HudPosition>
+  <RimHUD.Theme.HudDocked>Fixer la position pour inspecter le volet</RimHUD.Theme.HudDocked>
+  <RimHUD.Theme.HudDockedDesc>Nécessite que le volet soit fixé pour faire des modifications, voir ci-dessous.</RimHUD.Theme.HudDockedDesc>
+  <RimHUD.Theme.HudAnchor>Ancrage</RimHUD.Theme.HudAnchor>
+  <RimHUD.Theme.HudAnchors>Supérieur gauche|Centre supérieur|Supérieur droit|Centre gauche|Centre|Centre droit|Inférieur gauche|Centre inférieur|Inférieur droit</RimHUD.Theme.HudAnchors>
   <RimHUD.Theme.HudOffsetX>X</RimHUD.Theme.HudOffsetX>
   <RimHUD.Theme.HudOffsetY>Y</RimHUD.Theme.HudOffsetY>
 
-  <RimHUD.Theme.RefreshRate>Refresh rate</RimHUD.Theme.RefreshRate>
-  <RimHUD.Theme.RefreshRateDesc>How often the HUD will refresh. Set this higher if experiencing any frame rate drop.</RimHUD.Theme.RefreshRateDesc>
+  <RimHUD.Theme.RefreshRate>taux de rafraîchissement</RimHUD.Theme.RefreshRate>
+  <RimHUD.Theme.RefreshRateDesc>La fréquence à laquel le HUD se rafraîchit. Augmentez cette valeur si vous subissez une baisse de fréquence d'images.</RimHUD.Theme.RefreshRateDesc>
   <RimHUD.Theme.RefreshRateUnits>ms</RimHUD.Theme.RefreshRateUnits>
 
-  <RimHUD.Theme.HudDimensions>HUD Dimensions</RimHUD.Theme.HudDimensions>
-  <RimHUD.Theme.HudWidth>Width</RimHUD.Theme.HudWidth>
-  <RimHUD.Theme.HudHeight>Height</RimHUD.Theme.HudHeight>
+  <RimHUD.Theme.HudDimensions>Dimensions du HUD</RimHUD.Theme.HudDimensions>
+  <RimHUD.Theme.HudWidth>Largeur</RimHUD.Theme.HudWidth>
+  <RimHUD.Theme.HudHeight>Hauteur</RimHUD.Theme.HudHeight>
 
-  <RimHUD.Theme.TextOptions>Text Options</RimHUD.Theme.TextOptions>
+  <RimHUD.Theme.TextOptions>Options du texte</RimHUD.Theme.TextOptions>
 
-  <RimHUD.Theme.TextStyleRegular>Regular Text</RimHUD.Theme.TextStyleRegular>
-  <RimHUD.Theme.TextStyleLarge>Header Text</RimHUD.Theme.TextStyleLarge>
-  <RimHUD.Theme.TextStyleSmall>Description Text</RimHUD.Theme.TextStyleSmall>
-  <RimHUD.Theme.LabelWidth>Label Width</RimHUD.Theme.LabelWidth>
-  <RimHUD.Theme.ValueWidth>Value Width</RimHUD.Theme.ValueWidth>
+  <RimHUD.Theme.TextStyleRegular>Texte régulier</RimHUD.Theme.TextStyleRegular>
+  <RimHUD.Theme.TextStyleLarge>Texte d'en-tête</RimHUD.Theme.TextStyleLarge>
+  <RimHUD.Theme.TextStyleSmall>Texte de description</RimHUD.Theme.TextStyleSmall>
+  <RimHUD.Theme.LabelWidth>Largeur de l'étiquette</RimHUD.Theme.LabelWidth>
+  <RimHUD.Theme.ValueWidth>Valeur de la Largeur</RimHUD.Theme.ValueWidth>
 
-  <RimHUD.Theme.InspectPane>Inspect Pane</RimHUD.Theme.InspectPane>
-  <RimHUD.Theme.InspectPaneModify>Modify</RimHUD.Theme.InspectPaneModify>
-  <RimHUD.Theme.InspectPaneModifyDesc>This is required for the docked HUD mode.</RimHUD.Theme.InspectPaneModifyDesc>
-  <RimHUD.Theme.InspectPaneAddLog>Show character log</RimHUD.Theme.InspectPaneAddLog>
-  <RimHUD.Theme.InspectPaneAddLogDesc>Fills the inspect pane with the log for the selected character. Only available in undocked mode.</RimHUD.Theme.InspectPaneAddLogDesc>
-  <RimHUD.Theme.InspectPaneHeight>Pane Height</RimHUD.Theme.InspectPaneHeight>
-  <RimHUD.Theme.InspectPaneMinTabs>Minimum Tabs</RimHUD.Theme.InspectPaneMinTabs>
-  <RimHUD.Theme.InspectPaneTabWidth>Tab Width</RimHUD.Theme.InspectPaneTabWidth>
+  <RimHUD.Theme.InspectPane>Volet d'inspection</RimHUD.Theme.InspectPane>
+  <RimHUD.Theme.InspectPaneModify>Modifier</RimHUD.Theme.InspectPaneModify>
+  <RimHUD.Theme.InspectPaneModifyDesc>Ceci est requis pour entrer dans le mode fixe du HUD.</RimHUD.Theme.InspectPaneModifyDesc>
+  <RimHUD.Theme.InspectPaneAddLog>Afficher le registre des personnages</RimHUD.Theme.InspectPaneAddLog>
+  <RimHUD.Theme.InspectPaneAddLogDesc>Remplit le volet d'inspection avec le registre du personnage sélectionné. Seulement disponible dans le mode non fixe.</RimHUD.Theme.InspectPaneAddLogDesc>
+  <RimHUD.Theme.InspectPaneHeight>Hauteur du volet</RimHUD.Theme.InspectPaneHeight>
+  <RimHUD.Theme.InspectPaneMinTabs>Onglet minimum</RimHUD.Theme.InspectPaneMinTabs>
+  <RimHUD.Theme.InspectPaneTabWidth>Largeur de l'onglet</RimHUD.Theme.InspectPaneTabWidth>
 
-  <RimHUD.Theme.OtherOptions>Other Options</RimHUD.Theme.OtherOptions>
+  <RimHUD.Theme.OtherOptions>Autres options</RimHUD.Theme.OtherOptions>
 
-  <RimHUD.Theme.ShowDecimals>Show Decimals</RimHUD.Theme.ShowDecimals>
-  <RimHUD.Theme.LetterPadding>Letter Padding</RimHUD.Theme.LetterPadding>
-  <RimHUD.Theme.LetterPaddingDesc>Changes the distance between the letter notifications that appear on the right side of the screen. Vanilla: 12</RimHUD.Theme.LetterPaddingDesc>
-  <RimHUD.Theme.LetterCompress>Compress Notifications</RimHUD.Theme.LetterCompress>
-  <RimHUD.Theme.LetterCompressDesc>Will compress any letters and alerts on the right side of the screen if they overlap with the HUD.</RimHUD.Theme.LetterCompressDesc>
+  <RimHUD.Theme.ShowDecimals>Afficher les décimales</RimHUD.Theme.ShowDecimals>
+  <RimHUD.Theme.LetterPadding>Rembourrage des lettres</RimHUD.Theme.LetterPadding>
+  <RimHUD.Theme.LetterPaddingDesc>Modifie la distance entre les lettres des notifications qui apparaissent sur le côté droit de l'écran. Vanilla : 12</RimHUD.Theme.LetterPaddingDesc>
+  <RimHUD.Theme.LetterCompress>Notifications compressées</RimHUD.Theme.LetterCompress>
+  <RimHUD.Theme.LetterCompressDesc>Comprimera toutes les lettres et les alertes sur le côté droit de l'écran si elles chevauchent le HUD.</RimHUD.Theme.LetterCompressDesc>
 
-  <RimHUD.Theme.HudColors>HUD Colors</RimHUD.Theme.HudColors>
+  <RimHUD.Theme.HudColors>Couleurs du HUD</RimHUD.Theme.HudColors>
 
-  <RimHUD.Theme.MainTextColor>Main text</RimHUD.Theme.MainTextColor>
-  <RimHUD.Theme.DisabledColor>Disabled text</RimHUD.Theme.DisabledColor>
-  <RimHUD.Theme.CriticalColor>Critical text</RimHUD.Theme.CriticalColor>
-  <RimHUD.Theme.WarningColor>Warning text</RimHUD.Theme.WarningColor>
-  <RimHUD.Theme.InfoColor>Info text</RimHUD.Theme.InfoColor>
-  <RimHUD.Theme.GoodColor>Good text</RimHUD.Theme.GoodColor>
-  <RimHUD.Theme.ExcellentColor>Excellent text</RimHUD.Theme.ExcellentColor>
-  <RimHUD.Theme.BarBackgroundColor>Bar background</RimHUD.Theme.BarBackgroundColor>
-  <RimHUD.Theme.BarMainColor>Bar main</RimHUD.Theme.BarMainColor>
-  <RimHUD.Theme.BarLowColor>Bar low</RimHUD.Theme.BarLowColor>
-  <RimHUD.Theme.BarThresholdColor>Bar threshold</RimHUD.Theme.BarThresholdColor>
-  <RimHUD.Theme.SelectorBackgroundColor>Selector Background</RimHUD.Theme.SelectorBackgroundColor>
-  <RimHUD.Theme.SelectorTextColor>Selector Text</RimHUD.Theme.SelectorTextColor>
-  <RimHUD.Theme.LineColor>Line</RimHUD.Theme.LineColor>
+  <RimHUD.Theme.MainTextColor>Texte principal</RimHUD.Theme.MainTextColor>
+  <RimHUD.Theme.DisabledColor>Texte désactivé</RimHUD.Theme.DisabledColor>
+  <RimHUD.Theme.CriticalColor>Texte critique</RimHUD.Theme.CriticalColor>
+  <RimHUD.Theme.WarningColor>Texte d'alerte</RimHUD.Theme.WarningColor>
+  <RimHUD.Theme.InfoColor>Texte informateur</RimHUD.Theme.InfoColor>
+  <RimHUD.Theme.GoodColor>Texte du bon</RimHUD.Theme.GoodColor>
+  <RimHUD.Theme.ExcellentColor>Texte du excellent</RimHUD.Theme.ExcellentColor>
+  <RimHUD.Theme.BarBackgroundColor>Barre d'arrière plan</RimHUD.Theme.BarBackgroundColor>
+  <RimHUD.Theme.BarMainColor>Barre principale</RimHUD.Theme.BarMainColor>
+  <RimHUD.Theme.BarLowColor>Barre inférieure</RimHUD.Theme.BarLowColor>
+  <RimHUD.Theme.BarThresholdColor>Seuil de la barre</RimHUD.Theme.BarThresholdColor>
+  <RimHUD.Theme.SelectorBackgroundColor>Sélecteur de l'arrière plan</RimHUD.Theme.SelectorBackgroundColor>
+  <RimHUD.Theme.SelectorTextColor>Sélecteur de texte</RimHUD.Theme.SelectorTextColor>
+  <RimHUD.Theme.LineColor>Ligne</RimHUD.Theme.LineColor>
 
-  <RimHUD.Theme.FactionColors>Faction Colors</RimHUD.Theme.FactionColors>
-  <RimHUD.Theme.FactionOwnColor>Own</RimHUD.Theme.FactionOwnColor>
-  <RimHUD.Theme.FactionAlliedColor>Allied</RimHUD.Theme.FactionAlliedColor>
-  <RimHUD.Theme.FactionIndependentColor>Independent</RimHUD.Theme.FactionIndependentColor>
+  <RimHUD.Theme.FactionColors>Couleurs de faction</RimHUD.Theme.FactionColors>
+  <RimHUD.Theme.FactionOwnColor>Notre</RimHUD.Theme.FactionOwnColor>
+  <RimHUD.Theme.FactionAlliedColor>Alliée</RimHUD.Theme.FactionAlliedColor>
+  <RimHUD.Theme.FactionIndependentColor>Indépendante</RimHUD.Theme.FactionIndependentColor>
   <RimHUD.Theme.FactionHostileColor>Hostile</RimHUD.Theme.FactionHostileColor>
-  <RimHUD.Theme.FactionWildColor>Wild</RimHUD.Theme.FactionWildColor>
+  <RimHUD.Theme.FactionWildColor>Sauvage</RimHUD.Theme.FactionWildColor>
 
-  <RimHUD.Theme.SkillColors>Skill Colors</RimHUD.Theme.SkillColors>
-  <RimHUD.Theme.SkillMinorPassionColor>Minor passion</RimHUD.Theme.SkillMinorPassionColor>
-  <RimHUD.Theme.SkillMajorPassionColor>Major passion</RimHUD.Theme.SkillMajorPassionColor>
-  <RimHUD.Theme.SkillSaturatedColor>Learning saturated</RimHUD.Theme.SkillSaturatedColor>
-  <RimHUD.Theme.SkillActiveColor>Currently active</RimHUD.Theme.SkillActiveColor>
+  <RimHUD.Theme.SkillColors>Couleurs d'habiletés</RimHUD.Theme.SkillColors>
+  <RimHUD.Theme.SkillMinorPassionColor>Passion mineure</RimHUD.Theme.SkillMinorPassionColor>
+  <RimHUD.Theme.SkillMajorPassionColor>Passion majeure</RimHUD.Theme.SkillMajorPassionColor>
+  <RimHUD.Theme.SkillSaturatedColor>Apprentissage saturé</RimHUD.Theme.SkillSaturatedColor>
+  <RimHUD.Theme.SkillActiveColor>Actuellement actif</RimHUD.Theme.SkillActiveColor>
 
-  <RimHUD.TextStyle.Size>Size</RimHUD.TextStyle.Size>
-  <RimHUD.TextStyle.Height>Height</RimHUD.TextStyle.Height>
+  <RimHUD.TextStyle.Size>Taille</RimHUD.TextStyle.Size>
+  <RimHUD.TextStyle.Height>Hauteur</RimHUD.TextStyle.Height>
 </LanguageData>
