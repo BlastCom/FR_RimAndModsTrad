@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<DefPos_basic_label>Positions défensives</DefPos_basic_label>
+	<DefPos_basic_desc>Envoyez les colons à leur position défensive.
+Clic droit pour définir la position et d'autres options.</DefPos_basic_desc>
+	<DefPos_advanced_label>Positions</DefPos_advanced_label>
+	<DefPos_advanced_desc>Envoyez les colons en position défensive {0}.
+Clic droit pour définir la position et d'autres options.</DefPos_advanced_desc>
+
+	<!-- menu de clic droit -->
+	<DefPos_context_assignPosition>Sauvegarder cette position défensive{0}</DefPos_context_assignPosition>
+	<DefPos_context_clearPosition>Supprimer la position sauvegardée{0}</DefPos_context_clearPosition>
+	<DefPos_context_slotSuffix> (emplacement {0})</DefPos_context_slotSuffix>
+	<DefPos_context_toggleAdvanced>Basculer vers le mode avancé</DefPos_context_toggleAdvanced>
+
+	<!-- button messages -->
+	<DefPos_msg_noposition>Aucune position défensive enregistrée. Clic droit sur le bouton pour régler la position actuelle en position défensive.</DefPos_msg_noposition>
+	<DefPos_msg_noposition_partial>Nombre de colon sans position défensive enregistrée: {0}</DefPos_msg_noposition_partial>
+	<DefPos_msg_basicSet>La position défensive a été fixée pour {0} colons.</DefPos_msg_basicSet>
+	<DefPos_msg_advancedSet>La position défensive {0} a été établie pour {1} colons.</DefPos_msg_advancedSet>
+	<DefPos_msg_basicCleared>La position défensive a été supprimée pour {0} colons</DefPos_msg_basicCleared>
+	<DefPos_msg_advancedCleared>Position défensive supprimée {0} pour {1} colons.</DefPos_msg_advancedCleared>
+	<DefPos_msg_clearFailed>Aucun des colons sélectionnés n'avait de position défensive à supprimer.</DefPos_msg_clearFailed>
+	
+	<!-- keyboard shortcut messages -->
+	<DefPos_msg_squadEmpty>Aucun membre assigné à cette équipe {0}. Maintenir Ctrl et cliquer pour assigner.</DefPos_msg_squadEmpty>
+	<DefPos_msg_squadCleared>Aucun membre de l'équipe sélectionné. L'équipe {0} a été supprimée.</DefPos_msg_squadCleared>
+	<DefPos_msg_squadAssigned>{0} membres ont été assignés à l'équipe {1}.</DefPos_msg_squadAssigned>
+	<DefPos_msg_selectedAll>Tous les colons sélectionné.</DefPos_msg_selectedAll>
+	<DefPos_msg_sentAllSlot>{0} colon(s) a(ont) été envoyé(s) a leur position défensive {1}.</DefPos_msg_sentAllSlot>
+	<DefPos_msg_nopositionAllSlot>Aucun des colons possède une position défensive réglée à l'emplacement {0}.</DefPos_msg_nopositionAllSlot>
+	<DefPos_msg_undraftedAll>{0} colon(s) désengagé(s).</DefPos_msg_undraftedAll>
+	<DefPos_msg_nooneDrafted>Tous les colons sont déjà désengagés.</DefPos_msg_nooneDrafted>
+	
+	<setting_slotHotkeyMode_label>Mode touche de raccourci</setting_slotHotkeyMode_label>
+	<setting_slotHotkeyMode_desc>Définit le rôle des raccourcis clavier pour le mode avancé:
+&lt;b&gt;Seulement le premier emplacement:&lt;/b&gt; active toujours le premier emplacement.
+&lt;b&gt;Dernier emplacement utilisé:&lt;/b&gt; active le dernier emplacement qui a été cliqué.
+&lt;b&gt;Multi-presses:&lt;/b&gt; appuyez sur la touche 1 à 4 fois de suite pour activer l'emplacement correspondant.</setting_slotHotkeyMode_desc>
+	<setting_slotHotkeyMode_FirstSlotOnly>Seulement le premier emplacement</setting_slotHotkeyMode_FirstSlotOnly>
+	<setting_slotHotkeyMode_LastUsedSlot>Dernier emplacement utilisé</setting_slotHotkeyMode_LastUsedSlot>
+	<setting_slotHotkeyMode_MultiPress>Multi-presses</setting_slotHotkeyMode_MultiPress>
+	<setting_shiftKeyMode_label>Mode Shift</setting_shiftKeyMode_label>
+	<setting_shiftKeyMode_desc>Définit ce que fait de maintenir la touche Shift en combinaison avec un clic sur un emplacement ou en appuyant sur la touche de raccourci. Lorsque la touche Shift est définie sur l'ordonnances de mise en file d'attente, les positions des colons peuvent être attribuées par le biais du menu contextuel de l'emplacement.</setting_shiftKeyMode_desc>
+	<setting_shiftKeyMode_AssignSlot>Assignation de l'emplacement de la position</setting_shiftKeyMode_AssignSlot>
+	<setting_shiftKeyMode_QueueOrder>Ordre de déplacement de la file d'attente</setting_shiftKeyMode_QueueOrder>
+	<settings_sameGroupDistance_label>Distance de saut minimal</settings_sameGroupDistance_label>
+	<settings_sameGroupDistance_desc>Distance à laquelle les colons peuvent se trouver les uns des autres pour être considérés comme faisant partie du même groupe. Utilisé pour passer d'une escouade à l'autre en appuyant plusieurs fois sur la touche "Escouade"./nRéglez-le sur un nombre faible (0+) pour passer d'une escouade à l'autre individuellement./nRéglez-le sur un nombre élevé comme 1000 pour passer seulement d'une carte à l'autre, occupée par des membres de la même équipe.</settings_sameGroupDistance_desc>
+	<settings_jumpingSelectsNearby_label>Le saut sélectionne que les membres proches</settings_jumpingSelectsNearby_label>
+	<settings_jumpingSelectsNearby_desc>Détermine ce qui est sélectionné lors d'un passage d'un membre à l'autre d'une équipe. Utilisé lorsque vous passez d'une escouade à l'autre en appuyant plusieurs fois sur la touche Escouade./nLorsque activé, seuls les membres proches de l'emplacement ciblé sont sélectionnés. Sinon, il sélectionne toujours tous les membres de l'équipe sur la carte actuelle.</settings_jumpingSelectsNearby_desc>
+</LanguageData>

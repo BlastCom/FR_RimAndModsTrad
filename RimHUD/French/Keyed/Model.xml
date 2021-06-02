@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <RimHUD.Model.RelationKindAndFaction>{0} {1}</RimHUD.Model.RelationKindAndFaction>
-  <RimHUD.Model.OfFaction>of {0}</RimHUD.Model.OfFaction>
+  <RimHUD.Model.OfFaction>de {0}</RimHUD.Model.OfFaction>
 
   <RimHUD.Model.Faction.Own>notre</RimHUD.Model.Faction.Own>
   <RimHUD.Model.Faction.Wild>sauvage</RimHUD.Model.Faction.Wild>

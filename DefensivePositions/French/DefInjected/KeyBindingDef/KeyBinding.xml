@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+    <DefensivePositionGizmo.label>Envoyer un colon vers sa position défensive</DefensivePositionGizmo.label>
+    <DPSelectAllColonists.label>Sélectionner tous les colons</DPSelectAllColonists.label>
+    <DPSendAllColonists.label>Tous les colons en position défensive</DPSendAllColonists.label>
+    <DPUndraftAll.label>Désengager tous les colons</DPUndraftAll.label>
+    <DPSquad1.label>Sélectionner l'équipe 1</DPSquad1.label>
+    <DPSquad2.label>Sélectionner l'équipe 2</DPSquad2.label>
+    <DPSquad3.label>Sélectionner l'équipe 3</DPSquad3.label>
+    <DPSquad4.label>Sélectionner l'équipe 4</DPSquad4.label>
+    <DPSquad5.label>Sélectionner l'équipe 5</DPSquad5.label>
+    <DPSquad6.label>Sélectionner l'équipe 6</DPSquad6.label>
+    <DPSquad7.label>Sélectionner l'équipe 7</DPSquad7.label>
+    <DPSquad8.label>Sélectionner l'équipe 8</DPSquad8.label>
+    <DPSquad9.label>Sélectionner l'équipe 9</DPSquad9.label>
+
+</LanguageData>
