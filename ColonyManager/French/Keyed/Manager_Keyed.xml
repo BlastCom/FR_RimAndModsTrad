@@ -17,7 +17,7 @@
   <FM.AlertNoManager>Les cibles de gestion sont établies, mais il n'y a aucun colon ayant le travail de gestionnaire.</FM.AlertNoManager>
 
   <!-- Common -->
-  <FM.LastUpdateTooltip>Ce travail a été mis a jour il y a {0}.</FM.LastUpdateTooltip>
+  <FM.LastUpdateTooltip>Ce travail a été mis à jour dernièrement il y a {0}. De plus, il est planifié d'être mis à jour toutes les {1}.</FM.LastUpdateTooltip>
   <FM.OrderUp>Augmenter la priorité de travail</FM.OrderUp>
   <FM.OrderDown>Diminuer la priorité de travail</FM.OrderDown>
   <FM.OrderTop>Priorité maximale</FM.OrderTop>
@@ -65,7 +65,7 @@
   <FM.ClickToJumpTo>Cliquer pour se rendre sur {0}</FM.ClickToJumpTo>
   <FM.JobCompletedTooltip>Le seuil de travail a été atteint.</FM.JobCompletedTooltip>
   <FM.UnsuspendJobTooltip>Le travail a été suspendu.\n\nCliquer pour rétablir.</FM.UnsuspendJobTooltip>
-  <FM.JobSuspendedTooltip>Cliquer ici pour suspendre le travail</FM.JobSuspendedTooltip>
+  <FM.SuspendJobTooltip>Cliquer ici pour suspendre le travail</FM.SuspendJobTooltip>
   <FM.PluralSuffix>s</FM.PluralSuffix>
 
   <!--Import/Export Tab-->
@@ -133,7 +133,6 @@
   <FMF.BlocksWind>BLoquant le vent</FMF.BlocksWind>
   <FMF.BlocksWind.Tip>Selectionner toutes les plantes bloquant le vent</FMF.BlocksWind.Tip>
 
-
   <!-- Foraging (Gathering) tab -->
   <FMG.Foraging>Cueillette</FMG.Foraging>
   <FMG.NewForagingJob>Nouvelle tâche</FMG.NewForagingJob>
@@ -149,7 +148,10 @@
   <FM.Foraging.Edible.Tip>Selectionner toutes les plantes comestibles</FM.Foraging.Edible.Tip>
   <FM.Foraging.Mushrooms>Champignons</FM.Foraging.Mushrooms>
   <FM.Foraging.Mushrooms.Tip>Selectionner tous les champignons</FM.Foraging.Mushrooms.Tip>
-  
+  <FM.Foraging.SyncFilterAndAllowed>Seuil de synchronisation</FM.Foraging.SyncFilterAndAllowed>
+  <FM.Foraging.SyncFilterAndAllowed.Tip>En activant cette option, cela va essayer de synchroniser le nombre de matériaux dans le seuil de filtrage avec les plantes autorisées pour la cueillette, et vice versa.</FM.Foraging.SyncFilterAndAllowed.Tip>
+
+
   <!-- Thresholds -->
   <FMP.ThresholdCount>Seuil: {0}/{1}</FMP.ThresholdCount>
   <FMP.ThresholdCountTooltip>Cliquer pour ouvrir les détails du seuil.\n\nCible: {1}\nEn production: {0}</FMP.ThresholdCountTooltip>
@@ -187,9 +189,15 @@
   <FML.MilkHeader>Progresssion jusqu'à la traite suivante</FML.MilkHeader>
   <FML.WoolHeader>Progresssion jusqu'à la tonte suivante</FML.WoolHeader>
   <FML.Yields>Rendement attendu {0} x{1}</FML.Yields>
+  <FML.UnassignTraining>Entraînement désassigné</FML.UnassignTraining>
+  <FML.UnassignTraining.Tip>Désassigner des cibles d'entraînement pour les animaux</FML.UnassignTraining.Tip>
   <FML.TrainYoung>Dresser les jeunes animaux</FML.TrainYoung>
   <FML.SendToSlaughterArea>Restreindre les animaux marqués pour l'abattage</FML.SendToSlaughterArea>
   <FML.SendToSlaughterArea.Tip>Restreindre les animaux marqués pour l'abattage à une zone spécifique</FML.SendToSlaughterArea.Tip>
+  <FML.SendToMilkingArea>Restreindre les animaux prêts à être trayés.</FML.SendToMilkingArea>
+  <FML.SendToMilkingArea.Tip>Limitez les animaux dont le taux de lactation est supérieur à 94 % à une zone spécifique.</FML.SendToMilkingArea.Tip>
+  <FML.SendToShearingArea>Restriction des animaux prêts à être tondus</FML.SendToShearingArea>
+  <FML.SendToShearingArea.Tip>Limitez les animaux dont la capacité de tonte est supérieure à 94 % à une zone spécifique.</FML.SendToShearingArea.Tip>
   <FM.Livestock.TargetCountsHeader>Quantité ciblée</FM.Livestock.TargetCountsHeader>
   <FM.Livestock.AreaRestrictionsHeader>Restrictions de zone</FM.Livestock.AreaRestrictionsHeader>
   <FM.Livestock.TrainingHeader>Dressage</FM.Livestock.TrainingHeader>
@@ -222,7 +230,8 @@
   <FM.Livestock.FollowTraining.Tip>Les animaux marqués pour le dressages essaieront de suivre leur dresseur.</FM.Livestock.FollowTraining.Tip>
   <FM.Livestock.MasterTraining>Assigner dresseur(s)</FM.Livestock.MasterTraining>
   <FM.Livestock.MasterTraining.Tip>Assigne les animaux marqué pour le dressage à un maître spécifique (dresseur), ou à tous les dresseurs. Peut écraser les réglages utilisateur quand activé.</FM.Livestock.MasterTraining.Tip>
-  <FM.Livestock.Master>{0} ({1})</FM.Livestock.Master><!-- 0; pawn name, 1; skill level -->
+  <FM.Livestock.Master>{0} ({1})</FM.Livestock.Master>
+  <!-- 0; pawn name, 1; skill level -->
 
   <!-- MasterMode enum -->
   <FM.Livestock.MasterMode.Default>Manuel</FM.Livestock.MasterMode.Default>
@@ -239,4 +248,18 @@
   <Fluffy.ColonyManager.CannotManage.NoJobs>pas de tâche définie</Fluffy.ColonyManager.CannotManage.NoJobs>
   <Fluffy.ColonyManager.CannotManage.NoActiveJobs>toutes les tâches sont accomplies</Fluffy.ColonyManager.CannotManage.NoActiveJobs>
   
+  <!-- History chapter labels -->
+  <Fluffy.ColonyManager.HistoryStock>ressource</Fluffy.ColonyManager.HistoryStock>
+  <Fluffy.ColonyManager.HistoryDesignated>désigné</Fluffy.ColonyManager.HistoryDesignated>
+  <Fluffy.ColonyManager.HistoryCorpses>corps</Fluffy.ColonyManager.HistoryCorpses>
+  <Fluffy.ColonyManager.HistoryChunks>morceaux</Fluffy.ColonyManager.HistoryChunks>
+  <Fluffy.ColonyManager.HistoryProduction>production</Fluffy.ColonyManager.HistoryProduction>
+  <Fluffy.ColonyManager.HistoryConsumption>consommation</Fluffy.ColonyManager.HistoryConsumption>
+  <Fluffy.ColonyManager.HistoryBatteries>batteries</Fluffy.ColonyManager.HistoryBatteries>
+
+  <!-- manager tab target list extra info labels -->
+  <Fluffy.ColonyManager.Yield>Rendement attendu:</Fluffy.ColonyManager.Yield>
+  <Fluffy.ColonyManager.Aggressiveness>Agressivité: {0}</Fluffy.ColonyManager.Aggressiveness>
+  <Fluffy.ColonyManager.Gender.Male>mâle</Fluffy.ColonyManager.Gender.Male>
+  <Fluffy.ColonyManager.Gender.Female>femelle</Fluffy.ColonyManager.Gender.Female>
 </LanguageData>
