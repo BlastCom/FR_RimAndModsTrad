@@ -10,30 +10,30 @@
   
   <!-- Help and alert messages for the lexically challenged. -->
   <FM.HelpTitle>Gestionnaire de Colonie V2</FM.HelpTitle>
-  <FM.HelpMessage>Bienvenue sur le Gestionnaire de Colonie V2!\n\nLa gestion de colonie vous permet de désigner des cibles de production, de chasse, de foresterie et de gestion du bétail. Vous pouvez paramètrer chacune de ces catégories de diverses façons, par le biais des icones en haut de la fenêtre. \n\nDès qu'une tâche de travail est désignée, un colon avec le métier de gestionnaire passera occasionellement en revue les tâches et les stocks de la colonie au bureau de gestion, et mettra à jour les désignations et la quantité à produire. \n\nPour que le mod fonctionne, vous avez besoin de deux choses : \n      - Un colon avec le travail de gestionnaire \n       - Un bureau de gestion. \n\n Bonne gestion!</FM.HelpMessage>
+  <FM.HelpMessage>Bienvenue au Gestionnaire de Colonie V2!\n\nLa gestion de colonie vous permet de désigner des objectifs de production, de chasse, de foresterie et d'élevage d'animaux. Chacun de ces paramètres peut être défini dans les divers écrans du gestionnaire, et accessible par les boutons en haut de la fenêtre. \n\nDès qu'un objectif est mis en place, un colon avec le métier de gestionnaire passera occasionellement en revue les tâches et les stocks de la colonie au bureau de gestion, et mettra à jour les désignations et la quantité à produire. \n\nPour que le mod fonctionne, vous avez besoin de deux choses : \n      - Un colon avec le travail de gestionnaire \n       - Un bureau de gestion. \n\n Bonne gestion!</FM.HelpMessage>
   <FM.AlertNoTableLabel>Nécessite le bureau de gestionnaire</FM.AlertNoTableLabel>
-  <FM.AlertNoTable>Les cibles de tâches sont établies, mais il n'y a pas de bureau de gestionnaire disponible</FM.AlertNoTable>
-  <FM.AlertNoManagerLabel>Nécessite un colon gestionnaire</FM.AlertNoManagerLabel>
-  <FM.AlertNoManager>Les cibles de gestion sont établies, mais il n'y a aucun colon ayant le travail de gestionnaire.</FM.AlertNoManager>
+  <FM.AlertNoTable>Les objectifs de gestion ont été établies, mais il n'y a pas de bureau de gestionnaire disponible</FM.AlertNoTable>
+  <FM.AlertNoManagerLabel>Nécessite un gestionnaire</FM.AlertNoManagerLabel>
+  <FM.AlertNoManager>Les objectifs de gestion ont été établies, mais il y a aucun colon ayant le travail de gestionnaire.</FM.AlertNoManager>
 
   <!-- Common -->
   <FM.LastUpdateTooltip>Ce travail a été mis à jour dernièrement il y a {0}. De plus, il est planifié d'être mis à jour toutes les {1}.</FM.LastUpdateTooltip>
-  <FM.OrderUp>Augmenter la priorité de travail</FM.OrderUp>
-  <FM.OrderDown>Diminuer la priorité de travail</FM.OrderDown>
+  <FM.OrderUp>Augmenter la priorité de la tâche</FM.OrderUp>
+  <FM.OrderDown>Diminuer la priorité de la tâche</FM.OrderDown>
   <FM.OrderTop>Priorité maximale</FM.OrderTop>
   <FM.OrderBottom>Priorité minimale</FM.OrderBottom>
   <multiple>[multiple]</multiple>
   <FM.Threshold>Seuil</FM.Threshold>
-  <FM.CheckReachability>Vérifie si la cible est atteignable</FM.CheckReachability>
-  <FM.CheckReachability.Tip>Calcule si un trajet vers la cible esty possible (pour n'importe quel colon) avant de créer une désignation.</FM.CheckReachability.Tip>
-  <FM.Expensive.Tip>Activer cette option peu faire chuter les performances, particulierement sur les grandes cartes, les zones montagneuses, les tâches avec beaucoup de cibles potentielles et les colonies avec un grand nombre de colons.</FM.Expensive.Tip>
+  <FM.CheckReachability>Vérifie si les objectifs sont atteignable</FM.CheckReachability>
+  <FM.CheckReachability.Tip>Calcule si un trajet vers la tâche cible est possible (pour n'importe quel colon) avant de créer une désignation.</FM.CheckReachability.Tip>
+  <FM.Expensive.Tip>Activer cette option peu faire chuter les performances, particulièrement sur les grandes cartes, les zones montagneuses, les tâches avec beaucoup de cibles potentielles et les colonies avec un grand nombre de colons.</FM.Expensive.Tip>
   <FM.PathBasedDistance>Calcul la distance à partir du trajet actuel</FM.PathBasedDistance>
-  <FM.PathBasedDistance.Tip>Si activé, les distances seront calculées avec le vrai trajet. Si désactivé, les distances sont calculées à "vol d'oiseau". \n\nNOTE: Activer cette option sur des tâches avec un grand nombre de cibles possible peut générer des pics de ralentissement significatifs</FM.PathBasedDistance.Tip>
+  <FM.PathBasedDistance.Tip>Si activé, les distances seront calculées selon un trajet réel. Si désactivé, les distances sont calculées à "vol d'oiseau". \n\nNOTE: Activer cette option sur des tâches avec un grand nombre de cibles possible peut générer des pics de ralentissement significatifs</FM.PathBasedDistance.Tip>
   <FM.CountAllOnMap>Compter sur toute la carte</FM.CountAllOnMap>
   <FM.CountAllOnMap.Tip>Si activé, compte tous les éléments autorisés par le filtre à seuil sur la carte. Si désactivé, ne compte que les stocks et les bâtiments de stockage.</FM.CountAllOnMap.Tip>
   <FM.None>Aucun</FM.None>
   <!-- 0: target (thing), 1: distance (int), 2: yield amount (int), 3: yield type (def) -->
-  <Fluffy.Manager.DesignationLabel>{0}\n  distance: {1}\n  production: {2}x {3}</Fluffy.Manager.DesignationLabel>
+  <Fluffy.Manager.DesignationLabel>{0}\n  distance: {1}\n  randement: {2}x {3}</Fluffy.Manager.DesignationLabel>
 
   <!-- time periods for update interval -->
   <FM.DefaultUpdateInterval>Intervalle de mise à jour par défaut</FM.DefaultUpdateInterval>
@@ -52,7 +52,7 @@
   <!-- Power Tab (E for energy) -->
   <FME.PeriodShown>Période: {0}</FME.PeriodShown>
   <FME.PeriodShownTooltip>Montre actuellement la production et la consommation électrique depuis les derniers {0}.\n\nCliquer pour changer la période.</FME.PeriodShownTooltip>
-  <FME.Power>Energie</FME.Power>
+  <FME.Power>Énergie</FME.Power>
   <FME.NotResearched>La gestion de l'énergie n'a pas encore été recherchée.</FME.NotResearched>
   <FME.NoPoweredStation>Aucun poste de gestionnaire n'est alimenté</FME.NoPoweredStation>
   
@@ -84,17 +84,17 @@
   <FMH.NewHuntingJob>Nouvelle tâche</FMH.NewHuntingJob>
   <FMH.NewHuntingJobTooltip>Créer un nouveau travail de chasse</FMH.NewHuntingJobTooltip>
   <FMH.AllowHumanMeat>Compter la viande humaine</FMH.AllowHumanMeat>
-  <FMH.AllowHumanMeat.Tip>La viande humaine doit-elle être comptée ? \n\nNOTE: Ceci est un raccourcis pour autoriser la viande humaine dans le filtre à seuil. Vous pouvez régler plus option dans le détail du seuil.</FMH.AllowHumanMeat.Tip>
+  <FMH.AllowHumanMeat.Tip>La viande humaine doit-elle être comptée ? \n\nNOTE: Ceci est un raccourcis pour autoriser la viande humaine dans le filtre à seuil. Vous pouvez régler plus d'option dans le détail du seuil.</FMH.AllowHumanMeat.Tip>
   <FMH.AllowInsectMeat>Compter la viande d'insecte</FMH.AllowInsectMeat>
-  <FMH.AllowInsectMeat.Tip>La viande d'insecte doit-elle être comptée ? \n\nNOTE: Ceci est un raccourcis pour autoriser la viande d'insecte dans le filtre à seuil. Vous pouvez régler plus option dans le détail du seuil..</FMH.AllowInsectMeat.Tip>
+  <FMH.AllowInsectMeat.Tip>La viande d'insecte doit-elle être comptée ? \n\nNOTE: Ceci est un raccourcis pour autoriser la viande d'insecte dans le filtre à seuil. Vous pouvez régler plus d'option dans le détail du seuil.</FMH.AllowInsectMeat.Tip>
   <FMH.UnforbidCorpses>Autoriser cadavres</FMH.UnforbidCorpses>
-  <FMH.UnforbidCorpses.Tip>Autoriser automatique les corps (frais) d'animaux configurés pour la chasse.</FMH.UnforbidCorpses.Tip>
+  <FMH.UnforbidCorpses.Tip>Autoriser automatiquement pour le transport les corps (frais) d'animaux configurés pour la chasse.</FMH.UnforbidCorpses.Tip>
   <FMH.Animals>Animaux autorisés</FMH.Animals>
   <FMH.TargetCount>Quantité cible: {0}+{1}+{2}/{3}</FMH.TargetCount>
-  <FMH.TargetCountTooltip>Objectif: {3}\n{0} in storage\n{1} expected from butchery\n{2} expected from current designations.</FMH.TargetCountTooltip>
+  <FMH.TargetCountTooltip>Objectif: {3}\n{0} dans l'inventaire\n{1} attendu de la boucherie\n{2} attendus des désignations actuelles.</FMH.TargetCountTooltip>
   <FM.Hunting.Predators>Prédateurs</FM.Hunting.Predators>
   <FM.Hunting.Predators.Tip>Autoriser tous les prédateurs</FM.Hunting.Predators.Tip>
-  <FM.Hunting.HerdAnimals>Animaux grégaires</FM.Hunting.HerdAnimals>
+  <FM.Hunting.HerdAnimals>Animaux de troupeau</FM.Hunting.HerdAnimals>
   <FM.Hunting.HerdAnimals.Tip>Autoriser tous les animaux de troupeau</FM.Hunting.HerdAnimals.Tip>
   <FM.Hunting.Exploding>Explosifs</FM.Hunting.Exploding>
   <FM.Hunting.Exploding.Tip>Autoriser les animaux explosifs</FM.Hunting.Exploding.Tip>
@@ -111,7 +111,7 @@
   <FMF.AllowSaplings.Tip>La foresterie doit-elle être limitée aux arbres matures seulement ?</FMF.AllowSaplings.Tip>
   <FMF.LoggingArea>Autoriser le bucheronnage dans:</FMF.LoggingArea>
   <FMF.TargetCount>Quantité cible: {0}+{1}/{2}</FMF.TargetCount>
-  <FMF.TargetCountTooltip>Objectif: {2}\n{0} en stock\n{1} attendus avec les réglages actuels.</FMF.TargetCountTooltip>
+  <FMF.TargetCountTooltip>Objectif: {2}\n{0} en inventaire\n{1} attendus avec les réglages actuels.</FMF.TargetCountTooltip>
   <FMF.ClearAreas>Nettoyer la zone de toute végétation:</FMF.ClearAreas>
   <FMF.JobType>Type de tâche</FMF.JobType>
   <FMF.JobType.ClearArea>Nettoyer zones</FMF.JobType.ClearArea>
@@ -165,7 +165,7 @@
   <FML.Livestock>Bétail</FML.Livestock>
   <FML.TargetCounts>Quantité ciblée</FML.TargetCounts>
   <FML.Adult>Adulte</FML.Adult>
-  <FML.Juvenile>Juvenile</FML.Juvenile>
+  <FML.Juvenile>Juvénile</FML.Juvenile>
   <FML.Training>Dressage</FML.Training>
   <FML.RestrictToArea>Restreindre les animaux à la zone?</FML.RestrictToArea>
   <FML.RestrictToArea.Tip>Restreindre les animaux à une zone spécifique, optionnelement en les séparant par genre et âge</FML.RestrictToArea.Tip>
@@ -177,24 +177,24 @@
   <FML.ButcherPregnant.Tip>Les femelles enceintes doivent-elles être abattues?</FML.ButcherPregnant.Tip>
   <FML.ButcherBonded>Liés</FML.ButcherBonded>
   <FML.ButcherBonded.Tip>Les animaux liés doivent-ils être abattus?</FML.ButcherBonded.Tip>
-  <FML.TameMore>Auto-designer des animaux à l'apprivoisement</FML.TameMore>
+  <FML.TameMore>Auto-désigner des animaux à l'apprivoisement</FML.TameMore>
   <FML.TameMore.Tip>Le gestionnaire doit-il désigner des animaux sauvages à apprivoiser?</FML.TameMore.Tip>
   <FML.TameArea>Apprivoisement possible dans:</FML.TameArea>
-  <FML.ListEntryTooltip>{0}s:\n{1}/{5} femelles adulte \n{2}/{6} mâles adulte\n{3}/{7} femelles juvenile\n{4}/{8} mâles juvenile</FML.ListEntryTooltip>
+  <FML.ListEntryTooltip>{0}s:\n{1}/{5} femelles adultes \n{2}/{6} mâles adultes\n{3}/{7} femelles juvéniles\n{4}/{8} mâles juvéniles</FML.ListEntryTooltip>
   <FML.TameWildCount>{0} apprivoisé, {1} dans la nature.</FML.TameWildCount>
   <FML.NoAnimals>Pas de {0} {1}</FML.NoAnimals>
   <FML.GenderHeader>Genre</FML.GenderHeader>
-  <FML.AgeHeader>Age (phase de vie)</FML.AgeHeader>
-  <FML.MeatHeader>Quantité de viande attendue quand dépecée</FML.MeatHeader>
-  <FML.MilkHeader>Progresssion jusqu'à la traite suivante</FML.MilkHeader>
-  <FML.WoolHeader>Progresssion jusqu'à la tonte suivante</FML.WoolHeader>
+  <FML.AgeHeader>Âge (phase de vie)</FML.AgeHeader>
+  <FML.MeatHeader>Quantité de viande attendue, lorsque dépecée</FML.MeatHeader>
+  <FML.MilkHeader>Progression jusqu'à la traite suivante</FML.MilkHeader>
+  <FML.WoolHeader>Progression jusqu'à la tonte suivante</FML.WoolHeader>
   <FML.Yields>Rendement attendu {0} x{1}</FML.Yields>
   <FML.UnassignTraining>Entraînement désassigné</FML.UnassignTraining>
   <FML.UnassignTraining.Tip>Désassigner des cibles d'entraînement pour les animaux</FML.UnassignTraining.Tip>
   <FML.TrainYoung>Dresser les jeunes animaux</FML.TrainYoung>
   <FML.SendToSlaughterArea>Restreindre les animaux marqués pour l'abattage</FML.SendToSlaughterArea>
   <FML.SendToSlaughterArea.Tip>Restreindre les animaux marqués pour l'abattage à une zone spécifique</FML.SendToSlaughterArea.Tip>
-  <FML.SendToMilkingArea>Restreindre les animaux prêts à être trayés.</FML.SendToMilkingArea>
+  <FML.SendToMilkingArea>Restreindre les animaux prêts à être traits.</FML.SendToMilkingArea>
   <FML.SendToMilkingArea.Tip>Limitez les animaux dont le taux de lactation est supérieur à 94 % à une zone spécifique.</FML.SendToMilkingArea.Tip>
   <FML.SendToShearingArea>Restriction des animaux prêts à être tondus</FML.SendToShearingArea>
   <FML.SendToShearingArea.Tip>Limitez les animaux dont la capacité de tonte est supérieure à 94 % à une zone spécifique.</FML.SendToShearingArea.Tip>
@@ -206,17 +206,17 @@
   <FML.Tame>apprivoisé</FML.Tame>
   <FML.Wild>sauvage</FML.Wild>
   <FM.Livestock.AnimalsHeader>{0} {1}</FM.Livestock.AnimalsHeader>
-  <FM.Livestock.SelectPawnKind>Pas de tâche selectionnée</FM.Livestock.SelectPawnKind>
-  <FM.Livestock.DisabledBecauseSlaughterExcessDisabled>Désactivé car le bétail en surplus n'est pas abattu.</FM.Livestock.DisabledBecauseSlaughterExcessDisabled>
+  <FM.Livestock.SelectPawnKind>Pas de tâche sélectionnée</FM.Livestock.SelectPawnKind>
+  <FM.Livestock.DisabledBecauseSlaughterExcessDisabled>Désactivé, car le bétail en surplus n'est pas abattu.</FM.Livestock.DisabledBecauseSlaughterExcessDisabled>
   <FML.SendToTrainingArea>Restreindre les animaux marqués pour le dressage</FML.SendToTrainingArea>
   <FML.SendToTrainingArea.Tip>Restreindre les animaux marqués pour le dressage à une zone spécifique.</FML.SendToTrainingArea.Tip>
-  <FM.Livestock.DisabledBecauseNoTrainingSet>Désactivé car aucune cible à dresser n'est sélectionnée.</FM.Livestock.DisabledBecauseNoTrainingSet>
-  <FM.Livestock.CannotTrainTooSmall>{0} sont trop jeunes pour ce dressage.</FM.Livestock.CannotTrainTooSmall>
+  <FM.Livestock.DisabledBecauseNoTrainingSet>Désactivé, car aucune cible à dresser n'est sélectionnée.</FM.Livestock.DisabledBecauseNoTrainingSet>
+  <FM.Livestock.CannotTrainTooSmall>{0} sont trop petits pour ce dressage.</FM.Livestock.CannotTrainTooSmall>
 
   <!-- following -->
   <FM.Livestock.FollowHeader>Suivi</FM.Livestock.FollowHeader>
-  <FM.Livestock.MasterDefault>Assigner maitre(s)</FM.Livestock.MasterDefault>
-  <FM.Livestock.MasterDefault.Tip>Assigner un animal à un maitre spécifique ou à un groupe de colons. Peut écraser les réglages de l'utilisateur quand activé.</FM.Livestock.MasterDefault.Tip>
+  <FM.Livestock.MasterDefault>Assigner maître</FM.Livestock.MasterDefault>
+  <FM.Livestock.MasterDefault.Tip>Assigner un animal à un maitre spécifique ou à un groupe de colons. Peut écraser les réglages de l'utilisateur, lorsque activé.</FM.Livestock.MasterDefault.Tip>
   <FM.Livestock.RespectBonds>Respecter lien</FM.Livestock.RespectBonds>
   <FM.Livestock.RespectBonds.Tip>Si activé, un animal ayant un lien avec un colon sera toujours assigné à ce colon. Si désactivé, les liens sont ignorés.</FM.Livestock.RespectBonds.Tip>
   <FM.Livestock.RespectBonds.DisabledBecauseMastersNotSet>Disabled because master is set to a specific pawn, or set manually.</FM.Livestock.RespectBonds.DisabledBecauseMastersNotSet>
@@ -227,9 +227,9 @@
   <FM.Livestock.FollowFieldwork>Travaux</FM.Livestock.FollowFieldwork>
   <FM.Livestock.FollowFieldwork.Tip>Les animaux doivent-ils suivre leur maître quand il fait des travaux ? (exemple : chasse)</FM.Livestock.FollowFieldwork.Tip>
   <FM.Livestock.FollowTraining>Suivre dresseur</FM.Livestock.FollowTraining>
-  <FM.Livestock.FollowTraining.Tip>Les animaux marqués pour le dressages essaieront de suivre leur dresseur.</FM.Livestock.FollowTraining.Tip>
+  <FM.Livestock.FollowTraining.Tip>Les animaux marqués pour le dressage essaieront de suivre leur dresseur.</FM.Livestock.FollowTraining.Tip>
   <FM.Livestock.MasterTraining>Assigner dresseur(s)</FM.Livestock.MasterTraining>
-  <FM.Livestock.MasterTraining.Tip>Assigne les animaux marqué pour le dressage à un maître spécifique (dresseur), ou à tous les dresseurs. Peut écraser les réglages utilisateur quand activé.</FM.Livestock.MasterTraining.Tip>
+  <FM.Livestock.MasterTraining.Tip>Assigne les animaux marqués pour le dressage à un maître spécifique (dresseur), ou à tous les dresseurs. Peut écraser les réglages utilisateur, lorsque activé.</FM.Livestock.MasterTraining.Tip>
   <FM.Livestock.Master>{0} ({1})</FM.Livestock.Master>
   <!-- 0; pawn name, 1; skill level -->
 
@@ -237,7 +237,7 @@
   <FM.Livestock.MasterMode.Default>Manuel</FM.Livestock.MasterMode.Default>
   <FM.Livestock.MasterMode.Hunters>Chasseur</FM.Livestock.MasterMode.Hunters>
   <FM.Livestock.MasterMode.Trainers>Dresseur</FM.Livestock.MasterMode.Trainers>
-  <FM.Livestock.MasterMode.Melee>Melée</FM.Livestock.MasterMode.Melee>
+  <FM.Livestock.MasterMode.Melee>Mêlée</FM.Livestock.MasterMode.Melee>
   <FM.Livestock.MasterMode.Ranged>Distance</FM.Livestock.MasterMode.Ranged>
   <FM.Livestock.MasterMode.Violent>Violent</FM.Livestock.MasterMode.Violent>
   <FM.Livestock.MasterMode.NonViolent>Non-violent</FM.Livestock.MasterMode.NonViolent>
