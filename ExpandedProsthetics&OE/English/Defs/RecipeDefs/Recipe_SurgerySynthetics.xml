@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<RecipeDef Name="SurgerySynthetic" ParentName="SurgeryInstallBodyPartArtificialBase" Abstract="True">
+		<surgerySuccessChanceFactor>0.9</surgerySuccessChanceFactor>
+		<deathOnFailedSurgeryChance>0.1</deathOnFailedSurgeryChance>
+		<workAmount>2500</workAmount>
+		<!--<dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>-->
+	</RecipeDef>
+
+	<!-- Handled by vanilla -->
+<!--	
+	<RecipeDef ParentName="SurgerySyntheticVanilla">
+		<defName>InstallJoywire</defName>
+		<label>install joywire</label>
+		<description>Installs joywire.</description>
+		<workerClass>Recipe_InstallImplant</workerClass>
+		<jobString>Installing joywire.</jobString>
+		<workAmount>2000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>7</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Joywire</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>Joywire</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Brain</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>Joywire</addsHediff>
+		<researchPrerequisite>AdvancedBrainSurgery</researchPrerequisite>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgerySyntheticVanilla">
+		<defName>InstallPainstopper</defName>
+		<label>install painstopper</label>
+		<description>Installs painstopper.</description>
+		<workerClass>Recipe_InstallImplant</workerClass>
+		<jobString>Installing painstopper.</jobString>
+		<workAmount>2000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>7</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Painstopper</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>Painstopper</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Brain</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>Painstopper</addsHediff>
+		<researchPrerequisite>BrainSurgery</researchPrerequisite>
+	</RecipeDef>
+	
+	<RecipeDef ParentName="SurgerySynthetic">
+		<defName>InstallBionicHeart</defName>
+		<label>install synthetic heart</label>
+		<description>Installs a synthetic heart.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing an synthetic heart.</jobString>
+		<workAmount>1000</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>5</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>BionicHeart</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>BionicHeart</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Heart</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>BionicHeart</addsHediff>
+	</RecipeDef>
+-->
+
+	<RecipeDef ParentName="SurgerySynthetic">
+		<defName>InstallAIChip</defName>
+		<label>install AI chip</label>
+		<description>Installs AI chip.</description>
+		<workerClass>Recipe_InstallImplant</workerClass>
+		<jobString>Installing AI chip.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>7</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>AIChip</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>AIChip</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Brain</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>AIChip</addsHediff>
+		<researchPrerequisite>AdvancedBrainSurgery</researchPrerequisite>
+	</RecipeDef>
+	
+	<RecipeDef ParentName="SurgerySynthetic">
+		<defName>InstallAIPersonaCore</defName>
+		<label>install AI persona core</label>
+		<description>Installs AI persona core.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+        <dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+		<jobString>Installing AI persona core.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>7</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>AIPersonaCore</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>AIPersonaCore</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Brain</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>AIPersonaCore</addsHediff>
+		<researchPrerequisite>AdvancedBrainSurgery</researchPrerequisite>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgerySynthetic">
+		<defName>InstallSyntheticLung</defName>
+		<label>install synthetic lung</label>
+		<description>Installs synthetic lung.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing synthetic lung.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>3</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>SyntheticLung</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>SyntheticLung</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Lung</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>SyntheticLung</addsHediff>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgerySynthetic">
+		<defName>InstallBionicStomach</defName>
+		<label>install synthetic stomach</label>
+		<description>Installs a synthetic stomach.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing synthetic stomach.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>3</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>BionicStomach</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>BionicStomach</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Stomach</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>BionicStomach</addsHediff>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgerySynthetic">
+		<defName>InstallSyntheticLiver</defName>
+		<label>install synthetic liver</label>
+		<description>Installs a synthetic liver.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing synthetic liver.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>3</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>SyntheticLiver</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>SyntheticLiver</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Liver</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>SyntheticLiver</addsHediff>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgerySynthetic">
+		<defName>InstallSyntheticKidney</defName>
+		<label>install synthetic kidney</label>
+		<description>Installs a synthetic kidney.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing synthetic kidney.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>3</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>SyntheticKidney</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>SyntheticKidney</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Kidney</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>SyntheticKidney</addsHediff>
+	</RecipeDef>
+<!--	
+	<RecipeDef Name="SurgeryMending" ParentName="SurgeryFlesh" Abstract="True">
+		<surgerySuccessChanceFactor>0.9</surgerySuccessChanceFactor>
+		<deathOnFailedSurgeryChance>0.01</deathOnFailedSurgeryChance>
+		<recipeUsers>
+			<li>Human</li>
+		</recipeUsers>
+		<workerClass>Recipe_RemoveHediff</workerClass>
+		<workAmount>2500</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>MedicineUltratech</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>SyntheticSkin</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>MedicineUltratech</li>
+				<li>SyntheticSkin</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<skillRequirements>
+			<Medicine>7</Medicine>
+		</skillRequirements>
+		<appliedOnFixedBodyParts>
+			<li>Leg</li> 
+			<li>Arm</li> 
+		</appliedOnFixedBodyParts>
+	</RecipeDef>
+	
+   <RecipeDef ParentName="SurgeryMending">
+      <defName>MendBurn</defName>
+      <label>mend burn</label>
+      <description>Mend burn.</description>
+      <jobString>Mending burn.</jobString>
+      <removesHediff>Burn</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully mended {1}'s burn.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+
+   <RecipeDef ParentName="SurgeryMending">
+      <defName>MendCrush</defName>
+      <label>mend crush</label>
+      <description>Mend crush.</description>
+      <jobString>Mending crush.</jobString>
+      <removesHediff>Crush</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully mended {1}'s crush.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+
+   
+   <RecipeDef ParentName="SurgeryMending">
+      <defName>MendCut</defName>
+      <label>mend cut</label>
+      <description>Mend cut.</description>
+      <jobString>Mending cut.</jobString>
+      <removesHediff>Cut</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully mended {1}'s cut.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+  
+  <RecipeDef ParentName="SurgeryMending">
+      <defName>MendSurgicalCut</defName>
+      <label>mend surgical cut</label>
+      <description>Mend surgical cut.</description>
+      <jobString>Mending surgical cut.</jobString>
+      <removesHediff>SurgicalCut</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully mended {1}'s surgical cut.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   
+   <RecipeDef ParentName="SurgeryMending">
+      <defName>MendScratch</defName>
+      <label>mend surgical scratch</label>
+      <description>Mend surgical scratch.</description>
+      <jobString>Mending surgical scratch.</jobString>
+      <removesHediff>Scratch</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully mended {1}'s scratch.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   
+   <RecipeDef ParentName="SurgeryMending">
+      <defName>MendBite</defName>
+      <label>mend bite</label>
+      <description>Mend bite.</description>
+      <jobString>Mending bite.</jobString>
+      <removesHediff>Bite</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully mended {1}'s bite.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   
+   <RecipeDef ParentName="SurgeryMending">
+      <defName>MendStab</defName>
+      <label>mend stab</label>
+      <description>Mend stab.</description>
+      <jobString>Mending stab.</jobString>
+      <removesHediff>Stab</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully mended {1}'s stab.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   
+   <RecipeDef ParentName="SurgeryMending">
+      <defName>MendGunshot</defName>
+      <label>mend gunshot</label>
+      <description>Mend gunshot.</description>
+      <jobString>Mending gunshot.</jobString>
+      <removesHediff>Gunshot</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully mended {1}'s gunshot.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+  
+  <RecipeDef ParentName="SurgeryMending">
+      <defName>MendShredded</defName>
+      <label>mend shredded</label>
+      <description>Mend shredded.</description>
+      <jobString>Mending shredded.</jobString>
+      <removesHediff>Shredded</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully mended {1}'s shredded.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   
+   <RecipeDef ParentName="SurgeryMending">
+      <defName>MendFrostBite</defName>
+      <label>mend frost bite</label>
+      <description>Mend frost bite.</description>
+      <jobString>Mending frost bite.</jobString>
+      <removesHediff>Frostbite</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully mended {1}'s frost bite.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+-->
+</Defs>

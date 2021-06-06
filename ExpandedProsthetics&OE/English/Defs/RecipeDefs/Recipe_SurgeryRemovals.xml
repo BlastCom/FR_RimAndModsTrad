@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+   <!-- Removal Recipes -->
+
+   <RecipeDef ParentName="SurgeryFlesh">
+      <defName>RemoveBrainStimulator</defName>
+      <label>remove brain stimulator</label>
+      <description>Removes brain stimulator.</description>
+      <workerClass>Recipe_RemoveHediff</workerClass>
+      <jobString>Removing brain stimulator.</jobString>
+      <workAmount>2500</workAmount>
+      <removesHediff>BrainStimulator</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s brain stimulator.</successfullyRemovedHediffMessage>
+      <deathOnFailedSurgeryChance>0.10</deathOnFailedSurgeryChance>
+      <skillRequirements>
+         <Medicine>7</Medicine>
+      </skillRequirements>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <disallowedThingDefs>
+            <li>MedicineHerbal</li>
+         </disallowedThingDefs>
+      </fixedIngredientFilter>
+      <recipeUsers>
+         <li>Human</li>
+      </recipeUsers>
+   </RecipeDef>
+   
+</Defs>

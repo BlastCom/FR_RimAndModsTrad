@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<RecipeDef Name="SurgerySimple" ParentName="SurgeryInstallBodyPartProstheticBase" Abstract="True">
+		<surgerySuccessChanceFactor>0.99</surgerySuccessChanceFactor>
+		<deathOnFailedSurgeryChance>0.01</deathOnFailedSurgeryChance>
+	</RecipeDef>
+
+	<!-- Handled by vanilla -->
+<!--
+
+	Simple Prosthethic Leg
+	Simple Prosthethic Arm
+
+-->
+
+	<!-- EPOE -->
+
+	<RecipeDef ParentName="SurgerySimple">
+		<defName>InstallGoldenEye</defName>
+		<label>install golden eye</label>
+		<description>Installs golden eye.</description>
+		<jobString>Installing golden eye.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>GoldenEye</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>GoldenEye</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Eye</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>GoldenEye</addsHediff>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgerySimple">
+		<defName>InstallLightReceptor</defName>
+		<label>install light receptor</label>
+		<description>Installs light receptor.</description>
+		<jobString>Installing light receptor.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>LightReceptor</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>LightReceptor</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Eye</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>LightReceptor</addsHediff>
+	</RecipeDef>	
+	
+	<RecipeDef ParentName="SurgerySimple">
+		<defName>InstallSimpleProstheticHand</defName>
+		<label>install prosthetic hand</label>
+		<description>Installs a prosthetic hand.</description>
+		<jobString>Installing prosthetic hand.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>SimpleProstheticHand</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>SimpleProstheticHand</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Hand</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>SimpleProstheticHand</addsHediff>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgerySimple">
+		<defName>InstallSimpleProstheticFoot</defName>
+		<label>install prosthetic foot</label>
+		<description>Installs a prosthetic foot.</description>
+		<jobString>Installing prosthetic foot.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>SimpleProstheticFoot</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>SimpleProstheticFoot</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Foot</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>SimpleProstheticFoot</addsHediff>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgerySimple">
+		<defName>InstallArtificialNose</defName>
+		<label>install artificial nose</label>
+		<description>Installs artificial nose.</description>
+		<jobString>Installing artificial nose.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ArtificialNose</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ArtificialNose</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Nose</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>ArtificialNose</addsHediff>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgerySimple">
+		<defName>InstallHydraulicJaw</defName>
+		<label>install hydraulic jaw</label>
+		<description>Installs hydraulic jaw.</description>
+		<jobString>Installing hydraulic jaw.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>HydraulicJaw</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>HydraulicJaw</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Jaw</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>HydraulicJaw</addsHediff>
+	</RecipeDef>
+
+	<RecipeDef ParentName="SurgerySimple">
+		<defName>InstallArtificialPelvis</defName>
+		<label>install artifical pelvis</label>
+		<description>Installs artifical pelvis.</description>
+		<jobString>Installing artifical pelvis.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ArtificialPelvis</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ArtificialPelvis</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Pelvis</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>ArtificialPelvis</addsHediff>
+	</RecipeDef>
+	
+	<RecipeDef ParentName="SurgerySimple">
+		<defName>InstallArtificialClavicle</defName>
+		<label>install artifical clavicle</label>
+		<description>Installs artifical clavicle.</description>
+		<jobString>Installing artifical clavicle.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ArtificialClavicle</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ArtificialClavicle</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Clavicle</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>ArtificialClavicle</addsHediff>
+	</RecipeDef>
+
+</Defs>

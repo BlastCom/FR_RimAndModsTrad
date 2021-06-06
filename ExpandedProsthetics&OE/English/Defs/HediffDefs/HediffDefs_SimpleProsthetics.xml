@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+   <HediffDef Name="addedPartSimple" Abstract="True">
+      <hediffClass>Hediff_AddedPart</hediffClass>
+      <isBad>false</isBad>
+      <defaultLabelColor>(102,178,255)</defaultLabelColor>
+      <addedPartProps>
+         <betterThanNatural>false</betterThanNatural>
+      </addedPartProps>
+   </HediffDef>
+
+   <!-- Added body parts -->
+   
+   <HediffDef ParentName="addedPartSimple">
+      <defName>GoldenEye</defName>
+      <label>golden eye</label>
+	  <description>An installed golden eye.</description>
+      <descriptionHyperlinks><ThingDef>GoldenEye</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>GoldenEye</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+		<li>
+         <statOffsets>
+               <NegotiationAbility>+0.15</NegotiationAbility>
+               <SocialImpact>+0.10</SocialImpact>
+         </statOffsets>
+		</li>	 
+      </stages>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSimple">
+      <defName>LightReceptor</defName>
+      <label>light receptor</label>
+	  <description>An installed light receptor.</description>
+      <descriptionHyperlinks><ThingDef>LightReceptor</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>LightReceptor</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.6</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSimple">
+      <defName>SimpleProstheticHand</defName>
+      <label>simple prosthetic hand</label>
+	  <description>An installed simple prosthetic hand.</description>
+      <descriptionHyperlinks><ThingDef>SimpleProstheticHand</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SimpleProstheticHand</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.7</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>bionic fist</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>9</power>
+                  <cooldownTime>1.65</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSimple">
+      <defName>SimpleProstheticFoot</defName>
+      <label>simple prosthetic foot</label>
+	  <description>An installed simple prosthetic foot.</description>
+      <descriptionHyperlinks><ThingDef>SimpleProstheticFoot</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SimpleProstheticFoot</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.9</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSimple">
+      <defName>SimpleProstheticArm</defName>
+      <label>simple prosthetic arm</label>
+	  <description>An installed simple prosthetic arm.</description>
+      <descriptionHyperlinks><ThingDef>SimpleProstheticArm</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SimpleProstheticArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.7</partEfficiency>
+      </addedPartProps>
+	  <comps>
+		<li Class="HediffCompProperties_VerbGiver">
+			<tools>
+				<li>
+					<label>fist</label>
+					<capacities>
+					<li>Blunt</li>
+					</capacities>
+					<power>8.2</power> <!-- Same as natural fist -->
+					<cooldownTime>2</cooldownTime>
+				</li>
+			</tools>
+		</li>
+      </comps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSimple">
+      <defName>SimpleProstheticLeg</defName>
+      <label>simple prosthetic leg</label>
+	  <description>An installed simple prosthetic leg.</description>
+      <descriptionHyperlinks><ThingDef>SimpleProstheticLeg</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SimpleProstheticLeg</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.8</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSimple">
+      <defName>ArtificialNose</defName>
+      <label>artificial nose</label>
+	  <description>An installed artificial nose.</description>
+      <descriptionHyperlinks><ThingDef>ArtificialNose</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ArtificialNose</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSimple">
+      <defName>HydraulicJaw</defName>
+      <label>hydraulic jaw</label>
+	  <description>An installed hydraulic jaw.</description>
+      <descriptionHyperlinks><ThingDef>HydraulicJaw</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>HydraulicJaw</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.8</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartSimple">
+      <defName>ArtificialPelvis</defName>
+      <label>artificial pelvis</label>
+	  <description>An installed artificial pelvis.</description>
+      <descriptionHyperlinks><ThingDef>ArtificialPelvis</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ArtificialPelvis</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.9</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSimple">
+      <defName>ArtificialClavicle</defName>
+      <label>artificial clavicle</label>
+	  <description>An installed artificial clavicle.</description>
+      <descriptionHyperlinks><ThingDef>ArtificialClavicle</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ArtificialClavicle</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.9</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+</Defs>

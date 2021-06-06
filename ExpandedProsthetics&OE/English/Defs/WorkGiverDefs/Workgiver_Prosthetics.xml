@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+   <WorkGiverDef>
+    <defName>DoBillsTableOrgans</defName>
+	<label>Print organs</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Crafting</workType>
+    <priorityInType>130</priorityInType>
+    <fixedBillGiverDefs>
+	  <li>TableOrgans</li>
+	</fixedBillGiverDefs>
+    <verb>print</verb>
+    <gerund>printing</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+  
+  <WorkGiverDef>
+    <defName>DoBillsProstheticTable</defName>
+	<label>Craft prosthetics</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Crafting</workType>
+    <priorityInType>130</priorityInType>
+    <fixedBillGiverDefs>
+	  <li>TableProsthetics</li>
+	</fixedBillGiverDefs>
+    <verb>assemble</verb>
+    <gerund>assembling</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+
+</Defs>

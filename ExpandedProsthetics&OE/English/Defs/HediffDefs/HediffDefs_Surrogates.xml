@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+   <HediffDef Name="addedPartSurrogate" Abstract="True">
+      <hediffClass>Hediff_AddedPart</hediffClass>
+      <isBad>false</isBad>
+      <defaultLabelColor>(233,129,69)</defaultLabelColor>
+      <addedPartProps>
+         <betterThanNatural>false</betterThanNatural>
+      </addedPartProps>
+   </HediffDef>
+
+   <!-- Added body parts -->
+   
+   <HediffDef ParentName="addedPartSurrogate">
+      <hediffClass>Hediff_Implant</hediffClass>
+      <defName>BrainStimulator</defName>
+      <label>brain stimulator</label>
+	  <description>An installed brain stimulator.</description>
+      <descriptionHyperlinks><ThingDef>BrainStimulator</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>BrainStimulator</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+	  <stages>
+         <li>
+			<partIgnoreMissingHP>true</partIgnoreMissingHP>
+            <capMods>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <setMax>0.65</setMax>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSurrogate">
+      <defName>SurrogateLung</defName>
+      <label>surrogate lung</label>
+	  <description>An installed surrogate lung.</description>
+      <descriptionHyperlinks><ThingDef>SurrogateLung</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SurrogateLung</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.65</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSurrogate">
+      <defName>SurrogateStomach</defName>
+      <label>surrogate stomach</label>
+	  <description>An installed surrogate stomach.</description>
+      <descriptionHyperlinks><ThingDef>SurrogateStomach</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SurrogateStomach</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.65</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSurrogate">
+      <defName>SurrogateLiver</defName>
+      <label>surrogate liver</label>
+	  <description>An installed surrogate liver.</description>
+      <descriptionHyperlinks><ThingDef>SurrogateLiver</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SurrogateLiver</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.65</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSurrogate">
+      <defName>SurrogateKidney</defName>
+      <label>surrogate kidney</label>
+	  <description>An installed surrogate kidney.</description>
+      <descriptionHyperlinks><ThingDef>SurrogateKidney</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SurrogateKidney</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.65</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartSurrogate">
+      <defName>SimpleProstheticHeart</defName>
+      <label>surrogate heart</label>
+	  <description>An installed surrogate heart.</description>
+      <descriptionHyperlinks><ThingDef>SimpleProstheticHeart</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SimpleProstheticHeart</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.65</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+</Defs>

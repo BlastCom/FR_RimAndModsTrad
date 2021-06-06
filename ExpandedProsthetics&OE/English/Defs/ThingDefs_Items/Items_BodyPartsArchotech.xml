@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<ThingDef Name="Glitterworld" ParentName="BodyPartBase" Abstract="True">
+	    <techLevel>Archotech</techLevel>
+		<tradeTags>
+			<li>GlitterworldParts</li>
+		</tradeTags>
+		<thingCategories>
+			<li>BodyPartsArchotech</li>
+		</thingCategories>
+		<graphicData>
+			<texPath>Things/Item/BodyPart/ArchotechPart</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>0.80</drawSize>
+		</graphicData>
+		<statBases>
+			<DeteriorationRate>0</DeteriorationRate>
+		</statBases>
+        <thingSetMakerTags>
+			<li>RewardStandardHighFreq</li>
+        </thingSetMakerTags>
+	</ThingDef>
+
+	<!-- Added body parts -->
+
+	<ThingDef ParentName="Glitterworld">
+		<defName>MuscleStimulator</defName>
+		<label>muscle stimulator</label>
+		<description>Through special chemicals and electric shocks this little chip is able to stimulate the muscles so they can operate at above maximum performance.</description>      
+		<statBases>
+			<MarketValue>2500</MarketValue>
+			<Mass>0.1</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="Glitterworld">
+		<defName>TacticalCorneaImplant</defName>
+		<label>tactical cornea implant</label>
+		<description>An enhanced implant which provides the user with additional information about potential targets and suggests a perfect firing angle.</description>
+		<statBases>
+			<MarketValue>2500</MarketValue>
+			<Mass>0.1</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="Glitterworld">
+		<defName>ConstructorCore</defName>
+		<label>auxiliary AI (constructing)</label>
+		<description>Archotechs do not waste time on training and education, not even for complex jobs. AIs installed in the brain permanently communicate with the user and act as a guide. How they do it is beyond our understanding. Requires brain surgery research before installing.</description>
+		<statBases>
+			<MarketValue>3500</MarketValue>
+			<Mass>0.3</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="Glitterworld">
+		<defName>FarmerCore</defName>
+		<label>auxiliary AI (agricultural)</label>
+		<description>Archotechs do not waste time on training and education, not even for complex jobs. AIs installed in the brain permanently communicate with the user and act as a guide. How they do it is beyond our understanding. Requires brain surgery research before installing.</description>
+		<statBases>
+			<MarketValue>3500</MarketValue>
+			<Mass>0.3</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="Glitterworld">
+		<defName>MinerCore</defName>
+		<label>auxiliary AI (mining)</label>
+		<description>Archotechs do not waste time on training and education, not even for complex jobs. AIs installed in the brain permanently communicate with the user and act as a guide. How they do it is beyond our understanding. Requires brain surgery research before installing.</description>
+		<statBases>
+			<MarketValue>3500</MarketValue>
+			<Mass>0.3</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="Glitterworld">
+		<defName>DoctorCore</defName>
+		<label>auxiliary AI (medical)</label>
+		<description>Archotechs do not waste time on training and education, not even for complex jobs. AIs installed in the brain permanently communicate with the user and act as a guide. How they do it is beyond our understanding. Requires brain surgery research before installing.</description>
+		<statBases>
+			<MarketValue>3500</MarketValue>
+			<Mass>0.3</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="Glitterworld">
+		<defName>DiplomatCore</defName>
+		<label>auxiliary AI (diplomatic)</label>
+		<description>Archotechs do not waste time on training and education, not even for complex jobs. AIs installed in the brain permanently communicate with the user and act as a guide. How they do it is beyond our understanding. Requires brain surgery research before installing.</description>
+		<statBases>
+			<MarketValue>3500</MarketValue>
+			<Mass>0.3</Mass>
+		</statBases>
+	</ThingDef>
+
+</Defs>

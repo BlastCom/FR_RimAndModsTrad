@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+  <ResearchProjectDef Abstract="True" Name="FckBrainWiring">
+    <description>If anyone knows how to hide research projects, hit me up.</description>
+    <techLevel>Spacer</techLevel>
+  </ResearchProjectDef>
+
+	<!--=============================== Tier 0 ===================================-->
+
+	<ResearchProjectDef>
+		<defName>BasicProsthetics</defName>
+		<label>Basic prosthetics</label>
+		<description>Understanding the shape of a leg and combining that knowledge with basic woodworking, you can now craft peg legs and other basic prostheses at the crafting spot.</description>
+		<baseCost>400</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<tags>
+			<li>ClassicStart</li>
+		</tags>
+		<tab>EPOE</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+
+	<!--=============================== Tier 1 ===================================-->
+
+	<ResearchProjectDef>
+		<defName>Prosthetics</defName>
+		<label>Simple prosthetics</label>
+		<description>Advanced anatomy studies and metal testing will allow you to build simple prostheses. Unlocks the prosthetics table.</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>MicroelectronicsBasics</li>
+			<li>BasicProsthetics</li>
+			<li>Machining</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>1</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>SurrogateOrgans</defName>
+		<label>tissue printer</label>
+		<description>As you gain higher medical and technical knowledge, creating a 3D printer to craft simple surrogate organs now becomes possible.</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+			<li>MicroelectronicsBasics</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>1</researchViewY>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+	</ResearchProjectDef>
+
+	<!--=============================== Tier 2 ===================================-->
+
+	<ResearchProjectDef>
+		<defName>Bionics</defName>
+		<label>bionics</label>
+		<description>Discovering the concept of very small motors and circuits, new possibilities of better prostheses are now open for you. Unlocks new recipes at the prosthetics table.</description>
+		<baseCost>3000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<prerequisites>
+			<li>Prosthetics</li>
+			<li>Fabrication</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>2</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>BrainSurgery</defName>
+		<label>brain surgery</label>
+		<description>Unlocks the ability to craft basic basic brain implants and install them.</description>
+		<baseCost>2000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<prerequisites>
+			<li>SurrogateOrgans</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>1</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>RibReplacements</defName>
+		<label>rib replacements</label>
+		<description>Discovering the concept of very small dispensers, you think about putting them in ribs. You can now craft and install rib implants.</description>
+		<baseCost>750</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<prerequisites>
+			<li>Bionics</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>0.5</researchViewY>
+	</ResearchProjectDef>
+
+	<!--=============================== Tier 3 ===================================-->
+
+	<ResearchProjectDef>
+		<defName>AdvancedBionics</defName>
+		<label>advanced bionics</label>
+		<description>Upgrade regular bionics with advanced components to make them even better. Unlocks new recipes at the prosthetics table.</description>
+		<baseCost>5000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>Bionics</li>
+			<li>AdvancedFabrication</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>4</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>BionicSpine</defName>
+		<label>bionic spine</label>
+		<description>The anatomy of the human spine is ridiculously complicated. You should probably research a little bit before messing with it.</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>Bionics</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>1.25</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>AdvancedBionicSpine</defName>
+		<label>advanced bionic spine</label>
+		<description>You want to cram even more complex tech into your spine? Just take some time to study the intricacies of the spinal column.</description>
+		<baseCost>2500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>AdvancedBionics</li>
+			<li>BionicSpine</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>5</researchViewX>
+		<researchViewY>1.25</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>BionicWarfare</defName>
+		<label>bionic warfare</label>
+		<description>Using bionics just in a peaceful way to restore missing limbs seems like such a waste. Let's use them as weapons! Unlocks bionic melee weapons.</description>
+		<baseCost>2000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>Bionics</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>AdvancedBionicWarfare</defName>
+		<label>advanced bionic warfare</label>
+		<description>You've tasted blood and now you want more.</description>
+		<baseCost>3000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>BionicWarfare</li>
+			<li>AdvancedBionics</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>5</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>SyntheticOrgans</defName>
+		<label>synthetic organs</label>
+		<description>Further research in nano-technology allows you to print incredibly well-engineered artificial organs. Unlocks new recipes on the tissue printer.</description>
+		<baseCost>2500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>SurrogateOrgans</li>
+			<li>Fabrication</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>1</researchViewX>
+		<researchViewY>1</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>AdvancedBrainSurgery</defName>
+		<label>advanced brain surgery</label>
+		<description>Allows you to craft more advanced brain implants and perform surgery on the brain.</description>
+		<baseCost>3000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<prerequisites>
+			<li>BrainSurgery</li>
+			<li>SyntheticOrgans</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>2</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+
+	<!--=============================== Tier 4 ===================================-->
+	
+	<ResearchProjectDef>
+		<defName>ExoskeletonSuits</defName>
+		<label>exoskeleton suits</label>
+		<description>Utilise absolute cutting-edge motor technology and the knowledge of ergonomics to understand the concept of exoskeletons and replicate this with humans. Allows for the production and installation of exoskeleton suits.</description>
+		<baseCost>4500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<prerequisites>
+			<li>AdvancedBionics</li>
+		</prerequisites>
+		<tab>EPOE</tab>
+		<researchViewX>5</researchViewX>
+		<researchViewY>0.5</researchViewY>
+	</ResearchProjectDef>
+	
+</Defs>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+   
+   <HediffDef Name="addedPartBasic" Abstract="True">
+      <hediffClass>Hediff_AddedPart</hediffClass>
+      <isBad>false</isBad>
+      <defaultLabelColor>(148,117,14)</defaultLabelColor>
+   </HediffDef>
+   
+   <!-- Added body parts -->
+   
+   <HediffDef ParentName="addedPartBasic">
+      <defName>SteelArm</defName>
+      <label>steel arm</label>
+	  <labelNoun>a steel arm</labelNoun>
+	  <description>An installed steel arm.</description>
+      <descriptionHyperlinks><ThingDef>SteelArm</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SteelArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.35</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>steel fist</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>10</power>
+                  <cooldownTime>1.8</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartBasic">
+      <defName>EyePatch</defName>
+      <label>eye patch</label>
+	  <labelNoun>an eye patch</labelNoun>
+	  <description>An installed eye patch.</description>
+      <descriptionHyperlinks><ThingDef>EyePatch</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>EyePatch</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.0</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartBasic">
+      <defName>WoodenHand</defName>
+      <label>Hook hand</label>
+	  <labelNoun>a hook hand</labelNoun>
+	  <description>An installed hook hand.</description>
+      <descriptionHyperlinks><ThingDef>HookHand</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>HookHand</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.3</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>hook hand</label>
+                  <capacities>
+                     <li>Cut</li>
+                  </capacities>
+                  <power>9</power>
+                  <cooldownTime>1.65</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartBasic">
+      <defName>denture</defName>
+      <label>denture</label>
+	  <labelNoun>a denture</labelNoun>
+	  <description>An denture.</description>
+      <descriptionHyperlinks><ThingDef>denture</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>denture</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.35</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartBasic">
+      <defName>PegLeg</defName>
+      <label>peg leg</label>
+	  <labelNoun>a peg leg</labelNoun>
+	  <description>An installed peg leg.</description>
+      <descriptionHyperlinks><ThingDef>PegLeg</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>PegLeg</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.6</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartBasic">
+      <defName>WoodenFoot</defName>
+      <label>wooden foot</label>
+	  <labelNoun>a wooden foot</labelNoun>
+	  <description>An installed wooden foot.</description>
+      <descriptionHyperlinks><ThingDef>WoodenFoot</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>WoodenFoot</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.7</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartBasic">
+      <defName>EarBandage</defName>
+      <label>ear bandage</label>
+	  <labelNoun>an ear bandage</labelNoun>
+	  <description>An installed ear bandage.</description>
+      <descriptionHyperlinks><ThingDef>EarBandage</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>EarBandage</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.0</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+
+</Defs>

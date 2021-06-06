@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+   
+   <ThingDef ParentName="UnfinishedBase">
+      <defName>UnfinishedProsthesis</defName>
+      <label>Unfinished prosthesis</label>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/UnfinishedProsthesis</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+		 <drawSize>0.80</drawSize>
+         <shaderType>CutoutComplex</shaderType>
+      </graphicData>
+      <stuffCategories Inherit="false" />
+   </ThingDef>
+   
+</Defs>
+

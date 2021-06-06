@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+   <HediffDef Name="addedPartSynthetic" ParentName="AddedBodyPartBase" Abstract="True">
+      <defaultLabelColor>(188,39,242)</defaultLabelColor>
+   </HediffDef>
+
+   <!-- Added body parts -->
+
+   <HediffDef ParentName="addedPartSynthetic">
+      <hediffClass>Hediff_Implant</hediffClass>
+      <defName>AIChip</defName>
+      <label>AI Chip</label>
+	  <labelNoun>an AI chip </labelNoun>
+	  <description>An installed AI Chip.</description>
+      <descriptionHyperlinks><ThingDef>AIChip</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>AIChip</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1</partEfficiency>
+      </addedPartProps>
+	  <stages>
+         <li>
+			<partIgnoreMissingHP>true</partIgnoreMissingHP>
+            <capMods>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <offset>1</offset>
+               </li>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <setMax>1</setMax>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartSynthetic">
+      <defName>AIPersonaCore</defName>
+      <label>AI persona core</label>
+	  <labelNoun>an AI persona core</labelNoun>
+	  <description>An installed AI persona core.</description>
+      <descriptionHyperlinks><ThingDef>AIPersonaCore</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>AIPersonaCore</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1</partEfficiency>
+      </addedPartProps>
+	  <comps>
+	      <li Class="HediffCompProperties_HealPermanentWounds" />
+      </comps>
+      <stages>
+         <li>
+            <painFactor>1.5</painFactor>
+            <restFallFactor>0.5</restFallFactor>
+            <hungerRateFactor>1.5</hungerRateFactor>
+            <capMods>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <offset>0.50</offset>
+               </li>
+               <li>
+                  <capacity>BloodFiltration</capacity>
+                  <offset>0.20</offset>
+               </li>
+               <li>
+                  <capacity>BloodPumping</capacity>
+                  <offset>0.20</offset>
+               </li>
+            </capMods>
+            <mentalStateGivers>
+               <li>
+                  <mentalState>BerserkCore</mentalState>
+                  <mtbDays>20</mtbDays>
+               </li>
+               <li>
+                  <mentalState>WanderConfusedCore</mentalState>
+                  <mtbDays>13</mtbDays>
+               </li>
+            </mentalStateGivers>
+         </li>
+      </stages>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartSynthetic">
+      <defName>SyntheticLung</defName>
+      <label>synthetic lung</label>
+	  <labelNoun>a synthetic lung</labelNoun>
+	  <description>An installed synthetic lung.</description>
+      <descriptionHyperlinks><ThingDef>SyntheticLung</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SyntheticLung</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartSynthetic">
+      <defName>BionicStomach</defName>
+      <label>synthetic stomach</label>
+	  <labelNoun>a synthetic stomach</labelNoun>
+	  <description>An installed synthetic stomach.</description>
+      <descriptionHyperlinks><ThingDef>BionicStomach</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>BionicStomach</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>   
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartSynthetic">
+      <defName>SyntheticLiver</defName>
+      <label>synthetic liver</label>
+	  <labelNoun>a synthetic liver</labelNoun>
+	  <description>An installed synthetic liver.</description>
+      <descriptionHyperlinks><ThingDef>SyntheticLiver</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SyntheticLiver</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>   
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartSynthetic">
+      <defName>SyntheticKidney</defName>
+      <label>synthetic kidney</label>
+	  <labelNoun>a synthetic kidney</labelNoun>
+	  <description>An installed synthetic kidney.</description>
+      <descriptionHyperlinks><ThingDef>SyntheticKidney</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>SyntheticKidney</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>   
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartSynthetic">
+      <defName>BionicHeart</defName>
+      <label>synthetic heart</label>
+	  <labelNoun>a synthetic heart</labelNoun>
+	  <description>An installed synthetic heart.</description>
+      <descriptionHyperlinks><ThingDef>BionicHeart</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>BionicHeart</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>   
+   </HediffDef>
+
+</Defs>

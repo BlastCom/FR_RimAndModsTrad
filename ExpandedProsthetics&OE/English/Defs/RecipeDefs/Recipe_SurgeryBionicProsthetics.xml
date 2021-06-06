@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+   <RecipeDef Name="SurgeryBionic" ParentName="SurgeryInstallBodyPartArtificialBase" Abstract="True">
+      <surgerySuccessChanceFactor>0.90</surgerySuccessChanceFactor>
+      <deathOnFailedSurgeryChance>0.01</deathOnFailedSurgeryChance>
+      <!--<dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>-->
+      <skillRequirements>
+         <Medicine>5</Medicine>
+      </skillRequirements>
+   </RecipeDef>
+
+   <RecipeDef Name="SurgeryRibs" ParentName="SurgeryBionic" Abstract="True">
+      <workerClass>Recipe_InstallImplant</workerClass>
+   </RecipeDef>
+
+   <!-- Handled by vanilla -->
+<!--
+
+	Bionic Arm
+	Bionic Leg
+	Bionic Spine
+	Bionic Eye
+	
+-->
+   <RecipeDef ParentName="SurgeryBionic">
+      <defName>InstallPowerArm</defName>
+      <label>install power arm</label>
+      <description>Installs power arm.</description>
+      <jobString>Installing power arm.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>PowerArm</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>PowerArm</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Shoulder</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>PowerArm</addsHediff>
+   </RecipeDef>
+
+   <RecipeDef ParentName="SurgeryBionic">
+      <defName>InstallBionicHand</defName>
+      <label>install bionic hand</label>
+      <description>Installs bionic hand.</description>
+      <jobString>Installing bionic hand.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>BionicHand</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>BionicHand</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Hand</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>BionicHand</addsHediff>
+   </RecipeDef>
+
+   <RecipeDef ParentName="SurgeryBionic">
+      <defName>InstallBionicFoot</defName>
+      <label>install bionic foot</label>
+      <description>Installs bionic foot.</description>
+      <jobString>Installing bionic foot.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>BionicFoot</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>BionicFoot</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Foot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>BionicFoot</addsHediff>
+   </RecipeDef>
+
+   <RecipeDef ParentName="SurgeryBionic">
+      <defName>InstallBionicEar</defName>
+      <label>install bionic ear implant</label>
+      <description>Installs a bionic ear implant.</description>
+      <jobString>Installing a bionic ear implant.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>BionicEar</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>BionicEar</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ear</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>BionicEar</addsHediff>
+      <workSkill>Medicine</workSkill>
+   </RecipeDef>
+
+   <RecipeDef ParentName="SurgeryBionic">
+      <defName>InstallBionicJaw</defName>
+      <label>install bionic jaw implant</label>
+      <description>Installs a bionic jaw implant.</description>
+      <jobString>Installing a bionic jaw implant.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>BionicJaw</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>BionicJaw</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Jaw</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>BionicJaw</addsHediff>
+   </RecipeDef>
+
+   <RecipeDef ParentName="SurgeryBionic">
+      <defName>InstallSilentJaw</defName>
+      <label>install silent jaw implant</label>
+      <description>Installs a silent jaw implant.</description>
+      <jobString>Installing a silent jaw implant.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>SilentJaw</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>SilentJaw</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Jaw</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>SilentJaw</addsHediff>
+   </RecipeDef>
+
+   <RecipeDef ParentName="SurgeryBionic">
+      <defName>InstallPowerClaw</defName>
+      <label>install power claw</label>
+      <description>Install a power claw.</description>
+      <jobString>Installing power claw.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>PowerClaw</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>PowerClaw</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Hand</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>PowerClaw</addsHediff>
+   </RecipeDef>
+
+   <!-- Ribs -->
+
+   <RecipeDef ParentName="SurgeryRibs">
+      <defName>InstallMedicalRib</defName>
+      <label>install medical rib replacement</label>
+      <description>Installs a medical rib replacement.</description>
+      <jobString>Installing a medical rib replacement.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>MedicalRib</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>MedicalRib</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ribcage</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>MedicalRib</addsHediff>
+   </RecipeDef>
+
+   <RecipeDef ParentName="SurgeryRibs">
+      <defName>InstallDruggedRib</defName>
+      <label>install drugged rib</label>
+      <description>Installs a drugged rib.</description>
+      <jobString>Installing a drugged rib.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>DruggedRib</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>DruggedRib</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ribcage</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>DruggedRib</addsHediff>
+   </RecipeDef>
+
+   <RecipeDef ParentName="SurgeryRibs">
+      <defName>InstallAdrenalineRib</defName>
+      <label>install adrenaline rib</label>
+      <description>Installs an adrenaline rib.</description>
+      <jobString>Installing an adrenaline rib.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>AdrenalineRib</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>AdrenalineRib</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ribcage</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>AdrenalineRib</addsHediff>
+   </RecipeDef>
+
+   <RecipeDef ParentName="SurgeryRibs">
+      <defName>InstallPainkillerRib</defName>
+      <label>install painkiller rib</label>
+      <description>Installs a painkiller rib.</description>
+      <jobString>Installing a painkiller rib.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>PainkillerRib</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>PainkillerRib</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ribcage</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>PainkillerRib</addsHediff>
+   </RecipeDef>
+   
+</Defs>

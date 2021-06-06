@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+   <ThingDef Name="Synthetic" ParentName="BodyPartBase" Abstract="True">
+      <techLevel>Spacer</techLevel>
+      <tradeTags>
+         <li>BodyPart</li>
+      </tradeTags>
+      <thingCategories>
+         <li>BodyPartsBionic</li>
+      </thingCategories>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/SyntheticPart</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+      </graphicData>
+      <statBases>
+         <DeteriorationRate>0</DeteriorationRate>
+		 <WorkToMake>7500</WorkToMake>
+      </statBases>
+      <techHediffsTags>
+         <li>Advanced</li>
+      </techHediffsTags>
+      <recipeMaker>
+         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+         <unfinishedThingDef>UnfinishedProsthesis</unfinishedThingDef>
+         <workSkill>Crafting</workSkill>
+         <effectWorking>Smith</effectWorking>
+         <researchPrerequisite>SyntheticOrgans</researchPrerequisite>
+         <recipeUsers>
+            <li>TableOrgans</li>
+         </recipeUsers>
+         <skillRequirements>
+            <Crafting>10</Crafting>
+         </skillRequirements>
+      </recipeMaker>
+   </ThingDef>
+
+   <ThingDef ParentName="Synthetic">
+      <defName>AIChip</defName>
+      <label>AI chip</label>
+      <description>Through special chemicals and electric shocks this little chip is able to completely restore the users consciousness and mobility. Requires brain surgery research before installing.</description>
+      <costList>
+         <Gold>3</Gold>
+         <Plasteel>25</Plasteel>
+         <ComponentSpacer>5</ComponentSpacer>
+      </costList>
+      <recipeMaker>
+         <researchPrerequisite>AdvancedBrainSurgery</researchPrerequisite>
+      </recipeMaker>
+      <statBases>
+         <Mass>0.1</Mass>
+      </statBases>
+   </ThingDef>
+
+   <ThingDef ParentName="Synthetic">
+      <defName>Joywire</defName>
+      <label>joywire</label>
+      <description>A brain implant that stimulates the brain's pleasure centers. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures.</description>
+      <descriptionHyperlinks>
+         <RecipeDef>InstallJoywire</RecipeDef>
+      </descriptionHyperlinks>
+      <costList>
+         <Gold>3</Gold>
+         <Plasteel>25</Plasteel>
+         <ComponentSpacer>5</ComponentSpacer>
+      </costList>
+      <statBases>
+         <Mass>0.1</Mass>
+      </statBases>
+   </ThingDef>
+
+   <ThingDef ParentName="Synthetic">
+      <defName>Painstopper</defName>
+      <label>painstopper</label>
+      <description>A brain implant which inhibits nociception, or pain sensation. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily.</description>
+      <descriptionHyperlinks>
+         <RecipeDef>InstallPainstopper</RecipeDef>
+      </descriptionHyperlinks>
+      <costList>
+         <Gold>3</Gold>
+         <Plasteel>25</Plasteel>
+         <ComponentSpacer>5</ComponentSpacer>
+      </costList>
+      <statBases>
+         <Mass>0.1</Mass>
+      </statBases>
+   </ThingDef>
+
+   <ThingDef ParentName="Synthetic">
+      <defName>SyntheticLung</defName>
+      <label>synthetic lung</label>
+      <description>A high-tech breathing replacement. Makes a soft whirring sound.</description>
+      <costList>
+         <SurrogateLung>1</SurrogateLung>
+         <Hyperweave>15</Hyperweave>
+         <ComponentSpacer>1</ComponentSpacer>
+      </costList>
+      <statBases>
+         <Mass>2</Mass>
+      </statBases>
+   </ThingDef>
+
+   <ThingDef ParentName="Synthetic">
+      <defName>BionicStomach</defName>
+      <label>synthetic stomach</label>
+      <description>An enhanced stomach with extra deadly stomach acid.</description>
+      <costList>
+         <SurrogateStomach>1</SurrogateStomach>
+         <Hyperweave>15</Hyperweave>
+         <ComponentSpacer>1</ComponentSpacer>
+      </costList>
+      <statBases>
+         <Mass>2</Mass>
+      </statBases>
+   </ThingDef>
+
+   <ThingDef ParentName="Synthetic">
+      <defName>SyntheticLiver</defName>
+      <label>synthetic liver</label>
+      <description>An enhanced liver augmented with synthetic fibres to decrease rejection rate.</description>
+      <costList>
+         <SurrogateLiver>1</SurrogateLiver>
+         <Hyperweave>15</Hyperweave>
+         <ComponentSpacer>1</ComponentSpacer>
+      </costList>
+      <statBases>
+         <Mass>2</Mass>
+      </statBases>
+   </ThingDef>
+
+   <ThingDef ParentName="Synthetic">
+      <defName>SyntheticKidney</defName>
+      <label>synthetic kidney</label>
+      <description>An enhanced kidney augmented with synthetic fibres to decrease rejection rate.</description>
+      <costList>
+         <SurrogateKidney>1</SurrogateKidney>
+         <Hyperweave>15</Hyperweave>
+         <ComponentSpacer>1</ComponentSpacer>
+      </costList>
+      <statBases>
+         <Mass>2</Mass>
+      </statBases>
+   </ThingDef>
+
+   <ThingDef ParentName="Synthetic">
+      <defName>BionicHeart</defName>
+      <label>synthetic heart</label>
+      <description>A top-of-the-line heart replacement. Can last for over 30 years on a single charge.</description>
+      <costList>
+         <SimpleProstheticHeart>1</SimpleProstheticHeart>
+         <Hyperweave>20</Hyperweave>
+         <ComponentSpacer>1</ComponentSpacer>
+      </costList>
+      <statBases>
+         <Mass>2</Mass>
+      </statBases>
+   </ThingDef>
+
+   <!--	
+	<ThingDef ParentName="Synthetic">
+		<defName>SyntheticSkin</defName>
+		<label>synthetic skin</label>
+		<description>A small piece of an interesting looking skin-like material. Feels like real skin.</description>
+		<statBases>
+			<MarketValue>875</MarketValue>
+		</statBases>
+	</ThingDef>
+-->
+
+</Defs>

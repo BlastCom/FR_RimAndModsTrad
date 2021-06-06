@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+   <HediffDef Name="addedPartGlittery" ParentName="ImplantHediffBase" Abstract="True">
+      <defaultLabelColor>(244,210,131)</defaultLabelColor>
+      <addedPartProps>
+         <partEfficiency>1</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   
+   <!-- Added implants -->
+
+   <HediffDef ParentName="addedPartGlittery">
+      <defName>MuscleStimulatorArms</defName>
+      <label>muscle stimulator</label>
+	  <description>An installed muscle stimulator.</description>
+      <descriptionHyperlinks><ThingDef>MuscleStimulator</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>MuscleStimulator</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Manipulation</capacity>
+                  <offset>0.2</offset>
+               </li>
+            </capMods>
+            <statOffsets>
+               <MeleeHitChance>1.15</MeleeHitChance>
+               <MeleeDPS>1.15</MeleeDPS>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartGlittery">
+      <defName>MuscleStimulatorLegs</defName>
+      <label>muscle stimulator</label>
+	  <description>An installed muscle stimulator.</description>
+      <descriptionHyperlinks><ThingDef>MuscleStimulator</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>MuscleStimulator</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.2</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartGlittery">
+      <defName>TacticalCorneaImplant</defName>
+      <label>tactical cornea implant</label>
+	  <description>An installed tactical cornea implant.</description>
+      <descriptionHyperlinks><ThingDef>TacticalCorneaImplant</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>TacticalCorneaImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ShootingAccuracyPawn>+0.5</ShootingAccuracyPawn>
+               <AimingDelayFactor>-0.15</AimingDelayFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartGlittery">
+      <defName>ConstructorCore</defName>
+      <label>auxiliary AI (constructing)</label>
+	  <description>An installed constructing auxiliary AI.</description>
+      <descriptionHyperlinks><ThingDef>ConstructorCore</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ConstructorCore</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ConstructionSpeed>0.75</ConstructionSpeed>
+			   <SmoothingSpeed>0.75</SmoothingSpeed>
+               <ConstructSuccessChance>0.2</ConstructSuccessChance>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartGlittery">
+      <defName>FarmerCore</defName>
+      <label>auxiliary AI (agricultural)</label>
+	  <description>An installed agricultural auxiliary AI.</description>
+      <descriptionHyperlinks><ThingDef>FarmerCore</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>FarmerCore</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <PlantWorkSpeed>0.6</PlantWorkSpeed>
+               <PlantHarvestYield>0.2</PlantHarvestYield>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartGlittery">
+      <defName>MinerCore</defName>
+      <label>auxiliary AI (mining)</label>
+	  <description>An installed mining auxiliary AI.</description>
+      <descriptionHyperlinks><ThingDef>MinerCore</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>MinerCore</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MiningSpeed>0.6</MiningSpeed>
+               <MiningYield>0.2</MiningYield>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartGlittery">
+      <defName>DoctorCore</defName>
+      <label>auxiliary AI (medical)</label>
+	  <description>An installed medical auxiliary AI.</description>
+      <descriptionHyperlinks><ThingDef>DoctorCore</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>DoctorCore</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MedicalSurgerySuccessChance>0.20</MedicalSurgerySuccessChance>
+               <MedicalTendQuality>0.5</MedicalTendQuality>
+               <MedicalTendSpeed>0.3</MedicalTendSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartGlittery">
+      <defName>DiplomatCore</defName>
+      <label>auxiliary AI (diplomatic)</label>
+	  <description>An installed diplomatic auxiliary AI.</description>
+      <descriptionHyperlinks><ThingDef>DiplomatCore</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>DiplomatCore</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <NegotiationAbility>0.20</NegotiationAbility>
+               <SocialImpact>0.25</SocialImpact>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+
+</Defs>

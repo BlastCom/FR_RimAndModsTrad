@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <TraderKindDef>
+    <defName>TextilesTrader</defName>
+    <label>textiles trader</label>
+    <orbital>true</orbital>
+    <stockGenerators>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Silver</thingDef>
+        <countRange>2000~4000</countRange>
+      </li>
+      <li Class="StockGenerator_Clothes">
+        <countRange>10~20</countRange>
+      </li>
+      <li Class="StockGenerator_Category">
+        <categoryDef>Textiles</categoryDef>
+        <thingDefCountRange>50~300</thingDefCountRange>
+        <totalPriceRange>2200~4000</totalPriceRange>
+      </li> 
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Hyperweave</thingDef>
+        <countRange>10~60</countRange>
+      </li>
+    </stockGenerators>	  
+  </TraderKindDef>
+
+</Defs>

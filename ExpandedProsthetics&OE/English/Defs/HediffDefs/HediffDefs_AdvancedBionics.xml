@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+   <HediffDef Name="addedPartAdvanced" ParentName="AddedBodyPartBase" Abstract="True">
+      <defaultLabelColor>(18,215,57)</defaultLabelColor>
+   </HediffDef>
+
+   <HediffDef Name="ImplantBaseSuit" ParentName="ImplantHediffBase" Abstract="True">
+      <defaultLabelColor>(18,215,57)</defaultLabelColor>
+   </HediffDef>
+
+   <!-- Added body parts -->
+
+   <HediffDef ParentName="addedPartAdvanced">
+      <defName>AdvancedPowerArm</defName>
+      <label>advanced power arm</label>
+	  <labelNoun>an advanced power arm</labelNoun>
+	  <description>An installed advanced power arm.</description>
+      <descriptionHyperlinks><ThingDef>AdvancedPowerArm</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>AdvancedPowerArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>bionic claws</label>
+                  <capacities>
+                     <li>Cut</li>
+                  </capacities>
+                  <power>22</power>
+                  <cooldownTime>1.6</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+   
+   <HediffDef ParentName="addedPartAdvanced">
+      <defName>AdvancedPowerClaw</defName>
+      <label>advanced power claw</label>
+	  <labelNoun>an advanced power claw</labelNoun>
+	  <description>An installed advanced power claw.</description>
+      <descriptionHyperlinks><ThingDef>AdvancedPowerClaw</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>AdvancedPowerClaw</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>bionic claws</label>
+                  <capacities>
+                     <li>Cut</li>
+                  </capacities>
+                  <power>20</power>
+                  <cooldownTime>1.7</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartAdvanced">
+      <defName>AdvancedBionicArm</defName>
+      <label>advanced bionic arm</label>
+	  <labelNoun>an advanced bionic arm</labelNoun>
+	  <description>An installed advanced power arm.</description>
+      <descriptionHyperlinks><ThingDef>AdvancedPowerArm</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>AdvancedBionicArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.35</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>bionic fist</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>13</power>
+                  <cooldownTime>2</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartAdvanced">
+      <defName>AdvancedBionicLeg</defName>
+      <label>advanced bionic leg</label>
+	  <labelNoun>an advanced bionic leg</labelNoun>
+	  <description>An installed advanced bionic leg.</description>
+      <descriptionHyperlinks><ThingDef>AdvancedBionicLeg</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>AdvancedBionicLeg</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.35</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartAdvanced">
+      <defName>AdvancedBionicHand</defName>
+      <label>advanced bionic hand</label>
+	  <labelNoun>an advanced bionic hand</labelNoun>
+	  <description>An installed advanced bionic hand.</description>
+      <descriptionHyperlinks><ThingDef>AdvancedBionicHand</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>AdvancedBionicHand</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.35</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>bionic fist</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>15</power>
+                  <cooldownTime>2</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartAdvanced">
+      <defName>AdvancedBionicFoot</defName>
+      <label>advanced bionic foot</label>
+	  <labelNoun>an advanced bionic foot</labelNoun>
+	  <description>An installed advanced bionic foot.</description>
+      <descriptionHyperlinks><ThingDef>AdvancedBionicFoot</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>AdvancedBionicFoot</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.35</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartAdvanced">
+      <defName>AdvancedBionicEar</defName>
+      <label>advanced bionic ear</label>
+	  <labelNoun>an advanced bionic ear</labelNoun>
+	  <description>An installed advanced bionic ear.</description>
+      <descriptionHyperlinks><ThingDef>AdvancedBionicEar</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>AdvancedBionicEar</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.35</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartAdvanced">
+      <defName>AdvancedBionicJaw</defName>
+      <label>advanced bionic jaw</label>
+	  <labelNoun>an advanced bionic jaw</labelNoun>
+	  <description>An installed advanced bionic jaw.</description>
+      <descriptionHyperlinks><ThingDef>AdvancedBionicJaw</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>AdvancedBionicJaw</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.35</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartAdvanced">
+      <defName>AdvancedBionicEye</defName>
+      <label>advanced bionic eye</label>
+	  <labelNoun>an advanced bionic eye</labelNoun>
+	  <description>An installed advanced bionic eye.</description>
+      <descriptionHyperlinks><ThingDef>AdvancedBionicEye</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>AdvancedBionicEye</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.35</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+
+   <HediffDef ParentName="addedPartAdvanced">
+      <defName>AdvancedBionicSpine</defName>
+      <label>advanced bionic spine</label>
+	  <labelNoun>an advanced bionic spine</labelNoun>
+	  <description>An installed advanced bionic spine.</description>
+      <descriptionHyperlinks><ThingDef>AdvancedBionicSpine</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>AdvancedBionicSpine</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.35</partEfficiency>
+      </addedPartProps>
+      <stages>
+		<li>
+         <capMods>
+            <li>
+               <capacity>Manipulation</capacity>
+               <offset>0.25</offset>
+            </li> 
+         </capMods>
+		</li>	 
+      </stages>
+   </HediffDef>
+
+   <HediffDef ParentName="ImplantBaseSuit">
+      <defName>ExoskeletonSuit</defName>
+      <label>exoskeleton suit</label>
+	  <labelNoun>an exoskeleton suit</labelNoun>
+	  <description>An installed exoskeleton suit.</description>
+      <descriptionHyperlinks><ThingDef>ExoskeletonSuit</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>ExoskeletonSuit</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Manipulation</capacity>
+                  <offset>0.25</offset>
+               </li>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.25</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   
+</Defs>
