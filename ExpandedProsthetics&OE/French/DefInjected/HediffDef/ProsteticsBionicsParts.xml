@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AdvancedPowerArm.label>Bras motorisé avancé</AdvancedPowerArm.label>
+    <AdvancedPowerArm.description>Un bras motorisé avancé installé.</AdvancedPowerArm.description>
+    <AdvancedPowerArm.comps.HediffComp_VerbGiver.tools.bionic_claws.label>Griffes bioniques</AdvancedPowerArm.comps.HediffComp_VerbGiver.tools.bionic_claws.label>
+    <AdvancedPowerArm.labelNoun>un bras motorisé avancé</AdvancedPowerArm.labelNoun>
+    <AdvancedPowerClaw.label>griffe de puissance avancée</AdvancedPowerClaw.label>
+    <AdvancedPowerClaw.description>Une griffe de puissance avancée installée.</AdvancedPowerClaw.description>
+    <AdvancedPowerClaw.comps.HediffComp_VerbGiver.tools.bionic_claws.label>Griffes bioniques</AdvancedPowerClaw.comps.HediffComp_VerbGiver.tools.bionic_claws.label>
+    <AdvancedPowerClaw.labelNoun>une griffe de puissance avancée</AdvancedPowerClaw.labelNoun>
+    <AdvancedBionicArm.label>bras bionique avancé</AdvancedBionicArm.label>
+    <AdvancedBionicArm.description>Un bras motorisé avancé installé.</AdvancedBionicArm.description>
+    <AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.bionic_fist.label>poing bionique</AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.bionic_fist.label>
+    <AdvancedBionicArm.labelNoun>un bras bionique avancé</AdvancedBionicArm.labelNoun>
+    <AdvancedBionicLeg.label>jambe bionique avancée</AdvancedBionicLeg.label>
+    <AdvancedBionicLeg.description>Une jambe bionique avancée installée.</AdvancedBionicLeg.description>
+    <AdvancedBionicLeg.labelNoun>une jambe bionique avancée</AdvancedBionicLeg.labelNoun>
+    <AdvancedBionicHand.label>main bionique avancée</AdvancedBionicHand.label>
+    <AdvancedBionicHand.description>Une main bionique avancée installée.</AdvancedBionicHand.description>
+    <AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.bionic_fist.label>poing bionique</AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.bionic_fist.label>
+    <AdvancedBionicHand.labelNoun>une main bionique avancée</AdvancedBionicHand.labelNoun>
+    <AdvancedBionicFoot.label>pied bionique avancé</AdvancedBionicFoot.label>
+    <AdvancedBionicFoot.description>Un pied bionique avancé installé.</AdvancedBionicFoot.description>
+    <AdvancedBionicFoot.labelNoun>un pied bionique avancé</AdvancedBionicFoot.labelNoun>
+    <AdvancedBionicEar.label>oreille bionique avancée</AdvancedBionicEar.label>
+    <AdvancedBionicEar.description>Une oreille bionique avancée installée.</AdvancedBionicEar.description>
+    <AdvancedBionicEar.labelNoun>une oreille bionique avancée</AdvancedBionicEar.labelNoun>
+    <AdvancedBionicJaw.label>mâchoire bionique avancée</AdvancedBionicJaw.label>
+    <AdvancedBionicJaw.description>Une mâchoire bionique avancée installée.</AdvancedBionicJaw.description>
+    <AdvancedBionicJaw.labelNoun>une mâchoire bionique avancée</AdvancedBionicJaw.labelNoun>
+    <AdvancedBionicEye.label>oeil bionique avancé</AdvancedBionicEye.label>
+    <AdvancedBionicEye.description>Un oeil bionique avancé installé.</AdvancedBionicEye.description>
+    <AdvancedBionicEye.labelNoun>un oeil bionique avancé</AdvancedBionicEye.labelNoun>
+    <AdvancedBionicSpine.label>colonne vertébrale bionique avancée</AdvancedBionicSpine.label>
+    <AdvancedBionicSpine.description>Une colonne vertébrale bionique avancée installée.</AdvancedBionicSpine.description>
+    <AdvancedBionicSpine.labelNoun>une colonne vertébrale bionique avancée</AdvancedBionicSpine.labelNoun>
+    <ExoskeletonSuit.label>combinaison exosquelette</ExoskeletonSuit.label>
+    <ExoskeletonSuit.description>Une combinaison exosquelette installée.</ExoskeletonSuit.description>
+    <ExoskeletonSuit.labelNoun>une combinaison exosquelette</ExoskeletonSuit.labelNoun>
+    <MuscleStimulatorArms.label>stimulateur musculaire</MuscleStimulatorArms.label>
+    <MuscleStimulatorArms.description>Un stimulateur musculaire installé.</MuscleStimulatorArms.description>
+    <MuscleStimulatorLegs.label>stimulateur musculaire</MuscleStimulatorLegs.label>
+    <MuscleStimulatorLegs.description>Un stimulateur musculaire installé.</MuscleStimulatorLegs.description>
+    <TacticalCorneaImplant.label>implant cornéen tactique</TacticalCorneaImplant.label>
+    <TacticalCorneaImplant.description>Un implant de cornée tactique installé.</TacticalCorneaImplant.description>
+    <ConstructorCore.label>IA auxiliaire (construction)</ConstructorCore.label>
+    <ConstructorCore.description>Une IA auxiliaire de construction installée</ConstructorCore.description>
+    <FarmerCore.label>IA auxiliaiare (agricole)</FarmerCore.label>
+    <FarmerCore.description>Une IA auxiliaire agricole installée.</FarmerCore.description>
+    <MinerCore.label>IA auxiliaire (minière)</MinerCore.label>
+    <MinerCore.description>Une IA auxiliaire minière installée.</MinerCore.description>
+    <DoctorCore.label>IA auxiliaire (médicale)</DoctorCore.label>
+    <DoctorCore.description>Une IA auxiliaire médicale installée.</DoctorCore.description>
+    <DiplomatCore.label>IA auxiliaire (diplomatique)</DiplomatCore.label>
+    <DiplomatCore.description>Une IA auxiliaire diplomatique installée.</DiplomatCore.description>
+    <SteelArm.label>bras d'acier</SteelArm.label>
+    <SteelArm.description>Un bras d'acier installé.</SteelArm.description>
+    <SteelArm.comps.HediffComp_VerbGiver.tools.steel_fist.label>poing d'acier</SteelArm.comps.HediffComp_VerbGiver.tools.steel_fist.label>
+    <SteelArm.labelNoun>un bras d'acier</SteelArm.labelNoun>
+    <EyePatch.label>cache-oeil</EyePatch.label>
+    <EyePatch.description>Un cache-oeil installé.</EyePatch.description>
+    <EyePatch.labelNoun>un cache-œil</EyePatch.labelNoun>
+    <WoodenHand.comps.HediffComp_VerbGiver.tools.hook_hand.label>main-crochet</WoodenHand.comps.HediffComp_VerbGiver.tools.hook_hand.label>
+    <denture.label>dentier</denture.label>
+    <denture.description>Un dentier.</denture.description>
+    <denture.labelNoun>un dentier</denture.labelNoun>
+    <EarBandage.label>pansement auriculaire</EarBandage.label>
+    <EarBandage.description>Un pansement auriculaire installé.</EarBandage.description>
+    <EarBandage.labelNoun>Un pansement auriculaire</EarBandage.labelNoun>
+    <PowerArm.label>bras motorisé</PowerArm.label>
+    <PowerArm.description>un bras motorisé installé.</PowerArm.description>
+    <PowerArm.comps.HediffComp_VerbGiver.tools.bionic_fist.label>poing bionique</PowerArm.comps.HediffComp_VerbGiver.tools.bionic_fist.label>
+    <PowerArm.labelNoun>un bras motorisé</PowerArm.labelNoun>
+    <BionicHand.label>main bionique</BionicHand.label>
+    <BionicHand.description>Une main bionique installée.</BionicHand.description>
+    <BionicHand.comps.HediffComp_VerbGiver.tools.bionic_fist.label>poing bionique</BionicHand.comps.HediffComp_VerbGiver.tools.bionic_fist.label>
+    <BionicHand.labelNoun>une main bionique</BionicHand.labelNoun>
+    <BionicFoot.label>pied bionique</BionicFoot.label>
+    <BionicFoot.description>Un pied bionique installé.</BionicFoot.description>
+    <BionicFoot.labelNoun>un pied bionique</BionicFoot.labelNoun>
+    <BionicJaw.label>mâchoire bionique</BionicJaw.label>
+    <BionicJaw.description>Une mâchoire bionique installée.</BionicJaw.description>
+    <BionicJaw.labelNoun>une mâchoire bionique</BionicJaw.labelNoun>
+    <SilentJaw.label>mâchoire silencieuse</SilentJaw.label>
+    <SilentJaw.description>Une mâchoire silencieuse installée.</SilentJaw.description>
+    <SilentJaw.labelNoun>une mâchoire silencieuse</SilentJaw.labelNoun>
+    <MedicalRib.label>côte médicale</MedicalRib.label>
+    <MedicalRib.description>Une côte médicale installée.</MedicalRib.description>
+    <MedicalRib.labelNoun>une côte médicale</MedicalRib.labelNoun>
+    <DruggedRib.label>côte droguée</DruggedRib.label>
+    <DruggedRib.description>Une côte droguée installée.</DruggedRib.description>
+    <DruggedRib.labelNoun>une côte droguée</DruggedRib.labelNoun>
+    <AdrenalineRib.label>côte d'adrénaline</AdrenalineRib.label>
+    <AdrenalineRib.description>Une côte d'adrénaline installée.</AdrenalineRib.description>
+    <AdrenalineRib.labelNoun>une côte d'adrénaline</AdrenalineRib.labelNoun>
+    <PainkillerRib.label>côte analgésique</PainkillerRib.label>
+    <PainkillerRib.description>Une côte analgésique installée.</PainkillerRib.description>
+    <PainkillerRib.labelNoun>une côte analgésique</PainkillerRib.labelNoun>
+    <Stomach.label>estomac</Stomach.label>
+    <Stomach.description>Un estomac.</Stomach.description>
+    <Heart.label>coeur</Heart.label>
+    <Heart.description>Un coeur.</Heart.description>
+    <Nose.label>nez</Nose.label>
+    <Nose.description>Un nez.</Nose.description>
+    <Jaw.label>mâchoire</Jaw.label>
+    <Jaw.description>Une mâchoire.</Jaw.description>
+    <Eye.label>oeil</Eye.label>
+    <Eye.description>Un oeil.</Eye.description>
+    <Arm.label>bras</Arm.label>
+    <Arm.description>Un bras.</Arm.description>
+    <Leg.label>jambe</Leg.label>
+    <Leg.description>Une jambe.</Leg.description>
+    <GoldenEye.label>oeil doré</GoldenEye.label>
+    <GoldenEye.description>Un oeil doré installé.</GoldenEye.description>
+    <LightReceptor.label>récepteur de lumière</LightReceptor.label>
+    <LightReceptor.description>Un récepteur de lumière installé.</LightReceptor.description>
+    <SimpleProstheticHand.label>prothèse de main simple</SimpleProstheticHand.label>
+    <SimpleProstheticHand.description>Une prothèse de main simple installée.</SimpleProstheticHand.description>
+    <SimpleProstheticHand.comps.HediffComp_VerbGiver.tools.bionic_fist.label>poing bionique</SimpleProstheticHand.comps.HediffComp_VerbGiver.tools.bionic_fist.label>
+    <SimpleProstheticFoot.label>prothèse de pied simple</SimpleProstheticFoot.label>
+    <SimpleProstheticFoot.description>Une prothèse de pied simple installée.</SimpleProstheticFoot.description>
+    <ArtificialNose.label>nez artificiel</ArtificialNose.label>
+    <ArtificialNose.description>Un nez artificiel installé.</ArtificialNose.description>
+    <HydraulicJaw.label>mâchoire hydrolique</HydraulicJaw.label>
+    <HydraulicJaw.description>Une mâchoire hydraulique installée.</HydraulicJaw.description>
+    <ArtificialPelvis.label>bassin artificiel</ArtificialPelvis.label>
+    <ArtificialPelvis.description>Un bassin artificiel installé.</ArtificialPelvis.description>
+    <ArtificialClavicle.label>clavicule artificielle</ArtificialClavicle.label>
+    <ArtificialClavicle.description>Une clavicule artificielle installée.</ArtificialClavicle.description>
+    <BrainStimulator.label>stimulateur cérébral</BrainStimulator.label>
+    <BrainStimulator.description>Un stimulateur cérébral installé.</BrainStimulator.description>
+    <SurrogateLung.label>poumon de remplacement</SurrogateLung.label>
+    <SurrogateLung.description>Un poumon de remplacement installé.</SurrogateLung.description>
+    <SurrogateStomach.label>estomac de remplacement</SurrogateStomach.label>
+    <SurrogateStomach.description>Un estomac de remplacement installé.</SurrogateStomach.description>
+    <SurrogateLiver.label>foie de remplacement</SurrogateLiver.label>
+    <SurrogateLiver.description>Un foie de remplacement installé.</SurrogateLiver.description>
+    <SurrogateKidney.label>rein de remplacement</SurrogateKidney.label>
+    <SurrogateKidney.description>Un rein de remplacement installé.</SurrogateKidney.description>
+    <AIChip.label>Puce d'IA</AIChip.label>
+    <AIChip.description>Une puce d'IA installée.</AIChip.description>
+    <AIChip.labelNoun>une puce d'IA</AIChip.labelNoun>
+    <AIPersonaCore.label>noyau de personnalité d'IA</AIPersonaCore.label>
+    <AIPersonaCore.description>Un noyau de personnalité d'IA installé.</AIPersonaCore.description>
+    <AIPersonaCore.labelNoun>Un noyau de personnalité d'IA</AIPersonaCore.labelNoun>
+    <SyntheticLung.label>poumon synthétique</SyntheticLung.label>
+    <SyntheticLung.description>Un poumon synthétique installé.</SyntheticLung.description>
+    <SyntheticLung.labelNoun>Un poumon synthétique</SyntheticLung.labelNoun>
+    <SyntheticLiver.label>foie synthétique</SyntheticLiver.label>
+    <SyntheticLiver.description>Un foie synthétique installé.</SyntheticLiver.description>
+    <SyntheticLiver.labelNoun>un foie synthétique</SyntheticLiver.labelNoun>
+    <SyntheticKidney.label>rein synthétique</SyntheticKidney.label>
+    <SyntheticKidney.description>Un rein synthétique installé.</SyntheticKidney.description>
+    <SyntheticKidney.labelNoun>un rein synthétique</SyntheticKidney.labelNoun>
+
+</LanguageData>

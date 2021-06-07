@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<TableOrgans.label>tissue printer</TableOrgans.label>
+	<TableOrgans.description>A workstation, equipped with a 3D printer to craft organs.</TableOrgans.description>
+	<TableProsthetics.label>prosthetics table</TableProsthetics.label>
+	<TableProsthetics.description>A workbench equipped for production of all kinds of prosthetics.</TableProsthetics.description>
+	<AdvancedPowerArm.label>advanced power arm</AdvancedPowerArm.label>
+	<AdvancedPowerArm.description>Even more unparalleled strength and dexterity, and with a sharp, retractable claws. Now it</AdvancedPowerArm.description>
+	<AdvancedPowerClaw.label>advanced power claw</AdvancedPowerClaw.label>
+	<AdvancedPowerClaw.description>This claw can slice stones.</AdvancedPowerClaw.description>
+	<AdvancedBionicHand.label>advanced bionic hand</AdvancedBionicHand.label>
+	<AdvancedBionicHand.description>Some people would chop their own hands off just to get this gorgeous piece of tech.</AdvancedBionicHand.description>
+	<AdvancedBionicArm.label>advanced bionic arm</AdvancedBionicArm.label>
+	<AdvancedBionicArm.description>Remember when you struggled with opening jars? Now you struggle with not breaking them instantly.</AdvancedBionicArm.description>
+	<AdvancedBionicLeg.label>advanced bionic leg</AdvancedBionicLeg.label>
+	<AdvancedBionicLeg.description>Gotta go fast!</AdvancedBionicLeg.description>
+	<AdvancedBionicFoot.label>advanced bionic foot</AdvancedBionicFoot.label>
+	<AdvancedBionicFoot.description>Dozens of servomotors grant faster movement and ultimate comfort.</AdvancedBionicFoot.description>
+	<AdvancedBionicEar.label>advanced bionic ear</AdvancedBionicEar.label>
+	<AdvancedBionicEar.description>This device allows the user to hear better than bats.</AdvancedBionicEar.description>
+	<AdvancedBionicJaw.label>advanced bionic jaw</AdvancedBionicJaw.label>
+	<AdvancedBionicJaw.description>The voice this jaw creates is so beautiful that even mechanoids stop by to listen.</AdvancedBionicJaw.description>
+	<AdvancedBionicEye.label>advanced bionic eye</AdvancedBionicEye.label>
+	<AdvancedBionicEye.description>This advanced piece of technology allows the user to perfectly see in the dark as well as through walls. Also through clothes.</AdvancedBionicEye.description>
+	<AdvancedBionicSpine.label>advanced bionic spine</AdvancedBionicSpine.label>
+	<AdvancedBionicSpine.description>This durable device supports the back and makes working and walking much easier.</AdvancedBionicSpine.description>
+	<ExoskeletonSuit.label>exoskeleton suit</ExoskeletonSuit.label>
+	<ExoskeletonSuit.description>A high tech device made out of two components: a light skeletal structure to relieve the back and servomotors to make the user stronger.</ExoskeletonSuit.description>
+	<MuscleStimulator.label>muscle stimulator</MuscleStimulator.label>
+	<MuscleStimulator.description>Through special chemicals and electric shocks this little chip is able to stimulate the muscles so they can operate at above maximum performance.</MuscleStimulator.description>
+	<TacticalCorneaImplant.label>tactical cornea implant</TacticalCorneaImplant.label>
+	<TacticalCorneaImplant.description>An enhanced implant which provides the user with additional information about potential targets and suggests a perfect firing angle.</TacticalCorneaImplant.description>
+	<ConstructorCore.label>auxiliary AI (constructing)</ConstructorCore.label>
+	<ConstructorCore.description>Archotechs do not waste time on training and education, not even for complex jobs. AIs installed in the brain permanently communicate with the user and act as a guide. How they do it is beyond our understanding. Requires brain surgery research before installing.</ConstructorCore.description>
+	<FarmerCore.label>auxiliary AI (agricultural)</FarmerCore.label>
+	<FarmerCore.description>Archotechs do not waste time on training and education, not even for complex jobs. AIs installed in the brain permanently communicate with the user and act as a guide. How they do it is beyond our understanding. Requires brain surgery research before installing.</FarmerCore.description>
+	<MinerCore.label>auxiliary AI (mining)</MinerCore.label>
+	<MinerCore.description>Archotechs do not waste time on training and education, not even for complex jobs. AIs installed in the brain permanently communicate with the user and act as a guide. How they do it is beyond our understanding. Requires brain surgery research before installing.</MinerCore.description>
+	<DoctorCore.label>auxiliary AI (medical)</DoctorCore.label>
+	<DoctorCore.description>Archotechs do not waste time on training and education, not even for complex jobs. AIs installed in the brain permanently communicate with the user and act as a guide. How they do it is beyond our understanding. Requires brain surgery research before installing.</DoctorCore.description>
+	<DiplomatCore.label>auxiliary AI (diplomatic)</DiplomatCore.label>
+	<DiplomatCore.description>Archotechs do not waste time on training and education, not even for complex jobs. AIs installed in the brain permanently communicate with the user and act as a guide. How they do it is beyond our understanding. Requires brain surgery research before installing.</DiplomatCore.description>
+	<SteelArm.label>steel arm</SteelArm.label>
+	<SteelArm.description>A very poor arm replacement. Looks bad, feels bad, is bad.</SteelArm.description>
+	<EyePatch.label>eye patch</EyePatch.label>
+	<EyePatch.description>Covers the eye socket. Intimidating.</EyePatch.description>
+	<HookHand.label>hook hand</HookHand.label>
+	<HookHand.description>Replaces missing hands. Pretty scary. Yarr.</HookHand.description>
+	<denture.label>denture</denture.label>
+	<denture.description>Replaces a missing jaw with wooden teeth. Smells gross and tastes even worse.</denture.description>
+	<PegLeg.label>peg leg</PegLeg.label>
+	<PegLeg.description>Replaces a missing leg with a wooden one. Slightly out of fashion but it does its job pretty well.</PegLeg.description>
+	<WoodenFoot.label>wooden foot</WoodenFoot.label>
+	<WoodenFoot.description>Replaces missing feet with a wooden log. At least it</WoodenFoot.description>
+	<EarBandage.label>ear bandage</EarBandage.label>
+	<EarBandage.description>Covers a missing ear. Steal the look of a certain unsuccessful 19th century artist!</EarBandage.description>
+	<PowerArm.label>power arm</PowerArm.label>
+	<PowerArm.description>Unparalleled strength and dexterity, and with retractable claws. This is the ultimate arm upgrade!</PowerArm.description>
+	<BionicHand.label>bionic hand</BionicHand.label>
+	<BionicHand.description>Allows the user to perform tasks even faster than with regular hands.</BionicHand.description>
+	<BionicFoot.label>bionic foot</BionicFoot.label>
+	<BionicFoot.description>This prosthesis grants faster walking without stumbling all the time.</BionicFoot.description>
+	<BionicJaw.label>bionic jaw</BionicJaw.label>
+	<BionicJaw.description>Aside from a strong set of teeth, this also comes with a voice modulator.</BionicJaw.description>
+	<SilentJaw.label>silent jaw</SilentJaw.label>
+	<SilentJaw.description>This version of the bionic jaw comes without a voice modulator, useful for abrasive patients.</SilentJaw.description>
+	<MedicalRib.label>medical rib replacement</MedicalRib.label>
+	<MedicalRib.description>An artificial rib, equipped with little blood filters and antibiotics-dispensers to keep the user healthy.</MedicalRib.description>
+	<DruggedRib.label>drugged rib replacement</DruggedRib.label>
+	<DruggedRib.description>An artificial rib, equipped with little flake-dispensers to keep the user happy. Synthetic liver highly recommended.</DruggedRib.description>
+	<AdrenalineRib.label>adrenaline rib replacement</AdrenalineRib.label>
+	<AdrenalineRib.description>An artificial rib, equipped with little adrenaline-dispensers to keep the user fit and awake.</AdrenalineRib.description>
+	<PainkillerRib.label>painkiller rib replacement</PainkillerRib.label>
+	<PainkillerRib.description>An artificial rib, equipped with little morphine-dispensers to numb the user</PainkillerRib.description>
+	<Leg.label>leg</Leg.label>
+	<Leg.description>Basically long meaty sticks that let you move around.</Leg.description>
+	<Arm.label>arm</Arm.label>
+	<Arm.description>Arms are like legs, except you can carry stuff with them.</Arm.description>
+	<Stomach.label>stomach</Stomach.label>
+	<Stomach.description>Digests food and turns it into energy and nutrients.</Stomach.description>
+	<Eye.label>eyeball</Eye.label>
+	<Eye.description>Absorbs light, which lets a person know what</Eye.description>
+	<Nose.label>nose</Nose.label>
+	<Nose.description>A pretty useful organ to distinguish odors, applies the finishing touch to a face.</Nose.description>
+	<Ear.label>ear</Ear.label>
+	<Ear.description>Picks up vibrations in the air, allowing people to hear sound.</Ear.description>
+	<Jaw.label>jaw</Jaw.label>
+	<Jaw.description>A nice set of teeth for chewing food and talking.</Jaw.description>
+	<GoldenEye.label>golden eye</GoldenEye.label>
+	<GoldenEye.description>Replaces missing eyes. So incredibly beautiful that it</GoldenEye.description>
+	<ArtificialNose.label>artificial nose</ArtificialNose.label>
+	<ArtificialNose.description>Replaces a missing nose. Covers the hole in the face.</ArtificialNose.description>
+	<HydraulicJaw.label>hydraulic jaw</HydraulicJaw.label>
+	<HydraulicJaw.description>Replaces a missing jaw. Be careful with the extremely efficient teeth!</HydraulicJaw.description>
+	<LightReceptor.label>light receptor</LightReceptor.label>
+	<LightReceptor.description>Replaces a missing eye. Can detect light and even objects. Like looking through frosted glass but without the colors.</LightReceptor.description>
+	<SimpleProstheticHand.label>simple prosthetic hand</SimpleProstheticHand.label>
+	<SimpleProstheticHand.description>Replaces missing hands. Way more comfortable and less frightening than the hook hand.</SimpleProstheticHand.description>
+	<SimpleProstheticFoot.label>simple prosthetic foot</SimpleProstheticFoot.label>
+	<SimpleProstheticFoot.description>Replaces missing feet. Not as cheap as a wood log.</SimpleProstheticFoot.description>
+	<ArtificialPelvis.label>artificial pelvis</ArtificialPelvis.label>
+	<ArtificialPelvis.description>Replaces a missing pelvis. Pretty useful if crawling is not your favourite way of moving around.</ArtificialPelvis.description>
+	<ArtificialClavicle.label>artificial clavicle</ArtificialClavicle.label>
+	<ArtificialClavicle.description>Replaces a missing clavicle. If you somehow manage to break yours.</ArtificialClavicle.description>
+	<BrainStimulator.label>brain stimulator</BrainStimulator.label>
+	<BrainStimulator.description>A small device that does its best to stimulate the remaining areas of the brain. Recommended for severe brain damage only. Requires brain surgery research before installing.</BrainStimulator.description>
+	<SurrogateLung.label>surrogate lung</SurrogateLung.label>
+	<SurrogateLung.description>A rudimentary lung replacement. Makes a deep, clicking noise.</SurrogateLung.description>
+	<SurrogateStomach.label>surrogate stomach</SurrogateStomach.label>
+	<SurrogateStomach.description>A rudimentary stomach replacement. Produces unpleasant smelling bowel gas.</SurrogateStomach.description>
+	<SurrogateLiver.label>surrogate liver</SurrogateLiver.label>
+	<SurrogateLiver.description>A rudimentary blood filter. Has problems with keeping the blood sugar level constant.</SurrogateLiver.description>
+	<SurrogateKidney.label>surrogate kidney</SurrogateKidney.label>
+	<SurrogateKidney.description>A rudimentary kidney replacement. One of its possible side effects is getting pale.</SurrogateKidney.description>
+	<AIChip.label>AI chip</AIChip.label>
+	<AIChip.description>Through special chemicals and electric shocks this little chip is able to completely restore the users consciousness and mobility. Requires brain surgery research before installing.</AIChip.description>
+	<SyntheticLung.label>synthetic lung</SyntheticLung.label>
+	<SyntheticLung.description>A high-tech breathing replacement. Makes a soft whirring sound.</SyntheticLung.description>
+	<SyntheticLiver.label>synthetic liver</SyntheticLiver.label>
+	<SyntheticLiver.description>An enhanced liver augmented with synthetic fibres to decrease rejection rate.</SyntheticLiver.description>
+	<SyntheticKidney.label>synthetic kidney</SyntheticKidney.label>
+	<SyntheticKidney.description>An enhanced kidney augmented with synthetic fibres to decrease rejection rate.</SyntheticKidney.description>
+	<UnfinishedProsthesis.label>Unfinished prosthesis</UnfinishedProsthesis.label>
+
+</LanguageData>

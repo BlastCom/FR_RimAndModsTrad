@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <DoBillsTableOrgans.label>Print organs</DoBillsTableOrgans.label>
+	<DoBillsTableOrgans.gerund>printing</DoBillsTableOrgans.gerund>
+	<DoBillsTableOrgans.verb>print</DoBillsTableOrgans.verb>
+	<DoBillsProstheticTable.label>Craft prosthetics</DoBillsProstheticTable.label>
+	<DoBillsProstheticTable.gerund>assembling</DoBillsProstheticTable.gerund>
+	<DoBillsProstheticTable.verb>assemble</DoBillsProstheticTable.verb>
+  
+</LanguageData>

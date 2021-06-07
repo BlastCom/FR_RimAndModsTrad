@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<BasicProsthetics.label>Basic prosthetics</BasicProsthetics.label>
+	<BasicProsthetics.description>Understanding the shape of a leg and combining that knowledge with basic woodworking, you can now craft peg legs and other basic prostheses at the crafting spot.</BasicProsthetics.description>
+	<SurrogateOrgans.label>tissue printer</SurrogateOrgans.label>
+	<SurrogateOrgans.description>As you gain higher medical and technical knowledge, creating a 3D printer to craft simple surrogate organs now becomes possible.</SurrogateOrgans.description>
+	<BrainSurgery.label>brain surgery</BrainSurgery.label>
+	<BrainSurgery.description>Unlocks the ability to craft basic basic brain implants and install them.</BrainSurgery.description>
+	<RibReplacements.label>rib replacements</RibReplacements.label>
+	<RibReplacements.description>Discovering the concept of very small dispensers, you think about putting them in ribs. You can now craft and install rib implants.</RibReplacements.description>
+	<AdvancedBionics.label>advanced bionics</AdvancedBionics.label>
+	<AdvancedBionics.description>Upgrade regular bionics with advanced components to make them even better. Unlocks new recipes at the prosthetics table.</AdvancedBionics.description>
+	<BionicSpine.label>bionic spine</BionicSpine.label>
+	<BionicSpine.description>The anatomy of the human spine is ridiculously complicated. You should probably research a little bit before messing with it.</BionicSpine.description>
+	<AdvancedBionicSpine.label>advanced bionic spine</AdvancedBionicSpine.label>
+	<AdvancedBionicSpine.description>You want to cram even more complex tech into your spine? Just take some time to study the intricacies of the spinal column.</AdvancedBionicSpine.description>
+	<BionicWarfare.label>bionic warfare</BionicWarfare.label>
+	<BionicWarfare.description>Using bionics just in a peaceful way to restore missing limbs seems like such a waste. Let</BionicWarfare.description>
+	<AdvancedBionicWarfare.label>advanced bionic warfare</AdvancedBionicWarfare.label>
+	<AdvancedBionicWarfare.description>You</AdvancedBionicWarfare.description>
+	<SyntheticOrgans.label>synthetic organs</SyntheticOrgans.label>
+	<SyntheticOrgans.description>Further research in nano-technology allows you to print incredibly well-engineered artificial organs. Unlocks new recipes on the tissue printer.</SyntheticOrgans.description>
+	<AdvancedBrainSurgery.label>advanced brain surgery</AdvancedBrainSurgery.label>
+	<AdvancedBrainSurgery.description>Allows you to craft more advanced brain implants and perform surgery on the brain.</AdvancedBrainSurgery.description>
+	<ExoskeletonSuits.label>exoskeleton suits</ExoskeletonSuits.label>
+	<ExoskeletonSuits.description>Utilise absolute cutting-edge motor technology and the knowledge of ergonomics to understand the concept of exoskeletons and replicate this with humans. Allows for the production and installation of exoskeleton suits.</ExoskeletonSuits.description>
+
+</LanguageData>
