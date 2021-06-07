@@ -1,0 +1,6 @@
+WorkGiverDef: DoBillsTableOrgans.label 'Print organs'
+WorkGiverDef: DoBillsTableOrgans.gerund 'printing'
+WorkGiverDef: DoBillsTableOrgans.verb 'print'
+WorkGiverDef: DoBillsProstheticTable.label 'Craft prosthetics'
+WorkGiverDef: DoBillsProstheticTable.gerund 'assembling'
+WorkGiverDef: DoBillsProstheticTable.verb 'assemble'
