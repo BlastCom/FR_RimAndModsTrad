@@ -6,7 +6,7 @@
 	<TableProsthetics.label>prosthetics table</TableProsthetics.label>
 	<TableProsthetics.description>A workbench equipped for production of all kinds of prosthetics.</TableProsthetics.description>
 	<AdvancedPowerArm.label>advanced power arm</AdvancedPowerArm.label>
-	<AdvancedPowerArm.description>Even more unparalleled strength and dexterity, and with a sharp, retractable claws. Now it</AdvancedPowerArm.description>
+	<AdvancedPowerArm.description>Even more unparalleled strength and dexterity, and with a sharp, retractable claws. Now it's the ultimate arm upgrade!</AdvancedPowerArm.description>
 	<AdvancedPowerClaw.label>advanced power claw</AdvancedPowerClaw.label>
 	<AdvancedPowerClaw.description>This claw can slice stones.</AdvancedPowerClaw.description>
 	<AdvancedBionicHand.label>advanced bionic hand</AdvancedBionicHand.label>
@@ -52,7 +52,7 @@
 	<PegLeg.label>peg leg</PegLeg.label>
 	<PegLeg.description>Replaces a missing leg with a wooden one. Slightly out of fashion but it does its job pretty well.</PegLeg.description>
 	<WoodenFoot.label>wooden foot</WoodenFoot.label>
-	<WoodenFoot.description>Replaces missing feet with a wooden log. At least it</WoodenFoot.description>
+	<WoodenFoot.description>Replaces missing feet with a wooden log. At least it's more comfortable than hopping around.</WoodenFoot.description>
 	<EarBandage.label>ear bandage</EarBandage.label>
 	<EarBandage.description>Covers a missing ear. Steal the look of a certain unsuccessful 19th century artist!</EarBandage.description>
 	<PowerArm.label>power arm</PowerArm.label>
@@ -72,7 +72,7 @@
 	<AdrenalineRib.label>adrenaline rib replacement</AdrenalineRib.label>
 	<AdrenalineRib.description>An artificial rib, equipped with little adrenaline-dispensers to keep the user fit and awake.</AdrenalineRib.description>
 	<PainkillerRib.label>painkiller rib replacement</PainkillerRib.label>
-	<PainkillerRib.description>An artificial rib, equipped with little morphine-dispensers to numb the user</PainkillerRib.description>
+	<PainkillerRib.description>An artificial rib, equipped with little morphine-dispensers to numb the user's pain. Side effects are respiratory ailments.</PainkillerRib.description>
 	<Leg.label>leg</Leg.label>
 	<Leg.description>Basically long meaty sticks that let you move around.</Leg.description>
 	<Arm.label>arm</Arm.label>
@@ -80,7 +80,7 @@
 	<Stomach.label>stomach</Stomach.label>
 	<Stomach.description>Digests food and turns it into energy and nutrients.</Stomach.description>
 	<Eye.label>eyeball</Eye.label>
-	<Eye.description>Absorbs light, which lets a person know what</Eye.description>
+	<Eye.description>Absorbs light, which lets a person know what's around them.</Eye.description>
 	<Nose.label>nose</Nose.label>
 	<Nose.description>A pretty useful organ to distinguish odors, applies the finishing touch to a face.</Nose.description>
 	<Ear.label>ear</Ear.label>
@@ -88,7 +88,7 @@
 	<Jaw.label>jaw</Jaw.label>
 	<Jaw.description>A nice set of teeth for chewing food and talking.</Jaw.description>
 	<GoldenEye.label>golden eye</GoldenEye.label>
-	<GoldenEye.description>Replaces missing eyes. So incredibly beautiful that it</GoldenEye.description>
+	<GoldenEye.description>Replaces missing eyes. So incredibly beautiful that it's a shame you can't see yourself in the mirror.</GoldenEye.description>
 	<ArtificialNose.label>artificial nose</ArtificialNose.label>
 	<ArtificialNose.description>Replaces a missing nose. Covers the hole in the face.</ArtificialNose.description>
 	<HydraulicJaw.label>hydraulic jaw</HydraulicJaw.label>
@@ -121,6 +121,5 @@
 	<SyntheticLiver.description>An enhanced liver augmented with synthetic fibres to decrease rejection rate.</SyntheticLiver.description>
 	<SyntheticKidney.label>synthetic kidney</SyntheticKidney.label>
 	<SyntheticKidney.description>An enhanced kidney augmented with synthetic fibres to decrease rejection rate.</SyntheticKidney.description>
-	<UnfinishedProsthesis.label>Unfinished prosthesis</UnfinishedProsthesis.label>
 
 </LanguageData>
