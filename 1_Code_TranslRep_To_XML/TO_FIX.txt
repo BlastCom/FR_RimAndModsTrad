@@ -1,2 +1,15 @@
+V0.3
+
+=== PROBLEM
+
+If a Defname different than others, warn and skip
+
+=== FIXED
+
+Cut text in half if apostrophe detected in text (ex : It's)
+Crash if blank row at the end of the file
+Write as function
+Better Error management
+Read as function
 Fix tab before full string;
-Fix return line everywere it shoundn't be;
+Fix return line everywere it shoundn't be
