@@ -1,139 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<CreateAdvancedBionicEye.label>Upgrade bionic eye</CreateAdvancedBionicEye.label>
-	<CreateAdvancedBionicEye.description>Upgrades a bionic eye with advanced components.</CreateAdvancedBionicEye.description>
-	<CreateAdvancedBionicEye.jobString>Upgrading bionic.</CreateAdvancedBionicEye.jobString>
-	<CreateAdvancedPowerClaw.label>Upgrade power claw</CreateAdvancedPowerClaw.label>
-	<CreateAdvancedPowerClaw.description>Upgrades a power claw with advanced components.</CreateAdvancedPowerClaw.description>
-	<CreateAdvancedPowerClaw.jobString>Upgrading bionic.</CreateAdvancedPowerClaw.jobString>
-	<CreateAdvancedPowerArm.label>Upgrade power arm</CreateAdvancedPowerArm.label>
-	<CreateAdvancedPowerArm.description>Upgrades a power arm with advanced components.</CreateAdvancedPowerArm.description>
-	<CreateAdvancedPowerArm.jobString>Upgrading bionic.</CreateAdvancedPowerArm.jobString>
-	<CreateAdvancedBionicArm.label>Upgrade bionic arm</CreateAdvancedBionicArm.label>
-	<CreateAdvancedBionicArm.description>Upgrades a bionic arm with advanced components.</CreateAdvancedBionicArm.description>
-	<CreateAdvancedBionicArm.jobString>Upgrading bionic.</CreateAdvancedBionicArm.jobString>
-	<CreateAdvancedBionicHand.label>Upgrade bionic hand</CreateAdvancedBionicHand.label>
-	<CreateAdvancedBionicHand.description>Upgrades a bionic hand with advanced components.</CreateAdvancedBionicHand.description>
-	<CreateAdvancedBionicHand.jobString>Upgrading bionic.</CreateAdvancedBionicHand.jobString>
-	<CreateAdvancedBionicFoot.label>Upgrade bionic foot</CreateAdvancedBionicFoot.label>
-	<CreateAdvancedBionicFoot.description>Upgrades a bionic foot with advanced components.</CreateAdvancedBionicFoot.description>
-	<CreateAdvancedBionicFoot.jobString>Upgrading bionic.</CreateAdvancedBionicFoot.jobString>
-	<CreateAdvancedBionicLeg.label>Upgrade bionic leg</CreateAdvancedBionicLeg.label>
-	<CreateAdvancedBionicLeg.description>Upgrades a bionic leg with advanced components.</CreateAdvancedBionicLeg.description>
-	<CreateAdvancedBionicLeg.jobString>Upgrading bionic.</CreateAdvancedBionicLeg.jobString>
-	<CreateAdvancedBionicJaw.label>Upgrade bionic jaw</CreateAdvancedBionicJaw.label>
-	<CreateAdvancedBionicJaw.description>Upgrades a bionic jaw with advanced components.</CreateAdvancedBionicJaw.description>
-	<CreateAdvancedBionicJaw.jobString>Upgrading bionic.</CreateAdvancedBionicJaw.jobString>
-	<CreateAdvancedBionicEar.label>Upgrade bionic ear</CreateAdvancedBionicEar.label>
-	<CreateAdvancedBionicEar.description>Upgrades a bionic ear with advanced components.</CreateAdvancedBionicEar.description>
-	<CreateAdvancedBionicEar.jobString>Upgrading bionic.</CreateAdvancedBionicEar.jobString>
-	<CreateAdvancedBionicSpine.label>Upgrade bionic spine</CreateAdvancedBionicSpine.label>
-	<CreateAdvancedBionicSpine.description>Upgrades a bionic spine with advanced components.</CreateAdvancedBionicSpine.description>
-	<CreateAdvancedBionicSpine.jobString>Upgrading bionic.</CreateAdvancedBionicSpine.jobString>
-	<CreateExoskeletonSuit.label>Craft exoskeleton suit</CreateExoskeletonSuit.label>
-	<CreateExoskeletonSuit.description>Crafts an exoskeleton suit from steel and plasteel. Requires the 3D printer and a moderate amount of time.</CreateExoskeletonSuit.description>
-	<CreateExoskeletonSuit.jobString>Upgrading bionic.</CreateExoskeletonSuit.jobString>
-	<CreateSteelArm.label>Craft steel arm</CreateSteelArm.label>
-	<CreateSteelArm.description>Crafts a steel arm from steel.</CreateSteelArm.description>
-	<CreateSteelArm.jobString>Crafting prosthesis.</CreateSteelArm.jobString>
-	<CreatePegLeg.label>Craft peg leg</CreatePegLeg.label>
-	<CreatePegLeg.description>Crafts a simple prosthetic leg from wood.</CreatePegLeg.description>
-	<CreatePegLeg.jobString>Crafting prosthesis.</CreatePegLeg.jobString>
-	<CreateEyePatch.label>Craft eye patch</CreateEyePatch.label>
-	<CreateEyePatch.description>Tailors an eye patch from fabric.</CreateEyePatch.description>
-	<CreateEyePatch.jobString>Crafting prosthesis.</CreateEyePatch.jobString>
-	<CreateWoodenHand.label>Craft hook hand</CreateWoodenHand.label>
-	<CreateWoodenHand.description>Tailors a hook hand from fabric and metal.</CreateWoodenHand.description>
-	<CreateWoodenHand.jobString>Crafting prosthesis.</CreateWoodenHand.jobString>
-	<CreateDenture.label>Craft denture</CreateDenture.label>
-	<CreateDenture.description>Crafts a cheap denture from wood logs. Easy to make.</CreateDenture.description>
-	<CreateDenture.jobString>Crafting prosthesis.</CreateDenture.jobString>
-	<CreateWoodenFoot.label>Craft wooden foot</CreateWoodenFoot.label>
-	<CreateWoodenFoot.description>Chops wood into a foot-like shape.</CreateWoodenFoot.description>
-	<CreateWoodenFoot.jobString>Crafting prosthesis.</CreateWoodenFoot.jobString>
-	<CreateEarBandage.label>Craft ear bandage</CreateEarBandage.label>
-	<CreateEarBandage.description>Tailors an ear bandage from fabric.</CreateEarBandage.description>
-	<CreateEarBandage.jobString>Crafting prosthesis.</CreateEarBandage.jobString>
-	<CreateBionicEye.label>Craft bionic eye</CreateBionicEye.label>
-	<CreateBionicEye.description>Crafts a bionic eye from plasteel.</CreateBionicEye.description>
-	<CreateBionicEye.jobString>Crafting bionic.</CreateBionicEye.jobString>
-	<CreatePowerClaw.label>Craft power claw</CreatePowerClaw.label>
-	<CreatePowerClaw.description>Creates a power claw using steel and advanced components.</CreatePowerClaw.description>
-	<CreatePowerClaw.jobString>Crafting bionic.</CreatePowerClaw.jobString>
-	<CreatePowerArm.label>craft power arm</CreatePowerArm.label>
-	<CreatePowerArm.description>Attaching a power claw to a bionic arm is not as easy as it sounds. But damn is it awesome!</CreatePowerArm.description>
-	<CreatePowerArm.jobString>Crafting bionic.</CreatePowerArm.jobString>
-	<CreateBionicArm.label>Craft bionic arm</CreateBionicArm.label>
-	<CreateBionicArm.description>Upgrades a simple prosthetic arm using plasteel and components.</CreateBionicArm.description>
-	<CreateBionicArm.jobString>Crafting bionic.</CreateBionicArm.jobString>
-	<CreateBionicHand.label>Craft bionic hand</CreateBionicHand.label>
+	<CreateAdvancedBionicEye.label>Améliorer oeil bionique</CreateAdvancedBionicEye.label>
+	<CreateAdvancedBionicEye.description>Améliore un œil bionique avec des composants avancés.</CreateAdvancedBionicEye.description>
+	<CreateAdvancedBionicEye.jobString>Améliorer bionique.</CreateAdvancedBionicEye.jobString>
+	<CreateAdvancedPowerClaw.label>Améliorer pince de puissance</CreateAdvancedPowerClaw.label>
+	<CreateAdvancedPowerClaw.description>Améliore une pince de puissance avec des composants avancés.</CreateAdvancedPowerClaw.description>
+	<CreateAdvancedPowerClaw.jobString>Amélioration bionique.</CreateAdvancedPowerClaw.jobString>
+	<CreateAdvancedPowerArm.label>Améliorer bras motorisé</CreateAdvancedPowerArm.label>
+	<CreateAdvancedPowerArm.description>Améliore un bras motorisé avec des composants avancés.</CreateAdvancedPowerArm.description>
+	<CreateAdvancedPowerArm.jobString>Amélioration bionique.</CreateAdvancedPowerArm.jobString>
+	<CreateAdvancedBionicArm.label>Améliorer bras bionique</CreateAdvancedBionicArm.label>
+	<CreateAdvancedBionicArm.description>Améliore bras bionique avec des composants avancés.</CreateAdvancedBionicArm.description>
+	<CreateAdvancedBionicArm.jobString>Amélioration bionique.</CreateAdvancedBionicArm.jobString>
+	<CreateAdvancedBionicHand.label>Améliorer main bionique</CreateAdvancedBionicHand.label>
+	<CreateAdvancedBionicHand.description>Améliore une main bionique avec des composants avancés.</CreateAdvancedBionicHand.description>
+	<CreateAdvancedBionicHand.jobString>Amélioration bionique.</CreateAdvancedBionicHand.jobString>
+	<CreateAdvancedBionicFoot.label>Améliorer pied bionique</CreateAdvancedBionicFoot.label>
+	<CreateAdvancedBionicFoot.description>Améliore un pied bionique avec des composants avancés.</CreateAdvancedBionicFoot.description>
+	<CreateAdvancedBionicFoot.jobString>Amélioration bionique.</CreateAdvancedBionicFoot.jobString>
+	<CreateAdvancedBionicLeg.label>Améliorer jambe bionique</CreateAdvancedBionicLeg.label>
+	<CreateAdvancedBionicLeg.description>Améliore une jambe bionique avec des composants avancés.</CreateAdvancedBionicLeg.description>
+	<CreateAdvancedBionicLeg.jobString>Amélioration bionique.</CreateAdvancedBionicLeg.jobString>
+	<CreateAdvancedBionicJaw.label>Améliorer mâchoire bionique</CreateAdvancedBionicJaw.label>
+	<CreateAdvancedBionicJaw.description>Améliore une mâchoire bionique avec des composants avancés.</CreateAdvancedBionicJaw.description>
+	<CreateAdvancedBionicJaw.jobString>Amélioration bionique.</CreateAdvancedBionicJaw.jobString>
+	<CreateAdvancedBionicEar.label>Améliorer oreille bionique</CreateAdvancedBionicEar.label>
+	<CreateAdvancedBionicEar.description>Améliore une mâchoire bionique avec des composants avancés.</CreateAdvancedBionicEar.description>
+	<CreateAdvancedBionicEar.jobString>Amélioration bionique.</CreateAdvancedBionicEar.jobString>
+	<CreateAdvancedBionicSpine.label>Améliorer colonne vertébrale bionique</CreateAdvancedBionicSpine.label>
+	<CreateAdvancedBionicSpine.description>Améliore une colonne vertébrale bionique avec des composants avancés.</CreateAdvancedBionicSpine.description>
+	<CreateAdvancedBionicSpine.jobString>Amélioration bionique.</CreateAdvancedBionicSpine.jobString>
+	<CreateExoskeletonSuit.label>Fabriquer combinaison exosquelette</CreateExoskeletonSuit.label>
+	<CreateExoskeletonSuit.description>Fabrique une combinaison exosquelette à partir d'acier et de plastacier. Nécessite une imprimante 3D et un peu de temps.</CreateExoskeletonSuit.description>
+	<CreateExoskeletonSuit.jobString>Amélioration bionique.</CreateExoskeletonSuit.jobString>
+	<CreateSteelArm.label>Fabriquer bras d'acier</CreateSteelArm.label>
+	<CreateSteelArm.description>Fabrique un bras à partir d'acier.</CreateSteelArm.description>
+	<CreateSteelArm.jobString>Fabrication de prothèse.</CreateSteelArm.jobString>
+	<CreatePegLeg.label>Fabriquer jambe de bois</CreatePegLeg.label>
+	<CreatePegLeg.description>Fabrique une simple prothèse de jambe en bois.</CreatePegLeg.description>
+	<CreatePegLeg.jobString>Fabrication de prothèse.</CreatePegLeg.jobString>
+	<CreateEyePatch.label>Fabriquer cache-oeil</CreateEyePatch.label>
+	<CreateEyePatch.description>Fabrique un cache-oeil en tissu.</CreateEyePatch.description>
+	<CreateEyePatch.jobString>Fabrication de prothèse.</CreateEyePatch.jobString>
+	<CreateWoodenHand.label>Fabriquer main-crochet</CreateWoodenHand.label>
+	<CreateWoodenHand.description>Fabrique une main-crochet à partir de tissu et de métal.</CreateWoodenHand.description>
+	<CreateWoodenHand.jobString>Fabrication de prothèse.</CreateWoodenHand.jobString>
+	<CreateDenture.label>Fabriquer prothèse dentaire</CreateDenture.label>
+	<CreateDenture.description>Fabrique une prothèse dentaire bon marché à partir de bois. Facile à réaliser.</CreateDenture.description>
+	<CreateDenture.jobString>Fabrication de prothèse.</CreateDenture.jobString>
+	<CreateWoodenFoot.label>Fabriquer pied de bois</CreateWoodenFoot.label>
+	<CreateWoodenFoot.description>Découpe une bûche de bois en forme de pied.</CreateWoodenFoot.description>
+	<CreateWoodenFoot.jobString>Fabrication de prothèse.</CreateWoodenFoot.jobString>
+	<CreateEarBandage.label>Fabriquer pansement auriculaire</CreateEarBandage.label>
+	<CreateEarBandage.description>Taille un pansement pour les oreilles à partir de tissu.</CreateEarBandage.description>
+	<CreateEarBandage.jobString>Fabrication de prothèse.</CreateEarBandage.jobString>
+	<CreateBionicEye.label>Fabriquer oeil bionique</CreateBionicEye.label>
+	<CreateBionicEye.description>Fabrique un oeil bionique à partir de plastacier.</CreateBionicEye.description>
+	<CreateBionicEye.jobString>Fabrication bionique.</CreateBionicEye.jobString>
+	<CreatePowerClaw.label>Fabriquer pince de puissance</CreatePowerClaw.label>
+	<CreatePowerClaw.description>Fabrique une pince de puissance à partir d'acier et de composants avancés.</CreatePowerClaw.description>
+	<CreatePowerClaw.jobString>Fabrication bionique.</CreatePowerClaw.jobString>
+	<CreatePowerArm.label>Fabriquer bras motorisé</CreatePowerArm.label>
+	<CreatePowerArm.description>Fixer une pince de puissance à un bras bionique n'est pas aussi facile qu'il n'y paraît. Mais c'est génial !</CreatePowerArm.description>
+	<CreatePowerArm.jobString>Fabrication bionique.</CreatePowerArm.jobString>
+	<CreateBionicArm.label>Fabriquer bras bionique</CreateBionicArm.label>
+	<CreateBionicArm.description>Améliore une prothèse simple pour bras en utilisant du plastacier et des composants.</CreateBionicArm.description>
+	<CreateBionicArm.jobString>Fabrication bionique.</CreateBionicArm.jobString>
+	<!-- HERE -->
+	<CreateBionicHand.label>Fabriquer bionic hand</CreateBionicHand.label>
 	<CreateBionicHand.description>Upgrades a simple prosthetic hand using plasteel and components.</CreateBionicHand.description>
-	<CreateBionicHand.jobString>Crafting bionic.</CreateBionicHand.jobString>
-	<CreateBionicFoot.label>Craft bionic foot</CreateBionicFoot.label>
+	<CreateBionicHand.jobString>Fabrication bionique.</CreateBionicHand.jobString>
+	<CreateBionicFoot.label>Fabriquer bionic foot</CreateBionicFoot.label>
 	<CreateBionicFoot.description>Upgrades a simple prosthetic foot using plasteel and components.</CreateBionicFoot.description>
-	<CreateBionicFoot.jobString>Crafting bionic.</CreateBionicFoot.jobString>
-	<CreateBionicLeg.label>Craft bionic leg</CreateBionicLeg.label>
+	<CreateBionicFoot.jobString>Fabrication bionique.</CreateBionicFoot.jobString>
+	<CreateBionicLeg.label>Fabriquer bionic leg</CreateBionicLeg.label>
 	<CreateBionicLeg.description>Upgrades a simple prosthetic leg using plasteel and components.</CreateBionicLeg.description>
-	<CreateBionicLeg.jobString>Crafting bionic.</CreateBionicLeg.jobString>
-	<CreateBionicEar.label>Craft bionic ear</CreateBionicEar.label>
-	<CreateBionicEar.description>Crafts a bionic ear from plasteel.</CreateBionicEar.description>
-	<CreateBionicEar.jobString>Crafting bionic.</CreateBionicEar.jobString>
-	<CreateBionicJaw.label>Craft bionic jaw</CreateBionicJaw.label>
-	<CreateBionicJaw.description>Crafts a bionic jaw from steel and plasteel.</CreateBionicJaw.description>
-	<CreateBionicJaw.jobString>Crafting bionic.</CreateBionicJaw.jobString>
-	<CreateSilentJaw.label>Craft silent jaw</CreateSilentJaw.label>
-	<CreateSilentJaw.description>Crafts a silent jaw from steel and plasteel.</CreateSilentJaw.description>
-	<CreateSilentJaw.jobString>Crafting bionic.</CreateSilentJaw.jobString>
-	<CreateBionicSpine.label>Craft bionic spine</CreateBionicSpine.label>
-	<CreateBionicSpine.description>Crafts a bionic spine from steel and plasteel.</CreateBionicSpine.description>
-	<CreateBionicSpine.jobString>Crafting bionic.</CreateBionicSpine.jobString>
-	<CreateMedicalRib.label>Craft medical rib</CreateMedicalRib.label>
-	<CreateMedicalRib.description>Crafts a medical rib from plasteel and Glitterworld medicine.</CreateMedicalRib.description>
-	<CreateMedicalRib.jobString>Crafting bionic.</CreateMedicalRib.jobString>
-	<CreateDruggedRib.label>Craft drugged rib</CreateDruggedRib.label>
-	<CreateDruggedRib.description>Crafts a drugged rib from plasteel and flake.</CreateDruggedRib.description>
-	<CreateDruggedRib.jobString>Crafting bionic.</CreateDruggedRib.jobString>
-	<CreateAdrenalineRib.label>Craft adrenaline rib</CreateAdrenalineRib.label>
-	<CreateAdrenalineRib.description>Crafts an adrenaline rib from plasteel and yayo.</CreateAdrenalineRib.description>
-	<CreateAdrenalineRib.jobString>Crafting bionic.</CreateAdrenalineRib.jobString>
-	<CreatePainkillerRib.label>Craft painkiller rib</CreatePainkillerRib.label>
-	<CreatePainkillerRib.description>Crafts a painkiller rib from plasteel and go-juice.</CreatePainkillerRib.description>
-	<CreatePainkillerRib.jobString>Crafting bionic.</CreatePainkillerRib.jobString>
-	<CreateSimpleProstheticLeg.label>Craft simple prosthetic leg</CreateSimpleProstheticLeg.label>
-	<CreateSimpleProstheticLeg.description>Crafts a simple prosthetic leg from steel, plasteel and components.</CreateSimpleProstheticLeg.description>
-	<CreateSimpleProstheticLeg.jobString>Crafting prosthesis.</CreateSimpleProstheticLeg.jobString>
-	<CreateSimpleProstheticArm.label>Craft simple prosthetic arm</CreateSimpleProstheticArm.label>
-	<CreateSimpleProstheticArm.description>Crafts a simple prosthetic arm from steel, plasteel and components.</CreateSimpleProstheticArm.description>
-	<CreateSimpleProstheticArm.jobString>Crafting prosthesis.</CreateSimpleProstheticArm.jobString>
-	<CreateSimpleProstheticHand.label>craft simple prosthetic hand</CreateSimpleProstheticHand.label>
-	<CreateSimpleProstheticHand.description>Crafts a simple prosthetic hand from steel, plasteel and components.</CreateSimpleProstheticHand.description>
-	<CreateSimpleProstheticHand.jobString>Crafting prosthesis.</CreateSimpleProstheticHand.jobString>
-	<CreateSimpleProstheticFoot.label>craft simple prosthetic foot</CreateSimpleProstheticFoot.label>
-	<CreateSimpleProstheticFoot.description>Crafts a simple prosthetic foot from steel, plasteel and components.</CreateSimpleProstheticFoot.description>
-	<CreateSimpleProstheticFoot.jobString>Crafting prosthesis.</CreateSimpleProstheticFoot.jobString>
-	<CreateArtificialNose.label>craft artificial nose</CreateArtificialNose.label>
-	<CreateArtificialNose.description>Crafts an artificial nose from plasteel.</CreateArtificialNose.description>
-	<CreateArtificialNose.jobString>Crafting prosthesis.</CreateArtificialNose.jobString>
-	<CreateCochlearImplant.label>craft cochlear implant</CreateCochlearImplant.label>
-	<CreateCochlearImplant.description>Crafts a cochlear implant from plasteel.</CreateCochlearImplant.description>
-	<CreateCochlearImplant.jobString>Crafting prosthesis.</CreateCochlearImplant.jobString>
-	<CreateHydraulicJaw.label>craft hydraulic jaw</CreateHydraulicJaw.label>
-	<CreateHydraulicJaw.description>Crafts a hydraulic jaw from steel and components.</CreateHydraulicJaw.description>
-	<CreateHydraulicJaw.jobString>Crafting prosthesis.</CreateHydraulicJaw.jobString>
-	<CreateGoldenEye.label>Craft golden eye</CreateGoldenEye.label>
+	<CreateBionicLeg.jobString>Fabrication bionique.</CreateBionicLeg.jobString>
+	<CreateBionicEar.label>Fabriquer bionic ear</CreateBionicEar.label>
+	<CreateBionicEar.description>Fabrique a bionic ear from plasteel.</CreateBionicEar.description>
+	<CreateBionicEar.jobString>Fabrication bionique.</CreateBionicEar.jobString>
+	<CreateBionicJaw.label>Fabriquer bionic jaw</CreateBionicJaw.label>
+	<CreateBionicJaw.description>Fabrique a bionic jaw from steel and plasteel.</CreateBionicJaw.description>
+	<CreateBionicJaw.jobString>Fabrication bionique.</CreateBionicJaw.jobString>
+	<CreateSilentJaw.label>Fabriquer silent jaw</CreateSilentJaw.label>
+	<CreateSilentJaw.description>Fabrique a silent jaw from steel and plasteel.</CreateSilentJaw.description>
+	<CreateSilentJaw.jobString>Fabrication bionique.</CreateSilentJaw.jobString>
+	<CreateBionicSpine.label>Fabriquer bionic spine</CreateBionicSpine.label>
+	<CreateBionicSpine.description>Fabrique a bionic spine from steel and plasteel.</CreateBionicSpine.description>
+	<CreateBionicSpine.jobString>Fabrication bionique.</CreateBionicSpine.jobString>
+	<CreateMedicalRib.label>Fabriquer medical rib</CreateMedicalRib.label>
+	<CreateMedicalRib.description>Fabrique a medical rib from plasteel and Glitterworld medicine.</CreateMedicalRib.description>
+	<CreateMedicalRib.jobString>Fabrication bionique.</CreateMedicalRib.jobString>
+	<CreateDruggedRib.label>Fabriquer drugged rib</CreateDruggedRib.label>
+	<CreateDruggedRib.description>Fabrique a drugged rib from plasteel and flake.</CreateDruggedRib.description>
+	<CreateDruggedRib.jobString>Fabrication bionique.</CreateDruggedRib.jobString>
+	<CreateAdrenalineRib.label>Fabriquer adrenaline rib</CreateAdrenalineRib.label>
+	<CreateAdrenalineRib.description>Fabrique an adrenaline rib from plasteel and yayo.</CreateAdrenalineRib.description>
+	<CreateAdrenalineRib.jobString>Fabrication bionique.</CreateAdrenalineRib.jobString>
+	<CreatePainkillerRib.label>Fabriquer painkiller rib</CreatePainkillerRib.label>
+	<CreatePainkillerRib.description>Fabrique a painkiller rib from plasteel and go-juice.</CreatePainkillerRib.description>
+	<CreatePainkillerRib.jobString>Fabrication bionique.</CreatePainkillerRib.jobString>
+	<CreateSimpleProstheticLeg.label>Fabriquer simple prosthetic leg</CreateSimpleProstheticLeg.label>
+	<CreateSimpleProstheticLeg.description>Fabrique a simple prosthetic leg from steel, plasteel and components.</CreateSimpleProstheticLeg.description>
+	<CreateSimpleProstheticLeg.jobString>Fabrication de prothèse.</CreateSimpleProstheticLeg.jobString>
+	<CreateSimpleProstheticArm.label>Fabriquer simple prosthetic arm</CreateSimpleProstheticArm.label>
+	<CreateSimpleProstheticArm.description>Fabrique a simple prosthetic arm from steel, plasteel and components.</CreateSimpleProstheticArm.description>
+	<CreateSimpleProstheticArm.jobString>Fabrication de prothèse.</CreateSimpleProstheticArm.jobString>
+	<CreateSimpleProstheticHand.label>Fabriquer simple prosthetic hand</CreateSimpleProstheticHand.label>
+	<CreateSimpleProstheticHand.description>Fabrique a simple prosthetic hand from steel, plasteel and components.</CreateSimpleProstheticHand.description>
+	<CreateSimpleProstheticHand.jobString>Fabrication de prothèse.</CreateSimpleProstheticHand.jobString>
+	<CreateSimpleProstheticFoot.label>Fabriquer simple prosthetic foot</CreateSimpleProstheticFoot.label>
+	<CreateSimpleProstheticFoot.description>Fabrique a simple prosthetic foot from steel, plasteel and components.</CreateSimpleProstheticFoot.description>
+	<CreateSimpleProstheticFoot.jobString>Fabrication de prothèse.</CreateSimpleProstheticFoot.jobString>
+	<CreateArtificialNose.label>Fabriquer artificial nose</CreateArtificialNose.label>
+	<CreateArtificialNose.description>Fabrique an artificial nose from plasteel.</CreateArtificialNose.description>
+	<CreateArtificialNose.jobString>Fabrication de prothèse.</CreateArtificialNose.jobString>
+	<CreateCochlearImplant.label>Fabriquer cochlear implant</CreateCochlearImplant.label>
+	<CreateCochlearImplant.description>Fabrique a cochlear implant from plasteel.</CreateCochlearImplant.description>
+	<CreateCochlearImplant.jobString>Fabrication de prothèse.</CreateCochlearImplant.jobString>
+	<CreateHydraulicJaw.label>Fabriquer hydraulic jaw</CreateHydraulicJaw.label>
+	<CreateHydraulicJaw.description>Fabrique a hydraulic jaw from steel and components.</CreateHydraulicJaw.description>
+	<CreateHydraulicJaw.jobString>Fabrication de prothèse.</CreateHydraulicJaw.jobString>
+	<CreateGoldenEye.label>Fabriquer golden eye</CreateGoldenEye.label>
 	<CreateGoldenEye.description>Gold bar + hammer = golden eye.</CreateGoldenEye.description>
-	<CreateGoldenEye.jobString>Crafting prosthesis.</CreateGoldenEye.jobString>
-	<CreateLightReceptor.label>Craft light receptor</CreateLightReceptor.label>
-	<CreateLightReceptor.description>Crafts a light detector from plasteel and components.</CreateLightReceptor.description>
-	<CreateLightReceptor.jobString>Crafting prosthesis.</CreateLightReceptor.jobString>
-	<CreateArtificialPelvis.label>craft artificial pelvis</CreateArtificialPelvis.label>
-	<CreateArtificialPelvis.description>Crafts an artificial pelvis from steel and plasteel.</CreateArtificialPelvis.description>
-	<CreateArtificialPelvis.jobString>Crafting prosthesis.</CreateArtificialPelvis.jobString>
-	<CreateArtificialClavicle.label>craft artificial clavicle</CreateArtificialClavicle.label>
-	<CreateArtificialClavicle.description>Crafts an artificial clavicle from steel.</CreateArtificialClavicle.description>
-	<CreateArtificialClavicle.jobString>Crafting prosthesis.</CreateArtificialClavicle.jobString>
-	<CreateBrainStimulator.label>craft brain stimulator</CreateBrainStimulator.label>
+	<CreateGoldenEye.jobString>Fabrication de prothèse.</CreateGoldenEye.jobString>
+	<CreateLightReceptor.label>Fabriquer light receptor</CreateLightReceptor.label>
+	<CreateLightReceptor.description>Fabrique a light detector from plasteel and components.</CreateLightReceptor.description>
+	<CreateLightReceptor.jobString>Fabrication de prothèse.</CreateLightReceptor.jobString>
+	<CreateArtificialPelvis.label>Fabriquer artificial pelvis</CreateArtificialPelvis.label>
+	<CreateArtificialPelvis.description>Fabrique an artificial pelvis from steel and plasteel.</CreateArtificialPelvis.description>
+	<CreateArtificialPelvis.jobString>Fabrication de prothèse.</CreateArtificialPelvis.jobString>
+	<CreateArtificialClavicle.label>Fabriquer artificial clavicle</CreateArtificialClavicle.label>
+	<CreateArtificialClavicle.description>Fabrique an artificial clavicle from steel.</CreateArtificialClavicle.description>
+	<CreateArtificialClavicle.jobString>Fabrication de prothèse.</CreateArtificialClavicle.jobString>
+	<CreateBrainStimulator.label>Fabriquer brain stimulator</CreateBrainStimulator.label>
 	<CreateBrainStimulator.description>Creates a simple brain stimulator from components, plasteel and cloth.</CreateBrainStimulator.description>
 	<CreateBrainStimulator.jobString>Creating surrogate organ.</CreateBrainStimulator.jobString>
 	<CreateSurrogateLung.label>Create surrogate lung</CreateSurrogateLung.label>
@@ -151,13 +152,13 @@
 	<CreateSurrogateHeart.label>Create surrogate heart</CreateSurrogateHeart.label>
 	<CreateSurrogateHeart.description>Creates a surrogate heart from cloth, plasteel and components.</CreateSurrogateHeart.description>
 	<CreateSurrogateHeart.jobString>Creating surrogate organ.</CreateSurrogateHeart.jobString>
-	<CreateAIChip.label>Craft AI chip</CreateAIChip.label>
+	<CreateAIChip.label>Fabriquer AI chip</CreateAIChip.label>
 	<CreateAIChip.description>Creates an AI chip. Needs gold and energized components for highest quality circuitry.</CreateAIChip.description>
 	<CreateAIChip.jobString>Creating synthetic organ.</CreateAIChip.jobString>
-	<CreateJoywire.label>Craft joywire</CreateJoywire.label>
+	<CreateJoywire.label>Fabriquer joywire</CreateJoywire.label>
 	<CreateJoywire.description>Creates a joywire. Needs gold and energized components for highest quality circuitry.</CreateJoywire.description>
 	<CreateJoywire.jobString>Creating synthetic organ.</CreateJoywire.jobString>
-	<CreatePainstopper.label>Craft painstopper</CreatePainstopper.label>
+	<CreatePainstopper.label>Fabriquer painstopper</CreatePainstopper.label>
 	<CreatePainstopper.description>Creates a painstopper implant. Needs gold and energized components for highest quality circuitry.</CreatePainstopper.description>
 	<CreatePainstopper.jobString>Creating synthetic organ.</CreatePainstopper.jobString>
 	<CreateSyntheticLung.label>Create synthetic lung</CreateSyntheticLung.label>

@@ -3,12 +3,12 @@
 
     <AdvancedPowerArm.label>Bras motorisé avancé</AdvancedPowerArm.label>
     <AdvancedPowerArm.description>Un bras motorisé avancé installé.</AdvancedPowerArm.description>
-    <AdvancedPowerArm.comps.HediffComp_VerbGiver.tools.bionic_claws.label>Griffes bioniques</AdvancedPowerArm.comps.HediffComp_VerbGiver.tools.bionic_claws.label>
+    <AdvancedPowerArm.comps.HediffComp_VerbGiver.tools.bionic_claws.label>Pinces bioniques</AdvancedPowerArm.comps.HediffComp_VerbGiver.tools.bionic_claws.label>
     <AdvancedPowerArm.labelNoun>un bras motorisé avancé</AdvancedPowerArm.labelNoun>
-    <AdvancedPowerClaw.label>griffe de puissance avancée</AdvancedPowerClaw.label>
-    <AdvancedPowerClaw.description>Une griffe de puissance avancée installée.</AdvancedPowerClaw.description>
-    <AdvancedPowerClaw.comps.HediffComp_VerbGiver.tools.bionic_claws.label>Griffes bioniques</AdvancedPowerClaw.comps.HediffComp_VerbGiver.tools.bionic_claws.label>
-    <AdvancedPowerClaw.labelNoun>une griffe de puissance avancée</AdvancedPowerClaw.labelNoun>
+    <AdvancedPowerClaw.label>pince de puissance avancée</AdvancedPowerClaw.label>
+    <AdvancedPowerClaw.description>Une pince de puissance avancée installée.</AdvancedPowerClaw.description>
+    <AdvancedPowerClaw.comps.HediffComp_VerbGiver.tools.bionic_claws.label>Pinces bioniques</AdvancedPowerClaw.comps.HediffComp_VerbGiver.tools.bionic_claws.label>
+    <AdvancedPowerClaw.labelNoun>une pince de puissance avancée</AdvancedPowerClaw.labelNoun>
     <AdvancedBionicArm.label>bras bionique avancé</AdvancedBionicArm.label>
     <AdvancedBionicArm.description>Un bras motorisé avancé installé.</AdvancedBionicArm.description>
     <AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.bionic_fist.label>poing bionique</AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.bionic_fist.label>
@@ -62,9 +62,9 @@
     <EyePatch.description>Un cache-oeil installé.</EyePatch.description>
     <EyePatch.labelNoun>un cache-œil</EyePatch.labelNoun>
     <WoodenHand.comps.HediffComp_VerbGiver.tools.hook_hand.label>main-crochet</WoodenHand.comps.HediffComp_VerbGiver.tools.hook_hand.label>
-    <denture.label>dentier</denture.label>
-    <denture.description>Un dentier.</denture.description>
-    <denture.labelNoun>un dentier</denture.labelNoun>
+    <denture.label>prothèse dentaire</denture.label>
+    <denture.description>Une prothèse dentaire.</denture.description>
+    <denture.labelNoun>une prothèse dentaire</denture.labelNoun>
     <EarBandage.label>pansement auriculaire</EarBandage.label>
     <EarBandage.description>Un pansement auriculaire installé.</EarBandage.description>
     <EarBandage.labelNoun>Un pansement auriculaire</EarBandage.labelNoun>
