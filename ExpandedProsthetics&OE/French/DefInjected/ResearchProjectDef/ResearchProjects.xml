@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<BasicProsthetics.label>Basic prosthetics</BasicProsthetics.label>
-	<BasicProsthetics.description>Understanding the shape of a leg and combining that knowledge with basic woodworking, you can now craft peg legs and other basic prostheses at the crafting spot.</BasicProsthetics.description>
+	<BasicProsthetics.label>Prothèses de base</BasicProsthetics.label>
+	<BasicProsthetics.description>En combinant la forme d'une jambe et les notions de base de la menuiserie, vous pouvez maintenant fabriquer des jambes de bois et d'autres prothèses de base à l'atelier d'artisanat.</BasicProsthetics.description>
 	<SurrogateOrgans.label>tissue printer</SurrogateOrgans.label>
 	<SurrogateOrgans.description>As you gain higher medical and technical knowledge, creating a 3D printer to craft simple surrogate organs now becomes possible.</SurrogateOrgans.description>
 	<BrainSurgery.label>brain surgery</BrainSurgery.label>
