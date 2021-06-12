@@ -2,9 +2,9 @@
 <LanguageData>
 
 	<CoreTakeover.label>AI core takeover</CoreTakeover.label>
-	<CoreTakeover.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] overwhelmed by the AI</CoreTakeover.rulePack.rulesStrings.0>
-	<CoreTakeover.rulePack.rulesStrings.1>image->[PAWN_nameFull] flying into a berserk rage [circumstance_group]</CoreTakeover.rulePack.rulesStrings.1>
-	<CoreTakeover.rulePack.rulesStrings.2>image->[PAWN_nameFull] becoming madly, violently insane [circumstance_group]</CoreTakeover.rulePack.rulesStrings.2>
+	<CoreTakeover.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] dépassé par l'IA</CoreTakeover.rulePack.rulesStrings.0>
+	<CoreTakeover.rulePack.rulesStrings.1>image->[PAWN_nameFull] entre dans une rage folle [circumstance_group]</CoreTakeover.rulePack.rulesStrings.1>
+	<CoreTakeover.rulePack.rulesStrings.2>image->[PAWN_nameFull] devient complètement fou [circumstance_group]</CoreTakeover.rulePack.rulesStrings.2>
 	<CoreTakeover.rulePack.rulesStrings.3>image->[PAWN_nameFull] stumbling forward with a psychotic look on [PAWN_possessive] face [circumstance_group]</CoreTakeover.rulePack.rulesStrings.3>
 	<CoreTakeover.rulePack.rulesStrings.4>circumstance_phrase->while attempting to disrobe</CoreTakeover.rulePack.rulesStrings.4>
 	<CoreTakeover.rulePack.rulesStrings.5>circumstance_phrase->with a desperate look on [PAWN_possessive] face</CoreTakeover.rulePack.rulesStrings.5>

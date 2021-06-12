@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<BasicProsthetics.label>Prothèses de base</BasicProsthetics.label>
-	<BasicProsthetics.description>En combinant la forme d'une jambe et les notions de base de la menuiserie, vous pouvez maintenant fabriquer des jambes de bois et d'autres prothèses de base à l'atelier d'artisanat.</BasicProsthetics.description>
-	<SurrogateOrgans.label>tissue printer</SurrogateOrgans.label>
-	<SurrogateOrgans.description>As you gain higher medical and technical knowledge, creating a 3D printer to craft simple surrogate organs now becomes possible.</SurrogateOrgans.description>
-	<BrainSurgery.label>brain surgery</BrainSurgery.label>
-	<BrainSurgery.description>Unlocks the ability to craft basic basic brain implants and install them.</BrainSurgery.description>
-	<RibReplacements.label>rib replacements</RibReplacements.label>
-	<RibReplacements.description>Discovering the concept of very small dispensers, you think about putting them in ribs. You can now craft and install rib implants.</RibReplacements.description>
-	<AdvancedBionics.label>advanced bionics</AdvancedBionics.label>
-	<AdvancedBionics.description>Upgrade regular bionics with advanced components to make them even better. Unlocks new recipes at the prosthetics table.</AdvancedBionics.description>
-	<BionicSpine.label>bionic spine</BionicSpine.label>
-	<BionicSpine.description>The anatomy of the human spine is ridiculously complicated. You should probably research a little bit before messing with it.</BionicSpine.description>
-	<AdvancedBionicSpine.label>advanced bionic spine</AdvancedBionicSpine.label>
-	<AdvancedBionicSpine.description>You want to cram even more complex tech into your spine? Just take some time to study the intricacies of the spinal column.</AdvancedBionicSpine.description>
-	<BionicWarfare.label>bionic warfare</BionicWarfare.label>
-	<BionicWarfare.description>Using bionics just in a peaceful way to restore missing limbs seems like such a waste. Let's use them as weapons! Unlocks bionic melee weapons.</BionicWarfare.description>
-	<AdvancedBionicWarfare.label>advanced bionic warfare</AdvancedBionicWarfare.label>
-	<AdvancedBionicWarfare.description>You've tasted blood and now you want more.</AdvancedBionicWarfare.description>
-	<SyntheticOrgans.label>synthetic organs</SyntheticOrgans.label>
-	<SyntheticOrgans.description>Further research in nano-technology allows you to print incredibly well-engineered artificial organs. Unlocks new recipes on the tissue printer.</SyntheticOrgans.description>
-	<AdvancedBrainSurgery.label>advanced brain surgery</AdvancedBrainSurgery.label>
-	<AdvancedBrainSurgery.description>Allows you to craft more advanced brain implants and perform surgery on the brain.</AdvancedBrainSurgery.description>
-	<ExoskeletonSuits.label>exoskeleton suits</ExoskeletonSuits.label>
-	<ExoskeletonSuits.description>Utilise absolute cutting-edge motor technology and the knowledge of ergonomics to understand the concept of exoskeletons and replicate this with humans. Allows for the production and installation of exoskeleton suits.</ExoskeletonSuits.description>
+	<BasicProsthetics.label>prothèses de base</BasicProsthetics.label>
+	<BasicProsthetics.description>En combinant les connaissances de base en morphologie et en menuiserie, vous pourrez fabriquer des jambes de bois et d'autres prothèses de base.</BasicProsthetics.description>
+	<SurrogateOrgans.label>imprimante à tissus</SurrogateOrgans.label>
+	<SurrogateOrgans.description>À force de gagner de l'expérience médicale et des connaissances techniques, Créer une imprimante 3D qui produit des organes de remplacements simple devient possible.</SurrogateOrgans.description>
+	<BrainSurgery.label>chirurgie du cerveau</BrainSurgery.label>
+	<BrainSurgery.description>Permet de fabriquer des implants cérébraux de base et de les installer.</BrainSurgery.description>
+	<RibReplacements.label>remplacements de côtes</RibReplacements.label>
+	<RibReplacements.description>En découvrant le concept des très petits doseurs, vous imaginez à les installer dans des côtes. Vous pourrez dorénavant fabriquer et poser des implants de côtes.</RibReplacements.description>
+	<AdvancedBionics.label>bionique avancée</AdvancedBionics.label>
+	<AdvancedBionics.description>Améliorez les bioniques ordinaires avec des composants avancés pour les rendre encore plus performants. Déverrouille de nouvelles recettes à l'atelier de création de prothèses.</AdvancedBionics.description>
+	<BionicSpine.label>colonne vertébrale bionique</BionicSpine.label>
+	<BionicSpine.description>L'anatomie de la colonne vertébrale humaine est tellment compliquée. Vous devriez faire un peut de recherche avant de vous lancer dans ce type d'expérimentation.</BionicSpine.description>
+	<AdvancedBionicSpine.label>colonne vertébrale bionique avancée</AdvancedBionicSpine.label>
+	<AdvancedBionicSpine.description>Vous voulez faire entrer encore plus de technologie complexe dans votre colonne vertébrale ? Il serait judicieux de prendre le temps d'étudier les subtilités de la colonne vertébrale.</AdvancedBionicSpine.description>
+	<BionicWarfare.label>armes bioniques</BionicWarfare.label>
+	<BionicWarfare.description>Se servire de la bionique de manière pacifique pour reconstituer les membres manquants semble être un tel gaspillage. Utilisons les comme des armes ! Débloque des armes bionique de mêlée.</BionicWarfare.description>
+	<AdvancedBionicWarfare.label>armes bioniques avancées</AdvancedBionicWarfare.label>
+	<AdvancedBionicWarfare.description>Vous avez goûté au sang, et maintenant vous en voulez plus !</AdvancedBionicWarfare.description>
+	<SyntheticOrgans.label>organes synthétiques</SyntheticOrgans.label>
+	<SyntheticOrgans.description>Des recherches poussées en nanotechnologie vous permet d'imprimer des organes artificiels incroyablement bien conçus. Débloque de nouvelles recettes sur l'imprimante de tissus.</SyntheticOrgans.description>
+	<AdvancedBrainSurgery.label>chirurgie du cerveau avancée</AdvancedBrainSurgery.label>
+	<AdvancedBrainSurgery.description>Vous permet de fabriquer des implants cérébraux plus avancés et de pratiquer des chirurgies sur le cerveau.</AdvancedBrainSurgery.description>
+	<ExoskeletonSuits.label>combinaisons exosquelettes</ExoskeletonSuits.label>
+	<ExoskeletonSuits.description>Utilisez une technologie de pointe en matière de moteurs et les connaissances en ergonomie pour comprendre le concept des exosquelettes et le reproduire sur les humains. Vous permet de produire et d'installer des combinaisons d'exosquelettes.</ExoskeletonSuits.description>
 
 </LanguageData>
