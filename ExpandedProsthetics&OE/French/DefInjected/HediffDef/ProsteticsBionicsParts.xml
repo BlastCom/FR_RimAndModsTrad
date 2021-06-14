@@ -122,7 +122,7 @@
     <SimpleProstheticFoot.description>Une prothèse de pied simple installée.</SimpleProstheticFoot.description>
     <ArtificialNose.label>nez artificiel</ArtificialNose.label>
     <ArtificialNose.description>Un nez artificiel installé.</ArtificialNose.description>
-    <HydraulicJaw.label>mâchoire hydrolique</HydraulicJaw.label>
+    <HydraulicJaw.label>mâchoire hydraulique</HydraulicJaw.label>
     <HydraulicJaw.description>Une mâchoire hydraulique installée.</HydraulicJaw.description>
     <ArtificialPelvis.label>bassin artificiel</ArtificialPelvis.label>
     <ArtificialPelvis.description>Un bassin artificiel installé.</ArtificialPelvis.description>

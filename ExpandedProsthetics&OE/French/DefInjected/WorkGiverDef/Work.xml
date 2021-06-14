@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-    <DoBillsTableOrgans.label>Print organs</DoBillsTableOrgans.label>
-	<DoBillsTableOrgans.gerund>printing</DoBillsTableOrgans.gerund>
-	<DoBillsTableOrgans.verb>print</DoBillsTableOrgans.verb>
-	<DoBillsProstheticTable.label>Craft prosthetics</DoBillsProstheticTable.label>
-	<DoBillsProstheticTable.gerund>assembling</DoBillsProstheticTable.gerund>
+    <DoBillsTableOrgans.label>Imprime des organes</DoBillsTableOrgans.label>
+	<DoBillsTableOrgans.gerund>imprime</DoBillsTableOrgans.gerund>
+	<DoBillsTableOrgans.verb>imprime</DoBillsTableOrgans.verb>
+	<DoBillsProstheticTable.label>Fabriquer des prothèses</DoBillsProstheticTable.label>
+	<DoBillsProstheticTable.gerund>assemblage</DoBillsProstheticTable.gerund>
 	<DoBillsProstheticTable.verb>assemble</DoBillsProstheticTable.verb>
   
 </LanguageData>

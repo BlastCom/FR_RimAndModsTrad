@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<CoreTakeover.label>AI core takeover</CoreTakeover.label>
+	<CoreTakeover.label>Prise de contrôle par le noyau de l'IA</CoreTakeover.label>
 	<CoreTakeover.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] dépassé par l'IA</CoreTakeover.rulePack.rulesStrings.0>
 	<CoreTakeover.rulePack.rulesStrings.1>image->[PAWN_nameFull] entre dans une rage folle [circumstance_group]</CoreTakeover.rulePack.rulesStrings.1>
 	<CoreTakeover.rulePack.rulesStrings.2>image->[PAWN_nameFull] devient complètement fou [circumstance_group]</CoreTakeover.rulePack.rulesStrings.2>
-	<CoreTakeover.rulePack.rulesStrings.3>image->[PAWN_nameFull] stumbling forward with a psychotic look on [PAWN_possessive] face [circumstance_group]</CoreTakeover.rulePack.rulesStrings.3>
-	<CoreTakeover.rulePack.rulesStrings.4>circumstance_phrase->while attempting to disrobe</CoreTakeover.rulePack.rulesStrings.4>
-	<CoreTakeover.rulePack.rulesStrings.5>circumstance_phrase->with a desperate look on [PAWN_possessive] face</CoreTakeover.rulePack.rulesStrings.5>
-	<CoreTakeover.rulePack.rulesStrings.6>circumstance_phrase->as others cower in fear</CoreTakeover.rulePack.rulesStrings.6>
-	<CoreTakeover.rulePack.rulesStrings.7>circumstance_phrase->as a friend flees</CoreTakeover.rulePack.rulesStrings.7>
-	<CoreTakeover.rulePack.rulesStrings.8>circumstance_phrase->because of the AI core</CoreTakeover.rulePack.rulesStrings.8>
-	<CoreTakeover.rulePack.rulesStrings.9>circumstance_phrase->while trying to fight against it</CoreTakeover.rulePack.rulesStrings.9>
-	<CoreTakeover.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun] loses control over the AI in [PAWN_possessive] head.</CoreTakeover.rulePack.rulesStrings.10>
-	<CoreTakeover.rulePack.rulesStrings.11>desc_sentence->[PAWN_possessive] teeth are bared in a deadly snarl.</CoreTakeover.rulePack.rulesStrings.11>
-	<CoreTakeover.rulePack.rulesStrings.12>desc_sentence->[PAWN_possessive] eyes are glowing brightly red.</CoreTakeover.rulePack.rulesStrings.12>
-	<CoreTakeover.rulePack.rulesStrings.13>desc_sentence->Spittle is flying from [PAWN_possessive] mouth as [PAWN_nameFull] screams with insane rage and pain.</CoreTakeover.rulePack.rulesStrings.13>
-	<CoreTakeover.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun] has lost part of [PAWN_possessive] clothing.</CoreTakeover.rulePack.rulesStrings.14>
-	<CoreTakeover.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun] is grimacing in misery.</CoreTakeover.rulePack.rulesStrings.15>
-	<CoreTakeover.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun] has lost control over his body.</CoreTakeover.rulePack.rulesStrings.16>
-	<CoreTakeover.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun] is depicted with the snarling face of a [Animal].</CoreTakeover.rulePack.rulesStrings.17>
-	<CoreTakeover.rulePack.rulesStrings.18>desc_sentence->[Animal]s symbolically surround [PAWN_possessive] head.</CoreTakeover.rulePack.rulesStrings.18>
-	<CoreTakeover.rulePack.rulesStrings.19>desc_sentence->[PAWN_pronoun] has a murderous glint in [PAWN_possessive] eye.</CoreTakeover.rulePack.rulesStrings.19>
-	<CoreTakeover.rulePack.rulesStrings.20>desc_sentence->[PAWN_possessive] entire body seems to be trembling with hatred.</CoreTakeover.rulePack.rulesStrings.20>
-	<CoreTakeover.rulePack.rulesStrings.21>desc_sentence->[PAWN_possessive] face is set in a look of twisted serenity.</CoreTakeover.rulePack.rulesStrings.21>
-	<CoreTakeover.rulePack.rulesStrings.22>desc_sentence->A single tear rolls down [PAWN_possessive] face.</CoreTakeover.rulePack.rulesStrings.22>
+	<CoreTakeover.rulePack.rulesStrings.3>image->[PAWN_nameFull] trébuchant en avant avec un regard psychotique sur son visage [circumstance_group]</CoreTakeover.rulePack.rulesStrings.3>
+	<CoreTakeover.rulePack.rulesStrings.4>circumstance_phrase->en tentant de se déshabiller</CoreTakeover.rulePack.rulesStrings.4>
+	<CoreTakeover.rulePack.rulesStrings.5>circumstance_phrase->avec un air désespéré son visage</CoreTakeover.rulePack.rulesStrings.5>
+	<CoreTakeover.rulePack.rulesStrings.6>circumstance_phrase->alors que les autres se replient dans la peur</CoreTakeover.rulePack.rulesStrings.6>
+	<CoreTakeover.rulePack.rulesStrings.7>circumstance_phrase->alors qu'un ami s'enfuit</CoreTakeover.rulePack.rulesStrings.7>
+	<CoreTakeover.rulePack.rulesStrings.8>circumstance_phrase->à cause du noyau de l'IA</CoreTakeover.rulePack.rulesStrings.8>
+	<CoreTakeover.rulePack.rulesStrings.9>circumstance_phrase->tout en essayant de lutter contre elle</CoreTakeover.rulePack.rulesStrings.9>
+	<CoreTakeover.rulePack.rulesStrings.10>desc_sentence->Il/Elle perd le contrôle contre l'IA dans sa tête.</CoreTakeover.rulePack.rulesStrings.10>
+	<CoreTakeover.rulePack.rulesStrings.11>desc_sentence->sa bouche s'est ouverte laissant passer un rugissement mortel.</CoreTakeover.rulePack.rulesStrings.11>
+	<CoreTakeover.rulePack.rulesStrings.12>desc_sentence->Ses yeux brille d'un rouge scintillant.</CoreTakeover.rulePack.rulesStrings.12>
+	<CoreTakeover.rulePack.rulesStrings.13>desc_sentence->De la salive s'échappe de sa bouche alors que [PAWN_nameFull] hurle de rage et de douleur.</CoreTakeover.rulePack.rulesStrings.13>
+	<CoreTakeover.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun] a perdu une partie de ses vêtements.</CoreTakeover.rulePack.rulesStrings.14>
+	<CoreTakeover.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun] grimace de souffrance.</CoreTakeover.rulePack.rulesStrings.15>
+	<CoreTakeover.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun] a perdu le contrôle complet de son corps.</CoreTakeover.rulePack.rulesStrings.16>
+	<CoreTakeover.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun] a un visage ressemblant à un/une [Animal] haineux.</CoreTakeover.rulePack.rulesStrings.17>
+	<CoreTakeover.rulePack.rulesStrings.18>desc_sentence->[Animal] entourent symboliquement sa tête.</CoreTakeover.rulePack.rulesStrings.18>
+	<CoreTakeover.rulePack.rulesStrings.19>desc_sentence->[PAWN_pronoun] a une lueur meurtrière dans ses yeux.</CoreTakeover.rulePack.rulesStrings.19>
+	<CoreTakeover.rulePack.rulesStrings.20>desc_sentence->son corps entier semble trembler de haine.</CoreTakeover.rulePack.rulesStrings.20>
+	<CoreTakeover.rulePack.rulesStrings.21>desc_sentence->son visage est figé dans une expression de sérénité tourmentée.</CoreTakeover.rulePack.rulesStrings.21>
+	<CoreTakeover.rulePack.rulesStrings.22>desc_sentence->Une unique larme perle sur son visage.</CoreTakeover.rulePack.rulesStrings.22>
   
 </LanguageData>
