@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+    WorkGiverDef: HaulUrgently.label 'haul things urgently'
+WorkGiverDef: HaulUrgently.gerund 'hauling urgently'
+WorkGiverDef: HaulUrgently.verb 'haul urgently'
+WorkGiverDef: FinishOff.label 'finish off creature'
+WorkGiverDef: FinishOff.gerund 'finishing off'
+WorkGiverDef: FinishOff.verb 'finish off'
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>	
+
+	<DesignatorAllow.label>Icône: Autoriser</DesignatorAllow.label>
+	
+	<DesignatorForbid.label>Icône: Interdire</DesignatorForbid.label>
+	
+	<DesignatorAllowAll.label>Icône: Autoriser tout</DesignatorAllowAll.label>
+	
+	<DesignatorMassSelect.label>Icône: Selection multiple</DesignatorMassSelect.label>
+
+	KeyBindingDef: DesignatorSelectSimilar.label 'Designator: Select similar'
+	KeyBindingDef: DesignatorHaulUrgently.label 'Designator: Haul urgently'
+	KeyBindingDef: DesignatorFinishOff.label 'Designator: Finish off'
+	KeyBindingDef: DesignatorHarvestFullyGrown.label 'Designator: Harvest fully grown'
+	KeyBindingDef: DesignatorStripMine.label 'Designator: Strip mine'
+	KeyBindingDef: ToolContextMenuAction.label 'Current tool: context menu action'
+
+</LanguageData>

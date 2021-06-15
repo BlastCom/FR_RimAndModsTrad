@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+WorkTypeDef: HaulingUrgent.description 'High-priority hauling. Works like the regular kind, but only for things that are manually designated. Use <b>Architect > Orders > Haul Urgently</b> to designate things to haul.\nAdded by the Allow Tool mod. Can be disabled in Options > Mod Settings.'
+WorkTypeDef: HaulingUrgent.gerundLabel 'Hauling urgently'
+WorkTypeDef: HaulingUrgent.labelShort 'Haul+'
+WorkTypeDef: HaulingUrgent.pawnLabel 'Urgent hauler'
+WorkTypeDef: HaulingUrgent.verb 'Haul urgently'
+WorkTypeDef: FinishingOff.description 'Quickly and painlessly kill downed creatures.\nAdded by the Allow Tool mod. Can be disabled in Options > Mod Settings.'
+WorkTypeDef: FinishingOff.gerundLabel 'Finishing off'
+WorkTypeDef: FinishingOff.labelShort 'Finish'
+WorkTypeDef: FinishingOff.pawnLabel 'Executor'
+WorkTypeDef: FinishingOff.verb 'Finish off'
+
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+
+	<AllowDesignator.label>Autoriser</AllowDesignator.label>
+	<AllowDesignator.description>Autoriser l'utilisation des objets sur l'ensemble de la zone sélectionnée.
+Cliquer-glisser pour déterminer la zone d'action.</AllowDesignator.description>
+
+	<ForbidDesignator.label>Interdire</ForbidDesignator.label>
+	<ForbidDesignator.description>Interdire l'utilisation des objets sur l'ensemble de la zone sélectionnée.
+Cliquer-glisser pour déterminer la zone d'action.</ForbidDesignator.description>
+	
+	<AllowAllDesignator.label>Autoriser tout</AllowAllDesignator.label>
+	<AllowAllDesignator.description>Autoriser tout objets sur l'ensemble de la carte.
+Cliquer pour utiliser.
+Maintenir Shift pour inclure squelettes et cadavres également.</AllowAllDesignator.description>
+	
+	<MassSelectDesignator.label>Sélection multiple</MassSelectDesignator.label>
+	<MassSelectDesignator.description>Sélectionner tout dans la zone désignée; vraiment tout. 
+Maintenir Shift pour ajouter à votre selection actuelle.
+Maintenir Ctrl/Option pour sélectionner uniquement des objets du même type que celui que vous avez déjà en sélection actuellement.
+Maintenir Alt pour sélectionner tout objets du même type sur l'ensemble de la carte</MassSelectDesignator.description>
+	
+ThingDesignatorDef: SelectSimilarDesignator.label 'Select similar'
+ThingDesignatorDef: SelectSimilarDesignator.description 'Selects only things similar to those already selected.\n<b>Hold Shift</b> to pick additional things.\n<b>Hold Alt</b> to ignore selection limits.'
+ThingDesignatorDef: HaulUrgentlyDesignator.label 'Haul urgently'
+ThingDesignatorDef: HaulUrgentlyDesignator.description 'Mark things to be hauled as soon as possible. Colonists will delay other work until hauling is complete.\nConfigurable in the Work tab.\n<b>Hold Shift</b> to interrupt current colonist work.'
+ThingDesignatorDef: FinishOffDesignator.label 'Finish off'
+ThingDesignatorDef: FinishOffDesignator.description 'Quickly and painlessly kill downed creatures.\n<b>Hold Shift</b> to include colonists and allies.'
+ThingDesignatorDef: HarvestFullyGrownDesignator.label 'Harvest fully grown'
+ThingDesignatorDef: HarvestFullyGrownDesignator.description 'Orders the harvesting or chopping crops and trees that are sufficiently grown to yield their maximum amount of resources when gathered.\n<b>Hold Shift</b> to include only plants.\n<b>Hold Ctrl/Option</b> to include only trees.'
+ThingDesignatorDef: StripMineDesignator.label 'Strip mine'
+ThingDesignatorDef: StripMineDesignator.description 'Lays out mine orders in a grid to maximize the chance to find hidden ores.\n<b>Hold Shift</b> to show settings window or designate using current settings.'
+
+</LanguageData>
