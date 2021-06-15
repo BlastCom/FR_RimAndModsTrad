@@ -3,12 +3,12 @@
 
     <WanderConfusedCore.label>errance confuse</WanderConfusedCore.label>
     <WanderConfusedCore.baseInspectLine>État mental: Confusion et errance</WanderConfusedCore.baseInspectLine>
-    <WanderConfusedCore.beginLetter>L'esprit de {0} est inondé d'images et de sons terribles par le noyau d'IA persona.</WanderConfusedCore.beginLetter>
+    <WanderConfusedCore.beginLetter>L'esprit de {0} est inondé d'images et de sons terribles par le noyau d'IA de personnalité.</WanderConfusedCore.beginLetter>
     <WanderConfusedCore.beginLetterLabel>confusion</WanderConfusedCore.beginLetterLabel>
-    <WanderConfusedCore.recoveryMessage>Le noyau d'IA persona de {0} a été maîtrisé.</WanderConfusedCore.recoveryMessage>
+    <WanderConfusedCore.recoveryMessage>Le noyau d'IA de personnalité de {0} a été maîtrisé.</WanderConfusedCore.recoveryMessage>
     <BerserkCore.label>Prise de contrôle de l'IA</BerserkCore.label>
     <BerserkCore.baseInspectLine>État mental: Prise de contrôle de l'IA</BerserkCore.baseInspectLine>
-    <BerserkCore.beginLetter>Le noyau d'IA persona de {0} a pris le contrôle total !\n\nIl/Elle attaquera tous ceux qui sera sur son passage.</BerserkCore.beginLetter>
-    <BerserkCore.recoveryMessage>Le noyau d'IA persona de {0} a été maîtrisé</BerserkCore.recoveryMessage>
+    <BerserkCore.beginLetter>Le noyau d'IA de personnalité de {0} a pris le contrôle total !\n\nIl/Elle attaquera tous ceux qui seront sur son passage.</BerserkCore.beginLetter>
+    <BerserkCore.recoveryMessage>Le noyau d'IA de personnalité de {0} a été maîtrisé</BerserkCore.recoveryMessage>
 
 </LanguageData>

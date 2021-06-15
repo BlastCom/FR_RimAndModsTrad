@@ -3,7 +3,7 @@
 
 	<CreateAdvancedBionicEye.label>Améliorer oeil bionique</CreateAdvancedBionicEye.label>
 	<CreateAdvancedBionicEye.description>Améliore un œil bionique avec des composants avancés.</CreateAdvancedBionicEye.description>
-	<CreateAdvancedBionicEye.jobString>Améliorer bionique.</CreateAdvancedBionicEye.jobString>
+	<CreateAdvancedBionicEye.jobString>Amélioration bionique.</CreateAdvancedBionicEye.jobString>
 	<CreateAdvancedPowerClaw.label>Améliorer pince de puissance</CreateAdvancedPowerClaw.label>
 	<CreateAdvancedPowerClaw.description>Améliore une pince de puissance avec des composants avancés.</CreateAdvancedPowerClaw.description>
 	<CreateAdvancedPowerClaw.jobString>Amélioration bionique.</CreateAdvancedPowerClaw.jobString>
@@ -74,7 +74,7 @@
 	<CreateBionicFoot.description>Améliore une prothèse simple pour pied en utilisant du plastacier et des composants.</CreateBionicFoot.description>
 	<CreateBionicFoot.jobString>Fabrication bionique.</CreateBionicFoot.jobString>
 	<CreateBionicLeg.label>Fabriquer jambe bionique</CreateBionicLeg.label>
-	<CreateBionicLeg.description>Améliore une prothèse simple pour jambe en utilisant du plastacier et des composants..</CreateBionicLeg.description>
+	<CreateBionicLeg.description>Améliore une prothèse simple pour jambe en utilisant du plastacier et des composants.</CreateBionicLeg.description>
 	<CreateBionicLeg.jobString>Fabrication bionique.</CreateBionicLeg.jobString>
 	<CreateBionicEar.label>Fabriquer oreille bionique</CreateBionicEar.label>
 	<CreateBionicEar.description>Fabrique une oreille bionique à partir de plastacier.</CreateBionicEar.description>
@@ -176,10 +176,10 @@
 	<CreateSyntheticHeart.description>Crée un coeur synthétique à partir d'hyperweave, de composants énergisés et de l'organe de substitution.</CreateSyntheticHeart.description>
 	<CreateSyntheticHeart.jobString>Création d'un organe synthétique.</CreateSyntheticHeart.jobString>
 	<MinceOrgans.label>Organes broyés</MinceOrgans.label>
-	<MinceOrgans.description>Organes humain broyés pour en tirer de la viande comestible. Fait de bons repas de prison.</MinceOrgans.description>
+	<MinceOrgans.description>Organes humains broyés pour en tirer de la viande comestible. Fait de bons repas de prison.</MinceOrgans.description>
 	<MinceOrgans.jobString>Dépeçage.</MinceOrgans.jobString>
 	<MinceLimbs.label>Membres hachés</MinceLimbs.label>
-	<MinceLimbs.description>Membres humain hachés pour en tirer de la viande comestible. Attention aux ongles d'orteils.</MinceLimbs.description>
+	<MinceLimbs.description>Membres humains hachés pour en tirer de la viande comestible. Attention aux ongles d'orteils.</MinceLimbs.description>
 	<MinceLimbs.jobString>Dépeçage.</MinceLimbs.jobString>
 	<InstallAdvancedPowerArm.label>installer bras motorisé avancé</InstallAdvancedPowerArm.label>
 	<InstallAdvancedPowerArm.description>Installe un bras motorisé avancé.</InstallAdvancedPowerArm.description>
@@ -347,9 +347,9 @@
 	<InstallArtificialPelvis.label>installer pelvis artificiel</InstallArtificialPelvis.label>
 	<InstallArtificialPelvis.description>Installe un pelvis artificiel.</InstallArtificialPelvis.description>
 	<InstallArtificialPelvis.jobString>Installation d'un pelvis artificiel.</InstallArtificialPelvis.jobString>
-	<InstallArtificialClavicle.label>installer clavicule artificiel</InstallArtificialClavicle.label>
-	<InstallArtificialClavicle.description>Installe une clavicule artificiel.</InstallArtificialClavicle.description>
-	<InstallArtificialClavicle.jobString>Installation d'une clavicule artificiel.</InstallArtificialClavicle.jobString>
+	<InstallArtificialClavicle.label>installer clavicule artificielle</InstallArtificialClavicle.label>
+	<InstallArtificialClavicle.description>Installe une clavicule artificielle.</InstallArtificialClavicle.description>
+	<InstallArtificialClavicle.jobString>Installation d'une clavicule artificielle.</InstallArtificialClavicle.jobString>
 	<InstallBrainStimulator.label>installer stimulateur cérébral</InstallBrainStimulator.label>
 	<InstallBrainStimulator.description>Installe un stimulateur cérébral.</InstallBrainStimulator.description>
 	<InstallBrainStimulator.jobString>Installation d'un organe de remplacement.</InstallBrainStimulator.jobString>
@@ -368,9 +368,9 @@
 	<InstallAIChip.label>installer Puce d'IA</InstallAIChip.label>
 	<InstallAIChip.description>Installe une Puce d'intelligence artificielle.</InstallAIChip.description>
 	<InstallAIChip.jobString>Installation d'une Puce d'IA.</InstallAIChip.jobString>
-	<InstallAIPersonaCore.label>installer noyau de personnalité d'IA</InstallAIPersonaCore.label>
-	<InstallAIPersonaCore.description>Installe un noyau de personnalité d'intelligence artificiel.</InstallAIPersonaCore.description>
-	<InstallAIPersonaCore.jobString>Installation d'un noyau de personnalité d'IA.</InstallAIPersonaCore.jobString>
+	<InstallAIPersonaCore.label>installer noyau d'IA de personnalité</InstallAIPersonaCore.label>
+	<InstallAIPersonaCore.description>Installe un noyau d'intelligence artificielle avec une personnalité développée.</InstallAIPersonaCore.description>
+	<InstallAIPersonaCore.jobString>Installation d'un noyau d'IA de personnalité.</InstallAIPersonaCore.jobString>
 	<InstallSyntheticLung.label>installer poumon synthétique</InstallSyntheticLung.label>
 	<InstallSyntheticLung.description>Installe un poumon synthétique.</InstallSyntheticLung.description>
 	<InstallSyntheticLung.jobString>Installation d'un poumon synthétique.</InstallSyntheticLung.jobString>

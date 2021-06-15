@@ -2,10 +2,10 @@
 <LanguageData>
 
 	<CoreTakeover.label>Prise de contrôle par le noyau de l'IA</CoreTakeover.label>
-	<CoreTakeover.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] dépassé par l'IA</CoreTakeover.rulePack.rulesStrings.0>
+	<CoreTakeover.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] est dépassé par l'IA</CoreTakeover.rulePack.rulesStrings.0>
 	<CoreTakeover.rulePack.rulesStrings.1>image->[PAWN_nameFull] entre dans une rage folle [circumstance_group]</CoreTakeover.rulePack.rulesStrings.1>
 	<CoreTakeover.rulePack.rulesStrings.2>image->[PAWN_nameFull] devient complètement fou [circumstance_group]</CoreTakeover.rulePack.rulesStrings.2>
-	<CoreTakeover.rulePack.rulesStrings.3>image->[PAWN_nameFull] trébuchant en avant avec un regard psychotique sur son visage [circumstance_group]</CoreTakeover.rulePack.rulesStrings.3>
+	<CoreTakeover.rulePack.rulesStrings.3>image->[PAWN_nameFull] trébuche au sol avec un regard psychotique sur son visage [circumstance_group]</CoreTakeover.rulePack.rulesStrings.3>
 	<CoreTakeover.rulePack.rulesStrings.4>circumstance_phrase->en tentant de se déshabiller</CoreTakeover.rulePack.rulesStrings.4>
 	<CoreTakeover.rulePack.rulesStrings.5>circumstance_phrase->avec un air désespéré son visage</CoreTakeover.rulePack.rulesStrings.5>
 	<CoreTakeover.rulePack.rulesStrings.6>circumstance_phrase->alors que les autres se replient dans la peur</CoreTakeover.rulePack.rulesStrings.6>
@@ -20,7 +20,7 @@
 	<CoreTakeover.rulePack.rulesStrings.15>desc_sentence->[PAWN_pronoun] grimace de souffrance.</CoreTakeover.rulePack.rulesStrings.15>
 	<CoreTakeover.rulePack.rulesStrings.16>desc_sentence->[PAWN_pronoun] a perdu le contrôle complet de son corps.</CoreTakeover.rulePack.rulesStrings.16>
 	<CoreTakeover.rulePack.rulesStrings.17>desc_sentence->[PAWN_pronoun] a un visage ressemblant à un/une [Animal] haineux.</CoreTakeover.rulePack.rulesStrings.17>
-	<CoreTakeover.rulePack.rulesStrings.18>desc_sentence->[Animal] entourent symboliquement sa tête.</CoreTakeover.rulePack.rulesStrings.18>
+	<CoreTakeover.rulePack.rulesStrings.18>desc_sentence->des [Animal](s) l'entourent de manière symbolique.</CoreTakeover.rulePack.rulesStrings.18>
 	<CoreTakeover.rulePack.rulesStrings.19>desc_sentence->[PAWN_pronoun] a une lueur meurtrière dans ses yeux.</CoreTakeover.rulePack.rulesStrings.19>
 	<CoreTakeover.rulePack.rulesStrings.20>desc_sentence->son corps entier semble trembler de haine.</CoreTakeover.rulePack.rulesStrings.20>
 	<CoreTakeover.rulePack.rulesStrings.21>desc_sentence->son visage est figé dans une expression de sérénité tourmentée.</CoreTakeover.rulePack.rulesStrings.21>

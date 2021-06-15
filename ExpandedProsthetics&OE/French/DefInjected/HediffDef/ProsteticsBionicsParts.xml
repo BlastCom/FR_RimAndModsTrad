@@ -46,7 +46,7 @@
     <TacticalCorneaImplant.description>Un implant de cornée tactique installé.</TacticalCorneaImplant.description>
     <ConstructorCore.label>IA auxiliaire (construction)</ConstructorCore.label>
     <ConstructorCore.description>Une IA auxiliaire de construction installée</ConstructorCore.description>
-    <FarmerCore.label>IA auxiliaiare (agricole)</FarmerCore.label>
+    <FarmerCore.label>IA auxiliaire (agricole)</FarmerCore.label>
     <FarmerCore.description>Une IA auxiliaire agricole installée.</FarmerCore.description>
     <MinerCore.label>IA auxiliaire (minière)</MinerCore.label>
     <MinerCore.description>Une IA auxiliaire minière installée.</MinerCore.description>
@@ -60,7 +60,7 @@
     <SteelArm.labelNoun>un bras d'acier</SteelArm.labelNoun>
     <EyePatch.label>cache-oeil</EyePatch.label>
     <EyePatch.description>Un cache-oeil installé.</EyePatch.description>
-    <EyePatch.labelNoun>un cache-œil</EyePatch.labelNoun>
+    <EyePatch.labelNoun>un cache-oeil</EyePatch.labelNoun>
     <WoodenHand.comps.HediffComp_VerbGiver.tools.hook_hand.label>main-crochet</WoodenHand.comps.HediffComp_VerbGiver.tools.hook_hand.label>
     <denture.label>prothèse dentaire</denture.label>
     <denture.description>Une prothèse dentaire.</denture.description>
@@ -141,9 +141,9 @@
     <AIChip.label>Puce d'IA</AIChip.label>
     <AIChip.description>Une puce d'IA installée.</AIChip.description>
     <AIChip.labelNoun>une puce d'IA</AIChip.labelNoun>
-    <AIPersonaCore.label>noyau de personnalité d'IA</AIPersonaCore.label>
-    <AIPersonaCore.description>Un noyau de personnalité d'IA installé.</AIPersonaCore.description>
-    <AIPersonaCore.labelNoun>Un noyau de personnalité d'IA</AIPersonaCore.labelNoun>
+    <AIPersonaCore.label>noyau d'IA de personnalité</AIPersonaCore.label>
+    <AIPersonaCore.description>Un noyau d'IA de personnalité installé.</AIPersonaCore.description>
+    <AIPersonaCore.labelNoun>Un noyau d'IA de personnalité</AIPersonaCore.labelNoun>
     <SyntheticLung.label>poumon synthétique</SyntheticLung.label>
     <SyntheticLung.description>Un poumon synthétique installé.</SyntheticLung.description>
     <SyntheticLung.labelNoun>Un poumon synthétique</SyntheticLung.labelNoun>

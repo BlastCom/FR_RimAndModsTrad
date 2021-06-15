@@ -2,7 +2,7 @@
 <LanguageData>
 
 	<TableOrgans.label>imprimante à tissus</TableOrgans.label>
-	<TableOrgans.description>Une station de travail équipée d'une imprimante 3D à tissus humain pour fabriquer des organes.</TableOrgans.description>
+	<TableOrgans.description>Une station de travail équipée d'une imprimante 3D à tissus humains pour fabriquer des organes.</TableOrgans.description>
 	<TableProsthetics.label>atelier de prothèses</TableProsthetics.label>
 	<TableProsthetics.description>Une station de travail équipée pour la production de toutes sortes de prothèses.</TableProsthetics.description>
 	<AdvancedPowerArm.label>bras motorisé avancé</AdvancedPowerArm.label>
@@ -32,17 +32,17 @@
 	<TacticalCorneaImplant.label>implant cornéen tactique</TacticalCorneaImplant.label>
 	<TacticalCorneaImplant.description>Un implant amélioré qui fournit à l'utilisateur des informations supplémentaires sur les cibles potentielles et suggère un angle de tir optimal.</TacticalCorneaImplant.description>
 	<ConstructorCore.label>IA auxiliaire (construction)</ConstructorCore.label>
-	<ConstructorCore.description>Les archontechs ne perdent pas de temps avec les formations et en entraînements, même pour des tâches complexes. Les IA installées dans le cerveau communiquent en permanence avec l'utilisateur et lui servent de guide. Comment elles procèdent est au-delà de notre compréhension. Nécessite des recherches en chirurgie cérébrale avant l'installation.</ConstructorCore.description>
+	<ConstructorCore.description>Les archontechs ne perdent pas de temps avec les formations et en entraînements, même pour des tâches complexes. Les IA installées dans le cerveau communiquent en permanence avec l'utilisateur et lui servent de guide. Comment elle procède est au-delà de notre compréhension. Nécessite des recherches en chirurgie cérébrale avant l'installation.</ConstructorCore.description>
 	<FarmerCore.label>IA auxiliaire (agricole)</FarmerCore.label>
-	<FarmerCore.description>Les archontechs ne perdent pas de temps avec les formations et en entraînements, même pour des tâches complexes. Les IA installées dans le cerveau communiquent en permanence avec l'utilisateur et lui servent de guide. Comment elles procèdent est au-delà de notre compréhension. Nécessite des recherches en chirurgie cérébrale avant l'installation.</FarmerCore.description>
+	<FarmerCore.description>Les archontechs ne perdent pas de temps avec les formations et en entraînements, même pour des tâches complexes. Les IA installées dans le cerveau communiquent en permanence avec l'utilisateur et lui servent de guide. Comment elle procède est au-delà de notre compréhension. Nécessite des recherches en chirurgie cérébrale avant l'installation.</FarmerCore.description>
 	<MinerCore.label>IA auxiliaire (minière)</MinerCore.label>
-	<MinerCore.description>Les archontechs ne perdent pas de temps avec les formations et en entraînements, même pour des tâches complexes. Les IA installées dans le cerveau communiquent en permanence avec l'utilisateur et lui servent de guide. Comment elles procèdent est au-delà de notre compréhension. Nécessite des recherches en chirurgie cérébrale avant l'installation.</MinerCore.description>
+	<MinerCore.description>Les archontechs ne perdent pas de temps avec les formations et en entraînements, même pour des tâches complexes. Les IA installées dans le cerveau communiquent en permanence avec l'utilisateur et lui servent de guide. Comment elle procède est au-delà de notre compréhension. Nécessite des recherches en chirurgie cérébrale avant l'installation.</MinerCore.description>
 	<DoctorCore.label>IA auxiliaire (médicale)</DoctorCore.label>
-	<DoctorCore.description>Les archontechs ne perdent pas de temps avec les formations et en entraînements, même pour des tâches complexes. Les IA installées dans le cerveau communiquent en permanence avec l'utilisateur et lui servent de guide. Comment elles procèdent est au-delà de notre compréhension. Nécessite des recherches en chirurgie cérébrale avant l'installation.</DoctorCore.description>
+	<DoctorCore.description>Les archontechs ne perdent pas de temps avec les formations et en entraînements, même pour des tâches complexes. Les IA installées dans le cerveau communiquent en permanence avec l'utilisateur et lui servent de guide. Comment elle procède est au-delà de notre compréhension. Nécessite des recherches en chirurgie cérébrale avant l'installation.</DoctorCore.description>
 	<DiplomatCore.label>IA auxiliaire (diplomatique)</DiplomatCore.label>
-	<DiplomatCore.description>Les archontechs ne perdent pas de temps avec les formations et en entraînements, même pour des tâches complexes. Les IA installées dans le cerveau communiquent en permanence avec l'utilisateur et lui servent de guide. Comment elles procèdent est au-delà de notre compréhension. Nécessite des recherches en chirurgie cérébrale avant l'installation.</DiplomatCore.description>
+	<DiplomatCore.description>Les archontechs ne perdent pas de temps avec les formations et en entraînements, même pour des tâches complexes. Les IA installées dans le cerveau communiquent en permanence avec l'utilisateur et lui servent de guide. Comment elle procède est au-delà de notre compréhension. Nécessite des recherches en chirurgie cérébrale avant l'installation.</DiplomatCore.description>
 	<SteelArm.label>bras d'acier</SteelArm.label>
-	<SteelArm.description>Une prothèse de bras assez médiocre. S'est laid et imconfortable, s'est juste médiocre.</SteelArm.description>
+	<SteelArm.description>Une prothèse de bras assez médiocre. C'est laid et inconfortable, c'est juste médiocre.</SteelArm.description>
 	<EyePatch.label>cache-oeil</EyePatch.label>
 	<EyePatch.description>Cela couvre l'oeil. Assez menaçant.</EyePatch.description>
 	<HookHand.label>main-crochet</HookHand.label>
@@ -52,27 +52,27 @@
 	<PegLeg.label>jambe de bois</PegLeg.label>
 	<PegLeg.description>Remplace une jambe manquante par une jambe en bois. Un peu démodé, mais il fait bien le travail.</PegLeg.description>
 	<WoodenFoot.label>pied de bois</WoodenFoot.label>
-	<WoodenFoot.description>Remplace un pied manquant avec une bûche en bois traitée. Au moins, c'est plus confortable que de sautiller.</WoodenFoot.description>
+	<WoodenFoot.description>Remplace un pied manquant avec une bûche en bois traité. Au moins, c'est plus confortable que de sautiller.</WoodenFoot.description>
 	<EarBandage.label>pansement auriculaire</EarBandage.label>
 	<EarBandage.description>Couvre une oreille manquante. Adoptez le style d'un certain artiste raté du XIXe siècle !</EarBandage.description>
 	<PowerArm.label>bras motorisé</PowerArm.label>
-	<PowerArm.description>Encore plus de force, de dextérité sans égal et avec des griffes rétractables. C'est l'amélioration parfait pour un bras !</PowerArm.description>
+	<PowerArm.description>Encore plus de force, de dextérité sans égal et avec des griffes rétractables. C'est l'amélioration parfaite pour un bras !</PowerArm.description>
 	<BionicHand.label>main bionique</BionicHand.label>
-	<BionicHand.description>Permet à l'utilisateur d'effectuer des tâches encore plus rapidement qu'avec des mains ordinaires.</BionicHand.description>
+	<BionicHand.description>Permets à l'utilisateur d'effectuer des tâches encore plus rapidement qu'avec des mains ordinaires.</BionicHand.description>
 	<BionicFoot.label>pied bionique</BionicFoot.label>
 	<BionicFoot.description>Cette prothèse permet de marcher plus rapidement sans trébucher en permanence.</BionicFoot.description>
 	<BionicJaw.label>mâchoire bionique</BionicJaw.label>
-	<BionicJaw.description>En plus d'une solide dentition, il est également doté d'un modulateur vocale.</BionicJaw.description>
+	<BionicJaw.description>En plus d'une solide dentition, il est également doté d'un modulateur vocal.</BionicJaw.description>
 	<SilentJaw.label>mâchoire silencieuse</SilentJaw.label>
 	<SilentJaw.description>Cette version de la mâchoire bionique est dépourvue de modulateur vocal, utile pour les patients abrasifs.</SilentJaw.description>
 	<MedicalRib.label>côte de remplacement médicale</MedicalRib.label>
 	<MedicalRib.description>Une côte artificielle, équipée de petits filtres à sang et de distributeurs d'antibiotiques pour maintenir l'utilisateur en bonne santé.</MedicalRib.description>
 	<DruggedRib.label>côte de remplacement droguée</DruggedRib.label>
-	<DruggedRib.description>Une côte artificielle, équipée de Une côte artificielle, équipée de petits distributeurs de flake pour faire plaisir à l'utilisateur. Foie synthétique fortement recommandé.</DruggedRib.description>
+	<DruggedRib.description>Une côte artificielle, équipée d'une côte artificielle, équipée de petits distributeurs de flake pour faire plaisir à l'utilisateur. Foie synthétique fortement recommandé.</DruggedRib.description>
 	<AdrenalineRib.label>côte de remplacement d'adrénaline</AdrenalineRib.label>
 	<AdrenalineRib.description>Une côte artificielle, équipée de petits distributeurs d'adrénaline pour maintenir l'utilisateur en forme et éveillé.</AdrenalineRib.description>
 	<PainkillerRib.label>côte de remplacement analgésique</PainkillerRib.label>
-	<PainkillerRib.description>Une côte artificielle, équipée de Une côte artificielle, équipée de petits distributeurs de morphine pour atténuer les douleurs du porteur. Des effets secondaires en lien avec des troubles respiratoires peuvent subvenir.</PainkillerRib.description>
+	<PainkillerRib.description>Une côte artificielle, équipée d'une côte artificielle, équipée de petits distributeurs de morphine pour atténuer les douleurs du porteur. Des effets secondaires en lien avec des troubles respiratoires peuvent subvenir.</PainkillerRib.description>
 	<Leg.label>jambe</Leg.label>
 	<Leg.description>En gros, c'est de la viande sur bâtons qui permettent à marcher.</Leg.description>
 	<Arm.label>bras</Arm.label>
@@ -82,7 +82,7 @@
 	<Eye.label>globe oculaire</Eye.label>
 	<Eye.description>Absorbe la lumière, ce qui permet à une personne de percevoir ce qui l'entoure.</Eye.description>
 	<Nose.label>nez</Nose.label>
-	<Nose.description>Un organe assez utile pour distinguer les odeurs, apporte la touche finale au visage.</Nose.description>
+	<Nose.description>Un organe assez utile pour distinguer les odeurs qui apporte la touche finale au visage.</Nose.description>
 	<Ear.label>oreille</Ear.label>
 	<Ear.description>Capte les vibrations dans l'air, ce qui permet d'entendre les sons.</Ear.description>
 	<Jaw.label>mâchoire</Jaw.label>
@@ -92,7 +92,7 @@
 	<ArtificialNose.label>nez artificiel</ArtificialNose.label>
 	<ArtificialNose.description>Remplace un nez manquant. Couvre le trou au milieu du visage.</ArtificialNose.description>
 	<HydraulicJaw.label>mâchoire hydraulique</HydraulicJaw.label>
-	<HydraulicJaw.description>Remplace une mâchoire manquante. Attention aux dents extrêmement efficace!</HydraulicJaw.description>
+	<HydraulicJaw.description>Remplace une mâchoire manquante. Attention aux dents extrêmement efficaces!</HydraulicJaw.description>
 	<LightReceptor.label>récepteur de lumière</LightReceptor.label>
 	<LightReceptor.description>remplace un oeil manquant. Peut détecter la lumière et les objets. Comme regarder à travers un verre dépoli, mais sans les couleurs.</LightReceptor.description>
 	<SimpleProstheticHand.label>prothèse simple de main</SimpleProstheticHand.label>
@@ -100,26 +100,27 @@
 	<SimpleProstheticFoot.label>prothèse simple de pied</SimpleProstheticFoot.label>
 	<SimpleProstheticFoot.description>Remplace un pied manquant. Pas plus coûteux qu'une jambe de bois.</SimpleProstheticFoot.description>
 	<ArtificialPelvis.label>pelvis artificiel</ArtificialPelvis.label>
-	<ArtificialPelvis.description>Remplace une pelvis manquant. Assez utile si vous n'aimez pas vous déplacer en rampant au sol.</ArtificialPelvis.description>
-	<ArtificialClavicle.label>clavicule artificiel</ArtificialClavicle.label>
+	<ArtificialPelvis.description>Remplace un pelvis manquant. Assez utile si vous n'aimez pas vous déplacer en rampant au sol.</ArtificialPelvis.description>
+	<ArtificialClavicle.label>clavicule artificielle</ArtificialClavicle.label>
 	<ArtificialClavicle.description>Remplace une clavicule manquante. Si jamais vous arrivez à casser la vôtre.</ArtificialClavicle.description>
 	<BrainStimulator.label>stimulateur cérébral</BrainStimulator.label>
 	<BrainStimulator.description>Un petit appareil qui fait de son mieux pour stimuler les zones restantes du cerveau. Recommandé uniquement pour les lésions cérébrales graves. Nécessite une recherche sur la chirurgie du cerveau avant l'installation.</BrainStimulator.description>
 	<SurrogateLung.label>poumon de remplacement</SurrogateLung.label>
 	<SurrogateLung.description>Un poumon rudimentaire de remplacement. Cela fait un bruit de claquement assez profond.</SurrogateLung.description>
 	<SurrogateStomach.label>estomac de remplacement</SurrogateStomach.label>
-	<SurrogateStomach.description>Un estomac rudimentaire de remplacement. Produit des gaz assez nauséabonds.</SurrogateStomach.description>
+	<SurrogateStomach.description>Un estomac rudimentaire de remplacement. Produis des gaz assez nauséabonds.</SurrogateStomach.description>
 	<SurrogateLiver.label>foie de remplacement</SurrogateLiver.label>
-	<SurrogateLiver.description>Un filtre sanguin rudimentaire. A des problèmes pour maintenir un taux de sucre constant dans le sang.</SurrogateLiver.description>
+	<SurrogateLiver.description>Un filtre sanguin rudimentaire. À des problèmes pour maintenir un taux de sucre constant dans le sang.</SurrogateLiver.description>
 	<SurrogateKidney.label>rein de remplacement</SurrogateKidney.label>
 	<SurrogateKidney.description>Un rein rudimentaire de remplacement. Un de ses effets secondaires potentiels est de devenir pâle.</SurrogateKidney.description>
 	<AIChip.label>puce d'IA</AIChip.label>
 	<AIChip.description>Grâce à des produits chimiques spéciaux et des chocs électriques, cette petite puce est capable de restaurer complètement la conscience et la mobilité de l'utilisateur. Nécessite une recherche sur la chirurgie du cerveau avant l'installation.</AIChip.description>
 	<SyntheticLung.label>poumon artificiel</SyntheticLung.label>
-	<SyntheticLung.description>Un remplacement respiratoires de haute technologie. Émet un doux ronronnement.</SyntheticLung.description>
+	<SyntheticLung.description>Un remplacement respiratoire de haute technologie. Émets un doux ronronnement.</SyntheticLung.description>
 	<SyntheticLiver.label>foie synthétique</SyntheticLiver.label>
 	<SyntheticLiver.description>Un foie renforcé par des fibres synthétiques pour diminuer le taux de rejet.</SyntheticLiver.description>
 	<SyntheticKidney.label>rein synthétique</SyntheticKidney.label>
 	<SyntheticKidney.description>Un rein renforcé par des fibres synthétiques pour diminuer le taux de rejet.</SyntheticKidney.description>
+	<UnfinishedProsthesis.label>Prothèse inachevée</UnfinishedProsthesis.label>
 
 </LanguageData>
