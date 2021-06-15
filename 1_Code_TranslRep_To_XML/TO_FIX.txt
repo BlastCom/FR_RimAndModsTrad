@@ -2,6 +2,7 @@ V0.3
 
 === PROBLEM
 
+If text void or = '' ; obtein overflow text
 If a Defname different than others, warn and skip
 
 === FIXED
