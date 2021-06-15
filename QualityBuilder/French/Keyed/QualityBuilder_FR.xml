@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	
+	<QualityBuilder>QualityBuilder</QualityBuilder>
+	<QualityBuilderCommand.Label>Construction de qualité</QualityBuilderCommand.Label>
+
+	<QualityBuilderOn.Label>Activer le mod QualityBuilder</QualityBuilderOn.Label>
+	<QualityBuilderOn.Desc>Qualité actuelle: {0}. Définir les tâches de construction aux bâtisseu(rs/ses) expérimenté(s/es)</QualityBuilderOn.Desc>
+	<QualityBuilder.Already></QualityBuilder.Already>
+
+	<QualityBuilderOff.Label>Désactiver le mod QualityBuilder</QualityBuilderOff.Label>
+	<QualityBuilderOff.Desc>Qualité actuelle: {0}. Définir les tâches de construction à n'importe quel(s/les) bâtisseu(rs/ses) expérimenté(s/es)</QualityBuilderOff.Desc>
+	<QualityBuilder.Nothing></QualityBuilder.Nothing>
+
+	<QualityBuilder.SelectedSettings>Options sélectionnées</QualityBuilder.SelectedSettings>
+	<QualityBuilder.CurrentMap>Carte actuelle</QualityBuilder.CurrentMap>
+	<QualityBuilder.Global>Paramètres par défaut</QualityBuilder.Global>
+	<QualityBuilder.EnableByDefault>Activer QualityBuilder par défaut</QualityBuilder.EnableByDefault>
+	<QualityBuilder.IgnoreAtSkill>Ignorer les effets de QualityBuilder à la compétence {0}.</QualityBuilder.IgnoreAtSkill>
+	<QualityBuilder.MinQuality>Qualité minimale par défaut</QualityBuilder.MinQuality>
+	<QualityBuilder.OverrideBestBuilder>Remplacer le meilleur bâtisseu(r/se) par</QualityBuilder.OverrideBestBuilder>
+</LanguageData>
