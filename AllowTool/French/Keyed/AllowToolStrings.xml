@@ -11,80 +11,72 @@
 	<Allow_all_failure>Aucun objets interdits trouvés.</Allow_all_failure>
 	
 	<Mass_Select_success>Sélectionner {0} {1} à travers la carte.</Mass_Select_success>
-	
-	<!-- OLD Tags
-	<MassSelect_nowSelecting>Sélectionner uniquement : {0}</MassSelect_nowSelecting>
-	<MassSelect_anything>Tout</MassSelect_anything>
-	<MassSelect_numMoreTypes>({0} en plus)</MassSelect_numMoreTypes>
-	<MassSelect_targetHover>Sélectionner tous les : {0}</MassSelect_targetHover>
-	<MassSelect_needTarget>Vous devez sélectionner un objet ou être vivant</MassSelect_needTarget>
-	-->
 
 	<setting_showTool_label>Afficher l'outil: {0}</setting_showTool_label>
 	<setting_showTool_desc>Si activé, cet outil de selection apparaitra dans le menu Architecte.</setting_showTool_desc>
-	<!-- Here -->
-	<setting_showToggles_btn>▼ Show settings ▼</setting_showToggles_btn>
-	<setting_showToolToggles_label>Enable or disable tools</setting_showToolToggles_label>
-	<setting_showProviderToggles_label>Enable or disable context menus</setting_showProviderToggles_label>
-	<setting_showReverseToggles_label>Tools on selected things</setting_showReverseToggles_label>
+	<setting_showToggles_btn>▼ Afficher les paramètres ▼</setting_showToggles_btn>
+	<setting_showToolToggles_label>Activer ou désactiver les outils</setting_showToolToggles_label>
+	<setting_showProviderToggles_label>Activer ou désactiver les menus contextuels</setting_showProviderToggles_label>
+	<setting_showReverseToggles_label>Outils sur les éléments sélectionnés</setting_showReverseToggles_label>
 
 	<setting_globalHotkeys_label>Utiliser les racourccis clavier généraux</setting_globalHotkeys_label>
 	<setting_globalHotkeys_desc>Si activé, les outils pourront être activés depuis n'importe quel menu en appuyant sur la touche assignée.\nVoir Options &gt; Configuration Clavier pour changer les touches.</setting_globalHotkeys_desc>
 	
-	<setting_selectionLimit_label>Thing selection limit</setting_selectionLimit_label>
-	<setting_selectionLimit_desc>Limits the number of things that can be selected simultaneously by the "Select similar" tool. Setting this too high may lag out the game while selecting things.</setting_selectionLimit_desc>
+	<setting_selectionLimit_label>Limite de sélection des éléments</setting_selectionLimit_label>
+	<setting_selectionLimit_desc>Limite le nombre d'éléments qui peuvent être sélectionnés simultanément par l'outil " Sélection similaire ". Une valeur trop élevée peut ralentir le jeu lors de la sélection des objets.</setting_selectionLimit_desc>
 	
-	<setting_contextWatermark_label>Context menu watermark</setting_contextWatermark_label>
-	<setting_contextWatermark_desc>Displays an Allow Tool watermark in tool context menus when enabled.</setting_contextWatermark_desc>
-	<setting_contextOverlay_label>Right click icon on tools</setting_contextOverlay_label>
-	<setting_contextOverlay_desc>When enabled, displays a small icon on designator tools that have a context menu.</setting_contextOverlay_desc>
-	<setting_extendedContextHotkey_label>Extended "Context action" hotkey</setting_extendedContextHotkey_label>
-	<setting_extendedContextHotkey_desc>When no tool is selected, the "Context action" hotkey will activate the context action on the first visible tool when items are selected.</setting_extendedContextHotkey_desc>
+	<setting_contextWatermark_label>Filigrane du menu contextuel</setting_contextWatermark_label>
+	<setting_contextWatermark_desc>Affiche un filigrane "Allow Tool" dans les menus contextuels des outils lorsqu'il est activé.</setting_contextWatermark_desc>
+	<setting_contextOverlay_label>Icône de clic droit sur les outils</setting_contextOverlay_label>
+	<setting_contextOverlay_desc>Lorsqu'il est activé, il affiche une petite icône sur les outils de conception qui ont un menu contextuel.</setting_contextOverlay_desc>
+	<setting_extendedContextHotkey_label>Raccourci "Action contextuelle" étendu</setting_extendedContextHotkey_label>
+	<setting_extendedContextHotkey_desc>Lorsque aucun outil est sélectionné, le raccourci "Action contextuelle" va activé l'action contextuelle sur le premier outil visible lorsque des éléments sont sélectionnés.</setting_extendedContextHotkey_desc>
 	
-	<setting_reverseDesignatorPick_label>Pick tool from selected items</setting_reverseDesignatorPick_label>
-	<setting_reverseDesignatorPick_desc>Holding the Shift key and clicking on a tool while having items selected will pick that tool up instead of activating it on the items.</setting_reverseDesignatorPick_desc>
-	<setting_reverseDesignator_desc>When enabled, shows this tool when supported things are selected.</setting_reverseDesignator_desc>
+	<setting_reverseDesignatorPick_label>Sélectionnez un outil parmi les éléments sélectionnés</setting_reverseDesignatorPick_label>
+	<setting_reverseDesignatorPick_desc>Si vous maintenez la touche Shift enfoncée et que vous cliquez sur un outil alors que des éléments sont sélectionnés, vous sélectionnez cet outil au lieu de l'activer sur les éléments.</setting_reverseDesignatorPick_desc>
+	<setting_reverseDesignator_desc>Lorsque activé, affiche cet outil lorsque les éléments pris en charge sont sélectionnés.</setting_reverseDesignator_desc>
 
-	<setting_finishOffUnforbids_label>"Finish off" unforbids drops</setting_finishOffUnforbids_label>
-	<setting_finishOffUnforbids_desc>When enabled, bodies and items dropped when finishing off creatures will be automatically allowed for hauling.</setting_finishOffUnforbids_desc>
-	<setting_finishOffWorktype_label>Show "Finish off" work type</setting_finishOffWorktype_label>
-	<setting_finishOffWorktype_desc>When enabled, shows the work type for the "Finish off" tool in the Work tab.\nThe game must be restarted for this setting to take effect.</setting_finishOffWorktype_desc>
-	<setting_finishOffSkill_label>"Finish off" skill requirement</setting_finishOffSkill_label>
-	<setting_finishOffSkill_desc>The "Finish off" tool will require a pawn with a sufficiently high melee skill to use.</setting_finishOffSkill_desc>
+	<setting_finishOffUnforbids_label>Autoriser éléments généré par "Achever"</setting_finishOffUnforbids_label>
+	<setting_finishOffUnforbids_desc>Lorsque activé, les cadavres et objets abandonnés lors de l'achèvement des créatures seront automatiquement autorisés à être transportés.</setting_finishOffUnforbids_desc>
+	<setting_finishOffWorktype_label>Afficher le type de travail "Achever"</setting_finishOffWorktype_label>
+	<setting_finishOffWorktype_desc>Lorsque activé, affiche le type de travail pour l'outil "Achever" dans l'onglet Travail. \nLe jeu doit être redémarré pour que ce paramètre prenne effet.</setting_finishOffWorktype_desc>
+	<setting_finishOffSkill_label>Compétence requise pour "Achever"</setting_finishOffSkill_label>
+	<setting_finishOffSkill_desc>L'outil "Achever" nécessitera un colon avec une compétence de mêlée suffisamment élevée pour être utilisé.</setting_finishOffSkill_desc>
 	
-	<setting_providerPrefix>Enable: {0}</setting_providerPrefix>
-	<setting_provider_desc>When enabled, adds a right-click menu to the tool that allows it to affect the entire map.</setting_provider_desc>
+	<setting_providerPrefix>Activer : {0}</setting_providerPrefix>
+	<setting_provider_desc>Lorsque activé, ajoute à l'outil un menu de clic droit qui lui permet d'affecter l'ensemble de la carte.</setting_provider_desc>
 	
-	<setting_haulUrgentlyWorktype_label>Show "Haul+" work type</setting_haulUrgentlyWorktype_label>
-	<setting_haulUrgentlyWorktype_desc>When enabled, shows the work type for the "Haul urgently" tool in the Work tab.\nThe game must be restarted for this setting to take effect.</setting_haulUrgentlyWorktype_desc>
+	<setting_haulUrgentlyWorktype_label>Afficher le type de travail "Transport+"</setting_haulUrgentlyWorktype_label>
+	<setting_haulUrgentlyWorktype_desc>Lorsque activé, affiche le type de travail pour l'outil "Transport urgent" dans l'onglet Travail. \nLe jeu nécessite un redémarrage pour que ce paramètre prenne effet.</setting_haulUrgentlyWorktype_desc>
 	
-	<setting_replaceIcons_label>Replace Forbid/Allow icons</setting_replaceIcons_label>
-	<setting_replaceIcons_desc>Replace the icons for the Forbid and Allow tools with clearer ones.</setting_replaceIcons_desc>
+	<setting_replaceIcons_label>Remplacer les icônes Interdire/Autoriser</setting_replaceIcons_label>
+	<setting_replaceIcons_desc>Remplacez les icônes des outils Interdire et Autoriser par des icônes plus claires.</setting_replaceIcons_desc>
 	
-	<setting_partyHunt_label>Drafted hunting tool</setting_partyHunt_label>
-	<setting_partyHunt_desc>When enabled, shows the "Drafted hunt" button for drafted colonists.</setting_partyHunt_desc>
-	<setting_partyHuntFinish_label>Finish off downed animals</setting_partyHuntFinish_label>
-	<setting_partyHuntDesignated_label>Hunt-designated animals only</setting_partyHuntDesignated_label>
-	<setting_partyHuntUnforbid_label>Unforbid prey</setting_partyHuntUnforbid_label>
+	<setting_partyHunt_label>Outil chasse enrôlée</setting_partyHunt_label>
+	<setting_partyHunt_desc>Lorsque activé, affiche le boutton "Chasse enrôlée" pour les colons déjà enrôlé.</setting_partyHunt_desc>
+	<setting_partyHuntFinish_label>Achever les animaux à terre.</setting_partyHuntFinish_label>
+	<setting_partyHuntDesignated_label>Chasse réservée aux animaux désignés</setting_partyHuntDesignated_label>
+	<setting_partyHuntUnforbid_label>Autorisé la proie</setting_partyHuntUnforbid_label>
 	
-	<setting_storageSpaceAlert_label>Storage space alert</setting_storageSpaceAlert_label>
-	<setting_storageSpaceAlert_desc>You will be notified with an alert message when there are things marked to be hauled urgently, but no place to store them.</setting_storageSpaceAlert_desc>
+	<setting_storageSpaceAlert_label>Alerte faible espace d'inventaire</setting_storageSpaceAlert_label>
+	<setting_storageSpaceAlert_desc>Vous serez averti par un message d'alerte lorsque des objets sont marqués comme devant être transportés d'urgence, mais qu'il n'y a pas de place pour les entreposer.</setting_storageSpaceAlert_desc>
 	
-	<SelectSimilar_cursor_needConstraint>Click to pick something</SelectSimilar_cursor_needConstraint>
-	<SelectSimilar_cursor_nowSelecting>Drag to select only: {0}</SelectSimilar_cursor_nowSelecting>
-	<SelectSimilar_cursor_limit>Selection limit reached</SelectSimilar_cursor_limit>
-	<SelectSimilar_numMoreTypes>({0} more)</SelectSimilar_numMoreTypes>
+	<SelectSimilar_cursor_needConstraint>Cliquer pour choissir</SelectSimilar_cursor_needConstraint>
+	<SelectSimilar_cursor_nowSelecting>Faites glisser pour sélectionner uniquement: {0}</SelectSimilar_cursor_nowSelecting>
+	<SelectSimilar_cursor_limit>limite de sélection atteinte</SelectSimilar_cursor_limit>
+	<SelectSimilar_numMoreTypes>({0} en plus)</SelectSimilar_numMoreTypes>
 	
-	<Haul_urgently_success>{0} items will be hauled urgently.</Haul_urgently_success>
-	<Haul_urgently_failure>Found no items that require hauling.</Haul_urgently_failure>
+	<Haul_urgently_success>{0} éléments seront transportés d'urgence.</Haul_urgently_success>
+	<Haul_urgently_failure>Aucun élément nécessitant un transport n'a été trouvé.</Haul_urgently_failure>
 	
-	<Harvest_fully_grown_success>{0} fully grown plants marked for harvesting.</Harvest_fully_grown_success>
-	<Harvest_fully_grown_failure>No new fully grown plants or trees found.</Harvest_fully_grown_failure>
+	<Harvest_fully_grown_success>{0} plants mature marqués pour récolte.</Harvest_fully_grown_success>
+	<Harvest_fully_grown_failure>Aucun arbre ou plante mature trouvé.</Harvest_fully_grown_failure>
 	
-	<StripMine_win_horizontalSpacing>Horizontal spacing</StripMine_win_horizontalSpacing>
-	<StripMine_win_verticalSpacing>Vertical spacing</StripMine_win_verticalSpacing>
-	<StripMine_win_showWindow>Show this window</StripMine_win_showWindow>
-	<StripMine_win_showWindow_tip>Disable to automatically use these settings next time.\nHold Shift to show this window again.</StripMine_win_showWindow_tip>
+	<StripMine_win_horizontalSpacing>Espacement horizontal</StripMine_win_horizontalSpacing>
+	<StripMine_win_verticalSpacing>Espacement vertical</StripMine_win_verticalSpacing>
+	<StripMine_win_showWindow>Afficher cette fenêtre</StripMine_win_showWindow>
+	<StripMine_win_showWindow_tip>Désactiver pour utiliser automatiquement ces paramètres la prochaine fois.\nMaintenir Shift pour afficher cette fenêtre encore une fois.</StripMine_win_showWindow_tip>
+	<!--- Here -->
 	<StripMine_win_variableOffset>Variable grid offset</StripMine_win_variableOffset>
 	<StripMine_win_variableOffset_tip>When enabled, the grid will extend from the starting point of the selection. Otherwise, grid lines will always pass through the same cells, regardless of where the selection started.</StripMine_win_variableOffset_tip>
 	<StripMine_cursor_autoApply>Apply immediately</StripMine_cursor_autoApply>
