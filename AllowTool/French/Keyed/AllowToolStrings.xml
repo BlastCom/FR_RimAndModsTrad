@@ -58,7 +58,7 @@
 	<setting_partyHuntDesignated_label>Chasse réservée aux animaux désignés</setting_partyHuntDesignated_label>
 	<setting_partyHuntUnforbid_label>Autorisé la proie</setting_partyHuntUnforbid_label>
 	
-	<setting_storageSpaceAlert_label>Alerte faible espace d'inventaire</setting_storageSpaceAlert_label>
+	<setting_storageSpaceAlert_label>Alerte faible espace de stockage</setting_storageSpaceAlert_label>
 	<setting_storageSpaceAlert_desc>Vous serez averti par un message d'alerte lorsque des objets sont marqués comme devant être transportés d'urgence, mais qu'il n'y a pas de place pour les entreposer.</setting_storageSpaceAlert_desc>
 	
 	<SelectSimilar_cursor_needConstraint>Cliquer pour choissir</SelectSimilar_cursor_needConstraint>
@@ -76,85 +76,83 @@
 	<StripMine_win_verticalSpacing>Espacement vertical</StripMine_win_verticalSpacing>
 	<StripMine_win_showWindow>Afficher cette fenêtre</StripMine_win_showWindow>
 	<StripMine_win_showWindow_tip>Désactiver pour utiliser automatiquement ces paramètres la prochaine fois.\nMaintenir Shift pour afficher cette fenêtre encore une fois.</StripMine_win_showWindow_tip>
-	<!--- Here -->
-	<StripMine_win_variableOffset>Variable grid offset</StripMine_win_variableOffset>
-	<StripMine_win_variableOffset_tip>When enabled, the grid will extend from the starting point of the selection. Otherwise, grid lines will always pass through the same cells, regardless of where the selection started.</StripMine_win_variableOffset_tip>
-	<StripMine_cursor_autoApply>Apply immediately</StripMine_cursor_autoApply>
+	<StripMine_win_variableOffset>Variable de décalage de la grille</StripMine_win_variableOffset>
+	<StripMine_win_variableOffset_tip>Lorsque activé, la grille va s'étendre de son point de départ vers le point sélectionné. Sinon, les lignes de la grille vont toujours passer par les mêmes cellules, quel que soit le point de départ de la sélection.</StripMine_win_variableOffset_tip>
+	<StripMine_cursor_autoApply>Appliquer immédiatement</StripMine_cursor_autoApply>
 	
-	<Alert_noStorage_label>No storage space</Alert_noStorage_label>
-	<Alert_noStorage_desc>Things marked for urgent hauling have no place to be stored:\n{0}\n\nCancel the designation or free some storage space.\nCan be disabled in Options > Mod Settings.</Alert_noStorage_desc>
+	<Alert_noStorage_label>Pas d'espace de stockage</Alert_noStorage_label>
+	<Alert_noStorage_desc>Les éléments marqués pour le transport d'urgence n'ont aucune place pour être entreposés:\n{0}\n\nAnnulez la désignation ou libérez de l'espace de stockage.\nPeut être désactivé dans Options > Réglages des mods.</Alert_noStorage_desc>
 	
-	<Finish_off_skillRequired>Requires a colonist with a melee skill of {0} or higher to use.</Finish_off_skillRequired>
-	<Finish_off_pawnSkillRequired>melee skill {0} required</Finish_off_pawnSkillRequired>
-	<Finish_off_success>{0} targets have been marked.</Finish_off_success>
-	<Finish_off_failure>No valid downed creatures found.</Finish_off_failure>
-	<Finish_off_floatMenu>Finish off {0}</Finish_off_floatMenu>
-	<Finish_off_floatMenu_reason_friendly>friendly, hold Shift</Finish_off_floatMenu_reason_friendly>
+	<Finish_off_skillRequired>Requiert un colon avec une compétence de mêlée niveau {0} ou plus élevé pour utiliser.</Finish_off_skillRequired>
+	<Finish_off_pawnSkillRequired>compétence de mêlée niveau {0} requis</Finish_off_pawnSkillRequired>
+	<Finish_off_success>{0} éléments ont été sélectionnés.</Finish_off_success>
+	<Finish_off_failure>Aucune créature valide au sol trouvée.</Finish_off_failure>
+	<Finish_off_floatMenu>Achever {0}</Finish_off_floatMenu>
+	<Finish_off_floatMenu_reason_friendly>Amicale, maintenir Shift</Finish_off_floatMenu_reason_friendly>
 	
-	<Designator_context_similar>Select similar things on map</Designator_context_similar>
-	<Designator_context_similar_succ>Selected {0} similar things on the map.</Designator_context_similar_succ>
-	<Designator_context_similar_part>Selected {0} closest similar things out of {1} on the map.</Designator_context_similar_part>
-	<Designator_context_similar_fail>Something must be selected to select similar things.</Designator_context_similar_fail>
-	<Designator_context_similar_visible>Select similar things in visible area</Designator_context_similar_visible>
-	<Designator_context_similar_visible_succ>Selected {0} visible similar things.</Designator_context_similar_visible_succ>
-	<Designator_context_similar_visible_part>Selected {0} closest visible similar things out of {1}.</Designator_context_similar_visible_part>
-	<Designator_context_similar_home>Select similar things in home area</Designator_context_similar_home>
-	<Designator_context_similar_home_succ>Selected {0} similar things in home area.</Designator_context_similar_home_succ>
-	<Designator_context_similar_home_part>Selected {0} closest similar things out of {1} in home area.</Designator_context_similar_home_part>
-	<Designator_context_urgent>Haul all items urgently</Designator_context_urgent>
-	<Designator_context_urgent_visible>Haul visible items urgently</Designator_context_urgent_visible>
-	<Designator_context_urgent_all>Haul all map items urgently</Designator_context_urgent_all>
-	<Designator_context_urgent_succ>{0} items marked for urgent hauling.</Designator_context_urgent_succ>
-	<Designator_context_urgent_visible_succ>{0} visible items marked for urgent hauling.</Designator_context_urgent_visible_succ>
-	<Designator_context_urgent_fail>Found no new items to haul.</Designator_context_urgent_fail>
-	<Designator_context_strip>Strip all enemies</Designator_context_strip>
-	<Designator_context_strip_succ>{0} bodies designated for stripping.</Designator_context_strip_succ>
-	<Designator_context_strip_fail>Found no bodies to strip.</Designator_context_strip_fail>
-	<Designator_context_harvest>Harvest all plants</Designator_context_harvest>
-	<Designator_context_harvest_home>Harvest plants in home area</Designator_context_harvest_home>
-	<Designator_context_harvest_succ>{0} plants designated for harvesting.</Designator_context_harvest_succ>
-	<Designator_context_harvest_fail>Found no new plants to harvest.</Designator_context_harvest_fail>
-	<Designator_context_haul>Haul everything</Designator_context_haul>
-	<Designator_context_haul_succ>Designated {0} new things to haul.</Designator_context_haul_succ>
-	<Designator_context_haul_fail>Found no new things to haul.</Designator_context_haul_fail>
-	<Designator_context_chop>Chop all wood</Designator_context_chop>
-	<Designator_context_chop_home>Chop all wood in home area</Designator_context_chop_home>
-	<Designator_context_chop_succ>Designated {0} new trees to chop.</Designator_context_chop_succ>
-	<Designator_context_chop_fail>No new harvestable trees found in the area.</Designator_context_chop_fail>
-	<Designator_context_hunt>Hunt all animals</Designator_context_hunt>
-	<Designator_context_hunt_succ>Designated {0} new animals to hunt.</Designator_context_hunt_succ>
-	<Designator_context_hunt_fail>No new huntable animals are in the area right now.</Designator_context_hunt_fail>
-	<Designator_context_mine>Mine connected ores</Designator_context_mine>
-	<Designator_context_mine_succ>Designated {0} additional ore tiles to mine.</Designator_context_mine_succ>
-	<Designator_context_mine_fail>Designate one or more ore tiles for mining to use this command.</Designator_context_mine_fail>
-	<Designator_context_mine_selectStripMine>Select "Strip mine" tool</Designator_context_mine_selectStripMine>
-	<Designator_context_cancel_build>Cancel all building blueprints</Designator_context_cancel_build>
-	<Designator_context_cancel_build_succ>{0} building blueprints were removed.</Designator_context_cancel_build_succ>
-	<Designator_context_cancel_build_fail>Found no blueprints to remove.</Designator_context_cancel_build_fail>
-	<Designator_context_cancel_desig>Cancel all orders on map</Designator_context_cancel_desig>
-	<Designator_context_cancel_desig_msg>Cleared {0} orders from things and {1} from terrain.</Designator_context_cancel_desig_msg>
-	<Designator_context_cancel_selected>Cancel all of this type</Designator_context_cancel_selected>
-	<Designator_context_cancel_selected_succ>Canceled {0} orders on {1} items.</Designator_context_cancel_selected_succ>
-	<Designator_context_cancel_selected_fail>Select something with an order to cancel all orders of that type.</Designator_context_cancel_selected_fail>
-	<Designator_context_finish>Finish off all downed creatures</Designator_context_finish>
-	<Designator_context_finish_succ>{0} creatures will be finished off.</Designator_context_finish_succ>
-	<Designator_context_finish_allies>{0} creatures will be finished off, including friendlies.</Designator_context_finish_allies>
-	<Designator_context_finish_fail>No valid downed targets have been found.</Designator_context_finish_fail>
-	<Designator_context_cut>Cut all blighted plants</Designator_context_cut>
-	<Designator_context_cut_succ>Designated {0} blighted plants to cut.</Designator_context_cut_succ>
-	<Designator_context_cut_fail>Found no new blighted plants to cut.</Designator_context_cut_fail>
-	<Designator_context_harvest_fullgrown>Harvest fully grown plants on map</Designator_context_harvest_fullgrown>
-	<Designator_context_harvest_home_fullgrown>Harvest fully grown plants in home area </Designator_context_harvest_home_fullgrown>
-	<Designator_context_harvest_fullgrown_succ>{0} fully grown plants designated for harvesting.</Designator_context_harvest_fullgrown_succ>
-	<Designator_context_harvest_fullgrown_fail>Found no new fully grown plants to harvest.</Designator_context_harvest_fullgrown_fail>
-	<Designator_context_allow_visible>Allow all visible things</Designator_context_allow_visible>
-	<Designator_context_allow_visible_succ>Allowed {0} visible things.</Designator_context_allow_visible_succ>
-	<Designator_context_allow_visible_fail>Found no visible forbidden things to allow.</Designator_context_allow_visible_fail>
-	<Designator_context_forbid_visible>Forbid all visible things</Designator_context_forbid_visible>
-	<Designator_context_forbid_visible_succ>{0} visible things have been forbidden.</Designator_context_forbid_visible_succ>
-	<Designator_context_forbid_visible_fail>Found no visible allowed things to forbid.</Designator_context_forbid_visible_fail>
+	<Designator_context_similar>Sélectionner les éléments similaires sur la carte</Designator_context_similar>
+	<Designator_context_similar_succ>{0} éléments similaires sélectionnés sur la carte.</Designator_context_similar_succ>
+	<Designator_context_similar_part>{0} éléments similaires sélectionnés sur {1} éléments présent sur la carte.</Designator_context_similar_part>
+	<Designator_context_similar_fail>Quelque chose doit être sélectionnée avant d'utiliser cet outil.</Designator_context_similar_fail>
+	<Designator_context_similar_visible>Sélectionner les éléments similaires visible dans cette prise de vue</Designator_context_similar_visible>
+	<Designator_context_similar_visible_succ>{0} éléments similaires visible sélectionnés.</Designator_context_similar_visible_succ>
+	<Designator_context_similar_visible_part>{0} éléments similaires visible sélectionnés sur {1} au total.</Designator_context_similar_visible_part>
+	<Designator_context_similar_home>Sélectionner des éléments similaire dans la zone de base</Designator_context_similar_home>
+	<Designator_context_similar_home_succ>{0} éléments similaires sélectionnés dans la zone de base.</Designator_context_similar_home_succ>
+	<Designator_context_similar_home_part>{0} éléments similaires sélectionnés sur {1} dans la zone de base.</Designator_context_similar_home_part>
+	<Designator_context_urgent>Transport d'urgence de tous les objets</Designator_context_urgent>
+	<Designator_context_urgent_visible>Transport d'urgence de tous les objets visible</Designator_context_urgent_visible>
+	<Designator_context_urgent_all>Transport d'urgence de tous les objets sur la carte</Designator_context_urgent_all>
+	<Designator_context_urgent_succ>{0} objets visibles marqués pour le transport d'urgence.</Designator_context_urgent_succ>
+	<Designator_context_urgent_fail>Aucun objet trouvé pour le transport.</Designator_context_urgent_fail>
+	<Designator_context_strip>Déshabiller tous les ennemies</Designator_context_strip>
+	<Designator_context_strip_succ>{0} corps désignés pour déshabiller.</Designator_context_strip_succ>
+	<Designator_context_strip_fail>Aucun corps trouvé pour être déshabillé.</Designator_context_strip_fail>
+	<Designator_context_harvest>Récolter toutes les plantes</Designator_context_harvest>
+	<Designator_context_harvest_home>Récolter toutes les plantes dans la zone de base</Designator_context_harvest_home>
+	<Designator_context_harvest_succ>{0} plantes sélectionnées pour la récolte.</Designator_context_harvest_succ>
+	<Designator_context_harvest_fail>Aucune plante trouvée pour la récolte.</Designator_context_harvest_fail>
+	<Designator_context_haul>Tout transporter</Designator_context_haul>
+	<Designator_context_haul_succ>{0} objets désignés pour le transport.</Designator_context_haul_succ>
+	<Designator_context_haul_fail>Aucun objet trouvé pour le transport.</Designator_context_haul_fail>
+	<Designator_context_chop>Couper tous les arbes</Designator_context_chop>
+	<Designator_context_chop_home>Couper tous les arbes dans la zone de base</Designator_context_chop_home>
+	<Designator_context_chop_succ>{0} arbes désignés pour l'abattage.</Designator_context_chop_succ>
+	<Designator_context_chop_fail>Aucun arbe trouvé pour l'abattage.</Designator_context_chop_fail>
+	<Designator_context_hunt>Chasser tous les animaux</Designator_context_hunt>
+	<Designator_context_hunt_succ>{0} animaux sélectionnés pour chasser.</Designator_context_hunt_succ>
+	<Designator_context_hunt_fail>Aucun animal trouvé pour la chasse dans la zone à l'instant.</Designator_context_hunt_fail>
+	<Designator_context_mine>Miner les minerais connectés</Designator_context_mine>
+	<Designator_context_mine_succ>{0} minerais de plus désignés pour le minage.</Designator_context_mine_succ>
+	<Designator_context_mine_fail>Sélectionner une ou plusieurs cases d'un minerai pour pour utiliser cet outil.</Designator_context_mine_fail>
+	<Designator_context_mine_selectStripMine>Sélectionner l'outil "Extraire mine"</Designator_context_mine_selectStripMine>
+	<Designator_context_cancel_build>Annuler tous les plans de construction</Designator_context_cancel_build>
+	<Designator_context_cancel_build_succ>{0} plans de construction annulés.</Designator_context_cancel_build_succ>
+	<Designator_context_cancel_build_fail>Aucun plan de construction trouvé.</Designator_context_cancel_build_fail>
+	<Designator_context_cancel_desig>Annuler tous les ordres sur la carte</Designator_context_cancel_desig>
+	<Designator_context_cancel_desig_msg>{0} ordres d'éléments et {1} ordre de terrain annulés.</Designator_context_cancel_desig_msg>
+	<Designator_context_cancel_selected>Annuler tous de ce type</Designator_context_cancel_selected>
+	<Designator_context_cancel_selected_succ>{0} ordres sur {1} objets annulés.</Designator_context_cancel_selected_succ>
+	<Designator_context_cancel_selected_fail>Sélectionner un élément avec un ordre pour annuler tous les ordres de ce type.</Designator_context_cancel_selected_fail>
+	<Designator_context_finish>Achever tous les créatures au sol</Designator_context_finish>
+	<Designator_context_finish_succ>{0} créatures vont être achevées.</Designator_context_finish_succ>
+	<Designator_context_finish_allies>{0} créatures vont être achevées, incluant ceux amicaux.</Designator_context_finish_allies>
+	<Designator_context_finish_fail>Aucune créature valide sélectionnée pour l'abattage trouvée.</Designator_context_finish_fail>
+	<Designator_context_cut>Couper toutes les plantes affectées par le mildiou</Designator_context_cut>
+	<Designator_context_cut_succ>{0} plantes affectées par le mildiou désignés pour l'abattage.</Designator_context_cut_succ>
+	<Designator_context_cut_fail>Aucune plante affectée par le mildiou trouvée pour l'abattage.</Designator_context_cut_fail>
+	<Designator_context_harvest_fullgrown>Récolter toutes les plantes complètement matures sur la carte</Designator_context_harvest_fullgrown>
+	<Designator_context_harvest_home_fullgrown>Récolter toutes les plantes complètement matures dans la zone de base</Designator_context_harvest_home_fullgrown>
+	<Designator_context_harvest_fullgrown_succ>{0} plantes complètement matures désignées pour la récolte.</Designator_context_harvest_fullgrown_succ>
+	<Designator_context_harvest_fullgrown_fail>Aucune plante complètement mature trouvée pour la récolte.</Designator_context_harvest_fullgrown_fail>
+	<Designator_context_allow_visible>Autoriser tout ce qui est visible</Designator_context_allow_visible>
+	<Designator_context_allow_visible_succ>{0} éléments visibles autorisés.</Designator_context_allow_visible_succ>
+	<Designator_context_allow_visible_fail>Aucun élément interdit trouvé.</Designator_context_allow_visible_fail>
+	<Designator_context_forbid_visible>Interdire tout ce qui est visible</Designator_context_forbid_visible>
+	<Designator_context_forbid_visible_succ>{0} éléments visibles interdits.</Designator_context_forbid_visible_succ>
+	<Designator_context_forbid_visible_fail>Aucun élément à interdire trouvé.</Designator_context_forbid_visible_fail>
 	
-	<PartyHuntToggle_label>Drafted hunt</PartyHuntToggle_label>
-	<PartyHuntToggle_desc>When enabled, drafted colonists will automatically fire on passive wild animals. Right-click to change settings.\nAdded by the Allow Tool mod.</PartyHuntToggle_desc>
+	<PartyHuntToggle_label>Chasse enrôlée</PartyHuntToggle_label>
+	<PartyHuntToggle_desc>Lorsque activé, tous les colons mobilisés attaqueront les animaux passifs. Clic droit pour changer les paramètres.\nAjouté par le mod Allow Tool.</PartyHuntToggle_desc>
 
 </LanguageData>
