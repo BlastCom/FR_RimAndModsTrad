@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-    TipSetDef: AllowToolTips.tips.0 'The "Equals" key activates the first tool right-click action when something is selected.'
-TipSetDef: AllowToolTips.tips.1 'Pressing the "Equals" key after selecting a mineable resource will designate the whole cluster for mining.'
-TipSetDef: AllowToolTips.tips.2 'Some tools in the Orders menu behave differently when used with modifier keys. Hover over the tools for more information.'
-TipSetDef: AllowToolTips.tips.3 'When something is selected, you can pick up the appropriate tool by holding Shift and clicking one of the command buttons.'
-TipSetDef: AllowToolTips.tips.4 'Many mods have settings you can tweak to suit your play style. The Mod Settings button is found in the Options menu.'
-TipSetDef: AllowToolTips.tips.5 'Pressing the "Home" key will allow all forbidden things on the map.'
-TipSetDef: AllowToolTips.tips.6 'Command buttons with a small mouse icon can be right-clicked for additional special commands.'
-TipSetDef: AllowToolTips.tips.7 'The "Select similar" tool has many uses. It can help find ore deposits, harvest wild healroot and deconstruct cables under walls.'
+	<AllowToolTips.tips.0>The "Equals" key activates the first tool right-click action when something is selected.</AllowToolTips.tips.0>
+	<AllowToolTips.tips.1>Pressing the "Equals" key after selecting a mineable resource will designate the whole cluster for mining.</AllowToolTips.tips.1>
+	<AllowToolTips.tips.2>Some tools in the Orders menu behave differently when used with modifier keys. Hover over the tools for more information.</AllowToolTips.tips.2>
+	<AllowToolTips.tips.3>When something is selected, you can pick up the appropriate tool by holding Shift and clicking one of the command buttons.</AllowToolTips.tips.3>
+	<AllowToolTips.tips.4>Many mods have settings you can tweak to suit your play style. The Mod Settings button is found in the Options menu.</AllowToolTips.tips.4>
+	<AllowToolTips.tips.5>Pressing the "Home" key will allow all forbidden things on the map.</AllowToolTips.tips.5>
+	<AllowToolTips.tips.6>Command buttons with a small mouse icon can be right-clicked for additional special commands.</AllowToolTips.tips.6>
+	<AllowToolTips.tips.7>The "Select similar" tool has many uses. It can help find ore deposits, harvest wild healroot and deconstruct cables under walls.</AllowToolTips.tips.7>
 
 </LanguageData>

@@ -21,15 +21,19 @@ Maintenir Shift pour ajouter à votre selection actuelle.
 Maintenir Ctrl/Option pour sélectionner uniquement des objets du même type que celui que vous avez déjà en sélection actuellement.
 Maintenir Alt pour sélectionner tout objets du même type sur l'ensemble de la carte</MassSelectDesignator.description>
 	
-ThingDesignatorDef: SelectSimilarDesignator.label 'Select similar'
-ThingDesignatorDef: SelectSimilarDesignator.description 'Selects only things similar to those already selected.\n<b>Hold Shift</b> to pick additional things.\n<b>Hold Alt</b> to ignore selection limits.'
-ThingDesignatorDef: HaulUrgentlyDesignator.label 'Haul urgently'
-ThingDesignatorDef: HaulUrgentlyDesignator.description 'Mark things to be hauled as soon as possible. Colonists will delay other work until hauling is complete.\nConfigurable in the Work tab.\n<b>Hold Shift</b> to interrupt current colonist work.'
-ThingDesignatorDef: FinishOffDesignator.label 'Finish off'
-ThingDesignatorDef: FinishOffDesignator.description 'Quickly and painlessly kill downed creatures.\n<b>Hold Shift</b> to include colonists and allies.'
-ThingDesignatorDef: HarvestFullyGrownDesignator.label 'Harvest fully grown'
-ThingDesignatorDef: HarvestFullyGrownDesignator.description 'Orders the harvesting or chopping crops and trees that are sufficiently grown to yield their maximum amount of resources when gathered.\n<b>Hold Shift</b> to include only plants.\n<b>Hold Ctrl/Option</b> to include only trees.'
-ThingDesignatorDef: StripMineDesignator.label 'Strip mine'
-ThingDesignatorDef: StripMineDesignator.description 'Lays out mine orders in a grid to maximize the chance to find hidden ores.\n<b>Hold Shift</b> to show settings window or designate using current settings.'
+	<SelectSimilarDesignator.label>Sélection similaire</SelectSimilarDesignator.label>
+	<SelectSimilarDesignator.description>Sélectionne des éléments similaires à celui ou ceux déjà sélectionnés.\n<b>Maintenir Shift</b> pour ajouter des éléments additionnels.\n<b>Maintenir Alt</b> pour ignorer la limite de sélection.</SelectSimilarDesignator.description>
+	
+	<HaulUrgentlyDesignator.label>Transport d'urgence</HaulUrgentlyDesignator.label>
+	<HaulUrgentlyDesignator.description>Marque des éléments pour être transportés le plus tôt possible. Les colons vont prioriser la tâche de transport des éléments désignés au lieu des autres.\nConficurable dans l'onglet de Travail.\n<b>Maintenir Shift</b> pour intérrompre les tâches actuelles des colons.</HaulUrgentlyDesignator.description>
+	
+	<FinishOffDesignator.label>Achever</FinishOffDesignator.label>
+	<FinishOffDesignator.description>Tue les créatures au sol de manière rapide, silencieuse et sans douleur.\n<b>Maintenir Shift</b> pour inclure les colons de votre faction et les alliés.</FinishOffDesignator.description>
+	
+	<HarvestFullyGrownDesignator.label>Récolter les plantes matures</HarvestFullyGrownDesignator.label>
+	<HarvestFullyGrownDesignator.description>Ordonne la récolte ou l'abattage des plantations et arbres qui ont atteint leur maximum de rendement de ressource lorsque récoltée.\n<b>Maintenir Shift</b> pour seulement inclure les plantes.\n<b>Maintenir Ctrl/Option</b> pour seulement inclure les arbres.</HarvestFullyGrownDesignator.description>
+	
+	<StripMineDesignator.label>Extraire minerai</StripMineDesignator.label>
+	<StripMineDesignator.description>Établit des ordres de miner en grille pour maximiser les chances de récolter des minerais cachés.\n<b>Maintenir Shift</b> pour afficher la fenêtre de paramètres ou de désigner en utilisant les paramètres actuels.</StripMineDesignator.description>
 
 </LanguageData>

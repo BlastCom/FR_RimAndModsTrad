@@ -2,18 +2,22 @@
 <LanguageData>	
 
 	<DesignatorAllow.label>Icône: Autoriser</DesignatorAllow.label>
+	<DesignatorAllowAll.label>Icône: Autoriser tout</DesignatorAllowAll.label>
 	
 	<DesignatorForbid.label>Icône: Interdire</DesignatorForbid.label>
 	
-	<DesignatorAllowAll.label>Icône: Autoriser tout</DesignatorAllowAll.label>
-	
-	<DesignatorMassSelect.label>Icône: Selection multiple</DesignatorMassSelect.label>
+	<DesignatorMassSelect.label>Icône: Sélection multiple</DesignatorMassSelect.label>
 
-	KeyBindingDef: DesignatorSelectSimilar.label 'Designator: Select similar'
-	KeyBindingDef: DesignatorHaulUrgently.label 'Designator: Haul urgently'
-	KeyBindingDef: DesignatorFinishOff.label 'Designator: Finish off'
-	KeyBindingDef: DesignatorHarvestFullyGrown.label 'Designator: Harvest fully grown'
-	KeyBindingDef: DesignatorStripMine.label 'Designator: Strip mine'
-	KeyBindingDef: ToolContextMenuAction.label 'Current tool: context menu action'
+	<DesignatorSelectSimilar.label>Icône: Sélection similaire</DesignatorSelectSimilar.label>
+
+	<DesignatorHaulUrgently.label>Icône: Transport d'urgence</DesignatorHaulUrgently.label>
+
+	<DesignatorFinishOff.label>Icône: Achever</DesignatorFinishOff.label>
+
+	<DesignatorHarvestFullyGrown.label>Icône: Récolte plantes matures</DesignatorHarvestFullyGrown.label>
+
+	<DesignatorStripMine.label>Icône: Extraire minerai</DesignatorStripMine.label>
+
+	<ToolContextMenuAction.label>Outil actif: action du menu contextuel</ToolContextMenuAction.label>
 
 </LanguageData>

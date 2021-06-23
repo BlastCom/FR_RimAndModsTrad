@@ -766,39 +766,9 @@ TD.SettingsCornerBuildableDesc 'This might sometime cause weird pathing issues -
 TD.IncapableOfSmoothing 'incapable of smoothing' (English file: AutoEnglish.xml:13)
 TD.FailedStuffBeingReplaced 'stuff being replaced' (English file: AutoEnglish.xml:14)
 
-
-#HUGSLIB LIBRARY
-HugsLib_settings_resetMod 'Reset {0} settings to default' (English file: English.xml:10)
-HugsLib_settings_resetMod_prompt 'Reset all {0} settings to their original values?' (English file: English.xml:11)
-HugsLib_settings_resetIncludeHidden 'Include hidden settings ({0})' (English file: English.xml:12)
-HugsLib_settings_hiddenSettingsHeader 'Hidden mod settings:' (English file: English.xml:13)
-HugsLib_settings_resetSuccessMessage '{0} settings have been reset.' (English file: English.xml:14)
-HugsLib_setting_expand_mod 'Open' (English file: English.xml:25)
-HugsLib_setting_collapse_mod 'Close' (English file: English.xml:26)
-HugsLib_setting_quickstartSettings_label 'Quickstart configuration' (English file: English.xml:27)
-HugsLib_setting_logPublisherSettings_label 'Log publisher preferences' (English file: English.xml:28)
-HugsLib_setting_ignoredUpdateNews_label 'Ignored mod update news providers' (English file: English.xml:29)
-HugsLib_features_ignoreTooltip 'Notify about future updates from this mod' (English file: English.xml:36)
-HugsLib_features_confirmIgnoreTitle 'Confirm' (English file: English.xml:37)
-HugsLib_features_confirmIgnore 'Ignore future update news from {0}?\n\nCan be re-enabled in Mod Options > All mod update news' (English file: English.xml:38)
-HugsLib_features_filterBtn 'Filter by mod' (English file: English.xml:39)
-HugsLib_features_filterStatus 'Current filter: {0}' (English file: English.xml:40)
-HugsLib_features_filterAllMods 'All mods' (English file: English.xml:41)
-HugsLib_features_filterDropdownEntry '{0} ({1} news{2})' (English file: English.xml:42)
-HugsLib_features_filterIgnoredModSuffix ', ignored' (English file: English.xml:43)
-HugsLib_logs_useRecommendedSettings 'Use recommended settings' (English file: English.xml:59)
-HugsLib_logs_shortUrls 'Use URL shortener' (English file: English.xml:60)
-HugsLib_logs_shortUrls_tip 'Produces a shorter link when uploading. Not recommended on Steam- short links are automatically removed.' (English file: English.xml:61)
-HugsLib_logs_platformInfo 'Include platform information' (English file: English.xml:62)
-HugsLib_logs_platformInfo_tip 'Includes information about your CPU, memory and video card in the log.' (English file: English.xml:63)
-HugsLib_logs_unlimitedLogSize 'Allow unlimited log size' (English file: English.xml:64)
-HugsLib_logs_unlimitedLogSize_tip 'When disabled, log size is limited to 10K lines to prevent very long logs from causing issues.' (English file: English.xml:65)
-HugsLib_logs_toClipboardBtn 'To clipboard' (English file: English.xml:66)
-HugsLib_logs_uploadBtn 'Upload' (English file: English.xml:67)
-HugsLib_updateRequired_title 'Library update required' (English file: English.xml:79)
-HugsLib_updateRequired_text '<b>{0}</b> requires version <b>{1}</b> of the <b>HugsLib library</b> to work properly.\n\nWould you like to update it now?' (English file: English.xml:80)
-HugsLib_updateRequired_updateBtn 'Update now' (English file: English.xml:81)
-
+#####################
+#HUGSLIB LIBRARY TRANSLATION DONE
+######################
 
 #DEFENSIVE POSITION MOD
 DefPos_basic_label 'Defensive position' (English file: DefensivePositionsStrings.xml:4)
@@ -2493,7 +2463,6 @@ FM.LastUpdateTooltip (Manager_Keyed.xml:20)
   - 'Ce travail a été mis a jour il y a {0}.'
 
 ========== Unnecessary keyed translations (will never be used) (8) ==========
-HugsLib_ownSettingsName 'Autre' (French.xml:11)
 MassSelect_nowSelecting 'Sélectionner uniquement : {0}' (AllowToolStrings.xml:20)
 MassSelect_anything 'Tout' (AllowToolStrings.xml:21)
 MassSelect_numMoreTypes '({0} en plus)' (AllowToolStrings.xml:22)

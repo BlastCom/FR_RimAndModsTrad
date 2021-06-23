@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-    ThingDef: MoteWeaponGlint.label 'Weapon glint mote'
+    <MoteWeaponGlint.label>Reflet lumineux d'arme</MoteWeaponGlint.label>
 
 </LanguageData>
