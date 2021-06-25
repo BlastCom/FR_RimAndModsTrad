@@ -1,12 +1,14 @@
-V0.3
+V0.4
 
 === PROBLEM
 
-If text void or = '' ; obtein overflow text
-If a Defname different than others, warn and skip
+[Bug] If text void or = '' ; obtein overflow text
+
+[Feature] If a Defname different than others, warn and skip
 
 === FIXED
 
+Added Keyed or DefInjected option
 Cut text in half if apostrophe detected in text (ex : It's)
 Crash if blank row at the end of the file
 Write as function

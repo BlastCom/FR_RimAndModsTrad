@@ -1,2 +1,3 @@
 ﻿  Source.cpp
+S:\Documents\Projets_Coding\TranslRep_To_XML\TranslRep_To_XML\TranslRep_To_XML\Source.cpp(56,6): warning C4101: 'flushVar' : variable locale non référencée
   TranslRep_To_XML.vcxproj -> S:\Documents\Projets_Coding\TranslRep_To_XML\TranslRep_To_XML\Debug\TranslRep_To_XML.exe
