@@ -102,6 +102,7 @@
 	<Designator_context_similar_home_part>{0} éléments similaires sélectionnés sur {1} dans la zone de base.</Designator_context_similar_home_part>
 	<Designator_context_urgent>Transport d'urgence de tous les objets</Designator_context_urgent>
 	<Designator_context_urgent_visible>Transport d'urgence de tous les objets visible</Designator_context_urgent_visible>
+	<Designator_context_urgent_visible_succ>{0} éléments visible ont été marqués pour le transport d'urgence.</Designator_context_urgent_visible_succ>
 	<Designator_context_urgent_all>Transport d'urgence de tous les objets sur la carte</Designator_context_urgent_all>
 	<Designator_context_urgent_succ>{0} objets visibles marqués pour le transport d'urgence.</Designator_context_urgent_succ>
 	<Designator_context_urgent_fail>Aucun objet trouvé pour le transport.</Designator_context_urgent_fail>

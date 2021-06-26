@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<HaulingUrgent.description>Transport de haute priorité. Fonctionne comme le type habituel, mais uniquement pour les éléments désignés manuellement. Utilisez <b>Architecte > Ordres > Transporter en urgence</b> pour désigner plusieurs choses à transporter.\nAjouté par le mod Allow Tool. Peut être désactivé dans Options > Paramètres des mods.</HaulingUrgent.description>
+	<HaulingUrgent.description>Transport de haute priorité. Fonctionne comme le type habituel, mais uniquement pour les éléments désignés manuellement. Utilisez &lt;b&gt;Architecte > Ordres > Transporter en urgence&lt;/b&gt; pour désigner plusieurs choses à transporter.\nAjouté par le mod Allow Tool. Peut être désactivé dans Options > Paramètres des mods.</HaulingUrgent.description>
 	<HaulingUrgent.gerundLabel>Transporte d'urgence</HaulingUrgent.gerundLabel>
 	<HaulingUrgent.labelShort>Transport+</HaulingUrgent.labelShort>
 	<HaulingUrgent.pawnLabel>Transporteur d'urgence</HaulingUrgent.pawnLabel>
