@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<TimerSwitch.label>interrupteur horaire</TimerSwitch.label>
+	<TimerSwitch.description>Allume ou éteint l'alimentation en fonction de l'heure de la journée préalablement configuré.</TimerSwitch.description>
+
+</LanguageData>

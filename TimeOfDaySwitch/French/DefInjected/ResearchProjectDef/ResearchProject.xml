@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<ResearchTimeOfDaySwitch.label>Interrupteur horaire</ResearchTimeOfDaySwitch.label>
+	<ResearchTimeOfDaySwitch.description>Effectuez des recherches sur un interrupteur qui peut être configuré pour s'allumer ou s'éteindre en fonction de l'heure de la journée. Ajouté par le mod "Time of Day Switch".</ResearchTimeOfDaySwitch.description>
+	<ResearchTimeOfDaySwitch.discoveredLetterText>Vous pouvez maintenant fabriquer des interrupteurs électriques qui peuvent être configurés pour s'allumer ou s'éteindre à des heures précises. \n\nNOTE: Ne connectez pas vos lampes, tourelles, etc. directement à l'interrupteur ! Ajoutez un câble d'alimentation et connectez-le !</ResearchTimeOfDaySwitch.discoveredLetterText>
+	<ResearchTimeOfDaySwitch.discoveredLetterTitle>Interrupteur horaire complété</ResearchTimeOfDaySwitch.discoveredLetterTitle>
+
+</LanguageData>
