@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<AllowToolTips.tips.0>The "Equals" key activates the first tool right-click action when something is selected.</AllowToolTips.tips.0>
-	<AllowToolTips.tips.1>Pressing the "Equals" key after selecting a mineable resource will designate the whole cluster for mining.</AllowToolTips.tips.1>
-	<AllowToolTips.tips.2>Some tools in the Orders menu behave differently when used with modifier keys. Hover over the tools for more information.</AllowToolTips.tips.2>
-	<AllowToolTips.tips.3>When something is selected, you can pick up the appropriate tool by holding Shift and clicking one of the command buttons.</AllowToolTips.tips.3>
-	<AllowToolTips.tips.4>Many mods have settings you can tweak to suit your play style. The Mod Settings button is found in the Options menu.</AllowToolTips.tips.4>
-	<AllowToolTips.tips.5>Pressing the "Home" key will allow all forbidden things on the map.</AllowToolTips.tips.5>
-	<AllowToolTips.tips.6>Command buttons with a small mouse icon can be right-clicked for additional special commands.</AllowToolTips.tips.6>
-	<AllowToolTips.tips.7>The "Select similar" tool has many uses. It can help find ore deposits, harvest wild healroot and deconstruct cables under walls.</AllowToolTips.tips.7>
+	<AllowToolTips.tips.0>La touche "Égal" active le premier outil lors d'un clic droit lorsqu'un élément est sélectionné.</AllowToolTips.tips.0>
+	<AllowToolTips.tips.1>En appuyant sur la touche "Égal" après avoir sélectionné un gisement de minerai, tout le gisement sera désigné pour être exploité.</AllowToolTips.tips.1>
+	<AllowToolTips.tips.2>Certains outils du menu de commandes se comportent différemment lorsqu'ils sont utilisés avec des touches modificatrices. Survolez les outils pour plus d'informations.</AllowToolTips.tips.2>
+	<AllowToolTips.tips.3>Lorsque quelqu'un élément est sélectionné, vous pouvez choisir l'outil approprié en maintenant la touche Shift enfoncée et en cliquant sur le bouton de commande désiré.</AllowToolTips.tips.3>
+	<AllowToolTips.tips.4>De nombreux mods sont dotés de réglages que vous pouvez modifier pour adapter à votre style de jeu. Le bouton "Réglages des mods" se trouve dans le menu Options.</AllowToolTips.tips.4>
+	<AllowToolTips.tips.5>En appuyant sur la touche "Home" de votre clavier, vous autorisez toutes les éléments interdits sur la carte.</AllowToolTips.tips.5>
+	<AllowToolTips.tips.6>Le bouton de commande avec une petite icône de souris peut être cliqué avec le bouton droit de la souris pour des commandes spéciales supplémentaires.</AllowToolTips.tips.6>
+	<AllowToolTips.tips.7>L'outil " Sélection similaire " a de nombreux usages. Il peut aider à trouver des gisements de minerai, à récolter des racines de vie sauvages et à déconstruire des câbles sous les murs.</AllowToolTips.tips.7>
 
 </LanguageData>

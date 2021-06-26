@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-    WorkGiverDef: HaulUrgently.label 'haul things urgently'
-WorkGiverDef: HaulUrgently.gerund 'hauling urgently'
-WorkGiverDef: HaulUrgently.verb 'haul urgently'
-WorkGiverDef: FinishOff.label 'finish off creature'
-WorkGiverDef: FinishOff.gerund 'finishing off'
-WorkGiverDef: FinishOff.verb 'finish off'
+	<HaulUrgently.label>transporter des objets de toute urgence</HaulUrgently.label>
+	<HaulUrgently.gerund>transporte d'urgence</HaulUrgently.gerund>
+	<HaulUrgently.verb>transport d'urgence</HaulUrgently.verb>
+	<FinishOff.label>achever la créature</FinishOff.label>
+	<FinishOff.gerund>en train d'achever</FinishOff.gerund>
+	<FinishOff.verb>achever</FinishOff.verb>
 
 </LanguageData>
