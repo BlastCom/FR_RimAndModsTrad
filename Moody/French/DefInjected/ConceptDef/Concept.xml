@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Moody.label>Moody</Moody.label>
+	<Moody.helpText>Moody fournit six tableaux de bord, ou aperçus, pour vous aider à gérer votre colonie. Les informations sur vos colons sont présentées par défaut, mais l'icône la plus à droite en haut permet de passer en mode prisonniers ou animaux de compagnie. Certains en-têtes des colonnes ont des menus contextuels avec des options supplémentaires et la plupart des textes et des icônes ont des infobulles pour fournir plus de détails. \n\nLes sélections de colons sont répertoriées dans la plupart des aperçus. Vous pouvez shift + clic pour modifier les préférences entre la barre des colons, la carte et Moody. \n\nCertains paramètres globaux peuvent être retrouvés dans les options du mod, dans Menu -> Options -> Paramètres des mods -> Moody.</Moody.helpText>
+	<Moody_SummaryView.label>Aperçu sommaire par Moody</Moody_SummaryView.label>
+	<Moody_SummaryView.helpText>Affiche les résumés de:\n- Travail\n- humeur\n- Température\n- Santé\n\nLe triage par l'humeur est effectué selon qui est le plus près de perdre la tête, mais pas selon la valeur absolue de l'humeur.</Moody_SummaryView.helpText>
+	<Moody_ThoughtView.label>Aperçu des pensées par Moody</Moody_ThoughtView.label>
+	<Moody_ThoughtView.helpText>Organisez par pensée ou groupe de pensées. Par exemple, "Chaud" et "Extrêmement chaud" sont deux pensées du même groupe. \n\nAffiche le nombre de colons et l'ajustement total de l'humeur pour chaque pensée ou groupe de pensées sur l'ensemble des colons. En cliquant sur une ligne, vous la développerez pour afficher chaque colon affecté. \n\nCette vue ne suit pas les sélections de colons comme le font les autres aperçus.</Moody_ThoughtView.helpText>
+	<Moody_TemperatureView.label>Aperçu des températures par Moody</Moody_TemperatureView.label>
+	<Moody_TemperatureView.helpText>L'étiquette bleue flottante dans l'en-tête de la colonne de température indique la température extérieure de la carte actuelle. \n\nLa température actuelle de chaque colon est indiquée par une coche jaune à l'intérieur de leur ruban de température, qui est mis en évidence par la couleur du ruban.</Moody_TemperatureView.helpText>
+	<Moody_SkillView.label>Aperçu des compétences par Moody</Moody_SkillView.label>
+	<Moody_SkillView.helpText>Personnalisez les compétences qui sont affichées. Ajoutez une compétence en utilisant la dernière colonne (icône '+') et supprimez une compétence en faisant un clic droit sur son en-tête de colonne. La première colonne affiche toujours l'arme actuellement équipée et ne peut être supprimée.</Moody_SkillView.helpText>
+	<Moody_JobView.label>Aperçu des activités par Moody</Moody_JobView.label>
+	<Moody_JobView.helpText>Affiche la description de l'activité actuelle pour chaque colon.</Moody_JobView.helpText>
+	<Moody_HealthView.label>Aperçu sur la santé par Moody</Moody_HealthView.label>
+	<Moody_HealthView.helpText>Affiche les conditions de santé des colons. Des filtres supplémentaires sont disponibles en haut du tableau pour afficher : toutes les conditions, uniquement celles qui nécessitent une attention immédiate ou uniquement les conditions chroniques qui ne nécessitent pas d'attention immédiate.\n\nLes conseils sur les icônes d'état de santé fournissent des détails supplémentaires.</Moody_HealthView.helpText>
+
+</LanguageData>

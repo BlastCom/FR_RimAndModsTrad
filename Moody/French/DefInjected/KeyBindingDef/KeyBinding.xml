@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Minimize.label>Réduire</Minimize.label>
+	<Hide.label>Cacher</Hide.label>
+	<TinyMode.label>Mode petit</TinyMode.label>
+	<NextPawnMode.label>Mode colon suivant</NextPawnMode.label>
+	<NextView.label>Aperçu suivant</NextView.label>
+
+</LanguageData>
