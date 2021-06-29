@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<WeaponStats.Ground>Au sol</WeaponStats.Ground>
+	<WeaponStats.Colonists>Colons</WeaponStats.Colonists>
+	<WeaponStats.Prisoners>Prisonniers</WeaponStats.Prisoners>
+	<WeaponStats.Hostiles>Hostiles</WeaponStats.Hostiles>
+	<WeaponStats.Friendlies>Amicaux</WeaponStats.Friendlies>
+	<WeaponStats.Corpses>Corps</WeaponStats.Corpses>
+	<WeaponStats.All>Tout</WeaponStats.All>
+	<WeaponStats.Craftable>Fabricable</WeaponStats.Craftable>
+	<WeaponStats.Storage>Stockage</WeaponStats.Storage>
+	<WeaponStats.Ranged>À distance</WeaponStats.Ranged>
+	<WeaponStats.Melee>Mêlée</WeaponStats.Melee>
+	<WeaponStats.Grenades>Grenades</WeaponStats.Grenades>
+	<WeaponStats.Apparel>Vêtements</WeaponStats.Apparel>
+	<WeaponStats.Tools>Outils</WeaponStats.Tools>
+	<WeaponStats.Other>Autres</WeaponStats.Other>
+	
+	<WeaponStats.ColName>Nom</WeaponStats.ColName>
+	<WeaponStats.ColQuality>Qualité</WeaponStats.ColQuality>
+	<WeaponStats.ColHP>Pts de vie</WeaponStats.ColHP>
+	<WeaponStats.ColValue>Valeur marchande</WeaponStats.ColValue>
+	<WeaponStats.ColRange>Portée</WeaponStats.ColRange>
+	<WeaponStats.ColCooldwn>Rechargement</WeaponStats.ColCooldwn>
+	<WeaponStats.ColWarmup>Échauffement</WeaponStats.ColWarmup>
+	<WeaponStats.ColSights>Viseurs</WeaponStats.ColSights>
+	<WeaponStats.ColSpread>Diffusion</WeaponStats.ColSpread>
+	<WeaponStats.ColSway>Ballant</WeaponStats.ColSway>
+	<WeaponStats.ColBulk>Poids</WeaponStats.ColBulk>
+	<WeaponStats.ColMagazineCapacity>Capacité du chargeur</WeaponStats.ColMagazineCapacity>
+	<WeaponStats.ColDPS>DPS</WeaponStats.ColDPS>
+	<WeaponStats.ColDPSA>DPS avec précision</WeaponStats.ColDPSA>
+	<WeaponStats.ColDamage>Dégâts</WeaponStats.ColDamage>
+	<WeaponStats.ColAccuracy>Précision</WeaponStats.ColAccuracy>
+	<WeaponStats.ColType></WeaponStats.ColType>
+	<WeaponStats.ColRadius>Rayon d'explosion</WeaponStats.ColRadius>
+	<WeaponStats.ColDelay>Délai d'explosion</WeaponStats.ColDelay>
+	<WeaponStats.ColBlunt>Protection contre les chocs</WeaponStats.ColBlunt>
+	<WeaponStats.ColSharp>Protection contre la perforation</WeaponStats.ColSharp>
+	<WeaponStats.ColHeat>Protection contre la chaleur</WeaponStats.ColHeat>
+	<WeaponStats.ColICold>Isolation contre le froid</WeaponStats.ColICold>
+	<WeaponStats.ColIHeat>Isolation contre la chaleur</WeaponStats.ColIHeat>
+	<WeaponStats.ColArmorPenetration>Pénétration d'armure</WeaponStats.ColArmorPenetration>
+	<WeaponStats.ColCounterParry>Contre-parade</WeaponStats.ColCounterParry>
+	
+	<WeaponStats.AccRbName.All>Tout</WeaponStats.AccRbName.All>
+	<WeaponStats.AccRbName.Touch>Contact</WeaponStats.AccRbName.Touch>
+	<WeaponStats.AccRbName.Short>Courte</WeaponStats.AccRbName.Short>
+	<WeaponStats.AccRbName.Medium>Moyenne</WeaponStats.AccRbName.Medium>
+	<WeaponStats.AccRbName.Long>Longue</WeaponStats.AccRbName.Long>
+
+</LanguageData>
