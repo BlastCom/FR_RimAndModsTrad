@@ -11,22 +11,15 @@ Cliquer-glisser pour déterminer la zone d'action.</AllowDesignator.description>
 Cliquer-glisser pour déterminer la zone d'action.</ForbidDesignator.description>
 	
 	<AllowAllDesignator.label>Autoriser tout</AllowAllDesignator.label>
-	<AllowAllDesignator.description>Autoriser tout objets sur l'ensemble de la carte.
+	<AllowAllDesignator.description>Autoriser tout objet sur l'ensemble de la carte.
 Cliquer pour utiliser.
 Maintenir Shift pour inclure squelettes et cadavres également.</AllowAllDesignator.description>
 	
-	<!--
-	<MassSelectDesignator.label>Sélection multiple</MassSelectDesignator.label>
-	<MassSelectDesignator.description>Sélectionner tout dans la zone désignée; vraiment tout. 
-Maintenir Shift pour ajouter à votre selection actuelle.
-Maintenir Ctrl/Option pour sélectionner uniquement des objets du même type que celui que vous avez déjà en sélection actuellement.
-Maintenir Alt pour sélectionner tout objets du même type sur l'ensemble de la carte</MassSelectDesignator.description>
-	-->
 	<SelectSimilarDesignator.label>Sélection similaire</SelectSimilarDesignator.label>
 	<SelectSimilarDesignator.description>Sélectionne des éléments similaires à celui ou ceux déjà sélectionnés.\n&lt;b&gt;Maintenir Shift&lt;/b&gt; pour ajouter des éléments additionnels.\n&lt;b&gt;Maintenir Alt&lt;b&gt; pour ignorer la limite de sélection.</SelectSimilarDesignator.description>
 	
 	<HaulUrgentlyDesignator.label>Transport d'urgence</HaulUrgentlyDesignator.label>
-	<HaulUrgentlyDesignator.description>Marque des éléments pour être transportés le plus tôt possible. Les colons vont prioriser la tâche de transport des éléments désignés au lieu des autres.\nConficurable dans l'onglet de Travail.\n&lt;b&gt;Maintenir Shift&lt;b&gt; pour intérrompre les tâches actuelles des colons.</HaulUrgentlyDesignator.description>
+	<HaulUrgentlyDesignator.description>Marque des éléments pour être transportés le plus tôt possible. Les colons vont prioriser la tâche de transport des éléments désignés au lieu des autres.\nConficurable dans l'onglet de Travail.\n&lt;b&gt;Maintenir Shift&lt;b&gt; pour interrompre les tâches actuelles des colons.</HaulUrgentlyDesignator.description>
 	
 	<FinishOffDesignator.label>Achever</FinishOffDesignator.label>
 	<FinishOffDesignator.description>Tue les créatures au sol de manière rapide, silencieuse et sans douleur.\n&lt;b&gt;Maintenir Shift&lt;b&gt; pour inclure les colons de votre faction et les alliés.</FinishOffDesignator.description>

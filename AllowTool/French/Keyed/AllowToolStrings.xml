@@ -2,24 +2,24 @@
 <LanguageData>
 
 	<Allow_area_success>{0} objets autorisés.</Allow_area_success>
-	<Allow_area_failure>Aucun objets interdits trouvés.</Allow_area_failure>
+	<Allow_area_failure>Aucun objet interdit trouvé.</Allow_area_failure>
 
 	<Forbid_area_success>{0} objets interdits.</Forbid_area_success>
-	<Forbid_area_failure>Aucun objets non-interdits trouvés.</Forbid_area_failure>
+	<Forbid_area_failure>Aucun objet non interdit trouvé.</Forbid_area_failure>
 	
 	<Allow_all_success>{0} objets autorisés sur l'ensemble de la carte.</Allow_all_success>
-	<Allow_all_failure>Aucun objets interdits trouvés.</Allow_all_failure>
+	<Allow_all_failure>Aucun objet interdit trouvé.</Allow_all_failure>
 	
 	<Mass_Select_success>Sélectionner {0} {1} à travers la carte.</Mass_Select_success>
 
 	<setting_showTool_label>Afficher l'outil: {0}</setting_showTool_label>
-	<setting_showTool_desc>Si activé, cet outil de selection apparaitra dans le menu Architecte.</setting_showTool_desc>
+	<setting_showTool_desc>Si activé, cet outil de sélection apparaitra dans le menu Architecte.</setting_showTool_desc>
 	<setting_showToggles_btn>▼ Afficher les paramètres ▼</setting_showToggles_btn>
 	<setting_showToolToggles_label>Activer ou désactiver les outils</setting_showToolToggles_label>
 	<setting_showProviderToggles_label>Activer ou désactiver les menus contextuels</setting_showProviderToggles_label>
 	<setting_showReverseToggles_label>Outils sur les éléments sélectionnés</setting_showReverseToggles_label>
 
-	<setting_globalHotkeys_label>Utiliser les racourccis clavier généraux</setting_globalHotkeys_label>
+	<setting_globalHotkeys_label>Utiliser les raccourcis clavier généraux</setting_globalHotkeys_label>
 	<setting_globalHotkeys_desc>Si activé, les outils pourront être activés depuis n'importe quel menu en appuyant sur la touche assignée.\nVoir Options &gt; Configuration Clavier pour changer les touches.</setting_globalHotkeys_desc>
 	
 	<setting_selectionLimit_label>Limite de sélection des éléments</setting_selectionLimit_label>
@@ -30,38 +30,38 @@
 	<setting_contextOverlay_label>Icône de clic droit sur les outils</setting_contextOverlay_label>
 	<setting_contextOverlay_desc>Lorsqu'il est activé, il affiche une petite icône sur les outils de conception qui ont un menu contextuel.</setting_contextOverlay_desc>
 	<setting_extendedContextHotkey_label>Raccourci "Action contextuelle" étendu</setting_extendedContextHotkey_label>
-	<setting_extendedContextHotkey_desc>Lorsque aucun outil est sélectionné, le raccourci "Action contextuelle" va activé l'action contextuelle sur le premier outil visible lorsque des éléments sont sélectionnés.</setting_extendedContextHotkey_desc>
+	<setting_extendedContextHotkey_desc>Lorsqu'aucun outil n'est sélectionné, le raccourci "Action contextuelle" va activer l'action contextuelle sur le premier outil visible lorsque des éléments sont sélectionnés.</setting_extendedContextHotkey_desc>
 	
 	<setting_reverseDesignatorPick_label>Sélectionnez un outil parmi les éléments sélectionnés</setting_reverseDesignatorPick_label>
 	<setting_reverseDesignatorPick_desc>Si vous maintenez la touche Shift enfoncée et que vous cliquez sur un outil alors que des éléments sont sélectionnés, vous sélectionnez cet outil au lieu de l'activer sur les éléments.</setting_reverseDesignatorPick_desc>
-	<setting_reverseDesignator_desc>Lorsque activé, affiche cet outil lorsque les éléments pris en charge sont sélectionnés.</setting_reverseDesignator_desc>
+	<setting_reverseDesignator_desc>Lorsqu'activé, affiche cet outil lorsque les éléments pris en charge sont sélectionnés.</setting_reverseDesignator_desc>
 
-	<setting_finishOffUnforbids_label>Autoriser éléments généré par "Achever"</setting_finishOffUnforbids_label>
-	<setting_finishOffUnforbids_desc>Lorsque activé, les cadavres et objets abandonnés lors de l'achèvement des créatures seront automatiquement autorisés à être transportés.</setting_finishOffUnforbids_desc>
+	<setting_finishOffUnforbids_label>Autoriser les éléments générés par "Achever"</setting_finishOffUnforbids_label>
+	<setting_finishOffUnforbids_desc>Lorsqu'activé, les cadavres et objets abandonnés lors de l'achèvement des créatures seront automatiquement autorisés à être transportés.</setting_finishOffUnforbids_desc>
 	<setting_finishOffWorktype_label>Afficher le type de travail "Achever"</setting_finishOffWorktype_label>
-	<setting_finishOffWorktype_desc>Lorsque activé, affiche le type de travail pour l'outil "Achever" dans l'onglet Travail. \nLe jeu doit être redémarré pour que ce paramètre prenne effet.</setting_finishOffWorktype_desc>
+	<setting_finishOffWorktype_desc>Lorsqu'activé, affiche le type de travail pour l'outil "Achever" dans l'onglet Travail. \nLe jeu doit être redémarré pour que ce paramètre prenne effet.</setting_finishOffWorktype_desc>
 	<setting_finishOffSkill_label>Compétence requise pour "Achever"</setting_finishOffSkill_label>
 	<setting_finishOffSkill_desc>L'outil "Achever" nécessitera un colon avec une compétence de mêlée suffisamment élevée pour être utilisé.</setting_finishOffSkill_desc>
 	
 	<setting_providerPrefix>Activer : {0}</setting_providerPrefix>
-	<setting_provider_desc>Lorsque activé, ajoute à l'outil un menu de clic droit qui lui permet d'affecter l'ensemble de la carte.</setting_provider_desc>
+	<setting_provider_desc>Lorsqu'activé, ajoute à l'outil un menu de clic droit qui lui permet d'affecter l'ensemble de la carte.</setting_provider_desc>
 	
 	<setting_haulUrgentlyWorktype_label>Afficher le type de travail "Transport+"</setting_haulUrgentlyWorktype_label>
-	<setting_haulUrgentlyWorktype_desc>Lorsque activé, affiche le type de travail pour l'outil "Transport urgent" dans l'onglet Travail. \nLe jeu nécessite un redémarrage pour que ce paramètre prenne effet.</setting_haulUrgentlyWorktype_desc>
+	<setting_haulUrgentlyWorktype_desc>Lorsqu'activé, affiche le type de travail pour l'outil "Transport urgent" dans l'onglet Travail. \nLe jeu nécessite un redémarrage pour que ce paramètre prenne effet.</setting_haulUrgentlyWorktype_desc>
 	
 	<setting_replaceIcons_label>Remplacer les icônes Interdire/Autoriser</setting_replaceIcons_label>
 	<setting_replaceIcons_desc>Remplacez les icônes des outils Interdire et Autoriser par des icônes plus claires.</setting_replaceIcons_desc>
 	
 	<setting_partyHunt_label>Outil chasse enrôlée</setting_partyHunt_label>
-	<setting_partyHunt_desc>Lorsque activé, affiche le boutton "Chasse enrôlée" pour les colons déjà enrôlé.</setting_partyHunt_desc>
+	<setting_partyHunt_desc>Lorsqu'activé, affiche le bouton "Chasse enrôlée" pour les colons déjà enrôlés.</setting_partyHunt_desc>
 	<setting_partyHuntFinish_label>Achever les animaux à terre.</setting_partyHuntFinish_label>
 	<setting_partyHuntDesignated_label>Chasse réservée aux animaux désignés</setting_partyHuntDesignated_label>
-	<setting_partyHuntUnforbid_label>Autorisé la proie</setting_partyHuntUnforbid_label>
+	<setting_partyHuntUnforbid_label>Autoriser la proie</setting_partyHuntUnforbid_label>
 	
 	<setting_storageSpaceAlert_label>Alerte faible espace de stockage</setting_storageSpaceAlert_label>
-	<setting_storageSpaceAlert_desc>Vous serez averti par un message d'alerte lorsque des objets sont marqués comme devant être transportés d'urgence, mais qu'il n'y a pas de place pour les entreposer.</setting_storageSpaceAlert_desc>
+	<setting_storageSpaceAlert_desc>Vous serez averti par un message d'alerte lorsque des objets sont marqués comme devant être transporté d'urgence, mais qu'il n'y a pas de place pour les entreposer.</setting_storageSpaceAlert_desc>
 	
-	<SelectSimilar_cursor_needConstraint>Cliquer pour choissir</SelectSimilar_cursor_needConstraint>
+	<SelectSimilar_cursor_needConstraint>Cliquer pour choisir</SelectSimilar_cursor_needConstraint>
 	<SelectSimilar_cursor_nowSelecting>Faites glisser pour sélectionner uniquement: {0}</SelectSimilar_cursor_nowSelecting>
 	<SelectSimilar_cursor_limit>limite de sélection atteinte</SelectSimilar_cursor_limit>
 	<SelectSimilar_numMoreTypes>({0} en plus)</SelectSimilar_numMoreTypes>
@@ -69,15 +69,15 @@
 	<Haul_urgently_success>{0} éléments seront transportés d'urgence.</Haul_urgently_success>
 	<Haul_urgently_failure>Aucun élément nécessitant un transport n'a été trouvé.</Haul_urgently_failure>
 	
-	<Harvest_fully_grown_success>{0} plants mature marqués pour récolte.</Harvest_fully_grown_success>
-	<Harvest_fully_grown_failure>Aucun arbre ou plante mature trouvé.</Harvest_fully_grown_failure>
+	<Harvest_fully_grown_success>{0} plantes matures marquées pour la récolte.</Harvest_fully_grown_success>
+	<Harvest_fully_grown_failure>Aucun arbre ou plante matures trouvés.</Harvest_fully_grown_failure>
 	
 	<StripMine_win_horizontalSpacing>Espacement horizontal</StripMine_win_horizontalSpacing>
 	<StripMine_win_verticalSpacing>Espacement vertical</StripMine_win_verticalSpacing>
 	<StripMine_win_showWindow>Afficher cette fenêtre</StripMine_win_showWindow>
 	<StripMine_win_showWindow_tip>Désactiver pour utiliser automatiquement ces paramètres la prochaine fois.\nMaintenir Shift pour afficher cette fenêtre encore une fois.</StripMine_win_showWindow_tip>
 	<StripMine_win_variableOffset>Variable de décalage de la grille</StripMine_win_variableOffset>
-	<StripMine_win_variableOffset_tip>Lorsque activé, la grille va s'étendre de son point de départ vers le point sélectionné. Sinon, les lignes de la grille vont toujours passer par les mêmes cellules, quel que soit le point de départ de la sélection.</StripMine_win_variableOffset_tip>
+	<StripMine_win_variableOffset_tip>Lorsqu'activé, la grille va s'étendre de son point de départ vers le point sélectionné. Sinon, les lignes de la grille vont toujours passer par les mêmes cellules, quel que soit le point de départ de la sélection.</StripMine_win_variableOffset_tip>
 	<StripMine_cursor_autoApply>Appliquer immédiatement</StripMine_cursor_autoApply>
 	
 	<Alert_noStorage_label>Pas d'espace de stockage</Alert_noStorage_label>
@@ -92,21 +92,21 @@
 	
 	<Designator_context_similar>Sélectionner les éléments similaires sur la carte</Designator_context_similar>
 	<Designator_context_similar_succ>{0} éléments similaires sélectionnés sur la carte.</Designator_context_similar_succ>
-	<Designator_context_similar_part>{0} éléments similaires sélectionnés sur {1} éléments présent sur la carte.</Designator_context_similar_part>
-	<Designator_context_similar_fail>Quelque chose doit être sélectionnée avant d'utiliser cet outil.</Designator_context_similar_fail>
-	<Designator_context_similar_visible>Sélectionner les éléments similaires visible dans cette prise de vue</Designator_context_similar_visible>
-	<Designator_context_similar_visible_succ>{0} éléments similaires visible sélectionnés.</Designator_context_similar_visible_succ>
-	<Designator_context_similar_visible_part>{0} éléments similaires visible sélectionnés sur {1} au total.</Designator_context_similar_visible_part>
-	<Designator_context_similar_home>Sélectionner des éléments similaire dans la zone de base</Designator_context_similar_home>
+	<Designator_context_similar_part>{0} éléments similaires sélectionnés sur {1} éléments présents sur la carte.</Designator_context_similar_part>
+	<Designator_context_similar_fail>Quelque chose doit être sélectionné avant d'utiliser cet outil.</Designator_context_similar_fail>
+	<Designator_context_similar_visible>Sélectionner les éléments similaires visibles dans cette prise de vue</Designator_context_similar_visible>
+	<Designator_context_similar_visible_succ>{0} éléments similaires visibles sélectionnés.</Designator_context_similar_visible_succ>
+	<Designator_context_similar_visible_part>{0} éléments similaires visibles sélectionnés sur {1} au total.</Designator_context_similar_visible_part>
+	<Designator_context_similar_home>Sélectionner des éléments similaires dans la zone de base</Designator_context_similar_home>
 	<Designator_context_similar_home_succ>{0} éléments similaires sélectionnés dans la zone de base.</Designator_context_similar_home_succ>
 	<Designator_context_similar_home_part>{0} éléments similaires sélectionnés sur {1} dans la zone de base.</Designator_context_similar_home_part>
 	<Designator_context_urgent>Transport d'urgence de tous les objets</Designator_context_urgent>
-	<Designator_context_urgent_visible>Transport d'urgence de tous les objets visible</Designator_context_urgent_visible>
-	<Designator_context_urgent_visible_succ>{0} éléments visible ont été marqués pour le transport d'urgence.</Designator_context_urgent_visible_succ>
+	<Designator_context_urgent_visible>Transport d'urgence de tous les objets visibles</Designator_context_urgent_visible>
+	<Designator_context_urgent_visible_succ>{0} éléments visibles ont été marqués pour le transport d'urgence.</Designator_context_urgent_visible_succ>
 	<Designator_context_urgent_all>Transport d'urgence de tous les objets sur la carte</Designator_context_urgent_all>
 	<Designator_context_urgent_succ>{0} objets visibles marqués pour le transport d'urgence.</Designator_context_urgent_succ>
 	<Designator_context_urgent_fail>Aucun objet trouvé pour le transport.</Designator_context_urgent_fail>
-	<Designator_context_strip>Déshabiller tous les ennemies</Designator_context_strip>
+	<Designator_context_strip>Déshabiller tous les ennemis</Designator_context_strip>
 	<Designator_context_strip_succ>{0} corps désignés pour déshabiller.</Designator_context_strip_succ>
 	<Designator_context_strip_fail>Aucun corps trouvé pour être déshabillé.</Designator_context_strip_fail>
 	<Designator_context_harvest>Récolter toutes les plantes</Designator_context_harvest>
@@ -116,16 +116,16 @@
 	<Designator_context_haul>Tout transporter</Designator_context_haul>
 	<Designator_context_haul_succ>{0} objets désignés pour le transport.</Designator_context_haul_succ>
 	<Designator_context_haul_fail>Aucun objet trouvé pour le transport.</Designator_context_haul_fail>
-	<Designator_context_chop>Couper tous les arbes</Designator_context_chop>
-	<Designator_context_chop_home>Couper tous les arbes dans la zone de base</Designator_context_chop_home>
-	<Designator_context_chop_succ>{0} arbes désignés pour l'abattage.</Designator_context_chop_succ>
-	<Designator_context_chop_fail>Aucun arbe trouvé pour l'abattage.</Designator_context_chop_fail>
+	<Designator_context_chop>Couper tous les arbres</Designator_context_chop>
+	<Designator_context_chop_home>Couper tous les arbres dans la zone de base</Designator_context_chop_home>
+	<Designator_context_chop_succ>{0} arbres désignés pour l'abattage.</Designator_context_chop_succ>
+	<Designator_context_chop_fail>Aucun arbre trouvé pour l'abattage.</Designator_context_chop_fail>
 	<Designator_context_hunt>Chasser tous les animaux</Designator_context_hunt>
 	<Designator_context_hunt_succ>{0} animaux sélectionnés pour chasser.</Designator_context_hunt_succ>
 	<Designator_context_hunt_fail>Aucun animal trouvé pour la chasse dans la zone à l'instant.</Designator_context_hunt_fail>
 	<Designator_context_mine>Miner les minerais connectés</Designator_context_mine>
 	<Designator_context_mine_succ>{0} minerais de plus désignés pour le minage.</Designator_context_mine_succ>
-	<Designator_context_mine_fail>Sélectionner une ou plusieurs cases d'un minerai pour pour utiliser cet outil.</Designator_context_mine_fail>
+	<Designator_context_mine_fail>Sélectionner une ou plusieurs cases d'un minerai pour utiliser cet outil.</Designator_context_mine_fail>
 	<Designator_context_mine_selectStripMine>Sélectionner l'outil "Extraire mine"</Designator_context_mine_selectStripMine>
 	<Designator_context_cancel_build>Annuler tous les plans de construction</Designator_context_cancel_build>
 	<Designator_context_cancel_build_succ>{0} plans de construction annulés.</Designator_context_cancel_build_succ>
@@ -135,12 +135,12 @@
 	<Designator_context_cancel_selected>Annuler tous de ce type</Designator_context_cancel_selected>
 	<Designator_context_cancel_selected_succ>{0} ordres sur {1} objets annulés.</Designator_context_cancel_selected_succ>
 	<Designator_context_cancel_selected_fail>Sélectionner un élément avec un ordre pour annuler tous les ordres de ce type.</Designator_context_cancel_selected_fail>
-	<Designator_context_finish>Achever tous les créatures au sol</Designator_context_finish>
+	<Designator_context_finish>Achever toutes les créatures au sol</Designator_context_finish>
 	<Designator_context_finish_succ>{0} créatures vont être achevées.</Designator_context_finish_succ>
 	<Designator_context_finish_allies>{0} créatures vont être achevées, incluant ceux amicaux.</Designator_context_finish_allies>
-	<Designator_context_finish_fail>Aucune créature valide sélectionnée pour l'abattage trouvée.</Designator_context_finish_fail>
+	<Designator_context_finish_fail>Aucune créature valide sélectionnée pour l'abattage n'a été trouvée.</Designator_context_finish_fail>
 	<Designator_context_cut>Couper toutes les plantes affectées par le mildiou</Designator_context_cut>
-	<Designator_context_cut_succ>{0} plantes affectées par le mildiou désignés pour l'abattage.</Designator_context_cut_succ>
+	<Designator_context_cut_succ>{0} plantes affectées par le mildiou désigné pour l'abattage.</Designator_context_cut_succ>
 	<Designator_context_cut_fail>Aucune plante affectée par le mildiou trouvée pour l'abattage.</Designator_context_cut_fail>
 	<Designator_context_harvest_fullgrown>Récolter toutes les plantes complètement matures sur la carte</Designator_context_harvest_fullgrown>
 	<Designator_context_harvest_home_fullgrown>Récolter toutes les plantes complètement matures dans la zone de base</Designator_context_harvest_home_fullgrown>
@@ -154,6 +154,6 @@
 	<Designator_context_forbid_visible_fail>Aucun élément à interdire trouvé.</Designator_context_forbid_visible_fail>
 	
 	<PartyHuntToggle_label>Chasse enrôlée</PartyHuntToggle_label>
-	<PartyHuntToggle_desc>Lorsque activé, tous les colons mobilisés attaqueront les animaux passifs. Clic droit pour changer les paramètres.\nAjouté par le mod Allow Tool.</PartyHuntToggle_desc>
+	<PartyHuntToggle_desc>Lorsqu'activé, tous les colons mobilisés attaqueront les animaux passifs. Clic droit pour changer les paramètres.\nAjouté par le mod Allow Tool.</PartyHuntToggle_desc>
 
 </LanguageData>
