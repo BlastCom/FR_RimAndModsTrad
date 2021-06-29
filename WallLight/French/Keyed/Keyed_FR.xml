@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MURWallLight>Luminaire mural</MURWallLight>
+	<MURWallLight_LightRadName>Rayon de lumière</MURWallLight_LightRadName>
+	<MURWallLight_EnableWallLightName>Activer luminaire mural</MURWallLight_EnableWallLightName>
+	<MURWallLight_EnableWallLightDesc>Lorsqu'activé, les luminaires muraux et leur variation de couleur seront disponible pour la construction.</MURWallLight_EnableWallLightDesc>
+	<MURWallLight_LightRadDesc>La distance à laquelle la lumière émet à partir de la source. Par défaut: 8</MURWallLight_LightRadDesc>
+	<MURWallLight_SteelCostName>Coût en argent</MURWallLight_SteelCostName>
+	<MURWallLight_SteelCostDesc>Combien coûte un seul luminère pour la construction. Par défaut: 5</MURWallLight_SteelCostDesc>
+	<MURWallLight_PowerCostName>Coût en énergie</MURWallLight_PowerCostName>
+	<MURWallLight_PowerCostDesc>Combien d'énergie est consommée par un luminaire. Par défaut: 10</MURWallLight_PowerCostDesc>
+	<MURWallLight_ShowRadiusName>Afficher la zone éclairée</MURWallLight_ShowRadiusName>
+	<MURWallLight_ShowRadiusDesc>Lorsque vous placez un luminaire mural, cela indique la zone qui sera éclairée par le luminaire et la zone de la pièce qui est actuellement considérée comme éclairée (au-dessus de 30 % de lumière).</MURWallLight_ShowRadiusDesc>
+	<MURWallLight_ShowFacingName>Afficher le sens d'orientation</MURWallLight_ShowFacingName>
+	<MURWallLight_ShowFacingDesc>Le nom du luminaire mural indique la direction dans laquelle il est orienté (N, S, E, O).</MURWallLight_ShowFacingDesc>
+	
+	<MURWallLight_ExtraColorsName>Couleurs étendues</MURWallLight_ExtraColorsName>
+	<MURWallLight_ExtraColorsDesc>Active la disponibilité de construction de luminaires aux couleurs étendues par SineSwiper, ajoute les couleurs de luminaire: Jaune, magenta, cyan, rose, violet, azur, vert printemps, chartreuse et orange.</MURWallLight_ExtraColorsDesc>
+
+	<MURWallLight_WarningNeedWall>Doit être placé par-dessus un mur.</MURWallLight_WarningNeedWall>
+	<MURWallLight_WarningBlocked>Doit faire face à une tuile libre de déplacement.</MURWallLight_WarningBlocked>
+	<MURWallLight_WarningBoth>Doit être placé par-dessus un mur et doit faire face à une tuile libre de déplacement.</MURWallLight_WarningBoth>
+	
+	<MURWallLight_AlertReload>Veuillez sauvegarder et recharger le jeu pour que les changements prennent effet.</MURWallLight_AlertReload>
+	<MURWallLight_AlertUpdate>Actualisé à partir de l'ancienne version de "Wall Light". Veuillez laisser un moment aux luminaires pour qu'ils se rallument.</MURWallLight_AlertUpdate>
+	<MURWallLight_AlertRestart>Veuillez redémarrer Rimworld pour que les changements prennent effet.</MURWallLight_AlertRestart>
+	
+	<MURWallLight_DestroyedBlocked>Luminaire détruite à cause des constructions.</MURWallLight_DestroyedBlocked>
+	<MURWallLight_DestroyedWall>Luminaire détruite à cause de la destruction de son mur.</MURWallLight_DestroyedWall>
+	
+	<MURWallLight_TagNorth>N</MURWallLight_TagNorth>
+	<MURWallLight_TagSouth>S</MURWallLight_TagSouth>
+	<MURWallLight_TagWest>O</MURWallLight_TagWest>
+	<MURWallLight_TagEast>E</MURWallLight_TagEast>
+	
+	<MURWallLight_EnableSunName>Activer luminaire UV</MURWallLight_EnableSunName>
+	<MURWallLight_EnableSunDesc>Lorsqu'activé, les luminaires UV seront disponible pour la construction.</MURWallLight_EnableSunDesc>
+	<MURWallLight_SunLightRadName>Rayon de lumière</MURWallLight_SunLightRadName>
+	<MURWallLight_SunLightRadDesc>La zone qui sera considérée comme bien éclairée et permettant aux plantes de se développer. Par défaut: 5</MURWallLight_SunLightRadDesc>
+	<MURWallLight_SunSteelCostName>Coût en argent</MURWallLight_SunSteelCostName>
+	<MURWallLight_SunSteelCostDesc>Combien coûte un seul luminère pour la construction. Par défaut: 10</MURWallLight_SunSteelCostDesc>
+	<MURWallLight_SunPowerCostName>Coût en énergie</MURWallLight_SunPowerCostName>
+	<MURWallLight_SunPowerCostDesc>Combien d'énergie est consommée par un luminaire. Par défaut: 600</MURWallLight_SunPowerCostDesc>
+	<MURWallLight_DisableRestName>Désactiver la période de repos</MURWallLight_DisableRestName>
+	<MURWallLight_DisableRestDesc>Lorsqu'activé, les luminaires UV ne s'éteindra pas pendant la période de repos des plantes.</MURWallLight_DisableRestDesc>
+	<MURWallLight_WhiteModeName>Mode lumière blanche</MURWallLight_WhiteModeName>
+	<MURWallLight_WhiteModeDesc>RRemplace la couleur violette de du luminaire UV par une couleur blanche fade.</MURWallLight_WhiteModeDesc>
+</LanguageData>
