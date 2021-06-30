@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Lighting_MURWallLight.label>Luminaire mural</Lighting_MURWallLight.label>
+	<Lighting_MURWallLight.description>Un appareil d'éclairage conçu pour être monté sur un mur.</Lighting_MURWallLight.description>
+	<Lighting_MURWallSunLight.label>Luminaire mural UV</Lighting_MURWallSunLight.label>
+	<Lighting_MURWallSunLight.description>Un dispositif d'éclairage à ultraviolet pour la production de plantes, conçu pour être monté sur un mur.</Lighting_MURWallSunLight.description>
+	<Lighting_MURWallSunLight.comps.CompSchedule.offMessage>En arrêt pour la période de repos des plantes.</Lighting_MURWallSunLight.comps.CompSchedule.offMessage>
+	<Lighting_MURWallLightRed.label>Luminaire mural (rouge)</Lighting_MURWallLightRed.label>
+	<Lighting_MURWallLightRed.description>Un appareil d'éclairage conçu pour être monté sur un mur. Teinté en rouge.</Lighting_MURWallLightRed.description>
+	<Lighting_MURWallLightGreen.label>Luminaire mural (vert)</Lighting_MURWallLightGreen.label>
+	<Lighting_MURWallLightGreen.description>Un appareil d'éclairage conçu pour être monté sur un mur. Teinté en vert.</Lighting_MURWallLightGreen.description>
+	<Lighting_MURWallLightBlue.label>Luminaire mural (bleu)</Lighting_MURWallLightBlue.label>
+	<Lighting_MURWallLightBlue.description>Un appareil d'éclairage conçu pour être monté sur un mur. Teinté en bleu.</Lighting_MURWallLightBlue.description>
+	<Lighting_MURWallLightYellow.label>Luminaire mural (jaune)</Lighting_MURWallLightYellow.label>
+	<Lighting_MURWallLightYellow.description>Un appareil d'éclairage conçu pour être monté sur un mur. Teinté en jaune.</Lighting_MURWallLightYellow.description>
+	<Lighting_MURWallLightMagenta.label>Luminaire mural (magenta)</Lighting_MURWallLightMagenta.label>
+	<Lighting_MURWallLightMagenta.description>Un appareil d'éclairage conçu pour être monté sur un mur. Teinté en magenta.</Lighting_MURWallLightMagenta.description>
+	<Lighting_MURWallLightCyan.label>Luminaire mural (cyan)</Lighting_MURWallLightCyan.label>
+	<Lighting_MURWallLightCyan.description>Un appareil d'éclairage conçu pour être monté sur un mur. Teinté en cyan.</Lighting_MURWallLightCyan.description>
+	<Lighting_MURWallLightRose.label>Luminaire mural (rose)</Lighting_MURWallLightRose.label>
+	<Lighting_MURWallLightRose.description>Un appareil d'éclairage conçu pour être monté sur un mur. Teinté en rose.</Lighting_MURWallLightRose.description>
+	<Lighting_MURWallLightViolet.label>Luminaire mural (violet)</Lighting_MURWallLightViolet.label>
+	<Lighting_MURWallLightViolet.description>Un appareil d'éclairage conçu pour être monté sur un mur. Teinté en violet.</Lighting_MURWallLightViolet.description>
+	<Lighting_MURWallLightAzure.label>Luminaire mural (azur)</Lighting_MURWallLightAzure.label>
+	<Lighting_MURWallLightAzure.description>Un appareil d'éclairage conçu pour être monté sur un mur. Teinté en azur.</Lighting_MURWallLightAzure.description>
+	<Lighting_MURWallLightSpringGreen.label>Luminaire mural (vert printemps)</Lighting_MURWallLightSpringGreen.label>
+	<Lighting_MURWallLightSpringGreen.description>Un appareil d'éclairage conçu pour être monté sur un mur. Teinté en vert printemps.</Lighting_MURWallLightSpringGreen.description>
+	<Lighting_MURWallLightChartreuse.label>Luminaire mural (chartreuse)</Lighting_MURWallLightChartreuse.label>
+	<Lighting_MURWallLightChartreuse.description>Un appareil d'éclairage conçu pour être monté sur un mur. Teinté en chartreuse (jaune-vert).</Lighting_MURWallLightChartreuse.description>
+	<Lighting_MURWallLightOrange.label>Luminaire mural (orange)</Lighting_MURWallLightOrange.label>
+	<Lighting_MURWallLightOrange.description>Un appareil d'éclairage conçu pour être monté sur un mur. Teinté en orange.</Lighting_MURWallLightOrange.description>
+	<Lighting_MURWallLight_Glower.label>INUTILISÉ</Lighting_MURWallLight_Glower.label>
+	<Lighting_MURWallLight_Glower.description>INUTILISÉ</Lighting_MURWallLight_Glower.description>
+	<Lighting_MURWallSunLight_Glower.label>INUTILISÉ</Lighting_MURWallSunLight_Glower.label>
+	<Lighting_MURWallSunLight_Glower.description>INUTILISÉ</Lighting_MURWallSunLight_Glower.description>
+	<Lighting_MURWallLight_GlowerRed.label>INUTILISÉ</Lighting_MURWallLight_GlowerRed.label>
+	<Lighting_MURWallLight_GlowerRed.description>INUTILISÉ</Lighting_MURWallLight_GlowerRed.description>
+	<Lighting_MURWallLight_GlowerGreen.label>INUTILISÉ</Lighting_MURWallLight_GlowerGreen.label>
+	<Lighting_MURWallLight_GlowerGreen.description>INUTILISÉ</Lighting_MURWallLight_GlowerGreen.description>
+	<Lighting_MURWallLight_GlowerBlue.label>INUTILISÉ</Lighting_MURWallLight_GlowerBlue.label>
+	<Lighting_MURWallLight_GlowerBlue.description>INUTILISÉ</Lighting_MURWallLight_GlowerBlue.description>
+	<Lighting_MURWallLight_GlowerYellow.label>INUTILISÉ</Lighting_MURWallLight_GlowerYellow.label>
+	<Lighting_MURWallLight_GlowerYellow.description>INUTILISÉ</Lighting_MURWallLight_GlowerYellow.description>
+	<Lighting_MURWallLight_GlowerMagenta.label>INUTILISÉ</Lighting_MURWallLight_GlowerMagenta.label>
+	<Lighting_MURWallLight_GlowerMagenta.description>INUTILISÉ</Lighting_MURWallLight_GlowerMagenta.description>
+	<Lighting_MURWallLight_GlowerCyan.label>INUTILISÉ</Lighting_MURWallLight_GlowerCyan.label>
+	<Lighting_MURWallLight_GlowerCyan.description>INUTILISÉ</Lighting_MURWallLight_GlowerCyan.description>
+	<Lighting_MURWallLight_GlowerRose.label>INUTILISÉ</Lighting_MURWallLight_GlowerRose.label>
+	<Lighting_MURWallLight_GlowerRose.description>INUTILISÉ</Lighting_MURWallLight_GlowerRose.description>
+	<Lighting_MURWallLight_GlowerViolet.label>INUTILISÉ</Lighting_MURWallLight_GlowerViolet.label>
+	<Lighting_MURWallLight_GlowerViolet.description>INUTILISÉ</Lighting_MURWallLight_GlowerViolet.description>
+	<Lighting_MURWallLight_GlowerAzure.label>INUTILISÉ</Lighting_MURWallLight_GlowerAzure.label>
+	<Lighting_MURWallLight_GlowerAzure.description>INUTILISÉ</Lighting_MURWallLight_GlowerAzure.description>
+	<Lighting_MURWallLight_GlowerSpringGreen.label>INUTILISÉ</Lighting_MURWallLight_GlowerSpringGreen.label>
+	<Lighting_MURWallLight_GlowerSpringGreen.description>INUTILISÉ</Lighting_MURWallLight_GlowerSpringGreen.description>
+	<Lighting_MURWallLight_GlowerChartreuse.label>INUTILISÉ</Lighting_MURWallLight_GlowerChartreuse.label>
+	<Lighting_MURWallLight_GlowerChartreuse.description>INUTILISÉ</Lighting_MURWallLight_GlowerChartreuse.description>
+	<Lighting_MURWallLight_GlowerOrange.label>INUTILISÉ</Lighting_MURWallLight_GlowerOrange.label>
+	<Lighting_MURWallLight_GlowerOrange.description>INUTILISÉ</Lighting_MURWallLight_GlowerOrange.description>
+
+</LanguageData>
