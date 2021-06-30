@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SetUpCamp>Installer un camp</SetUpCamp>
+	<SetUpCampDesc>Installe un campement, vous permettant de miner, chasser et récolter des ressources, ainsi que de réorganiser votre caravane.</SetUpCampDesc>
+	<SetUpCampFormedCamp>La caravane a réussi à établir un camp.</SetUpCampFormedCamp>
+	<SetUpCampSettingsCategoryLabel>Set Up Camp</SetUpCampSettingsCategoryLabel>
+	<SetUpCampSettingMapSize>Étendue de la taille des cartes (Par défaut: 75 - 125)</SetUpCampSettingMapSize>
+	<SetUpCampSettingsMapTimerDays>Temps maximum jusqu'au départ (Par défaut: 5)</SetUpCampSettingsMapTimerDays>
+	<SetUpCampSettingsMapTimerDaysTooltip>Jours avant que la caravane ne soit obligée de quitter la carte</SetUpCampSettingsMapTimerDaysTooltip>
+	<SetUpCampSettingsTimeout>Délai avant l'abandon du camp (Par défaut: 60)</SetUpCampSettingsTimeout>
+	<SetUpCampSettingsTimeoutTooltip>Jours jusqu'à ce que les camps abandonnés disparaissent et que la tuile puisse être à nouveau utilisée</SetUpCampSettingsTimeoutTooltip>
+	<SetUpCampSettingMinCampSize>Taille minimale des camps</SetUpCampSettingMinCampSize>
+	<SetUpCampSettingMaxCampSize>Taille maximale des camps</SetUpCampSettingMaxCampSize>
+	<SetUpCampSettingsCustomMapGenDef>Permettre les ressources (Par défaut: vrai)</SetUpCampSettingsCustomMapGenDef>
+	<SetUpCampSettingsPermanentCamps>Permettre la création de camps permanents (Par défaut: faux, la désactivation supprimera les camps vides !)</SetUpCampSettingsPermanentCamps>
+	<SetUpCampSettingsHomeEvents>Activer les événements qui occure sur une "carte normale" sur les zones de campement. (Par défaut: faux)</SetUpCampSettingsHomeEvents>
+	<SetUpCampSettingsCaravanEvents>Activer les événements qui occure sur une "carte caravane" sur les zones de campement. (Par défaut: faux)</SetUpCampSettingsCaravanEvents>
+	<SetUpCampDestroyCamp>Abandonner le camp</SetUpCampDestroyCamp>
+	<SetUpCampDestroyCampDesc>Abandonne ce campement définitivement.</SetUpCampDestroyCampDesc>
+	<SetUpCampAbandonDialogue>Êtes-vous sûr de vouloir détruire ce campement de façon permanente et irréversible ?</SetUpCampAbandonDialogue>
+	<SetUpCampAbandoned>Camp abandonné.</SetUpCampAbandoned>
+	<SetUpCampStillInUse>Il y a encore des colons dans votre camp. Vous devez former une caravane avant d'abandonner le camp.</SetUpCampStillInUse>
+	<SetUpCampOccupied>Vous devez attendre avant d'établir un campement au même endroit.</SetUpCampOccupied>
+	<SetUpCamp_GeneratingCamp>Génération du site de campement</SetUpCamp_GeneratingCamp>
+
+</LanguageData>
