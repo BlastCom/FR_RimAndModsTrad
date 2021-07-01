@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ 
+	<EventSpeed>Vitesse d'évènement</EventSpeed>
+	<EventSpeedLabel>Changer la vitesse lors d'un évènement</EventSpeedLabel>
+
+	<Slow>Lent</Slow>
+	<Normal>Normal</Normal>
+	<Fast>Rapide</Fast>
+	<Half>Demi</Half>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SandyMassCarried>Masse portée</SandyMassCarried>
+  <SandyMassValue> {0} / {1} kg</SandyMassValue>
+  <Sandy_ViewList>Montrer la liste</Sandy_ViewList>
+  <Sandy_Head>Couvre-Chef</Sandy_Head>
+  <Sandy_TorsoMiddle>Torse (Milieu)</Sandy_TorsoMiddle>
+  <Sandy_TorsoOnSkin>Torse (Sur la Peau)</Sandy_TorsoOnSkin>
+  <Sandy_TorsoShell>Torse (Veste)</Sandy_TorsoShell>
+  <Sandy_Belt>Ceinture</Sandy_Belt>
+  <Sandy_Pants>Jambe (Sur Peau)</Sandy_Pants>
+
+  <RPG_Inventory_Width>Onglet Équipement - Largeur</RPG_Inventory_Width>
+	<RPG_Inventory_Height>Onglet Équipement - Hauteur</RPG_Inventory_Height>
+	<RPG_Style_Inventory_Title>Inventaire de style RPG</RPG_Style_Inventory_Title>
+	<RPG_Style_Inventory_ArmorHarmony>Défense magique</RPG_Style_Inventory_ArmorHarmony>
+
+</LanguageData>
