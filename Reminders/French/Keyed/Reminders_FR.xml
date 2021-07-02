@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <Reminders.Absolute>Absolu</Reminders.Absolute>
+    <Reminders.Relative>Relatif</Reminders.Relative>
+
+    <Reminders.Of>de</Reminders.Of>
+    <Reminders.At>à</Reminders.At>
+
+    <Reminders.Title>Rappel: {0}</Reminders.Title>
+    <Reminders.Body>Ceci est votre rappel, prévu pour {0}\n\n{1}\n------\n\n{2}{3}</Reminders.Body>
+    <Reminders.RecursIn>\n\nCeci est un rappel périodique. Nouveau rappel dans {0}, sur {1}.</Reminders.RecursIn>
+
+    <Reminders.Main.New>Planifier un nouveau rappel</Reminders.Main.New>
+    <Reminders.Main.NoReminders>Il n'y a pas de rappels en attente.</Reminders.Main.NoReminders>
+
+    <Reminders.ConfirmDelete.Title>Supprimer le rappel ?</Reminders.ConfirmDelete.Title>
+    <Reminders.ConfirmDelete.Body>Êtes-vous certain de vouloir supprimer ce rappel ?\nCette action ne peut être révoquée.</Reminders.ConfirmDelete.Body>
+
+    <Reminders.Reminder.Never>Jamais</Reminders.Reminder.Never>
+    <Reminders.Reminder.NextLoad>Prochaine fois</Reminders.Reminder.NextLoad>
+
+    <Reminders.Reminder.ThreatBig>Menace importante</Reminders.Reminder.ThreatBig>
+    <Reminders.Reminder.ThreatSmall>Menace modérée</Reminders.Reminder.ThreatSmall>
+    <Reminders.Reminder.Negative>Négatif</Reminders.Reminder.Negative>
+    <Reminders.Reminder.Neutral>Neutre</Reminders.Reminder.Neutral>
+    <Reminders.Reminder.Positive>Positif</Reminders.Reminder.Positive>
+
+    <Reminders.EditReminder.Title>Créer/modifier un rappel</Reminders.EditReminder.Title>
+    <Reminders.EditReminder.Urgency>Type d'urgence:</Reminders.EditReminder.Urgency>
+    <Reminders.EditReminder.SelectUrgency>Sélectionnez...</Reminders.EditReminder.SelectUrgency>
+    <Reminders.EditReminder.ReminderTitle>Titre:</Reminders.EditReminder.ReminderTitle>
+    <Reminders.EditReminder.ReminderBody>Description:</Reminders.EditReminder.ReminderBody>
+    <Reminders.EditReminder.ReminderTime>Temps:</Reminders.EditReminder.ReminderTime>
+    <Reminders.EditReminder.FireOn>Se déclanche le:</Reminders.EditReminder.FireOn>
+    <Reminders.EditReminder.FireIn>Se déclanche dans:</Reminders.EditReminder.FireIn>
+    <Reminders.EditReminder.DaysAnd>jours et</Reminders.EditReminder.DaysAnd>
+    <Reminders.EditReminder.Hours>heures</Reminders.EditReminder.Hours>
+    <Reminders.EditReminder.Recur>Périodique?</Reminders.EditReminder.Recur>
+    <Reminders.EditReminder.RecurEvery>Répéter chaque</Reminders.EditReminder.RecurEvery>
+    <Reminders.EditReminder.Discard>Annuler</Reminders.EditReminder.Discard>
+    <Reminders.EditReminder.Save>Sauvegarder</Reminders.EditReminder.Save>
+    <Reminders.EditReminder.ErrorPast>Impossible de planifier un rappel dans le passé</Reminders.EditReminder.ErrorPast>
+    <Reminders.EditReminder.ErorrEmptyTitle>Le rappel doit avoir un titre</Reminders.EditReminder.ErorrEmptyTitle>
+    <Reminders.EditReminder.ErrorInvalidRecur>Période de temps non valide (Au minimum, à toutes les heures.)</Reminders.EditReminder.ErrorInvalidRecur>
+</LanguageData>
