@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SomeFood>Réserves alimentaires</SomeFood>
+  <SomeFoodDesc>La nourriture n'est pas une préoccupation immédiate.\n\n    La valeur totale de la nourriture stockée: {0}\n    Colons/prisonniers se procurant de la nourriture: {1}\n    Nombre de jours de nourriture en réserve: {2}</SomeFoodDesc>
+  <SomeFoodDescNew>La nourriture n'est pas une préoccupation immédiate.\n\n    La valeur totale de la nourriture stockée: {0}\n    Colons/prisonniers se procurant de la nourriture: {1}\n    Quantité de nourriture consommée par jour: {2}\n    Nombre de jours de nourriture en réserve: {3}</SomeFoodDescNew>
+  <LowFoodDesc>La nourriture pose problème.\n\n    La valeur totale de la nourriture stockée: {0}\n    Colons/prisonniers se procurant de la nourriture: {1}\n    Quantité de nourriture consommée par jour: {2}\n    Nombre de jours de nourriture en réserve: {3}</LowFoodDesc>
+  <FoodAlert_DaysOfFood> jours de nourriture</FoodAlert_DaysOfFood>
+  <FoodAlert_Decent>\n\nCela représente une quantité décente de nourriture.</FoodAlert_Decent>
+  <FoodAlert_Poor>\n\nCela représente une faible quantité de nourriture.</FoodAlert_Poor>
+  <FoodAlert_Bunch>\n\nCela représente un grand nombre de nourriture.</FoodAlert_Bunch>
+  <FoodAlert_Solid>\n\nCela représente une solide quantité de nourriture.</FoodAlert_Solid>
+  <FoodAlert_Ridiculous>\n\nCela représente une quantité de nourriture totalement ridicule.</FoodAlert_Ridiculous>
+  <SettingDescription>Préférence alimentaire</SettingDescription>
+  <SettingExplanation>\nExemples\n\nDans un cas désespéré:	oeufs fécondés, ambroisie\nCrus c'est mauvais:		croquettes, oeufs non fécondés\nCrus c'est bien:	lait, baies\nRepas sont affreux:	Pâte nutritive\nRepas facile:	repas simple, pemmican\nRepas bien:		repas raffiné, jellé d'insecte\nRepas très bien:	repas gastronomique</SettingExplanation>
+</LanguageData>

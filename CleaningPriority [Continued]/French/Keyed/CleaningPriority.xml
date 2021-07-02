@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OpenCleaningPriorityDialog>Ouvrir la fenêtre des priorités de nettoyage.\n\nIci, vous pourrez définir les zones que les colons nettoieront en premier, Ici, vous pouvez définir les zones que les colons nettoieront en premier, en dernier ou à tout moment.</OpenCleaningPriorityDialog>
+  <AddAreaAsCleaningArea>Cliquez pour ajouter une zone à nettoyer en priorité.\n\nSi vous ne savez pas quelles zones sont prioritaires, survolez chaque zone de la liste et lisez les infobulles.</AddAreaAsCleaningArea>
+  <AddAreaForPriorityCleaning>Ajouter une zone</AddAreaForPriorityCleaning>
+  <AddAreaForPriorityCleaningTip>Ajoutez une zone de nettoyage pour les colons.</AddAreaForPriorityCleaningTip>
+  <CleaningAreaIsPrioritized>Les colons chargés du nettoyage nettoieront les saletés dans cette zone.\n\n</CleaningAreaIsPrioritized>
+  <OnlyCleaningArea>Seule la saleté dans cette zone sera nettoyée.</OnlyCleaningArea>
+  <CleaningAreaFirst>Les saletés dans cette zone seront nettoyées en premier.</CleaningAreaFirst>
+  <CleaningAreaLast>Les saletés dans cette zone seront nettoyées en dernier.</CleaningAreaLast>
+  <CleaningAreaMiddle>Les saletés dans cette zone seront nettoyées après celles de {0} et avant celles de {1}</CleaningAreaMiddle>
+
+</LanguageData>
