@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+	<ArchitectExpandedFences.label>[AE] Clôtures</ArchitectExpandedFences.label>
+	<ArchitectExpandedFences.configurator.0.thingList.6.label>Brique (courte)</ArchitectExpandedFences.configurator.0.thingList.6.label>
+	<ArchitectExpandedFences.configurator.0.thingList.7.label>Brique (grande)</ArchitectExpandedFences.configurator.0.thingList.7.label>
+	<ArchitectExpandedFences.design.label.0.text>Réinitialiser les paramètres de clôture: </ArchitectExpandedFences.design.label.0.text>
+	<ArchitectExpandedGates.label>[AE] Portail</ArchitectExpandedGates.label>
+	<ArchitectExpandedGates.design.label.0.text>Réinitialiser les paramètres de portail: </ArchitectExpandedGates.design.label.0.text>
+
+</LanguageData>

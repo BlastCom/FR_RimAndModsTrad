@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <Closeboard.label>Clôture en planches</Closeboard.label>
+	<Closeboard.description>Une grande et solide clôture assez grande pour être considérée comme un mur.</Closeboard.description>
+	<CloseboardGate.label>Portail pour clôture en planches</CloseboardGate.label>
+	<CloseboardGate.description>Un grand portail robuste aussi grand que son homologue la clôture.</CloseboardGate.description>
+	<Farm.label>Clôture de ferme</Farm.label>
+	<Farm.description>Une clôture de ferme capable de retenir même le plus rusé des Thrumbos.</Farm.description>
+	<FarmGate.label>Portail pour clôture de ferme</FarmGate.label>
+	<FarmGate.description>Un portail pour clôture de ferme capable de retenir même le plus rusé des Thrumbos.</FarmGate.description>
+	<Solid.label>Clôture solide</Solid.label>
+	<Solid.description>Une clôture faite de planches arrondies, assez haute pour garder les lapins à distance.</Solid.description>
+	<Picket.label>Clôture de piquets</Picket.label>
+	<Picket.description>Une clôture décorative pour exposer le côté plus vert de vos terres.</Picket.description>
+	<RoundGate.label>Portail rond</RoundGate.label>
+	<RoundGate.description>Un petit portail arrondi au sommet.</RoundGate.description>
+	<SquareGate.label>Portail carré</SquareGate.label>
+	<SquareGate.description>Un petit portail carré.</SquareGate.description>
+	<Bar.label>Barrière de sécurité</Bar.label>
+	<Bar.description>Une clôture très restrictive utilisée pour diviser les terres.</Bar.description>
+	<BarGate.label>Portail pour barrière de sécurité</BarGate.label>
+	<BarGate.description>Un portail très restrictif utilisé pour diviser les terres.</BarGate.description>
+	<TallChainLink.label>Clôture en maille forgée</TallChainLink.label>
+	<TallChainLink.description>Une grande clôture en acier grillagé à travers laquelle il est facile de tirer.</TallChainLink.description>
+	<TallChainlinkGate.label>Portail pour clôture en maille</TallChainlinkGate.label>
+	<TallChainlinkGate.description>Un grand portail en acier grillagé à travers lequel il est facile de tirer.</TallChainlinkGate.description>
+	<ShortBrick.label>Clôture en brique (courte)</ShortBrick.label>
+	<ShortBrick.description>Une clôture courte et solide qui s'intègre bien au bord des chemins ou à la clôture de plate-bandes.</ShortBrick.description>
+	<TallBrick.label>Clôture en brique (grande)</TallBrick.label>
+	<TallBrick.description>Une clôture de pierre fortifiée capable de résister aux assauts.</TallBrick.description>
+	<StoneGate.label>Portail de pierre</StoneGate.label>
+	<StoneGate.description>Un portail en pierre fortifié capable de résister aux assauts.</StoneGate.description>
+
+</LanguageData>
