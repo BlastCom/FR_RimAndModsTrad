@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<PERSONALSHIELD_BROKEN>BRISÉ</PERSONALSHIELD_BROKEN>
+	<DM_MISS>Raté</DM_MISS>
+	<EnableIndicatorNeutralFactions>Activer les indicateurs de dégâts pour les factions neutres</EnableIndicatorNeutralFactions>
+	<EnableIndicatorNeutralFactions_Desc>Les indicateurs de dégâts ne s'afficheront pas si l'instigateur ou la cible ne sont pas associés à une faction.</EnableIndicatorNeutralFactions_Desc>
+	<DisplayPawnsOnly>Afficher uniquement les indicateurs de dégâts pour les colons</DisplayPawnsOnly>
+	<DisplayPawnsOnly_Desc>Les indicateurs de dégâts ne s'afficheront pas si la cible n'est pas un colon.</DisplayPawnsOnly_Desc>
+    <DisplayPawnsInstigatorOnly>Afficher uniquement les indicateurs de dégâts pour les dégâts causés par les colons.</DisplayPawnsInstigatorOnly>
+	<DisplayPawnsInstigatorOnly_Desc>Les indicateurs de dégâts ne s'affichent pas si l'instigateur n'est pas un colon. (Décomposition naturelle, incendie...)</DisplayPawnsInstigatorOnly_Desc>
+</LanguageData>

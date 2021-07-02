@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Mote_LevelUp.label>Mote</Mote_LevelUp.label>
+	<Mote_LevelDown.label>Mote</Mote_LevelDown.label>
+	<Mote_LevelUpBeamInner.label>Mote</Mote_LevelUpBeamInner.label>
+	<Mote_LevelUpBeamMiddle.label>Mote</Mote_LevelUpBeamMiddle.label>
+	<Mote_LevelUpBeamOuter.label>Mote</Mote_LevelUpBeamOuter.label>
+	<Mote_LevelDownBeamTop.label>Mote</Mote_LevelDownBeamTop.label>
+	<Mote_LevelDownBeamBottom.label>Mote</Mote_LevelDownBeamBottom.label>
+  
+</LanguageData>

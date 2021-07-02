@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <VanillaTexturesExpanded.SettingsCategory>Vanilla Textures Expanded</VanillaTexturesExpanded.SettingsCategory>
+
+    <VanillaTexturesExpanded.MainButtonRenderMode>Bouton menu du mode de rendu</VanillaTexturesExpanded.MainButtonRenderMode>
+    <VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText>Icônes et texte (nouveau)</VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText>
+    <VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText>Icônes si possible. (vanille)</VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText>
+    <VanillaTexturesExpanded.MainButtonRenderMode_TextOnly>Texte uniquement (classique)</VanillaTexturesExpanded.MainButtonRenderMode_TextOnly>
+
+</LanguageData>
