@@ -156,6 +156,7 @@
 <SidearmPickupFail_RangedSlotsFull>Emplacements à distance pleins</SidearmPickupFail_RangedSlotsFull>
 <SidearmPickupPass>Pas de problème</SidearmPickupPass>
 <SidearmPickupFail_NotAToolForPacifist>Pas un outil. {0} est incapable de violence.</SidearmPickupFail_NotAToolForPacifist>
+<SidearmPickupFail_NotYetBladelinkBonded>Pas encore lié</SidearmPickupFail_NotYetBladelinkBonded>
 
 <AsTool> en outil</AsTool>
 <AsSidearm> en arme secondaire</AsSidearm>
