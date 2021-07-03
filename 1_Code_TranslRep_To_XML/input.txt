@@ -1,2 +1,2 @@
-ThingDef: TimerSwitch.label 'time of day switch'
-ThingDef: TimerSwitch.description 'Switches power on/off based on the time of day.'
+MainButtonDef: Reminders.label 'reminders'
+MainButtonDef: Reminders.description 'Schedule, edit and delete reminders.'
