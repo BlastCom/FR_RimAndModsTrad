@@ -139,7 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dynamicProcess.cpp" />
+    <ClCompile Include="oldProcess.cpp" />
+    <ClCompile Include="sharedElements.cpp" />
     <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dynamicProcess.h" />
+    <ClInclude Include="oldProcces.h" />
+    <ClInclude Include="sharedElements.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

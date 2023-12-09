@@ -1,0 +1,10 @@
+﻿  dynamicProcess.cpp
+  oldProcess.cpp
+S:\Documents\Rimworld_Translations\Mods\1_Code_TranslRep_To_XML\Code\TranslRep_To_XML\oldProcess.cpp(24,6): warning C4101: 'flushVar' : variable locale non référencée
+S:\Documents\Rimworld_Translations\Mods\1_Code_TranslRep_To_XML\Code\TranslRep_To_XML\oldProcess.cpp(300,29): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+S:\Documents\Rimworld_Translations\Mods\1_Code_TranslRep_To_XML\Code\TranslRep_To_XML\oldProcess.cpp(303,23): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+S:\Documents\Rimworld_Translations\Mods\1_Code_TranslRep_To_XML\Code\TranslRep_To_XML\oldProcess.cpp(307,29): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+  sharedElements.cpp
+  Source.cpp
+  Génération de code en cours...
+S:\Documents\Rimworld_Translations\Mods\1_Code_TranslRep_To_XML\Code\TranslRep_To_XML\dynamicProcess.cpp(6): error C4716: 'dynamicProcessMain' : doit retourner une valeur
