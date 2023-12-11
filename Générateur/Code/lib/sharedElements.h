@@ -8,6 +8,7 @@
     {                         \
     }
 
+//Does should be dynamic instead
 #define BUFFER_SIZE 2048
 #define DEFNAME_SIZE 64
 #define BALISENAME_SIZE 256
@@ -15,6 +16,7 @@
 
 #define APOSTROPHE_ASCII 39
 
+//Should have a class for handeling errors
 #define SUCCES 0
 #define ERROR_DEFNAME 1
 #define	ERROR_BALISENAME 2
@@ -27,6 +29,7 @@
 #include <string.h>
 #include <Windows.h>
 
+//This is not a feature release, to be removed
 void toClipboard(const char* s);
 
 #endif // !SHAREDELEMENTS_H

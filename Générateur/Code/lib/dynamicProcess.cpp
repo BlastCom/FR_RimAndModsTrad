@@ -1,28 +1,31 @@
 #include "dynamicProcess.h"
 
+//This doen't seems to do anything
 int dynamicProcessMain(void)
 {
 	FILE* readFile;
 	FILE* writeFile;
 
+	//Open the translation report
 	fopen_s(&readFile, INPUT_FILE_NAME, "r");
 
+	//An error happend, maybe no translation report
 	if (readFile == NULL)
 	{
 		printf("ERROR READ; PROGRAM STOPED\n");
 		return 0;
 	}
 
-	while (!feof(readFile))
+	while (!feof(readFile)) //Loop until end of file
 	{
 		char mainBuffer[BUFFER_SIZE];
 		char section[SIZE_SECTION_NAME];
 		
 		//Gérer la détection de la section
 
-		rewind(readFile);
-		fgets(mainBuffer, BUFFER_SIZE, readFile);
-		strstr(mainBuffer, section);
+		rewind(readFile); //Goes back to start of file
+		fgets(mainBuffer, BUFFER_SIZE, readFile); //Get single string in file
+		strstr(mainBuffer, section); //finds "section" inside of "mainBuffer"
 	}
 
 	return 0;
@@ -38,14 +41,17 @@ int readRepport(FILE* readFile, char* defName, char* baliseName, char* text, int
 	int step_val = 0;
 	int index;
 
+	// Set all elements to 0 -> initializing
 	memset(buffer, 0, sizeof(buffer));
 	memset(defName, 0, sizeof(defName));
 	memset(baliseName, 0, sizeof(baliseName));
 	memset(text, 0, sizeof(text));
 
+	// Get first string in file given
 	fgets(buffer, BUFFER_SIZE, readFile);
 	strBuffer = buffer;
 
+	// Needs review, probably some indent file reading
 	switch (mode)
 	{
 	case 1:				//Missing Keyed
@@ -60,6 +66,7 @@ int readRepport(FILE* readFile, char* defName, char* baliseName, char* text, int
 		break;
 	}
 
+	// Needs review
 	for (i = step_val; i < 2; i++)
 	{
 		index = 0;

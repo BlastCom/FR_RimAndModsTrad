@@ -1,3 +1,14 @@
+/**
+ * @file oldProcces.h
+ * @author Simon Laflamme
+ * @brief  Looks like to be old draft code, some code review is needed
+ * @version 0.1
+ * @date 2021-??-??
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
+
 #ifndef OLDPROCESS_H
 #define OLDPROCESS_H
 
