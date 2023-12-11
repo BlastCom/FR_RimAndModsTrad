@@ -1,2 +1,0 @@
-MainButtonDef: Reminders.label 'reminders'
-MainButtonDef: Reminders.description 'Schedule, edit and delete reminders.'

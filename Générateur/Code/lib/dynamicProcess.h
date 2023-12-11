@@ -1,3 +1,6 @@
+#ifndef DYNAMICPROCESS_H
+#define DYNAMICPROCESS_H
+
 #include "sharedElements.h"
 
 #define INPUT_FILE_NAME "TranslationReport.txt"
@@ -9,3 +12,5 @@
 
 int dynamicProcessMain(void);
 int readRepport(FILE* readFile, char* defName, char* baliseName, char* text, int mode);
+
+#endif
